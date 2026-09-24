@@ -1,0 +1,616 @@
+{
+  "id": "SOP033",
+  "code": "SOP033",
+  "title": "函数模型与增长速度比较",
+  "chapter_id": "chapter-08",
+  "chapter": "必修第一册 第8章 函数应用",
+  "frequency": 4,
+  "keywords": [
+    "函数模型",
+    "增长速度比较"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 1463
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜实际情境涉及一次、二次、指数、对数增长，或比较长期增长快慢。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜实际情境涉及一次、二次、指数、对数增长，或比较长期增长快慢。",
+      "sourceIndex": 1464
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。",
+      "sourceIndex": 1465
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1466
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域 → 哪些x允许放进这个函数",
+      "style": "",
+      "sourceIndex": 1467
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1468
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 1469
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1470
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先识别变量和函数模型。",
+      "style": "",
+      "sourceIndex": 1471
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1472
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1473
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 同一自变量下比较函数值；长期增长牢记指数最终快于多项式，多项式快于对数。",
+      "style": "",
+      "sourceIndex": 1474
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1475
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1476
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 实际题检查单位、定义域和是否需要取整数。",
+      "style": "",
+      "sourceIndex": 1477
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1478
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1479
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1480
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 1481
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 1482
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1483
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1484
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域有没有先写？",
+      "style": "",
+      "sourceIndex": 1485
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把不同区间/分段混在一起？",
+      "style": "",
+      "sourceIndex": 1486
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否漏掉端点、零点或对称点？",
+      "style": "",
+      "sourceIndex": 1487
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1488
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+      "style": "",
+      "sourceIndex": 1489
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+      "style": "",
+      "sourceIndex": 1490
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜长期看2^x与x²谁增长更快？"
+        ],
+        [
+          "先怎么想｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。"
+        ],
+        [
+          "核心过程 / 答案｜指数函数2^x最终增长更快。"
+        ]
+      ],
+      "text": "典型例题｜长期看2^x与x²谁增长更快？\n先怎么想｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。\n核心过程 / 答案｜指数函数2^x最终增长更快。",
+      "sourceIndex": 1491
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜“最终更快”不等于对所有小x都更大。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜“最终更快”不等于对所有小x都更大。",
+      "sourceIndex": 1492
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1493
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。"
+        ]
+      ],
+      "text": "📌 30秒速记｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。",
+      "sourceIndex": 1494
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1495
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 长期比较lnx与x。",
+      "style": "",
+      "sourceIndex": 1496
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 长期比较x³与2^x。",
+      "style": "",
+      "sourceIndex": 1497
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 人口每年按固定比例增长常用什么模型？",
+      "style": "",
+      "sourceIndex": 1498
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 固定速度匀速增长常用什么模型？",
+      "style": "",
+      "sourceIndex": 1499
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 建模最后为什么要检查定义域？",
+      "style": "",
+      "sourceIndex": 1500
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.x更快；2.2^x更快；3.指数模型；4.一次函数；5.实际量可能有非负/整数等限制",
+      "style": "TinyNote",
+      "sourceIndex": 1501
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1502
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜实际情境涉及一次、二次、指数、对数增长，或比较长期增长快慢。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜实际情境涉及一次、二次、指数、对数增长，或比较长期增长快慢。",
+          "sourceIndex": 1464
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。",
+          "sourceIndex": 1465
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1466
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域 → 哪些x允许放进这个函数",
+          "style": "",
+          "sourceIndex": 1467
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1468
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 1469
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1470
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先识别变量和函数模型。",
+          "style": "",
+          "sourceIndex": 1471
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1472
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1473
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 同一自变量下比较函数值；长期增长牢记指数最终快于多项式，多项式快于对数。",
+          "style": "",
+          "sourceIndex": 1474
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1475
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1476
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 实际题检查单位、定义域和是否需要取整数。",
+          "style": "",
+          "sourceIndex": 1477
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1478
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1479
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1480
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 1481
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 1482
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1483
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1484
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域有没有先写？",
+          "style": "",
+          "sourceIndex": 1485
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把不同区间/分段混在一起？",
+          "style": "",
+          "sourceIndex": 1486
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否漏掉端点、零点或对称点？",
+          "style": "",
+          "sourceIndex": 1487
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1488
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+          "style": "",
+          "sourceIndex": 1489
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+          "style": "",
+          "sourceIndex": 1490
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜长期看2^x与x²谁增长更快？"
+            ],
+            [
+              "先怎么想｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。"
+            ],
+            [
+              "核心过程 / 答案｜指数函数2^x最终增长更快。"
+            ]
+          ],
+          "text": "典型例题｜长期看2^x与x²谁增长更快？\n先怎么想｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。\n核心过程 / 答案｜指数函数2^x最终增长更快。",
+          "sourceIndex": 1491
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜“最终更快”不等于对所有小x都更大。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜“最终更快”不等于对所有小x都更大。",
+          "sourceIndex": 1492
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1493
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。"
+            ]
+          ],
+          "text": "📌 30秒速记｜应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。",
+          "sourceIndex": 1494
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1495
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 长期比较lnx与x。",
+          "style": "",
+          "sourceIndex": 1496
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 长期比较x³与2^x。",
+          "style": "",
+          "sourceIndex": 1497
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 人口每年按固定比例增长常用什么模型？",
+          "style": "",
+          "sourceIndex": 1498
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 固定速度匀速增长常用什么模型？",
+          "style": "",
+          "sourceIndex": 1499
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 建模最后为什么要检查定义域？",
+          "style": "",
+          "sourceIndex": 1500
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.x更快；2.2^x更快；3.指数模型；4.一次函数；5.实际量可能有非负/整数等限制",
+          "style": "TinyNote",
+          "sourceIndex": 1501
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1502
+        }
+      ]
+    }
+  ],
+  "sort_order": 32,
+  "brain_first": "应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。"
+}

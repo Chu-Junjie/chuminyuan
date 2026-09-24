@@ -1,0 +1,587 @@
+{
+  "id": "SOP069",
+  "code": "SOP069",
+  "title": "圆的标准方程、一般方程与配方",
+  "chapter_id": "chapter-17",
+  "chapter": "选择性必修第一册 第2章 圆与方程",
+  "frequency": 5,
+  "keywords": [
+    "圆的标准方程",
+    "一般方程",
+    "配方"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 2937
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜给圆方程求圆心半径，或由圆心/半径写方程。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜给圆方程求圆心半径，或由圆心/半径写方程。",
+      "sourceIndex": 2938
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。",
+      "sourceIndex": 2939
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2940
+    },
+    {
+      "type": "paragraph",
+      "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+      "style": "",
+      "sourceIndex": 2941
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2942
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 标准式(x-a)²+(y-b)²=r²直接读圆心(a,b)、半径r。",
+      "style": "",
+      "sourceIndex": 2943
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 2944
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 2945
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 一般式x²+y²+Dx+Ey+F=0用配方。",
+      "style": "",
+      "sourceIndex": 2946
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：配方是把二次式从“展开的一堆项”变成“平方+常数”，顶点、最小值、圆心半径会直接露出来。",
+      "style": "",
+      "sourceIndex": 2947
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把x²+bx写成(x+b/2)²-(b/2)²；y部分同理。配完后先读几何/最值信息，再继续。",
+      "style": "",
+      "sourceIndex": 2948
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 检查r²>0才能表示非退化圆。",
+      "style": "",
+      "sourceIndex": 2949
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 2950
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 2951
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2952
+    },
+    {
+      "type": "paragraph",
+      "text": "• 判断直线与圆位置：优先圆心到直线距离，不必先联立。",
+      "style": "",
+      "sourceIndex": 2953
+    },
+    {
+      "type": "paragraph",
+      "text": "• 弦长：优先用“半弦²+d²=r²”，不必求交点。",
+      "style": "",
+      "sourceIndex": 2954
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2955
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2956
+    },
+    {
+      "type": "paragraph",
+      "text": "• 有没有先认标准方程/方向？",
+      "style": "",
+      "sourceIndex": 2957
+    },
+    {
+      "type": "paragraph",
+      "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+      "style": "",
+      "sourceIndex": 2958
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算结果能否用图形常识检查正负和范围？",
+      "style": "",
+      "sourceIndex": 2959
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2960
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2961
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2962
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜x²+y²-4x+6y-3=0求圆心。"
+        ],
+        [
+          "先怎么想｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。"
+        ],
+        [
+          "核心过程 / 答案｜配方得(x-2)²+(y+3)²=16，圆心(2,-3)。"
+        ]
+      ],
+      "text": "典型例题｜x²+y²-4x+6y-3=0求圆心。\n先怎么想｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。\n核心过程 / 答案｜配方得(x-2)²+(y+3)²=16，圆心(2,-3)。",
+      "sourceIndex": 2963
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜配方常把符号读反：x²-4x对应中心x坐标2。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜配方常把符号读反：x²-4x对应中心x坐标2。",
+      "sourceIndex": 2964
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2965
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。"
+        ]
+      ],
+      "text": "📌 30秒速记｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。",
+      "sourceIndex": 2966
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2967
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 圆心(1,-2),r=3方程。",
+      "style": "",
+      "sourceIndex": 2968
+    },
+    {
+      "type": "paragraph",
+      "text": "2. x²+y²=4半径。",
+      "style": "",
+      "sourceIndex": 2969
+    },
+    {
+      "type": "paragraph",
+      "text": "3. (x+1)²+(y-2)²=5圆心。",
+      "style": "",
+      "sourceIndex": 2970
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 一般圆方程x²,y²系数关系。",
+      "style": "",
+      "sourceIndex": 2971
+    },
+    {
+      "type": "paragraph",
+      "text": "5. r²=0表示什么？",
+      "style": "",
+      "sourceIndex": 2972
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.(x-1)²+(y+2)²=9；2.2；3.(-1,2)；4.相同且无xy项；5.退化为一点",
+      "style": "TinyNote",
+      "sourceIndex": 2973
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2974
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜给圆方程求圆心半径，或由圆心/半径写方程。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜给圆方程求圆心半径，或由圆心/半径写方程。",
+          "sourceIndex": 2938
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。",
+          "sourceIndex": 2939
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2940
+        },
+        {
+          "type": "paragraph",
+          "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+          "style": "",
+          "sourceIndex": 2941
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2942
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 标准式(x-a)²+(y-b)²=r²直接读圆心(a,b)、半径r。",
+          "style": "",
+          "sourceIndex": 2943
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 2944
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 2945
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 一般式x²+y²+Dx+Ey+F=0用配方。",
+          "style": "",
+          "sourceIndex": 2946
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：配方是把二次式从“展开的一堆项”变成“平方+常数”，顶点、最小值、圆心半径会直接露出来。",
+          "style": "",
+          "sourceIndex": 2947
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把x²+bx写成(x+b/2)²-(b/2)²；y部分同理。配完后先读几何/最值信息，再继续。",
+          "style": "",
+          "sourceIndex": 2948
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 检查r²>0才能表示非退化圆。",
+          "style": "",
+          "sourceIndex": 2949
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 2950
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 2951
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2952
+        },
+        {
+          "type": "paragraph",
+          "text": "• 判断直线与圆位置：优先圆心到直线距离，不必先联立。",
+          "style": "",
+          "sourceIndex": 2953
+        },
+        {
+          "type": "paragraph",
+          "text": "• 弦长：优先用“半弦²+d²=r²”，不必求交点。",
+          "style": "",
+          "sourceIndex": 2954
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2955
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2956
+        },
+        {
+          "type": "paragraph",
+          "text": "• 有没有先认标准方程/方向？",
+          "style": "",
+          "sourceIndex": 2957
+        },
+        {
+          "type": "paragraph",
+          "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+          "style": "",
+          "sourceIndex": 2958
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算结果能否用图形常识检查正负和范围？",
+          "style": "",
+          "sourceIndex": 2959
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2960
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2961
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2962
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜x²+y²-4x+6y-3=0求圆心。"
+            ],
+            [
+              "先怎么想｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。"
+            ],
+            [
+              "核心过程 / 答案｜配方得(x-2)²+(y+3)²=16，圆心(2,-3)。"
+            ]
+          ],
+          "text": "典型例题｜x²+y²-4x+6y-3=0求圆心。\n先怎么想｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。\n核心过程 / 答案｜配方得(x-2)²+(y+3)²=16，圆心(2,-3)。",
+          "sourceIndex": 2963
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜配方常把符号读反：x²-4x对应中心x坐标2。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜配方常把符号读反：x²-4x对应中心x坐标2。",
+          "sourceIndex": 2964
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2965
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。"
+            ]
+          ],
+          "text": "📌 30秒速记｜圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。",
+          "sourceIndex": 2966
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2967
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 圆心(1,-2),r=3方程。",
+          "style": "",
+          "sourceIndex": 2968
+        },
+        {
+          "type": "paragraph",
+          "text": "2. x²+y²=4半径。",
+          "style": "",
+          "sourceIndex": 2969
+        },
+        {
+          "type": "paragraph",
+          "text": "3. (x+1)²+(y-2)²=5圆心。",
+          "style": "",
+          "sourceIndex": 2970
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 一般圆方程x²,y²系数关系。",
+          "style": "",
+          "sourceIndex": 2971
+        },
+        {
+          "type": "paragraph",
+          "text": "5. r²=0表示什么？",
+          "style": "",
+          "sourceIndex": 2972
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.(x-1)²+(y+2)²=9；2.2；3.(-1,2)；4.相同且无xy项；5.退化为一点",
+          "style": "TinyNote",
+          "sourceIndex": 2973
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2974
+        }
+      ]
+    }
+  ],
+  "sort_order": 68,
+  "brain_first": "圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。"
+}

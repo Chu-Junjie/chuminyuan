@@ -1,0 +1,598 @@
+{
+  "id": "SOP085",
+  "code": "SOP085",
+  "title": "导数的几何意义与切线",
+  "chapter_id": "chapter-20",
+  "chapter": "选择性必修第一册 第5章 导数及其应用",
+  "frequency": 5,
+  "keywords": [
+    "导数的几何意义",
+    "切线"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 3583
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜“在x=x0处切线”“过某点作切线”“切线斜率”。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜“在x=x0处切线”“过某点作切线”“切线斜率”。",
+      "sourceIndex": 3584
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。",
+      "sourceIndex": 3585
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3586
+    },
+    {
+      "type": "paragraph",
+      "text": "导数把“函数走势”变成“斜率正负”。所以先求导、再看符号，是最稳定的主线；不需要一开始就研究原函数长什么样。",
+      "style": "",
+      "sourceIndex": 3587
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3588
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先求切点纵坐标y0=f(x0)。",
+      "style": "",
+      "sourceIndex": 3589
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：切线需要两个信息：经过哪个点、斜率是多少。函数值给点，导数值给斜率，所以顺序非常固定。",
+      "style": "",
+      "sourceIndex": 3590
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写P(x0,f(x0))；再写k=f′(x0)；最后y-f(x0)=f′(x0)(x-x0)。",
+      "style": "",
+      "sourceIndex": 3591
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 求导并算斜率k=f′(x0)。",
+      "style": "",
+      "sourceIndex": 3592
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：求导时最稳的是先把函数拆成小块。每一块用熟悉公式，再按加减乘除组合，不要整式凭感觉一次写完。",
+      "style": "",
+      "sourceIndex": 3593
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在原函数下面逐项写导数；复合项先标“外层/内层”，最后别忘乘内层导数。",
+      "style": "",
+      "sourceIndex": 3594
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 用点斜式y-y0=k(x-x0)；“过外点切线”则设切点t，利用切点在曲线上且外点在切线上。",
+      "style": "",
+      "sourceIndex": 3595
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：一点和一个方向就能唯一确定非竖直直线，所以点斜式是最直接的落笔方式。",
+      "style": "",
+      "sourceIndex": 3596
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先算k，再写y-y0=k(x-x0)；若题目要一般式，最后再移项，不要一开始就硬套Ax+By+C。",
+      "style": "",
+      "sourceIndex": 3597
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3598
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单调性：只看f′符号，不用先算大量函数值。",
+      "style": "",
+      "sourceIndex": 3599
+    },
+    {
+      "type": "paragraph",
+      "text": "• 闭区间最值：极值点+两个端点一起比较。",
+      "style": "",
+      "sourceIndex": 3600
+    },
+    {
+      "type": "paragraph",
+      "text": "• 出现复杂双参数且题目明显压轴化时，本宝典范围只做到标准基础步骤，及时止损。",
+      "style": "",
+      "sourceIndex": 3601
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3602
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3603
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域是否先考虑？",
+      "style": "",
+      "sourceIndex": 3604
+    },
+    {
+      "type": "paragraph",
+      "text": "• 临界点是否真的在定义域/区间内？",
+      "style": "",
+      "sourceIndex": 3605
+    },
+    {
+      "type": "paragraph",
+      "text": "• 闭区间最值是否比较了端点？",
+      "style": "",
+      "sourceIndex": 3606
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3607
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果求导后不会继续：先把f′(x)=0解出来，再画最简单的“+ / -”符号表。",
+      "style": "",
+      "sourceIndex": 3608
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果参数讨论一下子分很多类：先做到基础部分，复杂双参数通常已进入高难区。",
+      "style": "",
+      "sourceIndex": 3609
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜y=x²在x=1处切线。"
+        ],
+        [
+          "先怎么想｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。"
+        ],
+        [
+          "核心过程 / 答案｜点(1,1)，k=2，切线y-1=2(x-1)，即y=2x-1。"
+        ]
+      ],
+      "text": "典型例题｜y=x²在x=1处切线。\n先怎么想｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。\n核心过程 / 答案｜点(1,1)，k=2，切线y-1=2(x-1)，即y=2x-1。",
+      "sourceIndex": 3610
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜“在点处切线”和“过某点的切线”不同；后者切点通常未知。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜“在点处切线”和“过某点的切线”不同；后者切点通常未知。",
+      "sourceIndex": 3611
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3612
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。"
+        ]
+      ],
+      "text": "📌 30秒速记｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。",
+      "sourceIndex": 3613
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3614
+    },
+    {
+      "type": "paragraph",
+      "text": "1. y=x³在x=1斜率。",
+      "style": "",
+      "sourceIndex": 3615
+    },
+    {
+      "type": "paragraph",
+      "text": "2. y=e^x在x=0切线斜率。",
+      "style": "",
+      "sourceIndex": 3616
+    },
+    {
+      "type": "paragraph",
+      "text": "3. y=lnx在x=1切线。",
+      "style": "",
+      "sourceIndex": 3617
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 切线斜率来自什么？",
+      "style": "",
+      "sourceIndex": 3618
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 切线方程最常用形式。",
+      "style": "",
+      "sourceIndex": 3619
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.3；2.1；3.y=x-1；4.f′(x0)；5.点斜式",
+      "style": "TinyNote",
+      "sourceIndex": 3620
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3621
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜“在x=x0处切线”“过某点作切线”“切线斜率”。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜“在x=x0处切线”“过某点作切线”“切线斜率”。",
+          "sourceIndex": 3584
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。",
+          "sourceIndex": 3585
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3586
+        },
+        {
+          "type": "paragraph",
+          "text": "导数把“函数走势”变成“斜率正负”。所以先求导、再看符号，是最稳定的主线；不需要一开始就研究原函数长什么样。",
+          "style": "",
+          "sourceIndex": 3587
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3588
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先求切点纵坐标y0=f(x0)。",
+          "style": "",
+          "sourceIndex": 3589
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：切线需要两个信息：经过哪个点、斜率是多少。函数值给点，导数值给斜率，所以顺序非常固定。",
+          "style": "",
+          "sourceIndex": 3590
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写P(x0,f(x0))；再写k=f′(x0)；最后y-f(x0)=f′(x0)(x-x0)。",
+          "style": "",
+          "sourceIndex": 3591
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 求导并算斜率k=f′(x0)。",
+          "style": "",
+          "sourceIndex": 3592
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：求导时最稳的是先把函数拆成小块。每一块用熟悉公式，再按加减乘除组合，不要整式凭感觉一次写完。",
+          "style": "",
+          "sourceIndex": 3593
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在原函数下面逐项写导数；复合项先标“外层/内层”，最后别忘乘内层导数。",
+          "style": "",
+          "sourceIndex": 3594
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 用点斜式y-y0=k(x-x0)；“过外点切线”则设切点t，利用切点在曲线上且外点在切线上。",
+          "style": "",
+          "sourceIndex": 3595
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：一点和一个方向就能唯一确定非竖直直线，所以点斜式是最直接的落笔方式。",
+          "style": "",
+          "sourceIndex": 3596
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先算k，再写y-y0=k(x-x0)；若题目要一般式，最后再移项，不要一开始就硬套Ax+By+C。",
+          "style": "",
+          "sourceIndex": 3597
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3598
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单调性：只看f′符号，不用先算大量函数值。",
+          "style": "",
+          "sourceIndex": 3599
+        },
+        {
+          "type": "paragraph",
+          "text": "• 闭区间最值：极值点+两个端点一起比较。",
+          "style": "",
+          "sourceIndex": 3600
+        },
+        {
+          "type": "paragraph",
+          "text": "• 出现复杂双参数且题目明显压轴化时，本宝典范围只做到标准基础步骤，及时止损。",
+          "style": "",
+          "sourceIndex": 3601
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3602
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3603
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域是否先考虑？",
+          "style": "",
+          "sourceIndex": 3604
+        },
+        {
+          "type": "paragraph",
+          "text": "• 临界点是否真的在定义域/区间内？",
+          "style": "",
+          "sourceIndex": 3605
+        },
+        {
+          "type": "paragraph",
+          "text": "• 闭区间最值是否比较了端点？",
+          "style": "",
+          "sourceIndex": 3606
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3607
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果求导后不会继续：先把f′(x)=0解出来，再画最简单的“+ / -”符号表。",
+          "style": "",
+          "sourceIndex": 3608
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果参数讨论一下子分很多类：先做到基础部分，复杂双参数通常已进入高难区。",
+          "style": "",
+          "sourceIndex": 3609
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜y=x²在x=1处切线。"
+            ],
+            [
+              "先怎么想｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。"
+            ],
+            [
+              "核心过程 / 答案｜点(1,1)，k=2，切线y-1=2(x-1)，即y=2x-1。"
+            ]
+          ],
+          "text": "典型例题｜y=x²在x=1处切线。\n先怎么想｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。\n核心过程 / 答案｜点(1,1)，k=2，切线y-1=2(x-1)，即y=2x-1。",
+          "sourceIndex": 3610
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜“在点处切线”和“过某点的切线”不同；后者切点通常未知。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜“在点处切线”和“过某点的切线”不同；后者切点通常未知。",
+          "sourceIndex": 3611
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3612
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。"
+            ]
+          ],
+          "text": "📌 30秒速记｜切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。",
+          "sourceIndex": 3613
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3614
+        },
+        {
+          "type": "paragraph",
+          "text": "1. y=x³在x=1斜率。",
+          "style": "",
+          "sourceIndex": 3615
+        },
+        {
+          "type": "paragraph",
+          "text": "2. y=e^x在x=0切线斜率。",
+          "style": "",
+          "sourceIndex": 3616
+        },
+        {
+          "type": "paragraph",
+          "text": "3. y=lnx在x=1切线。",
+          "style": "",
+          "sourceIndex": 3617
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 切线斜率来自什么？",
+          "style": "",
+          "sourceIndex": 3618
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 切线方程最常用形式。",
+          "style": "",
+          "sourceIndex": 3619
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.3；2.1；3.y=x-1；4.f′(x0)；5.点斜式",
+          "style": "TinyNote",
+          "sourceIndex": 3620
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3621
+        }
+      ]
+    }
+  ],
+  "sort_order": 84,
+  "brain_first": "切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。"
+}

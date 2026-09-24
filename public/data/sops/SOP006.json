@@ -1,0 +1,586 @@
+{
+  "id": "SOP006",
+  "code": "SOP006",
+  "title": "命题真假与反例",
+  "chapter_id": "chapter-02",
+  "chapter": "必修第一册 第2章 常用逻辑用语",
+  "frequency": 3,
+  "keywords": [
+    "命题真假",
+    "反例"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★☆☆  正常范围",
+      "style": "",
+      "sourceIndex": 347
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜给若干数学陈述，问真假、充分性或“下列正确的是”。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜给若干数学陈述，问真假、充分性或“下列正确的是”。",
+      "sourceIndex": 348
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。",
+      "sourceIndex": 349
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 350
+    },
+    {
+      "type": "paragraph",
+      "text": "这一类题本质是在处理“范围”和“逻辑关系”。先把文字改成集合、区间或箭头，比直接靠中文语感稳定得多。",
+      "style": "",
+      "sourceIndex": 351
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 352
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先判断命题适用范围和隐藏条件。",
+      "style": "",
+      "sourceIndex": 353
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+      "style": "",
+      "sourceIndex": 354
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+      "style": "",
+      "sourceIndex": 355
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 若是“所有/任意”，优先尝试0、1、-1、边界值找反例。",
+      "style": "",
+      "sourceIndex": 356
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：全称命题只要出现一个合法反例就彻底失败，所以先试特殊值往往比从头证明快得多。",
+      "style": "",
+      "sourceIndex": 357
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先试0、1、-1、边界值；每次都确认这个值满足题设前提，再看结论是否被打破。",
+      "style": "",
+      "sourceIndex": 358
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 若找不到反例，再按定义或公式证明。",
+      "style": "",
+      "sourceIndex": 359
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：全称命题只要出现一个合法反例就彻底失败，所以先试特殊值往往比从头证明快得多。",
+      "style": "",
+      "sourceIndex": 360
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先试0、1、-1、边界值；每次都确认这个值满足题设前提，再看结论是否被打破。",
+      "style": "",
+      "sourceIndex": 361
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 362
+    },
+    {
+      "type": "paragraph",
+      "text": "• 全称命题要证明很难时，先找反例；找到一个就判假。",
+      "style": "",
+      "sourceIndex": 363
+    },
+    {
+      "type": "paragraph",
+      "text": "• 存在命题要判真，只要找到一个合法例子；要判假则必须说明所有情况都不可能。",
+      "style": "",
+      "sourceIndex": 364
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 365
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 366
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 367
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 368
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 369
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 370
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 371
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 372
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜判断“若a>b，则a²>b²”真假。"
+        ],
+        [
+          "先怎么想｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。"
+        ],
+        [
+          "核心过程 / 答案｜取a=1,b=-2，有1>-2但1<4，所以命题假。"
+        ]
+      ],
+      "text": "典型例题｜判断“若a>b，则a²>b²”真假。\n先怎么想｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。\n核心过程 / 答案｜取a=1,b=-2，有1>-2但1<4，所以命题假。",
+      "sourceIndex": 373
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜反例必须同时满足题设条件，不能拿不合法值反驳。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜反例必须同时满足题设条件，不能拿不合法值反驳。",
+      "sourceIndex": 374
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 375
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。"
+        ]
+      ],
+      "text": "📌 30秒速记｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。",
+      "sourceIndex": 376
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 377
+    },
+    {
+      "type": "paragraph",
+      "text": "1. “若ab=0，则a=0或b=0”真假。",
+      "style": "",
+      "sourceIndex": 378
+    },
+    {
+      "type": "paragraph",
+      "text": "2. “若a²=b²，则a=b”真假。",
+      "style": "",
+      "sourceIndex": 379
+    },
+    {
+      "type": "paragraph",
+      "text": "3. “奇函数必过原点”在函数0处有定义时真假。",
+      "style": "",
+      "sourceIndex": 380
+    },
+    {
+      "type": "paragraph",
+      "text": "4. “两条直线斜率乘积为-1则垂直”需要什么前提？",
+      "style": "",
+      "sourceIndex": 381
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 判断全称命题优先试哪类值？",
+      "style": "",
+      "sourceIndex": 382
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.真；2.假；3.真；4.两直线斜率均存在；5.特殊值/边界值",
+      "style": "TinyNote",
+      "sourceIndex": 383
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 384
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜给若干数学陈述，问真假、充分性或“下列正确的是”。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜给若干数学陈述，问真假、充分性或“下列正确的是”。",
+          "sourceIndex": 348
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。",
+          "sourceIndex": 349
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 350
+        },
+        {
+          "type": "paragraph",
+          "text": "这一类题本质是在处理“范围”和“逻辑关系”。先把文字改成集合、区间或箭头，比直接靠中文语感稳定得多。",
+          "style": "",
+          "sourceIndex": 351
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 352
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先判断命题适用范围和隐藏条件。",
+          "style": "",
+          "sourceIndex": 353
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+          "style": "",
+          "sourceIndex": 354
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+          "style": "",
+          "sourceIndex": 355
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 若是“所有/任意”，优先尝试0、1、-1、边界值找反例。",
+          "style": "",
+          "sourceIndex": 356
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：全称命题只要出现一个合法反例就彻底失败，所以先试特殊值往往比从头证明快得多。",
+          "style": "",
+          "sourceIndex": 357
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先试0、1、-1、边界值；每次都确认这个值满足题设前提，再看结论是否被打破。",
+          "style": "",
+          "sourceIndex": 358
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 若找不到反例，再按定义或公式证明。",
+          "style": "",
+          "sourceIndex": 359
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：全称命题只要出现一个合法反例就彻底失败，所以先试特殊值往往比从头证明快得多。",
+          "style": "",
+          "sourceIndex": 360
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先试0、1、-1、边界值；每次都确认这个值满足题设前提，再看结论是否被打破。",
+          "style": "",
+          "sourceIndex": 361
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 362
+        },
+        {
+          "type": "paragraph",
+          "text": "• 全称命题要证明很难时，先找反例；找到一个就判假。",
+          "style": "",
+          "sourceIndex": 363
+        },
+        {
+          "type": "paragraph",
+          "text": "• 存在命题要判真，只要找到一个合法例子；要判假则必须说明所有情况都不可能。",
+          "style": "",
+          "sourceIndex": 364
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 365
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 366
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 367
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 368
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 369
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 370
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 371
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 372
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜判断“若a>b，则a²>b²”真假。"
+            ],
+            [
+              "先怎么想｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。"
+            ],
+            [
+              "核心过程 / 答案｜取a=1,b=-2，有1>-2但1<4，所以命题假。"
+            ]
+          ],
+          "text": "典型例题｜判断“若a>b，则a²>b²”真假。\n先怎么想｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。\n核心过程 / 答案｜取a=1,b=-2，有1>-2但1<4，所以命题假。",
+          "sourceIndex": 373
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜反例必须同时满足题设条件，不能拿不合法值反驳。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜反例必须同时满足题设条件，不能拿不合法值反驳。",
+          "sourceIndex": 374
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 375
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。"
+            ]
+          ],
+          "text": "📌 30秒速记｜遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。",
+          "sourceIndex": 376
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 377
+        },
+        {
+          "type": "paragraph",
+          "text": "1. “若ab=0，则a=0或b=0”真假。",
+          "style": "",
+          "sourceIndex": 378
+        },
+        {
+          "type": "paragraph",
+          "text": "2. “若a²=b²，则a=b”真假。",
+          "style": "",
+          "sourceIndex": 379
+        },
+        {
+          "type": "paragraph",
+          "text": "3. “奇函数必过原点”在函数0处有定义时真假。",
+          "style": "",
+          "sourceIndex": 380
+        },
+        {
+          "type": "paragraph",
+          "text": "4. “两条直线斜率乘积为-1则垂直”需要什么前提？",
+          "style": "",
+          "sourceIndex": 381
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 判断全称命题优先试哪类值？",
+          "style": "",
+          "sourceIndex": 382
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.真；2.假；3.真；4.两直线斜率均存在；5.特殊值/边界值",
+          "style": "TinyNote",
+          "sourceIndex": 383
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 384
+        }
+      ]
+    }
+  ],
+  "sort_order": 5,
+  "brain_first": "遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。"
+}

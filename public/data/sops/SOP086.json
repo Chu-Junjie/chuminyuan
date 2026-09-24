@@ -1,0 +1,639 @@
+{
+  "id": "SOP086",
+  "code": "SOP086",
+  "title": "导数判断单调性",
+  "chapter_id": "chapter-20",
+  "chapter": "选择性必修第一册 第5章 导数及其应用",
+  "frequency": 5,
+  "keywords": [
+    "导数判断单调性"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 3623
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问函数增减区间、参数使函数单调。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问函数增减区间、参数使函数单调。",
+      "sourceIndex": 3624
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。",
+      "sourceIndex": 3625
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 3626
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域 → 哪些x允许放进这个函数",
+      "style": "",
+      "sourceIndex": 3627
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单调 → x增大时函数值总体是变大还是变小",
+      "style": "",
+      "sourceIndex": 3628
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3629
+    },
+    {
+      "type": "paragraph",
+      "text": "导数把“函数走势”变成“斜率正负”。所以先求导、再看符号，是最稳定的主线；不需要一开始就研究原函数长什么样。",
+      "style": "",
+      "sourceIndex": 3630
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3631
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 写定义域。",
+      "style": "",
+      "sourceIndex": 3632
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：导数题的主线始终是“定义域→求导→临界点→符号”。只要不跳这条主线，大多数基础中档题都能继续。",
+      "style": "",
+      "sourceIndex": 3633
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先写定义域和f′；把f′=0的点按从小到大排在数轴上，再判断每段正负。",
+      "style": "",
+      "sourceIndex": 3634
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 求f′(x)，解f′(x)=0和无定义点，划分区间。",
+      "style": "",
+      "sourceIndex": 3635
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：导数题的主线始终是“定义域→求导→临界点→符号”。只要不跳这条主线，大多数基础中档题都能继续。",
+      "style": "",
+      "sourceIndex": 3636
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先写定义域和f′；把f′=0的点按从小到大排在数轴上，再判断每段正负。",
+      "style": "",
+      "sourceIndex": 3637
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 做符号表：f′>0增，f′<0减。",
+      "style": "",
+      "sourceIndex": 3638
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：导数的正负就是函数往上还是往下的方向灯。把零点分隔开的每个区间测一次符号即可。",
+      "style": "",
+      "sourceIndex": 3639
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在一条横线上标f′=0和无定义点；每段取一个简单测试值，填+或-，再在下一行写“增/减”。",
+      "style": "",
+      "sourceIndex": 3640
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3641
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单调性：只看f′符号，不用先算大量函数值。",
+      "style": "",
+      "sourceIndex": 3642
+    },
+    {
+      "type": "paragraph",
+      "text": "• 闭区间最值：极值点+两个端点一起比较。",
+      "style": "",
+      "sourceIndex": 3643
+    },
+    {
+      "type": "paragraph",
+      "text": "• 出现复杂双参数且题目明显压轴化时，本宝典范围只做到标准基础步骤，及时止损。",
+      "style": "",
+      "sourceIndex": 3644
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3645
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3646
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域是否先考虑？",
+      "style": "",
+      "sourceIndex": 3647
+    },
+    {
+      "type": "paragraph",
+      "text": "• 临界点是否真的在定义域/区间内？",
+      "style": "",
+      "sourceIndex": 3648
+    },
+    {
+      "type": "paragraph",
+      "text": "• 闭区间最值是否比较了端点？",
+      "style": "",
+      "sourceIndex": 3649
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3650
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果求导后不会继续：先把f′(x)=0解出来，再画最简单的“+ / -”符号表。",
+      "style": "",
+      "sourceIndex": 3651
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果参数讨论一下子分很多类：先做到基础部分，复杂双参数通常已进入高难区。",
+      "style": "",
+      "sourceIndex": 3652
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜f=x²，求单调区间。"
+        ],
+        [
+          "先怎么想｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。"
+        ],
+        [
+          "核心过程 / 答案｜f′=2x；(-∞,0)减，(0,∞)增。"
+        ]
+      ],
+      "text": "典型例题｜f=x²，求单调区间。\n先怎么想｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。\n核心过程 / 答案｜f′=2x；(-∞,0)减，(0,∞)增。",
+      "sourceIndex": 3653
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜临界点只是分界，不代表一定是极值点；要看导数符号是否变号。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜临界点只是分界，不代表一定是极值点；要看导数符号是否变号。",
+      "sourceIndex": 3654
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3655
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。"
+        ]
+      ],
+      "text": "📌 30秒速记｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。",
+      "sourceIndex": 3656
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3657
+    },
+    {
+      "type": "paragraph",
+      "text": "1. f=x³，单调性。",
+      "style": "",
+      "sourceIndex": 3658
+    },
+    {
+      "type": "paragraph",
+      "text": "2. f=-x²，x>0单调性。",
+      "style": "",
+      "sourceIndex": 3659
+    },
+    {
+      "type": "paragraph",
+      "text": "3. f′>0的区间函数怎样？",
+      "style": "",
+      "sourceIndex": 3660
+    },
+    {
+      "type": "paragraph",
+      "text": "4. f′<0的区间函数怎样？",
+      "style": "",
+      "sourceIndex": 3661
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 单调题第一步是否要写定义域？",
+      "style": "",
+      "sourceIndex": 3662
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.R上递增；2.递减；3.递增；4.递减；5.要",
+      "style": "TinyNote",
+      "sourceIndex": 3663
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3664
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问函数增减区间、参数使函数单调。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问函数增减区间、参数使函数单调。",
+          "sourceIndex": 3624
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。",
+          "sourceIndex": 3625
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 3626
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域 → 哪些x允许放进这个函数",
+          "style": "",
+          "sourceIndex": 3627
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单调 → x增大时函数值总体是变大还是变小",
+          "style": "",
+          "sourceIndex": 3628
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3629
+        },
+        {
+          "type": "paragraph",
+          "text": "导数把“函数走势”变成“斜率正负”。所以先求导、再看符号，是最稳定的主线；不需要一开始就研究原函数长什么样。",
+          "style": "",
+          "sourceIndex": 3630
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3631
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 写定义域。",
+          "style": "",
+          "sourceIndex": 3632
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：导数题的主线始终是“定义域→求导→临界点→符号”。只要不跳这条主线，大多数基础中档题都能继续。",
+          "style": "",
+          "sourceIndex": 3633
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先写定义域和f′；把f′=0的点按从小到大排在数轴上，再判断每段正负。",
+          "style": "",
+          "sourceIndex": 3634
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 求f′(x)，解f′(x)=0和无定义点，划分区间。",
+          "style": "",
+          "sourceIndex": 3635
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：导数题的主线始终是“定义域→求导→临界点→符号”。只要不跳这条主线，大多数基础中档题都能继续。",
+          "style": "",
+          "sourceIndex": 3636
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先写定义域和f′；把f′=0的点按从小到大排在数轴上，再判断每段正负。",
+          "style": "",
+          "sourceIndex": 3637
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 做符号表：f′>0增，f′<0减。",
+          "style": "",
+          "sourceIndex": 3638
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：导数的正负就是函数往上还是往下的方向灯。把零点分隔开的每个区间测一次符号即可。",
+          "style": "",
+          "sourceIndex": 3639
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在一条横线上标f′=0和无定义点；每段取一个简单测试值，填+或-，再在下一行写“增/减”。",
+          "style": "",
+          "sourceIndex": 3640
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3641
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单调性：只看f′符号，不用先算大量函数值。",
+          "style": "",
+          "sourceIndex": 3642
+        },
+        {
+          "type": "paragraph",
+          "text": "• 闭区间最值：极值点+两个端点一起比较。",
+          "style": "",
+          "sourceIndex": 3643
+        },
+        {
+          "type": "paragraph",
+          "text": "• 出现复杂双参数且题目明显压轴化时，本宝典范围只做到标准基础步骤，及时止损。",
+          "style": "",
+          "sourceIndex": 3644
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3645
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3646
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域是否先考虑？",
+          "style": "",
+          "sourceIndex": 3647
+        },
+        {
+          "type": "paragraph",
+          "text": "• 临界点是否真的在定义域/区间内？",
+          "style": "",
+          "sourceIndex": 3648
+        },
+        {
+          "type": "paragraph",
+          "text": "• 闭区间最值是否比较了端点？",
+          "style": "",
+          "sourceIndex": 3649
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3650
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果求导后不会继续：先把f′(x)=0解出来，再画最简单的“+ / -”符号表。",
+          "style": "",
+          "sourceIndex": 3651
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果参数讨论一下子分很多类：先做到基础部分，复杂双参数通常已进入高难区。",
+          "style": "",
+          "sourceIndex": 3652
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜f=x²，求单调区间。"
+            ],
+            [
+              "先怎么想｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。"
+            ],
+            [
+              "核心过程 / 答案｜f′=2x；(-∞,0)减，(0,∞)增。"
+            ]
+          ],
+          "text": "典型例题｜f=x²，求单调区间。\n先怎么想｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。\n核心过程 / 答案｜f′=2x；(-∞,0)减，(0,∞)增。",
+          "sourceIndex": 3653
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜临界点只是分界，不代表一定是极值点；要看导数符号是否变号。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜临界点只是分界，不代表一定是极值点；要看导数符号是否变号。",
+          "sourceIndex": 3654
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3655
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。"
+            ]
+          ],
+          "text": "📌 30秒速记｜单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。",
+          "sourceIndex": 3656
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3657
+        },
+        {
+          "type": "paragraph",
+          "text": "1. f=x³，单调性。",
+          "style": "",
+          "sourceIndex": 3658
+        },
+        {
+          "type": "paragraph",
+          "text": "2. f=-x²，x>0单调性。",
+          "style": "",
+          "sourceIndex": 3659
+        },
+        {
+          "type": "paragraph",
+          "text": "3. f′>0的区间函数怎样？",
+          "style": "",
+          "sourceIndex": 3660
+        },
+        {
+          "type": "paragraph",
+          "text": "4. f′<0的区间函数怎样？",
+          "style": "",
+          "sourceIndex": 3661
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 单调题第一步是否要写定义域？",
+          "style": "",
+          "sourceIndex": 3662
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.R上递增；2.递减；3.递增；4.递减；5.要",
+          "style": "TinyNote",
+          "sourceIndex": 3663
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3664
+        }
+      ]
+    }
+  ],
+  "sort_order": 85,
+  "brain_first": "单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。"
+}

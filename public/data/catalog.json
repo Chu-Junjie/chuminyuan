@@ -1,0 +1,1429 @@
+[
+  {
+    "id": "SOP001",
+    "code": "SOP001",
+    "title": "集合的交、并、补与区间",
+    "chapter_id": "chapter-01",
+    "chapter": "必修第一册 第1章 集合",
+    "frequency": 5,
+    "keywords": [
+      "集合的交",
+      "并",
+      "补",
+      "区间"
+    ],
+    "sort_order": 0,
+    "brain_first": "交集就是“两边都要”，并集就是“至少一边要”，补集就是“全集里把它删掉”。先把每个集合算清楚，再做集合运算。"
+  },
+  {
+    "id": "SOP002",
+    "code": "SOP002",
+    "title": "子集、集合相等与参数",
+    "chapter_id": "chapter-01",
+    "chapter": "必修第一册 第1章 集合",
+    "frequency": 4,
+    "keywords": [
+      "子集",
+      "集合相等",
+      "参数"
+    ],
+    "sort_order": 1,
+    "brain_first": "看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。"
+  },
+  {
+    "id": "SOP003",
+    "code": "SOP003",
+    "title": "集合表示、元素性质与去重",
+    "chapter_id": "chapter-01",
+    "chapter": "必修第一册 第1章 集合",
+    "frequency": 3,
+    "keywords": [
+      "集合表示",
+      "元素性质",
+      "去重"
+    ],
+    "sort_order": 2,
+    "brain_first": "先把集合里的“重复、范围、条件”整理干净。集合不看顺序，重复元素只算一次。"
+  },
+  {
+    "id": "SOP004",
+    "code": "SOP004",
+    "title": "充分条件、必要条件与充要条件",
+    "chapter_id": "chapter-02",
+    "chapter": "必修第一册 第2章 常用逻辑用语",
+    "frequency": 4,
+    "keywords": [
+      "充分条件",
+      "必要条件",
+      "充要条件"
+    ],
+    "sort_order": 3,
+    "brain_first": "别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。"
+  },
+  {
+    "id": "SOP005",
+    "code": "SOP005",
+    "title": "全称量词、存在量词及命题否定",
+    "chapter_id": "chapter-02",
+    "chapter": "必修第一册 第2章 常用逻辑用语",
+    "frequency": 3,
+    "keywords": [
+      "全称量词",
+      "存在量词及命题否定"
+    ],
+    "sort_order": 4,
+    "brain_first": "看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。"
+  },
+  {
+    "id": "SOP006",
+    "code": "SOP006",
+    "title": "命题真假与反例",
+    "chapter_id": "chapter-02",
+    "chapter": "必修第一册 第2章 常用逻辑用语",
+    "frequency": 3,
+    "keywords": [
+      "命题真假",
+      "反例"
+    ],
+    "sort_order": 5,
+    "brain_first": "遇到“对所有都成立”先别证明，先用0、1、-1、边界值试着把它推翻；一个反例就够。"
+  },
+  {
+    "id": "SOP007",
+    "code": "SOP007",
+    "title": "一元二次方程与一元二次不等式",
+    "chapter_id": "chapter-03",
+    "chapter": "必修第一册 第3章 不等式",
+    "frequency": 5,
+    "keywords": [
+      "一元二次方程",
+      "一元二次不等式"
+    ],
+    "sort_order": 6,
+    "brain_first": "二次不等式先找“抛物线和x轴在哪里碰”：找根、看开口，再决定取根之间还是根外面。"
+  },
+  {
+    "id": "SOP008",
+    "code": "SOP008",
+    "title": "基本不等式求最值",
+    "chapter_id": "chapter-03",
+    "chapter": "必修第一册 第3章 不等式",
+    "frequency": 5,
+    "keywords": [
+      "基本不等式求最值"
+    ],
+    "sort_order": 7,
+    "brain_first": "基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？"
+  },
+  {
+    "id": "SOP009",
+    "code": "SOP009",
+    "title": "分式与因式型不等式",
+    "chapter_id": "chapter-03",
+    "chapter": "必修第一册 第3章 不等式",
+    "frequency": 4,
+    "keywords": [
+      "分式",
+      "因式型不等式"
+    ],
+    "sort_order": 8,
+    "brain_first": "分式不等式不要直接把分母乘过去。先把“会变号的位置”全找出来，再在数轴上分区间看正负。"
+  },
+  {
+    "id": "SOP010",
+    "code": "SOP010",
+    "title": "不等式性质与比较大小",
+    "chapter_id": "chapter-03",
+    "chapter": "必修第一册 第3章 不等式",
+    "frequency": 3,
+    "keywords": [
+      "不等式性质",
+      "比较大小"
+    ],
+    "sort_order": 9,
+    "brain_first": "比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。"
+  },
+  {
+    "id": "SOP011",
+    "code": "SOP011",
+    "title": "指数幂运算",
+    "chapter_id": "chapter-04",
+    "chapter": "必修第一册 第4章 指数与对数",
+    "frequency": 3,
+    "keywords": [
+      "指数幂运算"
+    ],
+    "sort_order": 10,
+    "brain_first": "指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。"
+  },
+  {
+    "id": "SOP012",
+    "code": "SOP012",
+    "title": "对数运算与换底",
+    "chapter_id": "chapter-04",
+    "chapter": "必修第一册 第4章 指数与对数",
+    "frequency": 4,
+    "keywords": [
+      "对数运算",
+      "换底"
+    ],
+    "sort_order": 11,
+    "brain_first": "对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。"
+  },
+  {
+    "id": "SOP013",
+    "code": "SOP013",
+    "title": "指数、对数方程基础",
+    "chapter_id": "chapter-04",
+    "chapter": "必修第一册 第4章 指数与对数",
+    "frequency": 3,
+    "keywords": [
+      "指数",
+      "对数方程基础"
+    ],
+    "sort_order": 12,
+    "brain_first": "指数方程先想办法“变成同一个底数”；对数方程先写定义域，再把对数拿掉。"
+  },
+  {
+    "id": "SOP014",
+    "code": "SOP014",
+    "title": "函数定义域",
+    "chapter_id": "chapter-05",
+    "chapter": "必修第一册 第5章 函数概念与性质",
+    "frequency": 5,
+    "keywords": [
+      "函数定义域"
+    ],
+    "sort_order": 13,
+    "brain_first": "定义域不是“求函数”，而是找“哪些x绝对不允许出现”：分母不能0、偶次根号里不能负、对数里面必须正。"
+  },
+  {
+    "id": "SOP015",
+    "code": "SOP015",
+    "title": "函数单调性与单调区间",
+    "chapter_id": "chapter-05",
+    "chapter": "必修第一册 第5章 函数概念与性质",
+    "frequency": 5,
+    "keywords": [
+      "函数单调性",
+      "单调区间"
+    ],
+    "sort_order": 14,
+    "brain_first": "单调性就是“x往右走时，y总体往上还是往下”。比较函数值前，先确认两个x在同一个单调区间。"
+  },
+  {
+    "id": "SOP016",
+    "code": "SOP016",
+    "title": "函数奇偶性",
+    "chapter_id": "chapter-05",
+    "chapter": "必修第一册 第5章 函数概念与性质",
+    "frequency": 5,
+    "keywords": [
+      "函数奇偶性"
+    ],
+    "sort_order": 15,
+    "brain_first": "奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。"
+  },
+  {
+    "id": "SOP017",
+    "code": "SOP017",
+    "title": "分段函数求值与方程",
+    "chapter_id": "chapter-05",
+    "chapter": "必修第一册 第5章 函数概念与性质",
+    "frequency": 4,
+    "keywords": [
+      "分段函数求值",
+      "方程"
+    ],
+    "sort_order": 16,
+    "brain_first": "分段函数像“不同路段用不同收费规则”。先看x落在哪一段，只能用那一段；解方程后还要检查是否真的落在那段。"
+  },
+  {
+    "id": "SOP018",
+    "code": "SOP018",
+    "title": "函数值域与基础最值",
+    "chapter_id": "chapter-05",
+    "chapter": "必修第一册 第5章 函数概念与性质",
+    "frequency": 4,
+    "keywords": [
+      "函数值域",
+      "基础最值"
+    ],
+    "sort_order": 17,
+    "brain_first": "求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。"
+  },
+  {
+    "id": "SOP019",
+    "code": "SOP019",
+    "title": "函数图像平移、翻折与绝对值",
+    "chapter_id": "chapter-05",
+    "chapter": "必修第一册 第5章 函数概念与性质",
+    "frequency": 4,
+    "keywords": [
+      "函数图像平移",
+      "翻折",
+      "绝对值"
+    ],
+    "sort_order": 18,
+    "brain_first": "图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。"
+  },
+  {
+    "id": "SOP020",
+    "code": "SOP020",
+    "title": "周期性、对称性与“搬回已知区间”",
+    "chapter_id": "chapter-05",
+    "chapter": "必修第一册 第5章 函数概念与性质",
+    "frequency": 4,
+    "keywords": [
+      "周期性",
+      "对称性",
+      "“搬回已知区间”"
+    ],
+    "sort_order": 19,
+    "brain_first": "周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。"
+  },
+  {
+    "id": "SOP021",
+    "code": "SOP021",
+    "title": "指数函数、对数函数比较大小",
+    "chapter_id": "chapter-06",
+    "chapter": "必修第一册 第6章 幂函数、指数函数和对数函数",
+    "frequency": 5,
+    "keywords": [
+      "指数函数",
+      "对数函数比较大小"
+    ],
+    "sort_order": 20,
+    "brain_first": "指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。"
+  },
+  {
+    "id": "SOP022",
+    "code": "SOP022",
+    "title": "指数、对数函数图像与性质",
+    "chapter_id": "chapter-06",
+    "chapter": "必修第一册 第6章 幂函数、指数函数和对数函数",
+    "frequency": 5,
+    "keywords": [
+      "指数",
+      "对数函数图像",
+      "性质"
+    ],
+    "sort_order": 21,
+    "brain_first": "指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。"
+  },
+  {
+    "id": "SOP023",
+    "code": "SOP023",
+    "title": "幂函数性质",
+    "chapter_id": "chapter-06",
+    "chapter": "必修第一册 第6章 幂函数、指数函数和对数函数",
+    "frequency": 3,
+    "keywords": [
+      "幂函数性质"
+    ],
+    "sort_order": 22,
+    "brain_first": "幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。"
+  },
+  {
+    "id": "SOP024",
+    "code": "SOP024",
+    "title": "反函数与指对互化基础",
+    "chapter_id": "chapter-06",
+    "chapter": "必修第一册 第6章 幂函数、指数函数和对数函数",
+    "frequency": 3,
+    "keywords": [
+      "反函数",
+      "指对互化基础"
+    ],
+    "sort_order": 23,
+    "brain_first": "指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。"
+  },
+  {
+    "id": "SOP025",
+    "code": "SOP025",
+    "title": "任意角、弧度制与特殊角",
+    "chapter_id": "chapter-07",
+    "chapter": "必修第一册 第7章 三角函数",
+    "frequency": 4,
+    "keywords": [
+      "任意角",
+      "弧度制",
+      "特殊角"
+    ],
+    "sort_order": 24,
+    "brain_first": "角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。"
+  },
+  {
+    "id": "SOP026",
+    "code": "SOP026",
+    "title": "同角三角关系与象限符号",
+    "chapter_id": "chapter-07",
+    "chapter": "必修第一册 第7章 三角函数",
+    "frequency": 5,
+    "keywords": [
+      "同角三角关系",
+      "象限符号"
+    ],
+    "sort_order": 25,
+    "brain_first": "已知sin/cos一个求另一个：先用“平方和=1”，开根号时再用象限决定正负。"
+  },
+  {
+    "id": "SOP027",
+    "code": "SOP027",
+    "title": "诱导公式快速化角",
+    "chapter_id": "chapter-07",
+    "chapter": "必修第一册 第7章 三角函数",
+    "frequency": 5,
+    "keywords": [
+      "诱导公式快速化角"
+    ],
+    "sort_order": 26,
+    "brain_first": "诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。"
+  },
+  {
+    "id": "SOP028",
+    "code": "SOP028",
+    "title": "y=A sin(ωx+φ)的振幅、周期与参数",
+    "chapter_id": "chapter-07",
+    "chapter": "必修第一册 第7章 三角函数",
+    "frequency": 5,
+    "keywords": [
+      "y=A sin(ωx+φ)的振幅",
+      "周期",
+      "参数"
+    ],
+    "sort_order": 27,
+    "brain_first": "看到A·sin(ωx+φ)+k，直接拆四件事：A管上下幅度，ω管周期，φ管左右，k管上下整体移动。"
+  },
+  {
+    "id": "SOP029",
+    "code": "SOP029",
+    "title": "三角函数单调、零点与最值",
+    "chapter_id": "chapter-07",
+    "chapter": "必修第一册 第7章 三角函数",
+    "frequency": 5,
+    "keywords": [
+      "三角函数单调",
+      "零点",
+      "最值"
+    ],
+    "sort_order": 28,
+    "brain_first": "三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。"
+  },
+  {
+    "id": "SOP030",
+    "code": "SOP030",
+    "title": "三角函数图像平移与对称",
+    "chapter_id": "chapter-07",
+    "chapter": "必修第一册 第7章 三角函数",
+    "frequency": 4,
+    "keywords": [
+      "三角函数图像平移",
+      "对称"
+    ],
+    "sort_order": 29,
+    "brain_first": "三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。"
+  },
+  {
+    "id": "SOP031",
+    "code": "SOP031",
+    "title": "简单三角方程与区间求角",
+    "chapter_id": "chapter-07",
+    "chapter": "必修第一册 第7章 三角函数",
+    "frequency": 4,
+    "keywords": [
+      "简单三角方程",
+      "区间求角"
+    ],
+    "sort_order": 30,
+    "brain_first": "三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。"
+  },
+  {
+    "id": "SOP032",
+    "code": "SOP032",
+    "title": "函数零点、方程根与图像交点",
+    "chapter_id": "chapter-08",
+    "chapter": "必修第一册 第8章 函数应用",
+    "frequency": 4,
+    "keywords": [
+      "函数零点",
+      "方程根",
+      "图像交点"
+    ],
+    "sort_order": 31,
+    "brain_first": "“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。"
+  },
+  {
+    "id": "SOP033",
+    "code": "SOP033",
+    "title": "函数模型与增长速度比较",
+    "chapter_id": "chapter-08",
+    "chapter": "必修第一册 第8章 函数应用",
+    "frequency": 4,
+    "keywords": [
+      "函数模型",
+      "增长速度比较"
+    ],
+    "sort_order": 32,
+    "brain_first": "应用函数模型时先看增长“像直线、像平方、像翻倍还是像对数慢慢长”，再代数据。"
+  },
+  {
+    "id": "SOP034",
+    "code": "SOP034",
+    "title": "二分法与陌生情境建模识别",
+    "chapter_id": "chapter-08",
+    "chapter": "必修第一册 第8章 函数应用",
+    "frequency": 2,
+    "keywords": [
+      "二分法",
+      "陌生情境建模识别"
+    ],
+    "sort_order": 33,
+    "brain_first": "二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。"
+  },
+  {
+    "id": "SOP035",
+    "code": "SOP035",
+    "title": "向量坐标与线性运算",
+    "chapter_id": "chapter-09",
+    "chapter": "必修第二册 第9章 平面向量",
+    "frequency": 5,
+    "keywords": [
+      "向量坐标",
+      "线性运算"
+    ],
+    "sort_order": 34,
+    "brain_first": "向量坐标运算就是“横坐标跟横坐标算，纵坐标跟纵坐标算”。先把点变成向量，再按坐标做。"
+  },
+  {
+    "id": "SOP036",
+    "code": "SOP036",
+    "title": "数量积、垂直与夹角",
+    "chapter_id": "chapter-09",
+    "chapter": "必修第二册 第9章 平面向量",
+    "frequency": 5,
+    "keywords": [
+      "数量积",
+      "垂直",
+      "夹角"
+    ],
+    "sort_order": 35,
+    "brain_first": "看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。"
+  },
+  {
+    "id": "SOP037",
+    "code": "SOP037",
+    "title": "向量共线、平行与参数",
+    "chapter_id": "chapter-09",
+    "chapter": "必修第二册 第9章 平面向量",
+    "frequency": 5,
+    "keywords": [
+      "向量共线",
+      "平行",
+      "参数"
+    ],
+    "sort_order": 36,
+    "brain_first": "向量平行/共线，本质是“一个能不能放大缩小成另一个”；坐标里就是对应分量成比例。"
+  },
+  {
+    "id": "SOP038",
+    "code": "SOP038",
+    "title": "平面向量基本定理与基底表示",
+    "chapter_id": "chapter-09",
+    "chapter": "必修第二册 第9章 平面向量",
+    "frequency": 4,
+    "keywords": [
+      "平面向量基本定理",
+      "基底表示"
+    ],
+    "sort_order": 37,
+    "brain_first": "平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。"
+  },
+  {
+    "id": "SOP039",
+    "code": "SOP039",
+    "title": "向量在几何中的应用与投影",
+    "chapter_id": "chapter-09",
+    "chapter": "必修第二册 第9章 平面向量",
+    "frequency": 4,
+    "keywords": [
+      "向量在几何中的应用",
+      "投影"
+    ],
+    "sort_order": 38,
+    "brain_first": "几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。"
+  },
+  {
+    "id": "SOP040",
+    "code": "SOP040",
+    "title": "两角和与差公式",
+    "chapter_id": "chapter-10",
+    "chapter": "必修第二册 第10章 三角恒等变换",
+    "frequency": 5,
+    "keywords": [
+      "两角和",
+      "差公式"
+    ],
+    "sort_order": 39,
+    "brain_first": "两角和差公式别硬背全部展开方向，先判断题里是“α+β还是α-β”，再把sin/cos配对。"
+  },
+  {
+    "id": "SOP041",
+    "code": "SOP041",
+    "title": "二倍角公式",
+    "chapter_id": "chapter-10",
+    "chapter": "必修第二册 第10章 三角恒等变换",
+    "frequency": 5,
+    "keywords": [
+      "二倍角公式"
+    ],
+    "sort_order": 40,
+    "brain_first": "看到2x先想二倍角：sin2x把两个sin/cos乘起来，cos2x有三种写法，选最适合题里已有量的那一种。"
+  },
+  {
+    "id": "SOP042",
+    "code": "SOP042",
+    "title": "辅助角：a sinx+b cosx",
+    "chapter_id": "chapter-10",
+    "chapter": "必修第二册 第10章 三角恒等变换",
+    "frequency": 5,
+    "keywords": [
+      "辅助角",
+      "a sinx+b cosx"
+    ],
+    "sort_order": 41,
+    "brain_first": "看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。"
+  },
+  {
+    "id": "SOP043",
+    "code": "SOP043",
+    "title": "三角恒等化简与齐次式",
+    "chapter_id": "chapter-10",
+    "chapter": "必修第二册 第10章 三角恒等变换",
+    "frequency": 4,
+    "keywords": [
+      "三角恒等化简",
+      "齐次式"
+    ],
+    "sort_order": 42,
+    "brain_first": "三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。"
+  },
+  {
+    "id": "SOP044",
+    "code": "SOP044",
+    "title": "余弦定理",
+    "chapter_id": "chapter-11",
+    "chapter": "必修第二册 第11章 解三角形",
+    "frequency": 5,
+    "keywords": [
+      "余弦定理"
+    ],
+    "sort_order": 43,
+    "brain_first": "三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。"
+  },
+  {
+    "id": "SOP045",
+    "code": "SOP045",
+    "title": "正弦定理",
+    "chapter_id": "chapter-11",
+    "chapter": "必修第二册 第11章 解三角形",
+    "frequency": 5,
+    "keywords": [
+      "正弦定理"
+    ],
+    "sort_order": 44,
+    "brain_first": "正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。"
+  },
+  {
+    "id": "SOP046",
+    "code": "SOP046",
+    "title": "三角形面积与边角综合",
+    "chapter_id": "chapter-11",
+    "chapter": "必修第二册 第11章 解三角形",
+    "frequency": 5,
+    "keywords": [
+      "三角形面积",
+      "边角综合"
+    ],
+    "sort_order": 45,
+    "brain_first": "面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。"
+  },
+  {
+    "id": "SOP047",
+    "code": "SOP047",
+    "title": "解三角形实际测量情境",
+    "chapter_id": "chapter-11",
+    "chapter": "必修第二册 第11章 解三角形",
+    "frequency": 4,
+    "keywords": [
+      "解三角形实际测量情境"
+    ],
+    "sort_order": 46,
+    "brain_first": "实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。"
+  },
+  {
+    "id": "SOP048",
+    "code": "SOP048",
+    "title": "复数四则运算与i的周期",
+    "chapter_id": "chapter-12",
+    "chapter": "必修第二册 第12章 复数",
+    "frequency": 5,
+    "keywords": [
+      "复数四则运算",
+      "i的周期"
+    ],
+    "sort_order": 47,
+    "brain_first": "i的幂不要一项一项算，指数除以4看余数；复数除法看到分母有i就乘共轭把i消掉。"
+  },
+  {
+    "id": "SOP049",
+    "code": "SOP049",
+    "title": "实部、虚部、共轭与模",
+    "chapter_id": "chapter-12",
+    "chapter": "必修第二册 第12章 复数",
+    "frequency": 5,
+    "keywords": [
+      "实部",
+      "虚部",
+      "共轭",
+      "模"
+    ],
+    "sort_order": 48,
+    "brain_first": "复数a+bi里，实部就是a、虚部就是b，不是bi；模就是平面上点(a,b)到原点的距离。"
+  },
+  {
+    "id": "SOP050",
+    "code": "SOP050",
+    "title": "复平面与复数几何意义",
+    "chapter_id": "chapter-12",
+    "chapter": "必修第二册 第12章 复数",
+    "frequency": 3,
+    "keywords": [
+      "复平面",
+      "复数几何意义"
+    ],
+    "sort_order": 49,
+    "brain_first": "复数可以看成平面上的点(a,b)。加法像平移，模像距离，共轭就是关于实轴翻过去。"
+  },
+  {
+    "id": "SOP051",
+    "code": "SOP051",
+    "title": "线面平行与面面平行证明",
+    "chapter_id": "chapter-13",
+    "chapter": "必修第二册 第13章 立体几何初步",
+    "frequency": 5,
+    "keywords": [
+      "线面平行",
+      "面面平行证明"
+    ],
+    "sort_order": 50,
+    "brain_first": "证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。"
+  },
+  {
+    "id": "SOP052",
+    "code": "SOP052",
+    "title": "线面垂直与面面垂直证明",
+    "chapter_id": "chapter-13",
+    "chapter": "必修第二册 第13章 立体几何初步",
+    "frequency": 5,
+    "keywords": [
+      "线面垂直",
+      "面面垂直证明"
+    ],
+    "sort_order": 51,
+    "brain_first": "证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。"
+  },
+  {
+    "id": "SOP053",
+    "code": "SOP053",
+    "title": "柱、锥、台、球的表面积与体积",
+    "chapter_id": "chapter-13",
+    "chapter": "必修第二册 第13章 立体几何初步",
+    "frequency": 5,
+    "keywords": [
+      "柱",
+      "锥",
+      "台",
+      "球的表面积",
+      "体积"
+    ],
+    "sort_order": 52,
+    "brain_first": "体积统一成“底面积×高”，锥体再乘1/3；表面积就是把所有外露的面摊开算。"
+  },
+  {
+    "id": "SOP054",
+    "code": "SOP054",
+    "title": "空间角、异面直线与位置关系基础",
+    "chapter_id": "chapter-13",
+    "chapter": "必修第二册 第13章 立体几何初步",
+    "frequency": 4,
+    "keywords": [
+      "空间角",
+      "异面直线",
+      "位置关系基础"
+    ],
+    "sort_order": 53,
+    "brain_first": "空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。"
+  },
+  {
+    "id": "SOP055",
+    "code": "SOP055",
+    "title": "截面、切接球与几何体基础",
+    "chapter_id": "chapter-13",
+    "chapter": "必修第二册 第13章 立体几何初步",
+    "frequency": 4,
+    "keywords": [
+      "截面",
+      "切接球",
+      "几何体基础"
+    ],
+    "sort_order": 54,
+    "brain_first": "截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。"
+  },
+  {
+    "id": "SOP056",
+    "code": "SOP056",
+    "title": "平均数、方差、标准差与数据变换",
+    "chapter_id": "chapter-14",
+    "chapter": "必修第二册 第14章 统计",
+    "frequency": 5,
+    "keywords": [
+      "平均数",
+      "方差",
+      "标准差",
+      "数据变换"
+    ],
+    "sort_order": 55,
+    "brain_first": "平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。"
+  },
+  {
+    "id": "SOP057",
+    "code": "SOP057",
+    "title": "中位数、众数、极差与百分位数",
+    "chapter_id": "chapter-14",
+    "chapter": "必修第二册 第14章 统计",
+    "frequency": 4,
+    "keywords": [
+      "中位数",
+      "众数",
+      "极差",
+      "百分位数"
+    ],
+    "sort_order": 56,
+    "brain_first": "中位数先排序；众数看谁出现最多；百分位数就是“有大约多少比例的数据不超过这个位置”。"
+  },
+  {
+    "id": "SOP058",
+    "code": "SOP058",
+    "title": "频率分布直方图",
+    "chapter_id": "chapter-14",
+    "chapter": "必修第二册 第14章 统计",
+    "frequency": 4,
+    "keywords": [
+      "频率分布直方图"
+    ],
+    "sort_order": 57,
+    "brain_first": "直方图别把柱高当频率。频率看“面积=高×组距”，所有柱子的面积加起来等于1。"
+  },
+  {
+    "id": "SOP059",
+    "code": "SOP059",
+    "title": "简单随机抽样与分层抽样",
+    "chapter_id": "chapter-14",
+    "chapter": "必修第二册 第14章 统计",
+    "frequency": 4,
+    "keywords": [
+      "简单随机抽样",
+      "分层抽样"
+    ],
+    "sort_order": 58,
+    "brain_first": "抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。"
+  },
+  {
+    "id": "SOP060",
+    "code": "SOP060",
+    "title": "统计图表阅读与样本估计总体",
+    "chapter_id": "chapter-14",
+    "chapter": "必修第二册 第14章 统计",
+    "frequency": 3,
+    "keywords": [
+      "统计图表阅读",
+      "样本估计总体"
+    ],
+    "sort_order": 59,
+    "brain_first": "统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。"
+  },
+  {
+    "id": "SOP061",
+    "code": "SOP061",
+    "title": "古典概型",
+    "chapter_id": "chapter-15",
+    "chapter": "必修第二册 第15章 概率",
+    "frequency": 5,
+    "keywords": [
+      "古典概型"
+    ],
+    "sort_order": 60,
+    "brain_first": "古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。"
+  },
+  {
+    "id": "SOP062",
+    "code": "SOP062",
+    "title": "互斥、对立、加法与补集",
+    "chapter_id": "chapter-15",
+    "chapter": "必修第二册 第15章 概率",
+    "frequency": 5,
+    "keywords": [
+      "互斥",
+      "对立",
+      "加法",
+      "补集"
+    ],
+    "sort_order": 61,
+    "brain_first": "“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。"
+  },
+  {
+    "id": "SOP063",
+    "code": "SOP063",
+    "title": "独立事件与乘法",
+    "chapter_id": "chapter-15",
+    "chapter": "必修第二册 第15章 概率",
+    "frequency": 5,
+    "keywords": [
+      "独立事件",
+      "乘法"
+    ],
+    "sort_order": 62,
+    "brain_first": "独立就是“一个发生不改变另一个的概率”；同时发生就乘起来。不要把“独立”和“互斥”混成一回事。"
+  },
+  {
+    "id": "SOP064",
+    "code": "SOP064",
+    "title": "样本空间与事件关系",
+    "chapter_id": "chapter-15",
+    "chapter": "必修第二册 第15章 概率",
+    "frequency": 3,
+    "keywords": [
+      "样本空间",
+      "事件关系"
+    ],
+    "sort_order": 63,
+    "brain_first": "样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。"
+  },
+  {
+    "id": "SOP065",
+    "code": "SOP065",
+    "title": "斜率、倾斜角与直线方程",
+    "chapter_id": "chapter-16",
+    "chapter": "选择性必修第一册 第1章 直线与方程",
+    "frequency": 5,
+    "keywords": [
+      "斜率",
+      "倾斜角",
+      "直线方程"
+    ],
+    "sort_order": 64,
+    "brain_first": "直线题先看是不是竖直线。不是竖直线再谈斜率；有一点+斜率用点斜式最省。"
+  },
+  {
+    "id": "SOP066",
+    "code": "SOP066",
+    "title": "两直线平行、垂直与交点",
+    "chapter_id": "chapter-16",
+    "chapter": "选择性必修第一册 第1章 直线与方程",
+    "frequency": 5,
+    "keywords": [
+      "两直线平行",
+      "垂直",
+      "交点"
+    ],
+    "sort_order": 65,
+    "brain_first": "两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。"
+  },
+  {
+    "id": "SOP067",
+    "code": "SOP067",
+    "title": "点到直线距离与平行线距离",
+    "chapter_id": "chapter-16",
+    "chapter": "选择性必修第一册 第1章 直线与方程",
+    "frequency": 5,
+    "keywords": [
+      "点到直线距离",
+      "平行线距离"
+    ],
+    "sort_order": 66,
+    "brain_first": "点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。"
+  },
+  {
+    "id": "SOP068",
+    "code": "SOP068",
+    "title": "直线中的中点、对称与基础轨迹",
+    "chapter_id": "chapter-16",
+    "chapter": "选择性必修第一册 第1章 直线与方程",
+    "frequency": 4,
+    "keywords": [
+      "直线中的中点",
+      "对称",
+      "基础轨迹"
+    ],
+    "sort_order": 67,
+    "brain_first": "中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。"
+  },
+  {
+    "id": "SOP069",
+    "code": "SOP069",
+    "title": "圆的标准方程、一般方程与配方",
+    "chapter_id": "chapter-17",
+    "chapter": "选择性必修第一册 第2章 圆与方程",
+    "frequency": 5,
+    "keywords": [
+      "圆的标准方程",
+      "一般方程",
+      "配方"
+    ],
+    "sort_order": 68,
+    "brain_first": "圆的一般式看着乱就配方，目标永远是把它变成“(x-a)²+(y-b)²=r²”，这样圆心半径一眼看到。"
+  },
+  {
+    "id": "SOP070",
+    "code": "SOP070",
+    "title": "直线与圆位置关系及切线",
+    "chapter_id": "chapter-17",
+    "chapter": "选择性必修第一册 第2章 圆与方程",
+    "frequency": 5,
+    "keywords": [
+      "直线",
+      "圆位置关系及切线"
+    ],
+    "sort_order": 69,
+    "brain_first": "直线和圆不要急着联立。先算“圆心到直线的距离d”，拿d和r比就知道相交、相切还是相离。"
+  },
+  {
+    "id": "SOP071",
+    "code": "SOP071",
+    "title": "圆的弦长",
+    "chapter_id": "chapter-17",
+    "chapter": "选择性必修第一册 第2章 圆与方程",
+    "frequency": 5,
+    "keywords": [
+      "圆的弦长"
+    ],
+    "sort_order": 70,
+    "brain_first": "弦长题不要解两个交点。画圆心到弦的垂线，半弦、距离d、半径r组成直角三角形。"
+  },
+  {
+    "id": "SOP072",
+    "code": "SOP072",
+    "title": "圆与圆的位置关系",
+    "chapter_id": "chapter-17",
+    "chapter": "选择性必修第一册 第2章 圆与方程",
+    "frequency": 4,
+    "keywords": [
+      "圆",
+      "圆的位置关系"
+    ],
+    "sort_order": 71,
+    "brain_first": "两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。"
+  },
+  {
+    "id": "SOP073",
+    "code": "SOP073",
+    "title": "椭圆标准量 a,b,c,e",
+    "chapter_id": "chapter-18",
+    "chapter": "选择性必修第一册 第3章 圆锥曲线与方程",
+    "frequency": 5,
+    "keywords": [
+      "椭圆标准量 a,b,c,e"
+    ],
+    "sort_order": 72,
+    "brain_first": "椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。"
+  },
+  {
+    "id": "SOP074",
+    "code": "SOP074",
+    "title": "双曲线标准量与渐近线",
+    "chapter_id": "chapter-18",
+    "chapter": "选择性必修第一册 第3章 圆锥曲线与方程",
+    "frequency": 5,
+    "keywords": [
+      "双曲线标准量",
+      "渐近线"
+    ],
+    "sort_order": 73,
+    "brain_first": "双曲线先看哪个平方项前面是正，它决定开口方向；这里是c²=a²+b²，和椭圆正好不同。"
+  },
+  {
+    "id": "SOP075",
+    "code": "SOP075",
+    "title": "抛物线焦点、准线与标准方程",
+    "chapter_id": "chapter-18",
+    "chapter": "选择性必修第一册 第3章 圆锥曲线与方程",
+    "frequency": 5,
+    "keywords": [
+      "抛物线焦点",
+      "准线",
+      "标准方程"
+    ],
+    "sort_order": 74,
+    "brain_first": "抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。"
+  },
+  {
+    "id": "SOP076",
+    "code": "SOP076",
+    "title": "直线与圆锥曲线联立：判别式与韦达",
+    "chapter_id": "chapter-18",
+    "chapter": "选择性必修第一册 第3章 圆锥曲线与方程",
+    "frequency": 5,
+    "keywords": [
+      "直线",
+      "圆锥曲线联立",
+      "判别式",
+      "韦达"
+    ],
+    "sort_order": 75,
+    "brain_first": "直线碰圆锥曲线：把直线“塞进”曲线里，变成一个一元二次。别急着求两个根，先看判别式和韦达能不能直接用。"
+  },
+  {
+    "id": "SOP077",
+    "code": "SOP077",
+    "title": "圆锥曲线定义与焦点距离转化",
+    "chapter_id": "chapter-18",
+    "chapter": "选择性必修第一册 第3章 圆锥曲线与方程",
+    "frequency": 4,
+    "keywords": [
+      "圆锥曲线定义",
+      "焦点距离转化"
+    ],
+    "sort_order": 76,
+    "brain_first": "圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。"
+  },
+  {
+    "id": "SOP078",
+    "code": "SOP078",
+    "title": "等差数列通项与基本性质",
+    "chapter_id": "chapter-19",
+    "chapter": "选择性必修第一册 第4章 数列",
+    "frequency": 5,
+    "keywords": [
+      "等差数列通项",
+      "基本性质"
+    ],
+    "sort_order": 77,
+    "brain_first": "等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。"
+  },
+  {
+    "id": "SOP079",
+    "code": "SOP079",
+    "title": "等差数列前n项和",
+    "chapter_id": "chapter-19",
+    "chapter": "选择性必修第一册 第4章 数列",
+    "frequency": 5,
+    "keywords": [
+      "等差数列前n项和"
+    ],
+    "sort_order": 78,
+    "brain_first": "等差前n项和优先看有没有首项和末项；有就用n(a₁+a_n)/2，没有再用a₁和d展开。"
+  },
+  {
+    "id": "SOP080",
+    "code": "SOP080",
+    "title": "等比数列通项与性质",
+    "chapter_id": "chapter-19",
+    "chapter": "选择性必修第一册 第4章 数列",
+    "frequency": 5,
+    "keywords": [
+      "等比数列通项",
+      "性质"
+    ],
+    "sort_order": 79,
+    "brain_first": "等比数列先翻译成a₁和q。相邻两项比值固定，但用求和公式前一定先看q是不是1。"
+  },
+  {
+    "id": "SOP081",
+    "code": "SOP081",
+    "title": "等比数列前n项和",
+    "chapter_id": "chapter-19",
+    "chapter": "选择性必修第一册 第4章 数列",
+    "frequency": 5,
+    "keywords": [
+      "等比数列前n项和"
+    ],
+    "sort_order": 80,
+    "brain_first": "等比求和最容易丢在q=1。先分情况：q=1直接na₁；q≠1再套公式。"
+  },
+  {
+    "id": "SOP082",
+    "code": "SOP082",
+    "title": "S_n与a_n的互化",
+    "chapter_id": "chapter-19",
+    "chapter": "选择性必修第一册 第4章 数列",
+    "frequency": 5,
+    "keywords": [
+      "S_n",
+      "a_n的互化"
+    ],
+    "sort_order": 81,
+    "brain_first": "看到S_n求a_n：第1项单独用S₁，后面的统一用a_n=S_n-S_{n-1}。"
+  },
+  {
+    "id": "SOP083",
+    "code": "SOP083",
+    "title": "数列求和：裂项、分组、错位相减基础",
+    "chapter_id": "chapter-19",
+    "chapter": "选择性必修第一册 第4章 数列",
+    "frequency": 4,
+    "keywords": [
+      "数列求和",
+      "裂项",
+      "分组",
+      "错位相减基础"
+    ],
+    "sort_order": 82,
+    "brain_first": "数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。"
+  },
+  {
+    "id": "SOP084",
+    "code": "SOP084",
+    "title": "导数公式与运算",
+    "chapter_id": "chapter-20",
+    "chapter": "选择性必修第一册 第5章 导数及其应用",
+    "frequency": 5,
+    "keywords": [
+      "导数公式",
+      "运算"
+    ],
+    "sort_order": 83,
+    "brain_first": "求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。"
+  },
+  {
+    "id": "SOP085",
+    "code": "SOP085",
+    "title": "导数的几何意义与切线",
+    "chapter_id": "chapter-20",
+    "chapter": "选择性必修第一册 第5章 导数及其应用",
+    "frequency": 5,
+    "keywords": [
+      "导数的几何意义",
+      "切线"
+    ],
+    "sort_order": 84,
+    "brain_first": "切线题固定四步：先找切点坐标，再求导，再把x₀代入导数得到斜率，最后写点斜式。"
+  },
+  {
+    "id": "SOP086",
+    "code": "SOP086",
+    "title": "导数判断单调性",
+    "chapter_id": "chapter-20",
+    "chapter": "选择性必修第一册 第5章 导数及其应用",
+    "frequency": 5,
+    "keywords": [
+      "导数判断单调性"
+    ],
+    "sort_order": 85,
+    "brain_first": "单调性不要看f(x)本身有多复杂，只看f′(x)正还是负：正就往上，负就往下。"
+  },
+  {
+    "id": "SOP087",
+    "code": "SOP087",
+    "title": "极值与闭区间最值",
+    "chapter_id": "chapter-20",
+    "chapter": "选择性必修第一册 第5章 导数及其应用",
+    "frequency": 5,
+    "keywords": [
+      "极值",
+      "闭区间最值"
+    ],
+    "sort_order": 86,
+    "brain_first": "极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。"
+  },
+  {
+    "id": "SOP088",
+    "code": "SOP088",
+    "title": "简单参数与实际优化",
+    "chapter_id": "chapter-20",
+    "chapter": "选择性必修第一册 第5章 导数及其应用",
+    "frequency": 4,
+    "keywords": [
+      "简单参数",
+      "实际优化"
+    ],
+    "sort_order": 87,
+    "brain_first": "简单参数/优化题先把实际目标写成一个函数，再看定义域；参数题通常是让导数符号满足某种要求。复杂双参数不要死磕。"
+  },
+  {
+    "id": "SOP089",
+    "code": "SOP089",
+    "title": "空间坐标与空间向量运算",
+    "chapter_id": "chapter-21",
+    "chapter": "选择性必修第二册 第6章 空间向量与立体几何",
+    "frequency": 5,
+    "keywords": [
+      "空间坐标",
+      "空间向量运算"
+    ],
+    "sort_order": 88,
+    "brain_first": "空间坐标和二维向量一样，只是多一个z。先选方便的原点和三条互相垂直方向，再写点坐标。"
+  },
+  {
+    "id": "SOP090",
+    "code": "SOP090",
+    "title": "法向量与线面平行/垂直",
+    "chapter_id": "chapter-21",
+    "chapter": "选择性必修第二册 第6章 空间向量与立体几何",
+    "frequency": 5,
+    "keywords": [
+      "法向量",
+      "线面平行/垂直"
+    ],
+    "sort_order": 89,
+    "brain_first": "平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。"
+  },
+  {
+    "id": "SOP091",
+    "code": "SOP091",
+    "title": "线面角与二面角",
+    "chapter_id": "chapter-21",
+    "chapter": "选择性必修第二册 第6章 空间向量与立体几何",
+    "frequency": 5,
+    "keywords": [
+      "线面角",
+      "二面角"
+    ],
+    "sort_order": 90,
+    "brain_first": "线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。"
+  },
+  {
+    "id": "SOP092",
+    "code": "SOP092",
+    "title": "空间距离：点面、点线、平行平面",
+    "chapter_id": "chapter-21",
+    "chapter": "选择性必修第二册 第6章 空间向量与立体几何",
+    "frequency": 4,
+    "keywords": [
+      "空间距离",
+      "点面",
+      "点线",
+      "平行平面"
+    ],
+    "sort_order": 91,
+    "brain_first": "空间距离题的核心是“找最短垂线”。点到平面可用法向量投影，点到直线可用垂足/向量，平行平面距离选一个点到另一平面。"
+  },
+  {
+    "id": "SOP093",
+    "code": "SOP093",
+    "title": "分类加法与分步乘法",
+    "chapter_id": "chapter-22",
+    "chapter": "选择性必修第二册 第7章 计数原理",
+    "frequency": 4,
+    "keywords": [
+      "分类加法",
+      "分步乘法"
+    ],
+    "sort_order": 92,
+    "brain_first": "计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。"
+  },
+  {
+    "id": "SOP094",
+    "code": "SOP094",
+    "title": "排列组合：顺序、捆绑与插空",
+    "chapter_id": "chapter-22",
+    "chapter": "选择性必修第二册 第7章 计数原理",
+    "frequency": 4,
+    "keywords": [
+      "排列组合",
+      "顺序",
+      "捆绑",
+      "插空"
+    ],
+    "sort_order": 93,
+    "brain_first": "排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。"
+  },
+  {
+    "id": "SOP095",
+    "code": "SOP095",
+    "title": "二项式定理通项与系数",
+    "chapter_id": "chapter-22",
+    "chapter": "选择性必修第二册 第7章 计数原理",
+    "frequency": 4,
+    "keywords": [
+      "二项式定理通项",
+      "系数"
+    ],
+    "sort_order": 94,
+    "brain_first": "二项式别整式展开。只写通项，盯着x的指数，让它等于题目要的次数，再求对应系数。"
+  },
+  {
+    "id": "SOP096",
+    "code": "SOP096",
+    "title": "条件概率、乘法公式与全概率公式",
+    "chapter_id": "chapter-23",
+    "chapter": "选择性必修第二册 第8章 概率",
+    "frequency": 5,
+    "keywords": [
+      "条件概率",
+      "乘法公式",
+      "全概率公式"
+    ],
+    "sort_order": 95,
+    "brain_first": "条件概率就是“已经知道B发生后，世界只剩B里面的情况”。全概率则是“先按来源分组，再把每组到A的概率加起来”。"
+  },
+  {
+    "id": "SOP097",
+    "code": "SOP097",
+    "title": "离散型随机变量：分布列、期望与方差",
+    "chapter_id": "chapter-23",
+    "chapter": "选择性必修第二册 第8章 概率",
+    "frequency": 5,
+    "keywords": [
+      "离散型随机变量",
+      "分布列",
+      "期望",
+      "方差"
+    ],
+    "sort_order": 96,
+    "brain_first": "分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。"
+  },
+  {
+    "id": "SOP098",
+    "code": "SOP098",
+    "title": "二项分布、超几何分布与正态分布识别",
+    "chapter_id": "chapter-23",
+    "chapter": "选择性必修第二册 第8章 概率",
+    "frequency": 5,
+    "keywords": [
+      "二项分布",
+      "超几何分布",
+      "正态分布识别"
+    ],
+    "sort_order": 97,
+    "brain_first": "识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。"
+  },
+  {
+    "id": "SOP099",
+    "code": "SOP099",
+    "title": "相关系数与一元线性回归",
+    "chapter_id": "chapter-24",
+    "chapter": "选择性必修第二册 第9章 统计",
+    "frequency": 4,
+    "keywords": [
+      "相关系数",
+      "一元线性回归"
+    ],
+    "sort_order": 98,
+    "brain_first": "相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。"
+  },
+  {
+    "id": "SOP100",
+    "code": "SOP100",
+    "title": "2×2列联表与独立性检验",
+    "chapter_id": "chapter-24",
+    "chapter": "选择性必修第二册 第9章 统计",
+    "frequency": 5,
+    "keywords": [
+      "2×2列联表",
+      "独立性检验"
+    ],
+    "sort_order": 99,
+    "brain_first": "独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "name": "gaokao-quest",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "import:sop": "py scripts/import-sop-docx.py"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0",
+    "heic2any": "^0.0.4",
+    "idb": "^8.0.3",
+    "katex": "^0.16.22",
+    "lucide-react": "^0.468.0",
+    "next": "^15.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-markdown": "^10.1.0",
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^22.18.0",
+    "@types/react": "^19.1.12",
+    "@types/react-dom": "^19.1.9",
+    "fake-indexeddb": "^6.2.5",
+    "prettier": "^3.9.9",
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
+  }
+}

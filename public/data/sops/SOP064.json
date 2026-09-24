@@ -1,0 +1,598 @@
+{
+  "id": "SOP064",
+  "code": "SOP064",
+  "title": "样本空间与事件关系",
+  "chapter_id": "chapter-15",
+  "chapter": "必修第二册 第15章 概率",
+  "frequency": 3,
+  "keywords": [
+    "样本空间",
+    "事件关系"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★☆☆  正常范围",
+      "style": "",
+      "sourceIndex": 2737
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问样本空间Ω、事件A∩B、A∪B、包含关系。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问样本空间Ω、事件A∩B、A∪B、包含关系。",
+      "sourceIndex": 2738
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。",
+      "sourceIndex": 2739
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2740
+    },
+    {
+      "type": "paragraph",
+      "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+      "style": "",
+      "sourceIndex": 2741
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2742
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先把一次试验所有可能结果列成Ω。",
+      "style": "",
+      "sourceIndex": 2743
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：概率题先把“有哪些可能结果”和“事件之间是什么关系”弄清，再决定加还是乘。",
+      "style": "",
+      "sourceIndex": 2744
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：能列样本空间就列；不能全列就画树状图/分类。并集想“或”，交集想“且”，独立同时发生才直接乘。",
+      "style": "",
+      "sourceIndex": 2745
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 事件是Ω的子集；“且”对应交，“或”对应并，“不”对应补。",
+      "style": "",
+      "sourceIndex": 2746
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：概率题先把“有哪些可能结果”和“事件之间是什么关系”弄清，再决定加还是乘。",
+      "style": "",
+      "sourceIndex": 2747
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：能列样本空间就列；不能全列就画树状图/分类。并集想“或”，交集想“且”，独立同时发生才直接乘。",
+      "style": "",
+      "sourceIndex": 2748
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 用集合图/Venn图处理事件关系。",
+      "style": "",
+      "sourceIndex": 2749
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：概率题先把“有哪些可能结果”和“事件之间是什么关系”弄清，再决定加还是乘。",
+      "style": "",
+      "sourceIndex": 2750
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：能列样本空间就列；不能全列就画树状图/分类。并集想“或”，交集想“且”，独立同时发生才直接乘。",
+      "style": "",
+      "sourceIndex": 2751
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2752
+    },
+    {
+      "type": "paragraph",
+      "text": "• “至少一个”情况太多：优先算补事件。",
+      "style": "",
+      "sourceIndex": 2753
+    },
+    {
+      "type": "paragraph",
+      "text": "• 不放回通常不独立；独立重复才考虑二项分布。",
+      "style": "",
+      "sourceIndex": 2754
+    },
+    {
+      "type": "paragraph",
+      "text": "• 所有概率算完先检查是否在0到1之间。",
+      "style": "",
+      "sourceIndex": 2755
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2756
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2757
+    },
+    {
+      "type": "paragraph",
+      "text": "• 证明定理的条件是否写全（线在面内、两线相交等）？",
+      "style": "",
+      "sourceIndex": 2758
+    },
+    {
+      "type": "paragraph",
+      "text": "• 角/距离是不是题目真正要求的那个？",
+      "style": "",
+      "sourceIndex": 2759
+    },
+    {
+      "type": "paragraph",
+      "text": "• 体积是否漏1/3？",
+      "style": "",
+      "sourceIndex": 2760
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2761
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果“至少一个”分类太多：马上改算“一个都没有”。",
+      "style": "",
+      "sourceIndex": 2762
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果你不知道乘还是加：问自己“这些情况是互相替代，还是要同时一步步发生？”",
+      "style": "",
+      "sourceIndex": 2763
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜掷一次骰子，A=偶数事件。"
+        ],
+        [
+          "先怎么想｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。"
+        ],
+        [
+          "核心过程 / 答案｜A={2,4,6}。"
+        ]
+      ],
+      "text": "典型例题｜掷一次骰子，A=偶数事件。\n先怎么想｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。\n核心过程 / 答案｜A={2,4,6}。",
+      "sourceIndex": 2764
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜“A或B”在概率中通常是可兼容的“至少一个发生”，不是日常语言的二选一。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜“A或B”在概率中通常是可兼容的“至少一个发生”，不是日常语言的二选一。",
+      "sourceIndex": 2765
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2766
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。"
+        ]
+      ],
+      "text": "📌 30秒速记｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。",
+      "sourceIndex": 2767
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2768
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 硬币一次Ω。",
+      "style": "",
+      "sourceIndex": 2769
+    },
+    {
+      "type": "paragraph",
+      "text": "2. A且B对应。",
+      "style": "",
+      "sourceIndex": 2770
+    },
+    {
+      "type": "paragraph",
+      "text": "3. A或B对应。",
+      "style": "",
+      "sourceIndex": 2771
+    },
+    {
+      "type": "paragraph",
+      "text": "4. A不发生对应。",
+      "style": "",
+      "sourceIndex": 2772
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 事件A是Ω的什么？",
+      "style": "",
+      "sourceIndex": 2773
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.{正,反}；2.A∩B；3.A∪B；4.A的对立/补事件；5.子集",
+      "style": "TinyNote",
+      "sourceIndex": 2774
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2775
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问样本空间Ω、事件A∩B、A∪B、包含关系。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问样本空间Ω、事件A∩B、A∪B、包含关系。",
+          "sourceIndex": 2738
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。",
+          "sourceIndex": 2739
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2740
+        },
+        {
+          "type": "paragraph",
+          "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+          "style": "",
+          "sourceIndex": 2741
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2742
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先把一次试验所有可能结果列成Ω。",
+          "style": "",
+          "sourceIndex": 2743
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：概率题先把“有哪些可能结果”和“事件之间是什么关系”弄清，再决定加还是乘。",
+          "style": "",
+          "sourceIndex": 2744
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：能列样本空间就列；不能全列就画树状图/分类。并集想“或”，交集想“且”，独立同时发生才直接乘。",
+          "style": "",
+          "sourceIndex": 2745
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 事件是Ω的子集；“且”对应交，“或”对应并，“不”对应补。",
+          "style": "",
+          "sourceIndex": 2746
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：概率题先把“有哪些可能结果”和“事件之间是什么关系”弄清，再决定加还是乘。",
+          "style": "",
+          "sourceIndex": 2747
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：能列样本空间就列；不能全列就画树状图/分类。并集想“或”，交集想“且”，独立同时发生才直接乘。",
+          "style": "",
+          "sourceIndex": 2748
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 用集合图/Venn图处理事件关系。",
+          "style": "",
+          "sourceIndex": 2749
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：概率题先把“有哪些可能结果”和“事件之间是什么关系”弄清，再决定加还是乘。",
+          "style": "",
+          "sourceIndex": 2750
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：能列样本空间就列；不能全列就画树状图/分类。并集想“或”，交集想“且”，独立同时发生才直接乘。",
+          "style": "",
+          "sourceIndex": 2751
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2752
+        },
+        {
+          "type": "paragraph",
+          "text": "• “至少一个”情况太多：优先算补事件。",
+          "style": "",
+          "sourceIndex": 2753
+        },
+        {
+          "type": "paragraph",
+          "text": "• 不放回通常不独立；独立重复才考虑二项分布。",
+          "style": "",
+          "sourceIndex": 2754
+        },
+        {
+          "type": "paragraph",
+          "text": "• 所有概率算完先检查是否在0到1之间。",
+          "style": "",
+          "sourceIndex": 2755
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2756
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2757
+        },
+        {
+          "type": "paragraph",
+          "text": "• 证明定理的条件是否写全（线在面内、两线相交等）？",
+          "style": "",
+          "sourceIndex": 2758
+        },
+        {
+          "type": "paragraph",
+          "text": "• 角/距离是不是题目真正要求的那个？",
+          "style": "",
+          "sourceIndex": 2759
+        },
+        {
+          "type": "paragraph",
+          "text": "• 体积是否漏1/3？",
+          "style": "",
+          "sourceIndex": 2760
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2761
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果“至少一个”分类太多：马上改算“一个都没有”。",
+          "style": "",
+          "sourceIndex": 2762
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果你不知道乘还是加：问自己“这些情况是互相替代，还是要同时一步步发生？”",
+          "style": "",
+          "sourceIndex": 2763
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜掷一次骰子，A=偶数事件。"
+            ],
+            [
+              "先怎么想｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。"
+            ],
+            [
+              "核心过程 / 答案｜A={2,4,6}。"
+            ]
+          ],
+          "text": "典型例题｜掷一次骰子，A=偶数事件。\n先怎么想｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。\n核心过程 / 答案｜A={2,4,6}。",
+          "sourceIndex": 2764
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜“A或B”在概率中通常是可兼容的“至少一个发生”，不是日常语言的二选一。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜“A或B”在概率中通常是可兼容的“至少一个发生”，不是日常语言的二选一。",
+          "sourceIndex": 2765
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2766
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。"
+            ]
+          ],
+          "text": "📌 30秒速记｜样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。",
+          "sourceIndex": 2767
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2768
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 硬币一次Ω。",
+          "style": "",
+          "sourceIndex": 2769
+        },
+        {
+          "type": "paragraph",
+          "text": "2. A且B对应。",
+          "style": "",
+          "sourceIndex": 2770
+        },
+        {
+          "type": "paragraph",
+          "text": "3. A或B对应。",
+          "style": "",
+          "sourceIndex": 2771
+        },
+        {
+          "type": "paragraph",
+          "text": "4. A不发生对应。",
+          "style": "",
+          "sourceIndex": 2772
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 事件A是Ω的什么？",
+          "style": "",
+          "sourceIndex": 2773
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.{正,反}；2.A∩B；3.A∪B；4.A的对立/补事件；5.子集",
+          "style": "TinyNote",
+          "sourceIndex": 2774
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2775
+        }
+      ]
+    }
+  ],
+  "sort_order": 63,
+  "brain_first": "样本空间就是“所有可能结果的总清单”。先把事件写成这个清单里的子集，再做并、交、对立。"
+}

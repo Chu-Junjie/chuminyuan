@@ -1,0 +1,627 @@
+{
+  "id": "SOP023",
+  "code": "SOP023",
+  "title": "幂函数性质",
+  "chapter_id": "chapter-06",
+  "chapter": "必修第一册 第6章 幂函数、指数函数和对数函数",
+  "frequency": 3,
+  "keywords": [
+    "幂函数性质"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★☆☆  正常范围",
+      "style": "",
+      "sourceIndex": 1049
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜函数形如y=x^α，问定义域、奇偶、单调或图像。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜函数形如y=x^α，问定义域、奇偶、单调或图像。",
+      "sourceIndex": 1050
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。",
+      "sourceIndex": 1051
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1052
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域 → 哪些x允许放进这个函数",
+      "style": "",
+      "sourceIndex": 1053
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单调 → x增大时函数值总体是变大还是变小",
+      "style": "",
+      "sourceIndex": 1054
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1055
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 1056
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1057
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先看指数α的类型决定定义域。",
+      "style": "",
+      "sourceIndex": 1058
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 1059
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 1060
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 用熟悉的典型幂函数：x、x²、x³、√x、1/x。",
+      "style": "",
+      "sourceIndex": 1061
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 1062
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 1063
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 比较大小时在同一区间利用单调性。",
+      "style": "",
+      "sourceIndex": 1064
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 1065
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 1066
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1067
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 1068
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 1069
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1070
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1071
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域有没有先写？",
+      "style": "",
+      "sourceIndex": 1072
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把不同区间/分段混在一起？",
+      "style": "",
+      "sourceIndex": 1073
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否漏掉端点、零点或对称点？",
+      "style": "",
+      "sourceIndex": 1074
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1075
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+      "style": "",
+      "sourceIndex": 1076
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+      "style": "",
+      "sourceIndex": 1077
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜y=x²在[0,∞)上的单调性。"
+        ],
+        [
+          "先怎么想｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。"
+        ],
+        [
+          "核心过程 / 答案｜递增。"
+        ]
+      ],
+      "text": "典型例题｜y=x²在[0,∞)上的单调性。\n先怎么想｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。\n核心过程 / 答案｜递增。",
+      "sourceIndex": 1078
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜幂函数y=x^α中系数必须是1；2x²不是标准幂函数。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜幂函数y=x^α中系数必须是1；2x²不是标准幂函数。",
+      "sourceIndex": 1079
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1080
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。"
+        ]
+      ],
+      "text": "📌 30秒速记｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。",
+      "sourceIndex": 1081
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1082
+    },
+    {
+      "type": "paragraph",
+      "text": "1. y=x³奇偶性。",
+      "style": "",
+      "sourceIndex": 1083
+    },
+    {
+      "type": "paragraph",
+      "text": "2. y=x²值域。",
+      "style": "",
+      "sourceIndex": 1084
+    },
+    {
+      "type": "paragraph",
+      "text": "3. y=√x定义域。",
+      "style": "",
+      "sourceIndex": 1085
+    },
+    {
+      "type": "paragraph",
+      "text": "4. y=1/x在(0,∞)单调性。",
+      "style": "",
+      "sourceIndex": 1086
+    },
+    {
+      "type": "paragraph",
+      "text": "5. x>0时比较x与x²是否固定？",
+      "style": "",
+      "sourceIndex": 1087
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.奇函数；2.[0,∞)；3.[0,∞)；4.递减；5.不固定，要看x与1",
+      "style": "TinyNote",
+      "sourceIndex": 1088
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1089
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜函数形如y=x^α，问定义域、奇偶、单调或图像。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜函数形如y=x^α，问定义域、奇偶、单调或图像。",
+          "sourceIndex": 1050
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。",
+          "sourceIndex": 1051
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1052
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域 → 哪些x允许放进这个函数",
+          "style": "",
+          "sourceIndex": 1053
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单调 → x增大时函数值总体是变大还是变小",
+          "style": "",
+          "sourceIndex": 1054
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1055
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 1056
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1057
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先看指数α的类型决定定义域。",
+          "style": "",
+          "sourceIndex": 1058
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 1059
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 1060
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 用熟悉的典型幂函数：x、x²、x³、√x、1/x。",
+          "style": "",
+          "sourceIndex": 1061
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 1062
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 1063
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 比较大小时在同一区间利用单调性。",
+          "style": "",
+          "sourceIndex": 1064
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 1065
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 1066
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1067
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 1068
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 1069
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1070
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1071
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域有没有先写？",
+          "style": "",
+          "sourceIndex": 1072
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把不同区间/分段混在一起？",
+          "style": "",
+          "sourceIndex": 1073
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否漏掉端点、零点或对称点？",
+          "style": "",
+          "sourceIndex": 1074
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1075
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+          "style": "",
+          "sourceIndex": 1076
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+          "style": "",
+          "sourceIndex": 1077
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜y=x²在[0,∞)上的单调性。"
+            ],
+            [
+              "先怎么想｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。"
+            ],
+            [
+              "核心过程 / 答案｜递增。"
+            ]
+          ],
+          "text": "典型例题｜y=x²在[0,∞)上的单调性。\n先怎么想｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。\n核心过程 / 答案｜递增。",
+          "sourceIndex": 1078
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜幂函数y=x^α中系数必须是1；2x²不是标准幂函数。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜幂函数y=x^α中系数必须是1；2x²不是标准幂函数。",
+          "sourceIndex": 1079
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1080
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。"
+            ]
+          ],
+          "text": "📌 30秒速记｜幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。",
+          "sourceIndex": 1081
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1082
+        },
+        {
+          "type": "paragraph",
+          "text": "1. y=x³奇偶性。",
+          "style": "",
+          "sourceIndex": 1083
+        },
+        {
+          "type": "paragraph",
+          "text": "2. y=x²值域。",
+          "style": "",
+          "sourceIndex": 1084
+        },
+        {
+          "type": "paragraph",
+          "text": "3. y=√x定义域。",
+          "style": "",
+          "sourceIndex": 1085
+        },
+        {
+          "type": "paragraph",
+          "text": "4. y=1/x在(0,∞)单调性。",
+          "style": "",
+          "sourceIndex": 1086
+        },
+        {
+          "type": "paragraph",
+          "text": "5. x>0时比较x与x²是否固定？",
+          "style": "",
+          "sourceIndex": 1087
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.奇函数；2.[0,∞)；3.[0,∞)；4.递减；5.不固定，要看x与1",
+          "style": "TinyNote",
+          "sourceIndex": 1088
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1089
+        }
+      ]
+    }
+  ],
+  "sort_order": 22,
+  "brain_first": "幂函数先别背一大堆图，先把它认成最熟的几张：x、x²、x³、√x、1/x，再判断所在区间。"
+}

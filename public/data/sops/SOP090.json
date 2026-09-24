@@ -1,0 +1,628 @@
+{
+  "id": "SOP090",
+  "code": "SOP090",
+  "title": "法向量与线面平行/垂直",
+  "chapter_id": "chapter-21",
+  "chapter": "选择性必修第二册 第6章 空间向量与立体几何",
+  "frequency": 5,
+  "keywords": [
+    "法向量",
+    "线面平行/垂直"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 3793
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜给平面内两方向向量，求法向量；判断线面关系。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜给平面内两方向向量，求法向量；判断线面关系。",
+      "sourceIndex": 3794
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。",
+      "sourceIndex": 3795
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 3796
+    },
+    {
+      "type": "paragraph",
+      "text": "• 法向量 → 垂直于一个平面的向量",
+      "style": "",
+      "sourceIndex": 3797
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3798
+    },
+    {
+      "type": "paragraph",
+      "text": "向量的价值就是把几何语言变成数字：坐标负责运算，数量积负责角和垂直，倍数关系负责平行。先确定要翻译成哪一种关系。",
+      "style": "",
+      "sourceIndex": 3799
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3800
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 求平面法向量n=(x,y,z)，让n同时垂直平面内两个不共线向量。",
+      "style": "",
+      "sourceIndex": 3801
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：法向量是垂直平面的“方向代表”。让它同时垂直平面内两条不共线方向，就能锁定整个平面的朝向。",
+      "style": "",
+      "sourceIndex": 3802
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：设n=(x,y,z)，取平面内两向量a、b，列n·a=0、n·b=0；任选一个方便的非零解，尽量取小整数。",
+      "style": "",
+      "sourceIndex": 3803
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 线方向v∥法向量n ⇒ 线⊥平面。",
+      "style": "",
+      "sourceIndex": 3804
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：法向量是垂直平面的“方向代表”。让它同时垂直平面内两条不共线方向，就能锁定整个平面的朝向。",
+      "style": "",
+      "sourceIndex": 3805
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：设n=(x,y,z)，取平面内两向量a、b，列n·a=0、n·b=0；任选一个方便的非零解，尽量取小整数。",
+      "style": "",
+      "sourceIndex": 3806
+    },
+    {
+      "type": "paragraph",
+      "text": "3. v·n=0 且线不在平面内 ⇒ 线∥平面；两平面法向量平行⇒平面平行，法向量垂直⇒平面垂直。",
+      "style": "",
+      "sourceIndex": 3807
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：法向量是垂直平面的“方向代表”。让它同时垂直平面内两条不共线方向，就能锁定整个平面的朝向。",
+      "style": "",
+      "sourceIndex": 3808
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：设n=(x,y,z)，取平面内两向量a、b，列n·a=0、n·b=0；任选一个方便的非零解，尽量取小整数。",
+      "style": "",
+      "sourceIndex": 3809
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3810
+    },
+    {
+      "type": "paragraph",
+      "text": "• 给坐标：优先坐标法。",
+      "style": "",
+      "sourceIndex": 3811
+    },
+    {
+      "type": "paragraph",
+      "text": "• 图形关系特别清楚：可先用几何关系简化，再坐标计算。",
+      "style": "",
+      "sourceIndex": 3812
+    },
+    {
+      "type": "paragraph",
+      "text": "• 数量积为0只能说明垂直，前提是两个向量都非零。",
+      "style": "",
+      "sourceIndex": 3813
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3814
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3815
+    },
+    {
+      "type": "paragraph",
+      "text": "• 向量起点终点顺序是否写反？",
+      "style": "",
+      "sourceIndex": 3816
+    },
+    {
+      "type": "paragraph",
+      "text": "• 数量积公式是否漏了长度？",
+      "style": "",
+      "sourceIndex": 3817
+    },
+    {
+      "type": "paragraph",
+      "text": "• 求夹角时是否取题目要求的角？",
+      "style": "",
+      "sourceIndex": 3818
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3819
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 3820
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 3821
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜平面内方向(1,0,0),(0,1,0)的一个法向量。"
+        ],
+        [
+          "先怎么想｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。"
+        ],
+        [
+          "核心过程 / 答案｜(0,0,1)。"
+        ]
+      ],
+      "text": "典型例题｜平面内方向(1,0,0),(0,1,0)的一个法向量。\n先怎么想｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。\n核心过程 / 答案｜(0,0,1)。",
+      "sourceIndex": 3822
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜求法向量通常有无穷多个，取最简单整数比例即可。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜求法向量通常有无穷多个，取最简单整数比例即可。",
+      "sourceIndex": 3823
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3824
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。"
+        ]
+      ],
+      "text": "📌 30秒速记｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。",
+      "sourceIndex": 3825
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3826
+    },
+    {
+      "type": "paragraph",
+      "text": "1. v=(0,0,1),平面法向量n=(0,0,2)，线面关系。",
+      "style": "",
+      "sourceIndex": 3827
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 两平面法向量平行，平面关系。",
+      "style": "",
+      "sourceIndex": 3828
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 两平面法向量点积0，平面关系。",
+      "style": "",
+      "sourceIndex": 3829
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 线方向与法向量点积0通常说明。",
+      "style": "",
+      "sourceIndex": 3830
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 法向量要垂直平面内几条不共线向量？",
+      "style": "",
+      "sourceIndex": 3831
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.垂直；2.平行或重合；3.垂直；4.线平行于平面或在线面内；5.2条",
+      "style": "TinyNote",
+      "sourceIndex": 3832
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3833
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜给平面内两方向向量，求法向量；判断线面关系。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜给平面内两方向向量，求法向量；判断线面关系。",
+          "sourceIndex": 3794
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。",
+          "sourceIndex": 3795
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 3796
+        },
+        {
+          "type": "paragraph",
+          "text": "• 法向量 → 垂直于一个平面的向量",
+          "style": "",
+          "sourceIndex": 3797
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3798
+        },
+        {
+          "type": "paragraph",
+          "text": "向量的价值就是把几何语言变成数字：坐标负责运算，数量积负责角和垂直，倍数关系负责平行。先确定要翻译成哪一种关系。",
+          "style": "",
+          "sourceIndex": 3799
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3800
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 求平面法向量n=(x,y,z)，让n同时垂直平面内两个不共线向量。",
+          "style": "",
+          "sourceIndex": 3801
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：法向量是垂直平面的“方向代表”。让它同时垂直平面内两条不共线方向，就能锁定整个平面的朝向。",
+          "style": "",
+          "sourceIndex": 3802
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：设n=(x,y,z)，取平面内两向量a、b，列n·a=0、n·b=0；任选一个方便的非零解，尽量取小整数。",
+          "style": "",
+          "sourceIndex": 3803
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 线方向v∥法向量n ⇒ 线⊥平面。",
+          "style": "",
+          "sourceIndex": 3804
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：法向量是垂直平面的“方向代表”。让它同时垂直平面内两条不共线方向，就能锁定整个平面的朝向。",
+          "style": "",
+          "sourceIndex": 3805
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：设n=(x,y,z)，取平面内两向量a、b，列n·a=0、n·b=0；任选一个方便的非零解，尽量取小整数。",
+          "style": "",
+          "sourceIndex": 3806
+        },
+        {
+          "type": "paragraph",
+          "text": "3. v·n=0 且线不在平面内 ⇒ 线∥平面；两平面法向量平行⇒平面平行，法向量垂直⇒平面垂直。",
+          "style": "",
+          "sourceIndex": 3807
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：法向量是垂直平面的“方向代表”。让它同时垂直平面内两条不共线方向，就能锁定整个平面的朝向。",
+          "style": "",
+          "sourceIndex": 3808
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：设n=(x,y,z)，取平面内两向量a、b，列n·a=0、n·b=0；任选一个方便的非零解，尽量取小整数。",
+          "style": "",
+          "sourceIndex": 3809
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3810
+        },
+        {
+          "type": "paragraph",
+          "text": "• 给坐标：优先坐标法。",
+          "style": "",
+          "sourceIndex": 3811
+        },
+        {
+          "type": "paragraph",
+          "text": "• 图形关系特别清楚：可先用几何关系简化，再坐标计算。",
+          "style": "",
+          "sourceIndex": 3812
+        },
+        {
+          "type": "paragraph",
+          "text": "• 数量积为0只能说明垂直，前提是两个向量都非零。",
+          "style": "",
+          "sourceIndex": 3813
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3814
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3815
+        },
+        {
+          "type": "paragraph",
+          "text": "• 向量起点终点顺序是否写反？",
+          "style": "",
+          "sourceIndex": 3816
+        },
+        {
+          "type": "paragraph",
+          "text": "• 数量积公式是否漏了长度？",
+          "style": "",
+          "sourceIndex": 3817
+        },
+        {
+          "type": "paragraph",
+          "text": "• 求夹角时是否取题目要求的角？",
+          "style": "",
+          "sourceIndex": 3818
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3819
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 3820
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 3821
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜平面内方向(1,0,0),(0,1,0)的一个法向量。"
+            ],
+            [
+              "先怎么想｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。"
+            ],
+            [
+              "核心过程 / 答案｜(0,0,1)。"
+            ]
+          ],
+          "text": "典型例题｜平面内方向(1,0,0),(0,1,0)的一个法向量。\n先怎么想｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。\n核心过程 / 答案｜(0,0,1)。",
+          "sourceIndex": 3822
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜求法向量通常有无穷多个，取最简单整数比例即可。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜求法向量通常有无穷多个，取最简单整数比例即可。",
+          "sourceIndex": 3823
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3824
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。"
+            ]
+          ],
+          "text": "📌 30秒速记｜平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。",
+          "sourceIndex": 3825
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3826
+        },
+        {
+          "type": "paragraph",
+          "text": "1. v=(0,0,1),平面法向量n=(0,0,2)，线面关系。",
+          "style": "",
+          "sourceIndex": 3827
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 两平面法向量平行，平面关系。",
+          "style": "",
+          "sourceIndex": 3828
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 两平面法向量点积0，平面关系。",
+          "style": "",
+          "sourceIndex": 3829
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 线方向与法向量点积0通常说明。",
+          "style": "",
+          "sourceIndex": 3830
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 法向量要垂直平面内几条不共线向量？",
+          "style": "",
+          "sourceIndex": 3831
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.垂直；2.平行或重合；3.垂直；4.线平行于平面或在线面内；5.2条",
+          "style": "TinyNote",
+          "sourceIndex": 3832
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3833
+        }
+      ]
+    }
+  ],
+  "sort_order": 89,
+  "brain_first": "平面法向量就是“垂直这个平面的箭头”。线面垂直看方向向量是否和法向量平行；线面平行看是否与法向量垂直。"
+}

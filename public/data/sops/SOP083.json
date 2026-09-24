@@ -1,0 +1,642 @@
+{
+  "id": "SOP083",
+  "code": "SOP083",
+  "title": "数列求和：裂项、分组、错位相减基础",
+  "chapter_id": "chapter-19",
+  "chapter": "选择性必修第一册 第4章 数列",
+  "frequency": 4,
+  "keywords": [
+    "数列求和",
+    "裂项",
+    "分组",
+    "错位相减基础"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 3498
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜求和项形如1/[n(n+1)]、奇偶交替、nq^n等。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜求和项形如1/[n(n+1)]、奇偶交替、nq^n等。",
+      "sourceIndex": 3499
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。",
+      "sourceIndex": 3500
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 3501
+    },
+    {
+      "type": "paragraph",
+      "text": "• 裂项 → 把一项拆成两个更简单的式子，让相邻项有机会抵消",
+      "style": "",
+      "sourceIndex": 3502
+    },
+    {
+      "type": "paragraph",
+      "text": "• 错位相减 → 把含nq^n的和乘q错开一位，再相减消掉大部分项",
+      "style": "",
+      "sourceIndex": 3503
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3504
+    },
+    {
+      "type": "paragraph",
+      "text": "数列只是把“第几项”换成n来表达。把所有条件统一翻译成少数几个基本量（如a₁,d,q,S_n），题目会从很多下标变成普通方程。",
+      "style": "",
+      "sourceIndex": 3505
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3506
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先识别结构：分式乘积→裂项；可拆两类→分组；nq^n→错位相减。",
+      "style": "",
+      "sourceIndex": 3507
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这里不要先背方法名，而是看“相邻项能不能互相消”。分式乘积常能拆成两个简单分式；nq^n则适合把整串错开一位。",
+      "style": "",
+      "sourceIndex": 3508
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先把前3项和最后1项写出来：看到1/[n(n+1)]就试1/n-1/(n+1)；看到nq^n就把S和qS上下对齐。",
+      "style": "",
+      "sourceIndex": 3509
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 裂项后写出前几项和末几项，看中间消去。",
+      "style": "",
+      "sourceIndex": 3510
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这里不要先背方法名，而是看“相邻项能不能互相消”。分式乘积常能拆成两个简单分式；nq^n则适合把整串错开一位。",
+      "style": "",
+      "sourceIndex": 3511
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先把前3项和最后1项写出来：看到1/[n(n+1)]就试1/n-1/(n+1)；看到nq^n就把S和qS上下对齐。",
+      "style": "",
+      "sourceIndex": 3512
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 错位相减要写原式和乘q后的式子，错位对齐。",
+      "style": "",
+      "sourceIndex": 3513
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这里不要先背方法名，而是看“相邻项能不能互相消”。分式乘积常能拆成两个简单分式；nq^n则适合把整串错开一位。",
+      "style": "",
+      "sourceIndex": 3514
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先把前3项和最后1项写出来：看到1/[n(n+1)]就试1/n-1/(n+1)；看到nq^n就把S和qS上下对齐。",
+      "style": "",
+      "sourceIndex": 3515
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3516
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先判断是在求“第n项”还是“前n项和”。",
+      "style": "",
+      "sourceIndex": 3517
+    },
+    {
+      "type": "paragraph",
+      "text": "• 等比求和必须检查q=1。",
+      "style": "",
+      "sourceIndex": 3518
+    },
+    {
+      "type": "paragraph",
+      "text": "• 由S_n求a_n时a₁=S₁必须单独处理。",
+      "style": "",
+      "sourceIndex": 3519
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3520
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3521
+    },
+    {
+      "type": "paragraph",
+      "text": "• n从1开始还是从2开始？",
+      "style": "",
+      "sourceIndex": 3522
+    },
+    {
+      "type": "paragraph",
+      "text": "• q=1是否单独处理？",
+      "style": "",
+      "sourceIndex": 3523
+    },
+    {
+      "type": "paragraph",
+      "text": "• 由S_n求a_n时a₁是否单独检查？",
+      "style": "",
+      "sourceIndex": 3524
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3525
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果你还在问“这叫什么方法”，先不管名字，只写前三项和最后一项，看有没有前后抵消。",
+      "style": "",
+      "sourceIndex": 3526
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果出现nq^n：考虑把整串乘q，让它与原式错开一位再相减。",
+      "style": "",
+      "sourceIndex": 3527
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜求Σ_{n=1}^N 1/[n(n+1)]。"
+        ],
+        [
+          "先怎么想｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。"
+        ],
+        [
+          "核心过程 / 答案｜1/[n(n+1)]=1/n-1/(n+1)，和=1-1/(N+1)=N/(N+1)。"
+        ]
+      ],
+      "text": "典型例题｜求Σ_{n=1}^N 1/[n(n+1)]。\n先怎么想｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。\n核心过程 / 答案｜1/[n(n+1)]=1/n-1/(n+1)，和=1-1/(N+1)=N/(N+1)。",
+      "sourceIndex": 3528
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜裂项系数容易丢；错位相减最怕没有对齐同次幂。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜裂项系数容易丢；错位相减最怕没有对齐同次幂。",
+      "sourceIndex": 3529
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3530
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。"
+        ]
+      ],
+      "text": "📌 30秒速记｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。",
+      "sourceIndex": 3531
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3532
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 1/(2·3)裂项。",
+      "style": "",
+      "sourceIndex": 3533
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Σ_{n=1}^3 1/[n(n+1)]。",
+      "style": "",
+      "sourceIndex": 3534
+    },
+    {
+      "type": "paragraph",
+      "text": "3. n·2^n型优先方法。",
+      "style": "",
+      "sourceIndex": 3535
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 奇数项一组偶数项一组属于。",
+      "style": "",
+      "sourceIndex": 3536
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 裂项相消最后重点看。",
+      "style": "",
+      "sourceIndex": 3537
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.1/2-1/3；2.3/4；3.错位相减；4.分组求和；5.首尾剩余项",
+      "style": "TinyNote",
+      "sourceIndex": 3538
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3539
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜求和项形如1/[n(n+1)]、奇偶交替、nq^n等。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜求和项形如1/[n(n+1)]、奇偶交替、nq^n等。",
+          "sourceIndex": 3499
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。",
+          "sourceIndex": 3500
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 3501
+        },
+        {
+          "type": "paragraph",
+          "text": "• 裂项 → 把一项拆成两个更简单的式子，让相邻项有机会抵消",
+          "style": "",
+          "sourceIndex": 3502
+        },
+        {
+          "type": "paragraph",
+          "text": "• 错位相减 → 把含nq^n的和乘q错开一位，再相减消掉大部分项",
+          "style": "",
+          "sourceIndex": 3503
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3504
+        },
+        {
+          "type": "paragraph",
+          "text": "数列只是把“第几项”换成n来表达。把所有条件统一翻译成少数几个基本量（如a₁,d,q,S_n），题目会从很多下标变成普通方程。",
+          "style": "",
+          "sourceIndex": 3505
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3506
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先识别结构：分式乘积→裂项；可拆两类→分组；nq^n→错位相减。",
+          "style": "",
+          "sourceIndex": 3507
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这里不要先背方法名，而是看“相邻项能不能互相消”。分式乘积常能拆成两个简单分式；nq^n则适合把整串错开一位。",
+          "style": "",
+          "sourceIndex": 3508
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先把前3项和最后1项写出来：看到1/[n(n+1)]就试1/n-1/(n+1)；看到nq^n就把S和qS上下对齐。",
+          "style": "",
+          "sourceIndex": 3509
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 裂项后写出前几项和末几项，看中间消去。",
+          "style": "",
+          "sourceIndex": 3510
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这里不要先背方法名，而是看“相邻项能不能互相消”。分式乘积常能拆成两个简单分式；nq^n则适合把整串错开一位。",
+          "style": "",
+          "sourceIndex": 3511
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先把前3项和最后1项写出来：看到1/[n(n+1)]就试1/n-1/(n+1)；看到nq^n就把S和qS上下对齐。",
+          "style": "",
+          "sourceIndex": 3512
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 错位相减要写原式和乘q后的式子，错位对齐。",
+          "style": "",
+          "sourceIndex": 3513
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这里不要先背方法名，而是看“相邻项能不能互相消”。分式乘积常能拆成两个简单分式；nq^n则适合把整串错开一位。",
+          "style": "",
+          "sourceIndex": 3514
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先把前3项和最后1项写出来：看到1/[n(n+1)]就试1/n-1/(n+1)；看到nq^n就把S和qS上下对齐。",
+          "style": "",
+          "sourceIndex": 3515
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3516
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先判断是在求“第n项”还是“前n项和”。",
+          "style": "",
+          "sourceIndex": 3517
+        },
+        {
+          "type": "paragraph",
+          "text": "• 等比求和必须检查q=1。",
+          "style": "",
+          "sourceIndex": 3518
+        },
+        {
+          "type": "paragraph",
+          "text": "• 由S_n求a_n时a₁=S₁必须单独处理。",
+          "style": "",
+          "sourceIndex": 3519
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3520
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3521
+        },
+        {
+          "type": "paragraph",
+          "text": "• n从1开始还是从2开始？",
+          "style": "",
+          "sourceIndex": 3522
+        },
+        {
+          "type": "paragraph",
+          "text": "• q=1是否单独处理？",
+          "style": "",
+          "sourceIndex": 3523
+        },
+        {
+          "type": "paragraph",
+          "text": "• 由S_n求a_n时a₁是否单独检查？",
+          "style": "",
+          "sourceIndex": 3524
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3525
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果你还在问“这叫什么方法”，先不管名字，只写前三项和最后一项，看有没有前后抵消。",
+          "style": "",
+          "sourceIndex": 3526
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果出现nq^n：考虑把整串乘q，让它与原式错开一位再相减。",
+          "style": "",
+          "sourceIndex": 3527
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜求Σ_{n=1}^N 1/[n(n+1)]。"
+            ],
+            [
+              "先怎么想｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。"
+            ],
+            [
+              "核心过程 / 答案｜1/[n(n+1)]=1/n-1/(n+1)，和=1-1/(N+1)=N/(N+1)。"
+            ]
+          ],
+          "text": "典型例题｜求Σ_{n=1}^N 1/[n(n+1)]。\n先怎么想｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。\n核心过程 / 答案｜1/[n(n+1)]=1/n-1/(n+1)，和=1-1/(N+1)=N/(N+1)。",
+          "sourceIndex": 3528
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜裂项系数容易丢；错位相减最怕没有对齐同次幂。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜裂项系数容易丢；错位相减最怕没有对齐同次幂。",
+          "sourceIndex": 3529
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3530
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。"
+            ]
+          ],
+          "text": "📌 30秒速记｜数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。",
+          "sourceIndex": 3531
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3532
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 1/(2·3)裂项。",
+          "style": "",
+          "sourceIndex": 3533
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Σ_{n=1}^3 1/[n(n+1)]。",
+          "style": "",
+          "sourceIndex": 3534
+        },
+        {
+          "type": "paragraph",
+          "text": "3. n·2^n型优先方法。",
+          "style": "",
+          "sourceIndex": 3535
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 奇数项一组偶数项一组属于。",
+          "style": "",
+          "sourceIndex": 3536
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 裂项相消最后重点看。",
+          "style": "",
+          "sourceIndex": 3537
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.1/2-1/3；2.3/4；3.错位相减；4.分组求和；5.首尾剩余项",
+          "style": "TinyNote",
+          "sourceIndex": 3538
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3539
+        }
+      ]
+    }
+  ],
+  "sort_order": 82,
+  "brain_first": "数列求和不要先问“叫什么方法”，先看每一项长相：能不能拆开自己消、能不能分组、有没有n·q^n这种“错一位再减”的结构。"
+}

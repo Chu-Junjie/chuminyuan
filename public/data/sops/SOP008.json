@@ -1,0 +1,627 @@
+{
+  "id": "SOP008",
+  "code": "SOP008",
+  "title": "基本不等式求最值",
+  "chapter_id": "chapter-03",
+  "chapter": "必修第一册 第3章 不等式",
+  "frequency": 5,
+  "keywords": [
+    "基本不等式求最值"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 427
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜正数条件下出现 x+1/x、ab定值、a+b定值，要求最值。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜正数条件下出现 x+1/x、ab定值、a+b定值，要求最值。",
+      "sourceIndex": 428
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？",
+      "sourceIndex": 429
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 430
+    },
+    {
+      "type": "paragraph",
+      "text": "• 基本不等式 → 把正数的和与积联系起来的AM-GM工具",
+      "style": "",
+      "sourceIndex": 431
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域 → 哪些x允许放进这个函数",
+      "style": "",
+      "sourceIndex": 432
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 433
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 434
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 435
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先检查“一正”：参与AM-GM的量必须非负/正。",
+      "style": "",
+      "sourceIndex": 436
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：基本不等式能取到最值，必须同时满足“量为正、和/积被固定、等号真的能成立”。少一个条件都可能只是一个无效下界。",
+      "style": "",
+      "sourceIndex": 437
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把参与比较的两个正量圈出来；在旁边写“等号条件：两量相等”，最后解出等号点并检查它是否在定义域内。",
+      "style": "",
+      "sourceIndex": 438
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 再找“二定”：和定或积定，必要时拆项配系数。",
+      "style": "",
+      "sourceIndex": 439
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：基本不等式能取到最值，必须同时满足“量为正、和/积被固定、等号真的能成立”。少一个条件都可能只是一个无效下界。",
+      "style": "",
+      "sourceIndex": 440
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把参与比较的两个正量圈出来；在旁边写“等号条件：两量相等”，最后解出等号点并检查它是否在定义域内。",
+      "style": "",
+      "sourceIndex": 441
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 最后检查“三相等”：等号条件是否能在题目定义域内达到。",
+      "style": "",
+      "sourceIndex": 442
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：基本不等式能取到最值，必须同时满足“量为正、和/积被固定、等号真的能成立”。少一个条件都可能只是一个无效下界。",
+      "style": "",
+      "sourceIndex": 443
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把参与比较的两个正量圈出来；在旁边写“等号条件：两量相等”，最后解出等号点并检查它是否在定义域内。",
+      "style": "",
+      "sourceIndex": 444
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 445
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果出现分母：先找分母为0的禁值，绝不能直接乘过去。",
+      "style": "",
+      "sourceIndex": 446
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果二次项系数为负：可先整体乘-1，但记得不等号方向改变。",
+      "style": "",
+      "sourceIndex": 447
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 448
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 449
+    },
+    {
+      "type": "paragraph",
+      "text": "• 所有分母禁值是否排除？",
+      "style": "",
+      "sourceIndex": 450
+    },
+    {
+      "type": "paragraph",
+      "text": "• 乘负数时不等号是否翻转？",
+      "style": "",
+      "sourceIndex": 451
+    },
+    {
+      "type": "paragraph",
+      "text": "• 含等号时端点是否应该取？",
+      "style": "",
+      "sourceIndex": 452
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 453
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 454
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 455
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜x>0，求x+4/x的最小值。"
+        ],
+        [
+          "先怎么想｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？"
+        ],
+        [
+          "核心过程 / 答案｜x+4/x≥2√4=4，当x=2时取等号，所以最小值4。"
+        ]
+      ],
+      "text": "典型例题｜x>0，求x+4/x的最小值。\n先怎么想｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？\n核心过程 / 答案｜x+4/x≥2√4=4，当x=2时取等号，所以最小值4。",
+      "sourceIndex": 456
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜只写≥而不写等号条件，解答题会丢分；变量不为正时不能硬套。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜只写≥而不写等号条件，解答题会丢分；变量不为正时不能硬套。",
+      "sourceIndex": 457
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 458
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？"
+        ]
+      ],
+      "text": "📌 30秒速记｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？",
+      "sourceIndex": 459
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 460
+    },
+    {
+      "type": "paragraph",
+      "text": "1. x>0，x+1/x最小值。",
+      "style": "",
+      "sourceIndex": 461
+    },
+    {
+      "type": "paragraph",
+      "text": "2. a,b>0且ab=9，求a+b最小值。",
+      "style": "",
+      "sourceIndex": 462
+    },
+    {
+      "type": "paragraph",
+      "text": "3. x>0，2x+8/x最小值。",
+      "style": "",
+      "sourceIndex": 463
+    },
+    {
+      "type": "paragraph",
+      "text": "4. a,b>0且a+b=10，ab最大值。",
+      "style": "",
+      "sourceIndex": 464
+    },
+    {
+      "type": "paragraph",
+      "text": "5. x∈(0,3)，x(3-x)最大值。",
+      "style": "",
+      "sourceIndex": 465
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.2；2.6；3.8；4.25；5.9/4",
+      "style": "TinyNote",
+      "sourceIndex": 466
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 467
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜正数条件下出现 x+1/x、ab定值、a+b定值，要求最值。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜正数条件下出现 x+1/x、ab定值、a+b定值，要求最值。",
+          "sourceIndex": 428
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？",
+          "sourceIndex": 429
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 430
+        },
+        {
+          "type": "paragraph",
+          "text": "• 基本不等式 → 把正数的和与积联系起来的AM-GM工具",
+          "style": "",
+          "sourceIndex": 431
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域 → 哪些x允许放进这个函数",
+          "style": "",
+          "sourceIndex": 432
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 433
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 434
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 435
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先检查“一正”：参与AM-GM的量必须非负/正。",
+          "style": "",
+          "sourceIndex": 436
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：基本不等式能取到最值，必须同时满足“量为正、和/积被固定、等号真的能成立”。少一个条件都可能只是一个无效下界。",
+          "style": "",
+          "sourceIndex": 437
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把参与比较的两个正量圈出来；在旁边写“等号条件：两量相等”，最后解出等号点并检查它是否在定义域内。",
+          "style": "",
+          "sourceIndex": 438
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 再找“二定”：和定或积定，必要时拆项配系数。",
+          "style": "",
+          "sourceIndex": 439
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：基本不等式能取到最值，必须同时满足“量为正、和/积被固定、等号真的能成立”。少一个条件都可能只是一个无效下界。",
+          "style": "",
+          "sourceIndex": 440
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把参与比较的两个正量圈出来；在旁边写“等号条件：两量相等”，最后解出等号点并检查它是否在定义域内。",
+          "style": "",
+          "sourceIndex": 441
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 最后检查“三相等”：等号条件是否能在题目定义域内达到。",
+          "style": "",
+          "sourceIndex": 442
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：基本不等式能取到最值，必须同时满足“量为正、和/积被固定、等号真的能成立”。少一个条件都可能只是一个无效下界。",
+          "style": "",
+          "sourceIndex": 443
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把参与比较的两个正量圈出来；在旁边写“等号条件：两量相等”，最后解出等号点并检查它是否在定义域内。",
+          "style": "",
+          "sourceIndex": 444
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 445
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果出现分母：先找分母为0的禁值，绝不能直接乘过去。",
+          "style": "",
+          "sourceIndex": 446
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果二次项系数为负：可先整体乘-1，但记得不等号方向改变。",
+          "style": "",
+          "sourceIndex": 447
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 448
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 449
+        },
+        {
+          "type": "paragraph",
+          "text": "• 所有分母禁值是否排除？",
+          "style": "",
+          "sourceIndex": 450
+        },
+        {
+          "type": "paragraph",
+          "text": "• 乘负数时不等号是否翻转？",
+          "style": "",
+          "sourceIndex": 451
+        },
+        {
+          "type": "paragraph",
+          "text": "• 含等号时端点是否应该取？",
+          "style": "",
+          "sourceIndex": 452
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 453
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 454
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 455
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜x>0，求x+4/x的最小值。"
+            ],
+            [
+              "先怎么想｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？"
+            ],
+            [
+              "核心过程 / 答案｜x+4/x≥2√4=4，当x=2时取等号，所以最小值4。"
+            ]
+          ],
+          "text": "典型例题｜x>0，求x+4/x的最小值。\n先怎么想｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？\n核心过程 / 答案｜x+4/x≥2√4=4，当x=2时取等号，所以最小值4。",
+          "sourceIndex": 456
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜只写≥而不写等号条件，解答题会丢分；变量不为正时不能硬套。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜只写≥而不写等号条件，解答题会丢分；变量不为正时不能硬套。",
+          "sourceIndex": 457
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 458
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？"
+            ]
+          ],
+          "text": "📌 30秒速记｜基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？",
+          "sourceIndex": 459
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 460
+        },
+        {
+          "type": "paragraph",
+          "text": "1. x>0，x+1/x最小值。",
+          "style": "",
+          "sourceIndex": 461
+        },
+        {
+          "type": "paragraph",
+          "text": "2. a,b>0且ab=9，求a+b最小值。",
+          "style": "",
+          "sourceIndex": 462
+        },
+        {
+          "type": "paragraph",
+          "text": "3. x>0，2x+8/x最小值。",
+          "style": "",
+          "sourceIndex": 463
+        },
+        {
+          "type": "paragraph",
+          "text": "4. a,b>0且a+b=10，ab最大值。",
+          "style": "",
+          "sourceIndex": 464
+        },
+        {
+          "type": "paragraph",
+          "text": "5. x∈(0,3)，x(3-x)最大值。",
+          "style": "",
+          "sourceIndex": 465
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.2；2.6；3.8；4.25；5.9/4",
+          "style": "TinyNote",
+          "sourceIndex": 466
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 467
+        }
+      ]
+    }
+  ],
+  "sort_order": 7,
+  "brain_first": "基本不等式不是看到加法就套。先问三个问题：都为正吗？有没有固定的和/积？等号真的能取到吗？"
+}

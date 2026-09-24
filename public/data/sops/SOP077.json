@@ -1,0 +1,598 @@
+{
+  "id": "SOP077",
+  "code": "SOP077",
+  "title": "圆锥曲线定义与焦点距离转化",
+  "chapter_id": "chapter-18",
+  "chapter": "选择性必修第一册 第3章 圆锥曲线与方程",
+  "frequency": 4,
+  "keywords": [
+    "圆锥曲线定义",
+    "焦点距离转化"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 3256
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜题目强调“到两焦点距离和/差”“到焦点与准线距离”，或距离式很复杂。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜题目强调“到两焦点距离和/差”“到焦点与准线距离”，或距离式很复杂。",
+      "sourceIndex": 3257
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。",
+      "sourceIndex": 3258
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3259
+    },
+    {
+      "type": "paragraph",
+      "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+      "style": "",
+      "sourceIndex": 3260
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3261
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 看到距离和固定→椭圆定义。",
+      "style": "",
+      "sourceIndex": 3262
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 3263
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 3264
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 距离差绝对值固定→双曲线定义。",
+      "style": "",
+      "sourceIndex": 3265
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 3266
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 3267
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 到焦点=到准线→抛物线定义；先用定义替代根式距离再算。",
+      "style": "",
+      "sourceIndex": 3268
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：抛物线最值钱的定义是“到焦点=到准线”。很多根号距离一换成到直线距离，计算会瞬间变短。",
+      "style": "",
+      "sourceIndex": 3269
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先从标准方程确定开口、焦点F和准线；题里出现PF时，试着改写成P到准线的距离。",
+      "style": "",
+      "sourceIndex": 3270
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3271
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先认标准量和方向，再做运算。",
+      "style": "",
+      "sourceIndex": 3272
+    },
+    {
+      "type": "paragraph",
+      "text": "• 直线联立后如果只问中点/距离/关系，优先用韦达，别把两个根都硬算出来。",
+      "style": "",
+      "sourceIndex": 3273
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果代数式突然暴涨，先停下来检查是不是应该用定义或对称性。",
+      "style": "",
+      "sourceIndex": 3274
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3275
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3276
+    },
+    {
+      "type": "paragraph",
+      "text": "• 有没有先认标准方程/方向？",
+      "style": "",
+      "sourceIndex": 3277
+    },
+    {
+      "type": "paragraph",
+      "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+      "style": "",
+      "sourceIndex": 3278
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算结果能否用图形常识检查正负和范围？",
+      "style": "",
+      "sourceIndex": 3279
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3280
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果联立后展开越来越长：先停止，看看题目是不是只要根的和/积、中点、弦长；能用韦达就别解根。",
+      "style": "",
+      "sourceIndex": 3281
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果距离式出现很多根号：检查能否用曲线定义把焦点距离换掉。",
+      "style": "",
+      "sourceIndex": 3282
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜点P在椭圆上，PF1+PF2等于什么？"
+        ],
+        [
+          "先怎么想｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。"
+        ],
+        [
+          "核心过程 / 答案｜2a。"
+        ]
+      ],
+      "text": "典型例题｜点P在椭圆上，PF1+PF2等于什么？\n先怎么想｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。\n核心过程 / 答案｜2a。",
+      "sourceIndex": 3283
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜双曲线是|PF1-PF2|=2a，必须有绝对值。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜双曲线是|PF1-PF2|=2a，必须有绝对值。",
+      "sourceIndex": 3284
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3285
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。"
+        ]
+      ],
+      "text": "📌 30秒速记｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。",
+      "sourceIndex": 3286
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3287
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 椭圆焦点距离和。",
+      "style": "",
+      "sourceIndex": 3288
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 双曲线焦点距离差绝对值。",
+      "style": "",
+      "sourceIndex": 3289
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 抛物线定义。",
+      "style": "",
+      "sourceIndex": 3290
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 椭圆上点两焦距和是否随点变？",
+      "style": "",
+      "sourceIndex": 3291
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 定义法主要作用。",
+      "style": "",
+      "sourceIndex": 3292
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.2a；2.2a；3.到焦点距离=到准线距离；4.不变；5.把复杂距离根式变成简单线性关系",
+      "style": "TinyNote",
+      "sourceIndex": 3293
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3294
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜题目强调“到两焦点距离和/差”“到焦点与准线距离”，或距离式很复杂。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜题目强调“到两焦点距离和/差”“到焦点与准线距离”，或距离式很复杂。",
+          "sourceIndex": 3257
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。",
+          "sourceIndex": 3258
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3259
+        },
+        {
+          "type": "paragraph",
+          "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+          "style": "",
+          "sourceIndex": 3260
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3261
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 看到距离和固定→椭圆定义。",
+          "style": "",
+          "sourceIndex": 3262
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 3263
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 3264
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 距离差绝对值固定→双曲线定义。",
+          "style": "",
+          "sourceIndex": 3265
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 3266
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 3267
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 到焦点=到准线→抛物线定义；先用定义替代根式距离再算。",
+          "style": "",
+          "sourceIndex": 3268
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：抛物线最值钱的定义是“到焦点=到准线”。很多根号距离一换成到直线距离，计算会瞬间变短。",
+          "style": "",
+          "sourceIndex": 3269
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先从标准方程确定开口、焦点F和准线；题里出现PF时，试着改写成P到准线的距离。",
+          "style": "",
+          "sourceIndex": 3270
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3271
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先认标准量和方向，再做运算。",
+          "style": "",
+          "sourceIndex": 3272
+        },
+        {
+          "type": "paragraph",
+          "text": "• 直线联立后如果只问中点/距离/关系，优先用韦达，别把两个根都硬算出来。",
+          "style": "",
+          "sourceIndex": 3273
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果代数式突然暴涨，先停下来检查是不是应该用定义或对称性。",
+          "style": "",
+          "sourceIndex": 3274
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3275
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3276
+        },
+        {
+          "type": "paragraph",
+          "text": "• 有没有先认标准方程/方向？",
+          "style": "",
+          "sourceIndex": 3277
+        },
+        {
+          "type": "paragraph",
+          "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+          "style": "",
+          "sourceIndex": 3278
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算结果能否用图形常识检查正负和范围？",
+          "style": "",
+          "sourceIndex": 3279
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3280
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果联立后展开越来越长：先停止，看看题目是不是只要根的和/积、中点、弦长；能用韦达就别解根。",
+          "style": "",
+          "sourceIndex": 3281
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果距离式出现很多根号：检查能否用曲线定义把焦点距离换掉。",
+          "style": "",
+          "sourceIndex": 3282
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜点P在椭圆上，PF1+PF2等于什么？"
+            ],
+            [
+              "先怎么想｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。"
+            ],
+            [
+              "核心过程 / 答案｜2a。"
+            ]
+          ],
+          "text": "典型例题｜点P在椭圆上，PF1+PF2等于什么？\n先怎么想｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。\n核心过程 / 答案｜2a。",
+          "sourceIndex": 3283
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜双曲线是|PF1-PF2|=2a，必须有绝对值。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜双曲线是|PF1-PF2|=2a，必须有绝对值。",
+          "sourceIndex": 3284
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3285
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。"
+            ]
+          ],
+          "text": "📌 30秒速记｜圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。",
+          "sourceIndex": 3286
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3287
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 椭圆焦点距离和。",
+          "style": "",
+          "sourceIndex": 3288
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 双曲线焦点距离差绝对值。",
+          "style": "",
+          "sourceIndex": 3289
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 抛物线定义。",
+          "style": "",
+          "sourceIndex": 3290
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 椭圆上点两焦距和是否随点变？",
+          "style": "",
+          "sourceIndex": 3291
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 定义法主要作用。",
+          "style": "",
+          "sourceIndex": 3292
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.2a；2.2a；3.到焦点距离=到准线距离；4.不变；5.把复杂距离根式变成简单线性关系",
+          "style": "TinyNote",
+          "sourceIndex": 3293
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3294
+        }
+      ]
+    }
+  ],
+  "sort_order": 76,
+  "brain_first": "圆锥曲线定义题最值钱的是“距离改写”：椭圆用两焦点距离和，双曲线用差，抛物线用焦点距离=到准线距离。"
+}

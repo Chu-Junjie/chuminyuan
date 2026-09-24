@@ -1,0 +1,628 @@
+{
+  "id": "SOP043",
+  "code": "SOP043",
+  "title": "三角恒等化简与齐次式",
+  "chapter_id": "chapter-10",
+  "chapter": "必修第二册 第10章 三角恒等变换",
+  "frequency": 4,
+  "keywords": [
+    "三角恒等化简",
+    "齐次式"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 1876
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜分式中同时含sin、cos的同次数式子，或要求证明恒等式。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜分式中同时含sin、cos的同次数式子，或要求证明恒等式。",
+      "sourceIndex": 1877
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。",
+      "sourceIndex": 1878
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1879
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域 → 哪些x允许放进这个函数",
+      "style": "",
+      "sourceIndex": 1880
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1881
+    },
+    {
+      "type": "paragraph",
+      "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+      "style": "",
+      "sourceIndex": 1882
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1883
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先看是否能除以cos²或sin²把式子化为tan。",
+      "style": "",
+      "sourceIndex": 1884
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：sin²+cos²=1是同一个角最基本的“勾股关系”。它只能先求出平方，符号还要看象限。",
+      "style": "",
+      "sourceIndex": 1885
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：已知sin就写cos²=1-sin²；已知cos就写sin²=1-cos²；开根号先保留±，下一步再用象限删一个。",
+      "style": "",
+      "sourceIndex": 1886
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 其次看是否能提取sin²+cos²=1。",
+      "style": "",
+      "sourceIndex": 1887
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：sin²+cos²=1是同一个角最基本的“勾股关系”。它只能先求出平方，符号还要看象限。",
+      "style": "",
+      "sourceIndex": 1888
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：已知sin就写cos²=1-sin²；已知cos就写sin²=1-cos²；开根号先保留±，下一步再用象限删一个。",
+      "style": "",
+      "sourceIndex": 1889
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 只在分母非零条件下做除法，并记录定义域。",
+      "style": "",
+      "sourceIndex": 1890
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：分母为0的位置不是普通端点，而是题目根本没有定义的洞；无论不等号有没有等号都不能取。",
+      "style": "",
+      "sourceIndex": 1891
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先单独写“禁值：……”，在数轴上用空心圈/叉标出来，最后答案里检查没有把它带回去。",
+      "style": "",
+      "sourceIndex": 1892
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1893
+    },
+    {
+      "type": "paragraph",
+      "text": "• 出现区间：最终答案必须筛区间。",
+      "style": "",
+      "sourceIndex": 1894
+    },
+    {
+      "type": "paragraph",
+      "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+      "style": "",
+      "sourceIndex": 1895
+    },
+    {
+      "type": "paragraph",
+      "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+      "style": "",
+      "sourceIndex": 1896
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1897
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1898
+    },
+    {
+      "type": "paragraph",
+      "text": "• 角度/弧度单位是否统一？",
+      "style": "",
+      "sourceIndex": 1899
+    },
+    {
+      "type": "paragraph",
+      "text": "• 象限决定的正负有没有检查？",
+      "style": "",
+      "sourceIndex": 1900
+    },
+    {
+      "type": "paragraph",
+      "text": "• 最终角是否全部落在指定区间？",
+      "style": "",
+      "sourceIndex": 1901
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1902
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+      "style": "",
+      "sourceIndex": 1903
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+      "style": "",
+      "sourceIndex": 1904
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜化简 (sin²x-cos²x)/(sin²x+cos²x)。"
+        ],
+        [
+          "先怎么想｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。"
+        ],
+        [
+          "核心过程 / 答案｜分母=1，结果=-cos2x。"
+        ]
+      ],
+      "text": "典型例题｜化简 (sin²x-cos²x)/(sin²x+cos²x)。\n先怎么想｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。\n核心过程 / 答案｜分母=1，结果=-cos2x。",
+      "sourceIndex": 1905
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜齐次式“同除cos²”时必须确保cosx≠0；原式若在cosx=0有意义要单独检查。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜齐次式“同除cos²”时必须确保cosx≠0；原式若在cosx=0有意义要单独检查。",
+      "sourceIndex": 1906
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1907
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。"
+        ]
+      ],
+      "text": "📌 30秒速记｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。",
+      "sourceIndex": 1908
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1909
+    },
+    {
+      "type": "paragraph",
+      "text": "1. sin²x+cos²x。",
+      "style": "",
+      "sourceIndex": 1910
+    },
+    {
+      "type": "paragraph",
+      "text": "2. (1-tan²x)/(1+tan²x)。",
+      "style": "",
+      "sourceIndex": 1911
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 2sinxcosx。",
+      "style": "",
+      "sourceIndex": 1912
+    },
+    {
+      "type": "paragraph",
+      "text": "4. cos²x-sin²x。",
+      "style": "",
+      "sourceIndex": 1913
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 齐次二次式常同除什么化tan？",
+      "style": "",
+      "sourceIndex": 1914
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.1；2.cos2x；3.sin2x；4.cos2x；5.cos²x",
+      "style": "TinyNote",
+      "sourceIndex": 1915
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1916
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜分式中同时含sin、cos的同次数式子，或要求证明恒等式。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜分式中同时含sin、cos的同次数式子，或要求证明恒等式。",
+          "sourceIndex": 1877
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。",
+          "sourceIndex": 1878
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1879
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域 → 哪些x允许放进这个函数",
+          "style": "",
+          "sourceIndex": 1880
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1881
+        },
+        {
+          "type": "paragraph",
+          "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+          "style": "",
+          "sourceIndex": 1882
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1883
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先看是否能除以cos²或sin²把式子化为tan。",
+          "style": "",
+          "sourceIndex": 1884
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：sin²+cos²=1是同一个角最基本的“勾股关系”。它只能先求出平方，符号还要看象限。",
+          "style": "",
+          "sourceIndex": 1885
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：已知sin就写cos²=1-sin²；已知cos就写sin²=1-cos²；开根号先保留±，下一步再用象限删一个。",
+          "style": "",
+          "sourceIndex": 1886
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 其次看是否能提取sin²+cos²=1。",
+          "style": "",
+          "sourceIndex": 1887
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：sin²+cos²=1是同一个角最基本的“勾股关系”。它只能先求出平方，符号还要看象限。",
+          "style": "",
+          "sourceIndex": 1888
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：已知sin就写cos²=1-sin²；已知cos就写sin²=1-cos²；开根号先保留±，下一步再用象限删一个。",
+          "style": "",
+          "sourceIndex": 1889
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 只在分母非零条件下做除法，并记录定义域。",
+          "style": "",
+          "sourceIndex": 1890
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：分母为0的位置不是普通端点，而是题目根本没有定义的洞；无论不等号有没有等号都不能取。",
+          "style": "",
+          "sourceIndex": 1891
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先单独写“禁值：……”，在数轴上用空心圈/叉标出来，最后答案里检查没有把它带回去。",
+          "style": "",
+          "sourceIndex": 1892
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1893
+        },
+        {
+          "type": "paragraph",
+          "text": "• 出现区间：最终答案必须筛区间。",
+          "style": "",
+          "sourceIndex": 1894
+        },
+        {
+          "type": "paragraph",
+          "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+          "style": "",
+          "sourceIndex": 1895
+        },
+        {
+          "type": "paragraph",
+          "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+          "style": "",
+          "sourceIndex": 1896
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1897
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1898
+        },
+        {
+          "type": "paragraph",
+          "text": "• 角度/弧度单位是否统一？",
+          "style": "",
+          "sourceIndex": 1899
+        },
+        {
+          "type": "paragraph",
+          "text": "• 象限决定的正负有没有检查？",
+          "style": "",
+          "sourceIndex": 1900
+        },
+        {
+          "type": "paragraph",
+          "text": "• 最终角是否全部落在指定区间？",
+          "style": "",
+          "sourceIndex": 1901
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1902
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+          "style": "",
+          "sourceIndex": 1903
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+          "style": "",
+          "sourceIndex": 1904
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜化简 (sin²x-cos²x)/(sin²x+cos²x)。"
+            ],
+            [
+              "先怎么想｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。"
+            ],
+            [
+              "核心过程 / 答案｜分母=1，结果=-cos2x。"
+            ]
+          ],
+          "text": "典型例题｜化简 (sin²x-cos²x)/(sin²x+cos²x)。\n先怎么想｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。\n核心过程 / 答案｜分母=1，结果=-cos2x。",
+          "sourceIndex": 1905
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜齐次式“同除cos²”时必须确保cosx≠0；原式若在cosx=0有意义要单独检查。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜齐次式“同除cos²”时必须确保cosx≠0；原式若在cosx=0有意义要单独检查。",
+          "sourceIndex": 1906
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1907
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。"
+            ]
+          ],
+          "text": "📌 30秒速记｜三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。",
+          "sourceIndex": 1908
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1909
+        },
+        {
+          "type": "paragraph",
+          "text": "1. sin²x+cos²x。",
+          "style": "",
+          "sourceIndex": 1910
+        },
+        {
+          "type": "paragraph",
+          "text": "2. (1-tan²x)/(1+tan²x)。",
+          "style": "",
+          "sourceIndex": 1911
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 2sinxcosx。",
+          "style": "",
+          "sourceIndex": 1912
+        },
+        {
+          "type": "paragraph",
+          "text": "4. cos²x-sin²x。",
+          "style": "",
+          "sourceIndex": 1913
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 齐次二次式常同除什么化tan？",
+          "style": "",
+          "sourceIndex": 1914
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.1；2.cos2x；3.sin2x；4.cos2x；5.cos²x",
+          "style": "TinyNote",
+          "sourceIndex": 1915
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1916
+        }
+      ]
+    }
+  ],
+  "sort_order": 42,
+  "brain_first": "三角化简先统一“角”和“函数种类”。如果全是sin、cos的同次式，常常可以除以cos²或sin²把它变成tan。"
+}

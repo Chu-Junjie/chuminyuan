@@ -1,0 +1,586 @@
+{
+  "id": "SOP072",
+  "code": "SOP072",
+  "title": "圆与圆的位置关系",
+  "chapter_id": "chapter-17",
+  "chapter": "选择性必修第一册 第2章 圆与方程",
+  "frequency": 4,
+  "keywords": [
+    "圆",
+    "圆的位置关系"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 3054
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜两个圆，问相交、相切、相离、公共弦。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜两个圆，问相交、相切、相离、公共弦。",
+      "sourceIndex": 3055
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。",
+      "sourceIndex": 3056
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3057
+    },
+    {
+      "type": "paragraph",
+      "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+      "style": "",
+      "sourceIndex": 3058
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3059
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 求两圆心距离d和半径r1,r2。",
+      "style": "",
+      "sourceIndex": 3060
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 3061
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 3062
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 比较d与r1+r2、|r1-r2|。",
+      "style": "",
+      "sourceIndex": 3063
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 3064
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 3065
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 公共弦所在直线可用两圆方程相减消去x²+y²。",
+      "style": "",
+      "sourceIndex": 3066
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 3067
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 3068
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3069
+    },
+    {
+      "type": "paragraph",
+      "text": "• 判断直线与圆位置：优先圆心到直线距离，不必先联立。",
+      "style": "",
+      "sourceIndex": 3070
+    },
+    {
+      "type": "paragraph",
+      "text": "• 弦长：优先用“半弦²+d²=r²”，不必求交点。",
+      "style": "",
+      "sourceIndex": 3071
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3072
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3073
+    },
+    {
+      "type": "paragraph",
+      "text": "• 有没有先认标准方程/方向？",
+      "style": "",
+      "sourceIndex": 3074
+    },
+    {
+      "type": "paragraph",
+      "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+      "style": "",
+      "sourceIndex": 3075
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算结果能否用图形常识检查正负和范围？",
+      "style": "",
+      "sourceIndex": 3076
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3077
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 3078
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 3079
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜两圆半径2,3，圆心距5，位置关系。"
+        ],
+        [
+          "先怎么想｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。"
+        ],
+        [
+          "核心过程 / 答案｜d=r1+r2，外切。"
+        ]
+      ],
+      "text": "典型例题｜两圆半径2,3，圆心距5，位置关系。\n先怎么想｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。\n核心过程 / 答案｜d=r1+r2，外切。",
+      "sourceIndex": 3080
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜内切条件是d=|r1-r2|，不是d=r1-r2不加绝对值。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜内切条件是d=|r1-r2|，不是d=r1-r2不加绝对值。",
+      "sourceIndex": 3081
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3082
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。"
+        ]
+      ],
+      "text": "📌 30秒速记｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。",
+      "sourceIndex": 3083
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3084
+    },
+    {
+      "type": "paragraph",
+      "text": "1. r1=2,r2=3,d=1。",
+      "style": "",
+      "sourceIndex": 3085
+    },
+    {
+      "type": "paragraph",
+      "text": "2. r1=2,r2=3,d=4。",
+      "style": "",
+      "sourceIndex": 3086
+    },
+    {
+      "type": "paragraph",
+      "text": "3. r1=2,r2=3,d=6。",
+      "style": "",
+      "sourceIndex": 3087
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 两圆同心d=0,r不同。",
+      "style": "",
+      "sourceIndex": 3088
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 公共弦方程常怎么求？",
+      "style": "",
+      "sourceIndex": 3089
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.内切；2.相交；3.外离；4.内含；5.两圆方程相减",
+      "style": "TinyNote",
+      "sourceIndex": 3090
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3091
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜两个圆，问相交、相切、相离、公共弦。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜两个圆，问相交、相切、相离、公共弦。",
+          "sourceIndex": 3055
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。",
+          "sourceIndex": 3056
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3057
+        },
+        {
+          "type": "paragraph",
+          "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+          "style": "",
+          "sourceIndex": 3058
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3059
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 求两圆心距离d和半径r1,r2。",
+          "style": "",
+          "sourceIndex": 3060
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 3061
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 3062
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 比较d与r1+r2、|r1-r2|。",
+          "style": "",
+          "sourceIndex": 3063
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 3064
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 3065
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 公共弦所在直线可用两圆方程相减消去x²+y²。",
+          "style": "",
+          "sourceIndex": 3066
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 3067
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 3068
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3069
+        },
+        {
+          "type": "paragraph",
+          "text": "• 判断直线与圆位置：优先圆心到直线距离，不必先联立。",
+          "style": "",
+          "sourceIndex": 3070
+        },
+        {
+          "type": "paragraph",
+          "text": "• 弦长：优先用“半弦²+d²=r²”，不必求交点。",
+          "style": "",
+          "sourceIndex": 3071
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3072
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3073
+        },
+        {
+          "type": "paragraph",
+          "text": "• 有没有先认标准方程/方向？",
+          "style": "",
+          "sourceIndex": 3074
+        },
+        {
+          "type": "paragraph",
+          "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+          "style": "",
+          "sourceIndex": 3075
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算结果能否用图形常识检查正负和范围？",
+          "style": "",
+          "sourceIndex": 3076
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3077
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 3078
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 3079
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜两圆半径2,3，圆心距5，位置关系。"
+            ],
+            [
+              "先怎么想｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。"
+            ],
+            [
+              "核心过程 / 答案｜d=r1+r2，外切。"
+            ]
+          ],
+          "text": "典型例题｜两圆半径2,3，圆心距5，位置关系。\n先怎么想｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。\n核心过程 / 答案｜d=r1+r2，外切。",
+          "sourceIndex": 3080
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜内切条件是d=|r1-r2|，不是d=r1-r2不加绝对值。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜内切条件是d=|r1-r2|，不是d=r1-r2不加绝对值。",
+          "sourceIndex": 3081
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3082
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。"
+            ]
+          ],
+          "text": "📌 30秒速记｜两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。",
+          "sourceIndex": 3083
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3084
+        },
+        {
+          "type": "paragraph",
+          "text": "1. r1=2,r2=3,d=1。",
+          "style": "",
+          "sourceIndex": 3085
+        },
+        {
+          "type": "paragraph",
+          "text": "2. r1=2,r2=3,d=4。",
+          "style": "",
+          "sourceIndex": 3086
+        },
+        {
+          "type": "paragraph",
+          "text": "3. r1=2,r2=3,d=6。",
+          "style": "",
+          "sourceIndex": 3087
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 两圆同心d=0,r不同。",
+          "style": "",
+          "sourceIndex": 3088
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 公共弦方程常怎么求？",
+          "style": "",
+          "sourceIndex": 3089
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.内切；2.相交；3.外离；4.内含；5.两圆方程相减",
+          "style": "TinyNote",
+          "sourceIndex": 3090
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3091
+        }
+      ]
+    }
+  ],
+  "sort_order": 71,
+  "brain_first": "两圆位置关系只看“圆心距离d”和“r₁+r₂、|r₁-r₂|”的大小。"
+}

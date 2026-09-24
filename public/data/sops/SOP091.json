@@ -1,0 +1,640 @@
+{
+  "id": "SOP091",
+  "code": "SOP091",
+  "title": "线面角与二面角",
+  "chapter_id": "chapter-21",
+  "chapter": "选择性必修第二册 第6章 空间向量与立体几何",
+  "frequency": 5,
+  "keywords": [
+    "线面角",
+    "二面角"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 3835
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜求直线与平面所成角、二面角大小/余弦/正弦。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜求直线与平面所成角、二面角大小/余弦/正弦。",
+      "sourceIndex": 3836
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。",
+      "sourceIndex": 3837
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 3838
+    },
+    {
+      "type": "paragraph",
+      "text": "• 法向量 → 垂直于一个平面的向量",
+      "style": "",
+      "sourceIndex": 3839
+    },
+    {
+      "type": "paragraph",
+      "text": "• 线面角 → 直线与它在平面上的投影之间的锐角",
+      "style": "",
+      "sourceIndex": 3840
+    },
+    {
+      "type": "paragraph",
+      "text": "• 二面角 → 两个平面张开的角",
+      "style": "",
+      "sourceIndex": 3841
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3842
+    },
+    {
+      "type": "paragraph",
+      "text": "立体几何看图容易乱，所以要么用判定定理把目标拆成少量条件，要么建坐标把空间关系变成向量计算。先选路线比直接算更重要。",
+      "style": "",
+      "sourceIndex": 3843
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3844
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 线面角θ：线方向v、平面法向量n，sinθ=|v·n|/(|v||n|)。",
+      "style": "",
+      "sourceIndex": 3845
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：法向量是垂直平面的“方向代表”。让它同时垂直平面内两条不共线方向，就能锁定整个平面的朝向。",
+      "style": "",
+      "sourceIndex": 3846
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：设n=(x,y,z)，取平面内两向量a、b，列n·a=0、n·b=0；任选一个方便的非零解，尽量取小整数。",
+      "style": "",
+      "sourceIndex": 3847
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 二面角：分别取两平面法向量n1,n2，先求法向量夹角。",
+      "style": "",
+      "sourceIndex": 3848
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：法向量是垂直平面的“方向代表”。让它同时垂直平面内两条不共线方向，就能锁定整个平面的朝向。",
+      "style": "",
+      "sourceIndex": 3849
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：设n=(x,y,z)，取平面内两向量a、b，列n·a=0、n·b=0；任选一个方便的非零解，尽量取小整数。",
+      "style": "",
+      "sourceIndex": 3850
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 根据图形判断实际二面角是该夹角还是补角。",
+      "style": "",
+      "sourceIndex": 3851
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：空间角直接从图里量很难，向量法把它变成点乘。线面角通过法向量间接算，二面角通过两个法向量算。",
+      "style": "",
+      "sourceIndex": 3852
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先写方向向量v和法向量n；线面角用sinθ=|v·n|/(|v||n|)。二面角先算两法向量夹角，再根据图形决定是否取补角。",
+      "style": "",
+      "sourceIndex": 3853
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3854
+    },
+    {
+      "type": "paragraph",
+      "text": "• 证明题优先找课本判定定理需要的“最少条件”，不要证明一大堆无关垂直/平行。",
+      "style": "",
+      "sourceIndex": 3855
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算题若纯几何绕：考虑建坐标，把角和距离改成向量。",
+      "style": "",
+      "sourceIndex": 3856
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3857
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3858
+    },
+    {
+      "type": "paragraph",
+      "text": "• 证明定理的条件是否写全（线在面内、两线相交等）？",
+      "style": "",
+      "sourceIndex": 3859
+    },
+    {
+      "type": "paragraph",
+      "text": "• 角/距离是不是题目真正要求的那个？",
+      "style": "",
+      "sourceIndex": 3860
+    },
+    {
+      "type": "paragraph",
+      "text": "• 体积是否漏1/3？",
+      "style": "",
+      "sourceIndex": 3861
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3862
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 3863
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 3864
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜v=(1,0,0),n=(0,0,1)，线面角。"
+        ],
+        [
+          "先怎么想｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。"
+        ],
+        [
+          "核心过程 / 答案｜v·n=0，所以线平行于平面，线面角0。"
+        ]
+      ],
+      "text": "典型例题｜v=(1,0,0),n=(0,0,1)，线面角。\n先怎么想｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。\n核心过程 / 答案｜v·n=0，所以线平行于平面，线面角0。",
+      "sourceIndex": 3865
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜线面角公式是sin，不是cos；cos对应线与法向量夹角。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜线面角公式是sin，不是cos；cos对应线与法向量夹角。",
+      "sourceIndex": 3866
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3867
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。"
+        ]
+      ],
+      "text": "📌 30秒速记｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。",
+      "sourceIndex": 3868
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3869
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 线方向与法向量平行，线面角。",
+      "style": "",
+      "sourceIndex": 3870
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 两法向量垂直，二面角可为。",
+      "style": "",
+      "sourceIndex": 3871
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 线面角取值范围。",
+      "style": "",
+      "sourceIndex": 3872
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 二面角计算核心向量。",
+      "style": "",
+      "sourceIndex": 3873
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 是否总直接取法向量夹角？",
+      "style": "",
+      "sourceIndex": 3874
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.90°；2.90°；3.[0,90°]；4.两个平面法向量；5.不一定，要判补角",
+      "style": "TinyNote",
+      "sourceIndex": 3875
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3876
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜求直线与平面所成角、二面角大小/余弦/正弦。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜求直线与平面所成角、二面角大小/余弦/正弦。",
+          "sourceIndex": 3836
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。",
+          "sourceIndex": 3837
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 3838
+        },
+        {
+          "type": "paragraph",
+          "text": "• 法向量 → 垂直于一个平面的向量",
+          "style": "",
+          "sourceIndex": 3839
+        },
+        {
+          "type": "paragraph",
+          "text": "• 线面角 → 直线与它在平面上的投影之间的锐角",
+          "style": "",
+          "sourceIndex": 3840
+        },
+        {
+          "type": "paragraph",
+          "text": "• 二面角 → 两个平面张开的角",
+          "style": "",
+          "sourceIndex": 3841
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3842
+        },
+        {
+          "type": "paragraph",
+          "text": "立体几何看图容易乱，所以要么用判定定理把目标拆成少量条件，要么建坐标把空间关系变成向量计算。先选路线比直接算更重要。",
+          "style": "",
+          "sourceIndex": 3843
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3844
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 线面角θ：线方向v、平面法向量n，sinθ=|v·n|/(|v||n|)。",
+          "style": "",
+          "sourceIndex": 3845
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：法向量是垂直平面的“方向代表”。让它同时垂直平面内两条不共线方向，就能锁定整个平面的朝向。",
+          "style": "",
+          "sourceIndex": 3846
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：设n=(x,y,z)，取平面内两向量a、b，列n·a=0、n·b=0；任选一个方便的非零解，尽量取小整数。",
+          "style": "",
+          "sourceIndex": 3847
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 二面角：分别取两平面法向量n1,n2，先求法向量夹角。",
+          "style": "",
+          "sourceIndex": 3848
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：法向量是垂直平面的“方向代表”。让它同时垂直平面内两条不共线方向，就能锁定整个平面的朝向。",
+          "style": "",
+          "sourceIndex": 3849
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：设n=(x,y,z)，取平面内两向量a、b，列n·a=0、n·b=0；任选一个方便的非零解，尽量取小整数。",
+          "style": "",
+          "sourceIndex": 3850
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 根据图形判断实际二面角是该夹角还是补角。",
+          "style": "",
+          "sourceIndex": 3851
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：空间角直接从图里量很难，向量法把它变成点乘。线面角通过法向量间接算，二面角通过两个法向量算。",
+          "style": "",
+          "sourceIndex": 3852
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先写方向向量v和法向量n；线面角用sinθ=|v·n|/(|v||n|)。二面角先算两法向量夹角，再根据图形决定是否取补角。",
+          "style": "",
+          "sourceIndex": 3853
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3854
+        },
+        {
+          "type": "paragraph",
+          "text": "• 证明题优先找课本判定定理需要的“最少条件”，不要证明一大堆无关垂直/平行。",
+          "style": "",
+          "sourceIndex": 3855
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算题若纯几何绕：考虑建坐标，把角和距离改成向量。",
+          "style": "",
+          "sourceIndex": 3856
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3857
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3858
+        },
+        {
+          "type": "paragraph",
+          "text": "• 证明定理的条件是否写全（线在面内、两线相交等）？",
+          "style": "",
+          "sourceIndex": 3859
+        },
+        {
+          "type": "paragraph",
+          "text": "• 角/距离是不是题目真正要求的那个？",
+          "style": "",
+          "sourceIndex": 3860
+        },
+        {
+          "type": "paragraph",
+          "text": "• 体积是否漏1/3？",
+          "style": "",
+          "sourceIndex": 3861
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3862
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 3863
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 3864
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜v=(1,0,0),n=(0,0,1)，线面角。"
+            ],
+            [
+              "先怎么想｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。"
+            ],
+            [
+              "核心过程 / 答案｜v·n=0，所以线平行于平面，线面角0。"
+            ]
+          ],
+          "text": "典型例题｜v=(1,0,0),n=(0,0,1)，线面角。\n先怎么想｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。\n核心过程 / 答案｜v·n=0，所以线平行于平面，线面角0。",
+          "sourceIndex": 3865
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜线面角公式是sin，不是cos；cos对应线与法向量夹角。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜线面角公式是sin，不是cos；cos对应线与法向量夹角。",
+          "sourceIndex": 3866
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3867
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。"
+            ]
+          ],
+          "text": "📌 30秒速记｜线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。",
+          "sourceIndex": 3868
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3869
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 线方向与法向量平行，线面角。",
+          "style": "",
+          "sourceIndex": 3870
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 两法向量垂直，二面角可为。",
+          "style": "",
+          "sourceIndex": 3871
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 线面角取值范围。",
+          "style": "",
+          "sourceIndex": 3872
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 二面角计算核心向量。",
+          "style": "",
+          "sourceIndex": 3873
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 是否总直接取法向量夹角？",
+          "style": "",
+          "sourceIndex": 3874
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.90°；2.90°；3.[0,90°]；4.两个平面法向量；5.不一定，要判补角",
+          "style": "TinyNote",
+          "sourceIndex": 3875
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3876
+        }
+      ]
+    }
+  ],
+  "sort_order": 90,
+  "brain_first": "线面角不要直接算线和面的角，改算“线的方向向量和面法向量”的角；二面角则算两个法向量的夹角再判断取哪个。"
+}

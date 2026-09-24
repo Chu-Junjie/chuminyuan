@@ -1,0 +1,642 @@
+{
+  "id": "SOP097",
+  "code": "SOP097",
+  "title": "离散型随机变量：分布列、期望与方差",
+  "chapter_id": "chapter-23",
+  "chapter": "选择性必修第二册 第8章 概率",
+  "frequency": 5,
+  "keywords": [
+    "离散型随机变量",
+    "分布列",
+    "期望",
+    "方差"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 4085
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜随机变量X取有限多个值，给概率表，求未知概率、E(X)、D(X)。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜随机变量X取有限多个值，给概率表，求未知概率、E(X)、D(X)。",
+      "sourceIndex": 4086
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。",
+      "sourceIndex": 4087
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 4088
+    },
+    {
+      "type": "paragraph",
+      "text": "• 分布列 → 列出随机变量每个可能取值以及对应概率",
+      "style": "",
+      "sourceIndex": 4089
+    },
+    {
+      "type": "paragraph",
+      "text": "• 期望 → 按概率加权后的平均值",
+      "style": "",
+      "sourceIndex": 4090
+    },
+    {
+      "type": "paragraph",
+      "text": "• 方差 → 随机变量围绕平均值的离散程度",
+      "style": "",
+      "sourceIndex": 4091
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 4092
+    },
+    {
+      "type": "paragraph",
+      "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+      "style": "",
+      "sourceIndex": 4093
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 4094
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先检查每个概率≥0且总和=1。",
+      "style": "",
+      "sourceIndex": 4095
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：分布列是完整的概率清单，所以所有可能值的概率必须加起来等于1，这是最先做的合法性检查。",
+      "style": "",
+      "sourceIndex": 4096
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把每个p_i相加=1先解未知概率；若出现负概率或>1，说明前面设定/计算有错。",
+      "style": "",
+      "sourceIndex": 4097
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 期望E(X)=Σxi pi。",
+      "style": "",
+      "sourceIndex": 4098
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+      "style": "",
+      "sourceIndex": 4099
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+      "style": "",
+      "sourceIndex": 4100
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 方差D(X)=Σ(xi-E(X))²pi，也可用E(X²)-[E(X)]²。",
+      "style": "",
+      "sourceIndex": 4101
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+      "style": "",
+      "sourceIndex": 4102
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+      "style": "",
+      "sourceIndex": 4103
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 4104
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先看单位、样本量和横纵轴含义。",
+      "style": "",
+      "sourceIndex": 4105
+    },
+    {
+      "type": "paragraph",
+      "text": "• 样本结论只能“估计总体”，不要写成对总体的绝对事实。",
+      "style": "",
+      "sourceIndex": 4106
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 4107
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 4108
+    },
+    {
+      "type": "paragraph",
+      "text": "• 概率是否都在[0,1]？",
+      "style": "",
+      "sourceIndex": 4109
+    },
+    {
+      "type": "paragraph",
+      "text": "• 总概率是否=1？",
+      "style": "",
+      "sourceIndex": 4110
+    },
+    {
+      "type": "paragraph",
+      "text": "• “不放回”是否被误当独立？",
+      "style": "",
+      "sourceIndex": 4111
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 4112
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果“至少一个”分类太多：马上改算“一个都没有”。",
+      "style": "",
+      "sourceIndex": 4113
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果你不知道乘还是加：问自己“这些情况是互相替代，还是要同时一步步发生？”",
+      "style": "",
+      "sourceIndex": 4114
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜X取0,1，概率各1/2，求E(X)。"
+        ],
+        [
+          "先怎么想｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。"
+        ],
+        [
+          "核心过程 / 答案｜0×1/2+1×1/2=1/2。"
+        ]
+      ],
+      "text": "典型例题｜X取0,1，概率各1/2，求E(X)。\n先怎么想｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。\n核心过程 / 答案｜0×1/2+1×1/2=1/2。",
+      "sourceIndex": 4115
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜分布列概率和不为1说明前面一定有问题；方差不能为负。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜分布列概率和不为1说明前面一定有问题；方差不能为负。",
+      "sourceIndex": 4116
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 4117
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。"
+        ]
+      ],
+      "text": "📌 30秒速记｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。",
+      "sourceIndex": 4118
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 4119
+    },
+    {
+      "type": "paragraph",
+      "text": "1. X恒等于3，E(X)。",
+      "style": "",
+      "sourceIndex": 4120
+    },
+    {
+      "type": "paragraph",
+      "text": "2. X恒等于3，D(X)。",
+      "style": "",
+      "sourceIndex": 4121
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 分布列概率总和。",
+      "style": "",
+      "sourceIndex": 4122
+    },
+    {
+      "type": "paragraph",
+      "text": "4. E(aX+b)。",
+      "style": "",
+      "sourceIndex": 4123
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 方差是否可为负？",
+      "style": "",
+      "sourceIndex": 4124
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.3；2.0；3.1；4.aE(X)+b；5.不能",
+      "style": "TinyNote",
+      "sourceIndex": 4125
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 4126
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜随机变量X取有限多个值，给概率表，求未知概率、E(X)、D(X)。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜随机变量X取有限多个值，给概率表，求未知概率、E(X)、D(X)。",
+          "sourceIndex": 4086
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。",
+          "sourceIndex": 4087
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 4088
+        },
+        {
+          "type": "paragraph",
+          "text": "• 分布列 → 列出随机变量每个可能取值以及对应概率",
+          "style": "",
+          "sourceIndex": 4089
+        },
+        {
+          "type": "paragraph",
+          "text": "• 期望 → 按概率加权后的平均值",
+          "style": "",
+          "sourceIndex": 4090
+        },
+        {
+          "type": "paragraph",
+          "text": "• 方差 → 随机变量围绕平均值的离散程度",
+          "style": "",
+          "sourceIndex": 4091
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 4092
+        },
+        {
+          "type": "paragraph",
+          "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+          "style": "",
+          "sourceIndex": 4093
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 4094
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先检查每个概率≥0且总和=1。",
+          "style": "",
+          "sourceIndex": 4095
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：分布列是完整的概率清单，所以所有可能值的概率必须加起来等于1，这是最先做的合法性检查。",
+          "style": "",
+          "sourceIndex": 4096
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把每个p_i相加=1先解未知概率；若出现负概率或>1，说明前面设定/计算有错。",
+          "style": "",
+          "sourceIndex": 4097
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 期望E(X)=Σxi pi。",
+          "style": "",
+          "sourceIndex": 4098
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+          "style": "",
+          "sourceIndex": 4099
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+          "style": "",
+          "sourceIndex": 4100
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 方差D(X)=Σ(xi-E(X))²pi，也可用E(X²)-[E(X)]²。",
+          "style": "",
+          "sourceIndex": 4101
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+          "style": "",
+          "sourceIndex": 4102
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+          "style": "",
+          "sourceIndex": 4103
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 4104
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先看单位、样本量和横纵轴含义。",
+          "style": "",
+          "sourceIndex": 4105
+        },
+        {
+          "type": "paragraph",
+          "text": "• 样本结论只能“估计总体”，不要写成对总体的绝对事实。",
+          "style": "",
+          "sourceIndex": 4106
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 4107
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 4108
+        },
+        {
+          "type": "paragraph",
+          "text": "• 概率是否都在[0,1]？",
+          "style": "",
+          "sourceIndex": 4109
+        },
+        {
+          "type": "paragraph",
+          "text": "• 总概率是否=1？",
+          "style": "",
+          "sourceIndex": 4110
+        },
+        {
+          "type": "paragraph",
+          "text": "• “不放回”是否被误当独立？",
+          "style": "",
+          "sourceIndex": 4111
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 4112
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果“至少一个”分类太多：马上改算“一个都没有”。",
+          "style": "",
+          "sourceIndex": 4113
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果你不知道乘还是加：问自己“这些情况是互相替代，还是要同时一步步发生？”",
+          "style": "",
+          "sourceIndex": 4114
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜X取0,1，概率各1/2，求E(X)。"
+            ],
+            [
+              "先怎么想｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。"
+            ],
+            [
+              "核心过程 / 答案｜0×1/2+1×1/2=1/2。"
+            ]
+          ],
+          "text": "典型例题｜X取0,1，概率各1/2，求E(X)。\n先怎么想｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。\n核心过程 / 答案｜0×1/2+1×1/2=1/2。",
+          "sourceIndex": 4115
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜分布列概率和不为1说明前面一定有问题；方差不能为负。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜分布列概率和不为1说明前面一定有问题；方差不能为负。",
+          "sourceIndex": 4116
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 4117
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。"
+            ]
+          ],
+          "text": "📌 30秒速记｜分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。",
+          "sourceIndex": 4118
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 4119
+        },
+        {
+          "type": "paragraph",
+          "text": "1. X恒等于3，E(X)。",
+          "style": "",
+          "sourceIndex": 4120
+        },
+        {
+          "type": "paragraph",
+          "text": "2. X恒等于3，D(X)。",
+          "style": "",
+          "sourceIndex": 4121
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 分布列概率总和。",
+          "style": "",
+          "sourceIndex": 4122
+        },
+        {
+          "type": "paragraph",
+          "text": "4. E(aX+b)。",
+          "style": "",
+          "sourceIndex": 4123
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 方差是否可为负？",
+          "style": "",
+          "sourceIndex": 4124
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.3；2.0；3.1；4.aE(X)+b；5.不能",
+          "style": "TinyNote",
+          "sourceIndex": 4125
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 4126
+        }
+      ]
+    }
+  ],
+  "sort_order": 96,
+  "brain_first": "分布列先做安全检查：所有概率≥0、总和=1。期望就是“加权平均”，方差就是“离平均值有多散”。"
+}

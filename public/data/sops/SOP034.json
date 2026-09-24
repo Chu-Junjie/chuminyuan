@@ -1,0 +1,616 @@
+{
+  "id": "SOP034",
+  "code": "SOP034",
+  "title": "二分法与陌生情境建模识别",
+  "chapter_id": "chapter-08",
+  "chapter": "必修第一册 第8章 函数应用",
+  "frequency": 2,
+  "keywords": [
+    "二分法",
+    "陌生情境建模识别"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★☆☆☆  正常范围",
+      "style": "",
+      "sourceIndex": 1504
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜题目给连续函数、两个端点异号，要求缩小根所在区间；或给陌生故事要求建关系。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜题目给连续函数、两个端点异号，要求缩小根所在区间；或给陌生故事要求建关系。",
+      "sourceIndex": 1505
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。",
+      "sourceIndex": 1506
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1507
+    },
+    {
+      "type": "paragraph",
+      "text": "• 二分法 → 不断把区间砍一半来逼近零点",
+      "style": "",
+      "sourceIndex": 1508
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1509
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 1510
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1511
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 二分法：取区间中点m，算f(m)符号。",
+      "style": "",
+      "sourceIndex": 1512
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1513
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1514
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 保留“函数值异号”的半个区间，重复。",
+      "style": "",
+      "sourceIndex": 1515
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1516
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1517
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 情境题先删故事：圈变量、单位、已知关系，判断对应函数/概率/向量/几何模型。",
+      "style": "",
+      "sourceIndex": 1518
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1519
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1520
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1521
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 1522
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 1523
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1524
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1525
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 1526
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 1527
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 1528
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1529
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 1530
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 1531
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜f(1)<0,f(2)>0，m=1.5且f(1.5)>0，根下一步在哪？"
+        ],
+        [
+          "先怎么想｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。"
+        ],
+        [
+          "核心过程 / 答案｜保留[1,1.5]。"
+        ]
+      ],
+      "text": "典型例题｜f(1)<0,f(2)>0，m=1.5且f(1.5)>0，根下一步在哪？\n先怎么想｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。\n核心过程 / 答案｜保留[1,1.5]。",
+      "sourceIndex": 1532
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜二分法依赖连续性和端点异号；陌生情境不能因为背景陌生就乱找新公式。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜二分法依赖连续性和端点异号；陌生情境不能因为背景陌生就乱找新公式。",
+      "sourceIndex": 1533
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1534
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。"
+        ]
+      ],
+      "text": "📌 30秒速记｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。",
+      "sourceIndex": 1535
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1536
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 区间[2,4]中点。",
+      "style": "",
+      "sourceIndex": 1537
+    },
+    {
+      "type": "paragraph",
+      "text": "2. f(2)<0,f(3)<0，能用异号直接断言[2,3]有根吗？",
+      "style": "",
+      "sourceIndex": 1538
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 二分法每次区间长度怎样变化？",
+      "style": "",
+      "sourceIndex": 1539
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 情境题第一步圈什么？",
+      "style": "",
+      "sourceIndex": 1540
+    },
+    {
+      "type": "paragraph",
+      "text": "5. “风速向量+船速向量”本质属于哪类？",
+      "style": "",
+      "sourceIndex": 1541
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.3；2.不能；3.减半；4.变量、单位、已知量、所求量；5.向量模型",
+      "style": "TinyNote",
+      "sourceIndex": 1542
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1543
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜题目给连续函数、两个端点异号，要求缩小根所在区间；或给陌生故事要求建关系。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜题目给连续函数、两个端点异号，要求缩小根所在区间；或给陌生故事要求建关系。",
+          "sourceIndex": 1505
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。",
+          "sourceIndex": 1506
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1507
+        },
+        {
+          "type": "paragraph",
+          "text": "• 二分法 → 不断把区间砍一半来逼近零点",
+          "style": "",
+          "sourceIndex": 1508
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1509
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 1510
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1511
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 二分法：取区间中点m，算f(m)符号。",
+          "style": "",
+          "sourceIndex": 1512
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1513
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1514
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 保留“函数值异号”的半个区间，重复。",
+          "style": "",
+          "sourceIndex": 1515
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1516
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1517
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 情境题先删故事：圈变量、单位、已知关系，判断对应函数/概率/向量/几何模型。",
+          "style": "",
+          "sourceIndex": 1518
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1519
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1520
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1521
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 1522
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 1523
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1524
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1525
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 1526
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 1527
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 1528
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1529
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 1530
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 1531
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜f(1)<0,f(2)>0，m=1.5且f(1.5)>0，根下一步在哪？"
+            ],
+            [
+              "先怎么想｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。"
+            ],
+            [
+              "核心过程 / 答案｜保留[1,1.5]。"
+            ]
+          ],
+          "text": "典型例题｜f(1)<0,f(2)>0，m=1.5且f(1.5)>0，根下一步在哪？\n先怎么想｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。\n核心过程 / 答案｜保留[1,1.5]。",
+          "sourceIndex": 1532
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜二分法依赖连续性和端点异号；陌生情境不能因为背景陌生就乱找新公式。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜二分法依赖连续性和端点异号；陌生情境不能因为背景陌生就乱找新公式。",
+          "sourceIndex": 1533
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1534
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。"
+            ]
+          ],
+          "text": "📌 30秒速记｜二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。",
+          "sourceIndex": 1535
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1536
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 区间[2,4]中点。",
+          "style": "",
+          "sourceIndex": 1537
+        },
+        {
+          "type": "paragraph",
+          "text": "2. f(2)<0,f(3)<0，能用异号直接断言[2,3]有根吗？",
+          "style": "",
+          "sourceIndex": 1538
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 二分法每次区间长度怎样变化？",
+          "style": "",
+          "sourceIndex": 1539
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 情境题第一步圈什么？",
+          "style": "",
+          "sourceIndex": 1540
+        },
+        {
+          "type": "paragraph",
+          "text": "5. “风速向量+船速向量”本质属于哪类？",
+          "style": "",
+          "sourceIndex": 1541
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.3；2.不能；3.减半；4.变量、单位、已知量、所求量；5.向量模型",
+          "style": "TinyNote",
+          "sourceIndex": 1542
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1543
+        }
+      ]
+    }
+  ],
+  "sort_order": 33,
+  "brain_first": "二分法不用背术语，理解成“区间两端一正一负，就不断砍一半，看零点藏在哪一半”。陌生应用题先把故事删掉只留量。"
+}

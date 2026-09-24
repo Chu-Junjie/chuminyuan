@@ -1,0 +1,585 @@
+{
+  "id": "SOP073",
+  "code": "SOP073",
+  "title": "椭圆标准量 a,b,c,e",
+  "chapter_id": "chapter-18",
+  "chapter": "选择性必修第一册 第3章 圆锥曲线与方程",
+  "frequency": 5,
+  "keywords": [
+    "椭圆标准量 a,b,c,e"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 3095
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜给椭圆标准方程/焦点/离心率，求a,b,c,e、长短轴。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜给椭圆标准方程/焦点/离心率，求a,b,c,e、长短轴。",
+      "sourceIndex": 3096
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。",
+      "sourceIndex": 3097
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3098
+    },
+    {
+      "type": "paragraph",
+      "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+      "style": "",
+      "sourceIndex": 3099
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3100
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 较大分母是a²，决定长轴方向。",
+      "style": "",
+      "sourceIndex": 3101
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：分母为0的位置不是普通端点，而是题目根本没有定义的洞；无论不等号有没有等号都不能取。",
+      "style": "",
+      "sourceIndex": 3102
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先单独写“禁值：……”，在数轴上用空心圈/叉标出来，最后答案里检查没有把它带回去。",
+      "style": "",
+      "sourceIndex": 3103
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 用c²=a²-b²。",
+      "style": "",
+      "sourceIndex": 3104
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：椭圆里a是长半轴，c是中心到焦点的距离；三者满足a²=b²+c²，所以c²=a²-b²。",
+      "style": "",
+      "sourceIndex": 3105
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先从标准方程读出较大分母a²和较小分母b²，再算c=√(a²-b²)，最后e=c/a。",
+      "style": "",
+      "sourceIndex": 3106
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 离心率e=c/a，且0<e<1。",
+      "style": "",
+      "sourceIndex": 3107
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 3108
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 3109
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3110
+    },
+    {
+      "type": "paragraph",
+      "text": "• 判断直线与圆位置：优先圆心到直线距离，不必先联立。",
+      "style": "",
+      "sourceIndex": 3111
+    },
+    {
+      "type": "paragraph",
+      "text": "• 弦长：优先用“半弦²+d²=r²”，不必求交点。",
+      "style": "",
+      "sourceIndex": 3112
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3113
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3114
+    },
+    {
+      "type": "paragraph",
+      "text": "• 有没有先认标准方程/方向？",
+      "style": "",
+      "sourceIndex": 3115
+    },
+    {
+      "type": "paragraph",
+      "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+      "style": "",
+      "sourceIndex": 3116
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算结果能否用图形常识检查正负和范围？",
+      "style": "",
+      "sourceIndex": 3117
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3118
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果联立后展开越来越长：先停止，看看题目是不是只要根的和/积、中点、弦长；能用韦达就别解根。",
+      "style": "",
+      "sourceIndex": 3119
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果距离式出现很多根号：检查能否用曲线定义把焦点距离换掉。",
+      "style": "",
+      "sourceIndex": 3120
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜x²/9+y²/4=1，求e。"
+        ],
+        [
+          "先怎么想｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。"
+        ],
+        [
+          "核心过程 / 答案｜a=3,b=2,c=√5，所以e=√5/3。"
+        ]
+      ],
+      "text": "典型例题｜x²/9+y²/4=1，求e。\n先怎么想｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。\n核心过程 / 答案｜a=3,b=2,c=√5，所以e=√5/3。",
+      "sourceIndex": 3121
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜不要固定认为x²下面就是a²；谁大谁是a²。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜不要固定认为x²下面就是a²；谁大谁是a²。",
+      "sourceIndex": 3122
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3123
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。"
+        ]
+      ],
+      "text": "📌 30秒速记｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。",
+      "sourceIndex": 3124
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3125
+    },
+    {
+      "type": "paragraph",
+      "text": "1. x²/16+y²/9=1的c。",
+      "style": "",
+      "sourceIndex": 3126
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 同上e。",
+      "style": "",
+      "sourceIndex": 3127
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 椭圆离心率范围。",
+      "style": "",
+      "sourceIndex": 3128
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 长轴长。",
+      "style": "",
+      "sourceIndex": 3129
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 焦点在什么轴？",
+      "style": "",
+      "sourceIndex": 3130
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.√7；2.√7/4；3.0<e<1；4.2a；5.较大分母对应的轴",
+      "style": "TinyNote",
+      "sourceIndex": 3131
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3132
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜给椭圆标准方程/焦点/离心率，求a,b,c,e、长短轴。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜给椭圆标准方程/焦点/离心率，求a,b,c,e、长短轴。",
+          "sourceIndex": 3096
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。",
+          "sourceIndex": 3097
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3098
+        },
+        {
+          "type": "paragraph",
+          "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+          "style": "",
+          "sourceIndex": 3099
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3100
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 较大分母是a²，决定长轴方向。",
+          "style": "",
+          "sourceIndex": 3101
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：分母为0的位置不是普通端点，而是题目根本没有定义的洞；无论不等号有没有等号都不能取。",
+          "style": "",
+          "sourceIndex": 3102
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先单独写“禁值：……”，在数轴上用空心圈/叉标出来，最后答案里检查没有把它带回去。",
+          "style": "",
+          "sourceIndex": 3103
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 用c²=a²-b²。",
+          "style": "",
+          "sourceIndex": 3104
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：椭圆里a是长半轴，c是中心到焦点的距离；三者满足a²=b²+c²，所以c²=a²-b²。",
+          "style": "",
+          "sourceIndex": 3105
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先从标准方程读出较大分母a²和较小分母b²，再算c=√(a²-b²)，最后e=c/a。",
+          "style": "",
+          "sourceIndex": 3106
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 离心率e=c/a，且0<e<1。",
+          "style": "",
+          "sourceIndex": 3107
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 3108
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 3109
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3110
+        },
+        {
+          "type": "paragraph",
+          "text": "• 判断直线与圆位置：优先圆心到直线距离，不必先联立。",
+          "style": "",
+          "sourceIndex": 3111
+        },
+        {
+          "type": "paragraph",
+          "text": "• 弦长：优先用“半弦²+d²=r²”，不必求交点。",
+          "style": "",
+          "sourceIndex": 3112
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3113
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3114
+        },
+        {
+          "type": "paragraph",
+          "text": "• 有没有先认标准方程/方向？",
+          "style": "",
+          "sourceIndex": 3115
+        },
+        {
+          "type": "paragraph",
+          "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+          "style": "",
+          "sourceIndex": 3116
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算结果能否用图形常识检查正负和范围？",
+          "style": "",
+          "sourceIndex": 3117
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3118
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果联立后展开越来越长：先停止，看看题目是不是只要根的和/积、中点、弦长；能用韦达就别解根。",
+          "style": "",
+          "sourceIndex": 3119
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果距离式出现很多根号：检查能否用曲线定义把焦点距离换掉。",
+          "style": "",
+          "sourceIndex": 3120
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜x²/9+y²/4=1，求e。"
+            ],
+            [
+              "先怎么想｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。"
+            ],
+            [
+              "核心过程 / 答案｜a=3,b=2,c=√5，所以e=√5/3。"
+            ]
+          ],
+          "text": "典型例题｜x²/9+y²/4=1，求e。\n先怎么想｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。\n核心过程 / 答案｜a=3,b=2,c=√5，所以e=√5/3。",
+          "sourceIndex": 3121
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜不要固定认为x²下面就是a²；谁大谁是a²。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜不要固定认为x²下面就是a²；谁大谁是a²。",
+          "sourceIndex": 3122
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3123
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。"
+            ]
+          ],
+          "text": "📌 30秒速记｜椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。",
+          "sourceIndex": 3124
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3125
+        },
+        {
+          "type": "paragraph",
+          "text": "1. x²/16+y²/9=1的c。",
+          "style": "",
+          "sourceIndex": 3126
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 同上e。",
+          "style": "",
+          "sourceIndex": 3127
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 椭圆离心率范围。",
+          "style": "",
+          "sourceIndex": 3128
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 长轴长。",
+          "style": "",
+          "sourceIndex": 3129
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 焦点在什么轴？",
+          "style": "",
+          "sourceIndex": 3130
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.√7；2.√7/4；3.0<e<1；4.2a；5.较大分母对应的轴",
+          "style": "TinyNote",
+          "sourceIndex": 3131
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3132
+        }
+      ]
+    }
+  ],
+  "sort_order": 72,
+  "brain_first": "椭圆先找“更大的分母是谁”，它决定长轴方向。然后只盯四个字母a、b、c、e，且c²=a²-b²。"
+}

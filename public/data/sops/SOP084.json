@@ -1,0 +1,598 @@
+{
+  "id": "SOP084",
+  "code": "SOP084",
+  "title": "导数公式与运算",
+  "chapter_id": "chapter-20",
+  "chapter": "选择性必修第一册 第5章 导数及其应用",
+  "frequency": 5,
+  "keywords": [
+    "导数公式",
+    "运算"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 3543
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜要求f′(x)，函数由幂、e^x、lnx、和差积商构成。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜要求f′(x)，函数由幂、e^x、lnx、和差积商构成。",
+      "sourceIndex": 3544
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。",
+      "sourceIndex": 3545
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3546
+    },
+    {
+      "type": "paragraph",
+      "text": "导数把“函数走势”变成“斜率正负”。所以先求导、再看符号，是最稳定的主线；不需要一开始就研究原函数长什么样。",
+      "style": "",
+      "sourceIndex": 3547
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3548
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先写基本导数：常数0、x^n→nx^{n-1}、e^x→e^x、lnx→1/x。",
+      "style": "",
+      "sourceIndex": 3549
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：求导时最稳的是先把函数拆成小块。每一块用熟悉公式，再按加减乘除组合，不要整式凭感觉一次写完。",
+      "style": "",
+      "sourceIndex": 3550
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在原函数下面逐项写导数；复合项先标“外层/内层”，最后别忘乘内层导数。",
+      "style": "",
+      "sourceIndex": 3551
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 再用和差、积、商法则。",
+      "style": "",
+      "sourceIndex": 3552
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：导数题的主线始终是“定义域→求导→临界点→符号”。只要不跳这条主线，大多数基础中档题都能继续。",
+      "style": "",
+      "sourceIndex": 3553
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先写定义域和f′；把f′=0的点按从小到大排在数轴上，再判断每段正负。",
+      "style": "",
+      "sourceIndex": 3554
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 简单复合f(ax+b)按链式法则乘内层导数a。",
+      "style": "",
+      "sourceIndex": 3555
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：导数题的主线始终是“定义域→求导→临界点→符号”。只要不跳这条主线，大多数基础中档题都能继续。",
+      "style": "",
+      "sourceIndex": 3556
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先写定义域和f′；把f′=0的点按从小到大排在数轴上，再判断每段正负。",
+      "style": "",
+      "sourceIndex": 3557
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3558
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单调性：只看f′符号，不用先算大量函数值。",
+      "style": "",
+      "sourceIndex": 3559
+    },
+    {
+      "type": "paragraph",
+      "text": "• 闭区间最值：极值点+两个端点一起比较。",
+      "style": "",
+      "sourceIndex": 3560
+    },
+    {
+      "type": "paragraph",
+      "text": "• 出现复杂双参数且题目明显压轴化时，本宝典范围只做到标准基础步骤，及时止损。",
+      "style": "",
+      "sourceIndex": 3561
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3562
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3563
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域是否先考虑？",
+      "style": "",
+      "sourceIndex": 3564
+    },
+    {
+      "type": "paragraph",
+      "text": "• 临界点是否真的在定义域/区间内？",
+      "style": "",
+      "sourceIndex": 3565
+    },
+    {
+      "type": "paragraph",
+      "text": "• 闭区间最值是否比较了端点？",
+      "style": "",
+      "sourceIndex": 3566
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3567
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果求导后不会继续：先把f′(x)=0解出来，再画最简单的“+ / -”符号表。",
+      "style": "",
+      "sourceIndex": 3568
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果参数讨论一下子分很多类：先做到基础部分，复杂双参数通常已进入高难区。",
+      "style": "",
+      "sourceIndex": 3569
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜f(x)=x³+2x，求f′。"
+        ],
+        [
+          "先怎么想｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。"
+        ],
+        [
+          "核心过程 / 答案｜3x²+2。"
+        ]
+      ],
+      "text": "典型例题｜f(x)=x³+2x，求f′。\n先怎么想｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。\n核心过程 / 答案｜3x²+2。",
+      "sourceIndex": 3570
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜lnx的定义域x>0；求导也不能忘记原函数定义域。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜lnx的定义域x>0；求导也不能忘记原函数定义域。",
+      "sourceIndex": 3571
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3572
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。"
+        ]
+      ],
+      "text": "📌 30秒速记｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。",
+      "sourceIndex": 3573
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3574
+    },
+    {
+      "type": "paragraph",
+      "text": "1. d/dx x²。",
+      "style": "",
+      "sourceIndex": 3575
+    },
+    {
+      "type": "paragraph",
+      "text": "2. d/dx e^x。",
+      "style": "",
+      "sourceIndex": 3576
+    },
+    {
+      "type": "paragraph",
+      "text": "3. d/dx ln x。",
+      "style": "",
+      "sourceIndex": 3577
+    },
+    {
+      "type": "paragraph",
+      "text": "4. d/dx 5。",
+      "style": "",
+      "sourceIndex": 3578
+    },
+    {
+      "type": "paragraph",
+      "text": "5. d/dx (3x+1)²。",
+      "style": "",
+      "sourceIndex": 3579
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.2x；2.e^x；3.1/x；4.0；5.6(3x+1)",
+      "style": "TinyNote",
+      "sourceIndex": 3580
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3581
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜要求f′(x)，函数由幂、e^x、lnx、和差积商构成。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜要求f′(x)，函数由幂、e^x、lnx、和差积商构成。",
+          "sourceIndex": 3544
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。",
+          "sourceIndex": 3545
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3546
+        },
+        {
+          "type": "paragraph",
+          "text": "导数把“函数走势”变成“斜率正负”。所以先求导、再看符号，是最稳定的主线；不需要一开始就研究原函数长什么样。",
+          "style": "",
+          "sourceIndex": 3547
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3548
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先写基本导数：常数0、x^n→nx^{n-1}、e^x→e^x、lnx→1/x。",
+          "style": "",
+          "sourceIndex": 3549
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：求导时最稳的是先把函数拆成小块。每一块用熟悉公式，再按加减乘除组合，不要整式凭感觉一次写完。",
+          "style": "",
+          "sourceIndex": 3550
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在原函数下面逐项写导数；复合项先标“外层/内层”，最后别忘乘内层导数。",
+          "style": "",
+          "sourceIndex": 3551
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 再用和差、积、商法则。",
+          "style": "",
+          "sourceIndex": 3552
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：导数题的主线始终是“定义域→求导→临界点→符号”。只要不跳这条主线，大多数基础中档题都能继续。",
+          "style": "",
+          "sourceIndex": 3553
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先写定义域和f′；把f′=0的点按从小到大排在数轴上，再判断每段正负。",
+          "style": "",
+          "sourceIndex": 3554
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 简单复合f(ax+b)按链式法则乘内层导数a。",
+          "style": "",
+          "sourceIndex": 3555
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：导数题的主线始终是“定义域→求导→临界点→符号”。只要不跳这条主线，大多数基础中档题都能继续。",
+          "style": "",
+          "sourceIndex": 3556
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先写定义域和f′；把f′=0的点按从小到大排在数轴上，再判断每段正负。",
+          "style": "",
+          "sourceIndex": 3557
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3558
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单调性：只看f′符号，不用先算大量函数值。",
+          "style": "",
+          "sourceIndex": 3559
+        },
+        {
+          "type": "paragraph",
+          "text": "• 闭区间最值：极值点+两个端点一起比较。",
+          "style": "",
+          "sourceIndex": 3560
+        },
+        {
+          "type": "paragraph",
+          "text": "• 出现复杂双参数且题目明显压轴化时，本宝典范围只做到标准基础步骤，及时止损。",
+          "style": "",
+          "sourceIndex": 3561
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3562
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3563
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域是否先考虑？",
+          "style": "",
+          "sourceIndex": 3564
+        },
+        {
+          "type": "paragraph",
+          "text": "• 临界点是否真的在定义域/区间内？",
+          "style": "",
+          "sourceIndex": 3565
+        },
+        {
+          "type": "paragraph",
+          "text": "• 闭区间最值是否比较了端点？",
+          "style": "",
+          "sourceIndex": 3566
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3567
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果求导后不会继续：先把f′(x)=0解出来，再画最简单的“+ / -”符号表。",
+          "style": "",
+          "sourceIndex": 3568
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果参数讨论一下子分很多类：先做到基础部分，复杂双参数通常已进入高难区。",
+          "style": "",
+          "sourceIndex": 3569
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜f(x)=x³+2x，求f′。"
+            ],
+            [
+              "先怎么想｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。"
+            ],
+            [
+              "核心过程 / 答案｜3x²+2。"
+            ]
+          ],
+          "text": "典型例题｜f(x)=x³+2x，求f′。\n先怎么想｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。\n核心过程 / 答案｜3x²+2。",
+          "sourceIndex": 3570
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜lnx的定义域x>0；求导也不能忘记原函数定义域。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜lnx的定义域x>0；求导也不能忘记原函数定义域。",
+          "sourceIndex": 3571
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3572
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。"
+            ]
+          ],
+          "text": "📌 30秒速记｜求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。",
+          "sourceIndex": 3573
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3574
+        },
+        {
+          "type": "paragraph",
+          "text": "1. d/dx x²。",
+          "style": "",
+          "sourceIndex": 3575
+        },
+        {
+          "type": "paragraph",
+          "text": "2. d/dx e^x。",
+          "style": "",
+          "sourceIndex": 3576
+        },
+        {
+          "type": "paragraph",
+          "text": "3. d/dx ln x。",
+          "style": "",
+          "sourceIndex": 3577
+        },
+        {
+          "type": "paragraph",
+          "text": "4. d/dx 5。",
+          "style": "",
+          "sourceIndex": 3578
+        },
+        {
+          "type": "paragraph",
+          "text": "5. d/dx (3x+1)²。",
+          "style": "",
+          "sourceIndex": 3579
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.2x；2.e^x；3.1/x；4.0；5.6(3x+1)",
+          "style": "TinyNote",
+          "sourceIndex": 3580
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3581
+        }
+      ]
+    }
+  ],
+  "sort_order": 83,
+  "brain_first": "求导就是把函数变成“斜率函数”。先拆成你认识的基本函数，再按和差积商/简单套入规则逐项求。"
+}

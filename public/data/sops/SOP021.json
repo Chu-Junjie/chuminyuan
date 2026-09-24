@@ -1,0 +1,628 @@
+{
+  "id": "SOP021",
+  "code": "SOP021",
+  "title": "指数函数、对数函数比较大小",
+  "chapter_id": "chapter-06",
+  "chapter": "必修第一册 第6章 幂函数、指数函数和对数函数",
+  "frequency": 5,
+  "keywords": [
+    "指数函数",
+    "对数函数比较大小"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 964
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜比较a^x、log_a x或含e、ln的几个数大小。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜比较a^x、log_a x或含e、ln的几个数大小。",
+      "sourceIndex": 965
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。",
+      "sourceIndex": 966
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 967
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单调 → x增大时函数值总体是变大还是变小",
+      "style": "",
+      "sourceIndex": 968
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 969
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 970
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 971
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 能统一底数就统一；同底时先判断底数>1还是0<a<1。",
+      "style": "",
+      "sourceIndex": 972
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 973
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 974
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 不能统一时先与0、1比较，把数分层。",
+      "style": "",
+      "sourceIndex": 975
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 976
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 977
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 必要时用函数单调性或取对数。",
+      "style": "",
+      "sourceIndex": 978
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 979
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 980
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 981
+    },
+    {
+      "type": "paragraph",
+      "text": "• 底数>1：指数/真数越大，函数值越大。",
+      "style": "",
+      "sourceIndex": 982
+    },
+    {
+      "type": "paragraph",
+      "text": "• 0<底数<1：比较方向反过来。",
+      "style": "",
+      "sourceIndex": 983
+    },
+    {
+      "type": "paragraph",
+      "text": "• 解方程后一定回到真数>0等定义域检查。",
+      "style": "",
+      "sourceIndex": 984
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 985
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 986
+    },
+    {
+      "type": "paragraph",
+      "text": "• 底数是否合法？",
+      "style": "",
+      "sourceIndex": 987
+    },
+    {
+      "type": "paragraph",
+      "text": "• 对数真数是否>0？",
+      "style": "",
+      "sourceIndex": 988
+    },
+    {
+      "type": "paragraph",
+      "text": "• 底数在(0,1)时比较方向是否反了？",
+      "style": "",
+      "sourceIndex": 989
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 990
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+      "style": "",
+      "sourceIndex": 991
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+      "style": "",
+      "sourceIndex": 992
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜比较2^1与2^3。"
+        ],
+        [
+          "先怎么想｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。"
+        ],
+        [
+          "核心过程 / 答案｜底数2>1，指数越大函数值越大，所以2<8。"
+        ]
+      ],
+      "text": "典型例题｜比较2^1与2^3。\n先怎么想｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。\n核心过程 / 答案｜底数2>1，指数越大函数值越大，所以2<8。",
+      "sourceIndex": 993
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜底数在(0,1)时单调递减，比较方向与指数相反。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜底数在(0,1)时单调递减，比较方向与指数相反。",
+      "sourceIndex": 994
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 995
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。"
+        ]
+      ],
+      "text": "📌 30秒速记｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。",
+      "sourceIndex": 996
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 997
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 比较3²与3³。",
+      "style": "",
+      "sourceIndex": 998
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 比较(1/2)^1与(1/2)^2。",
+      "style": "",
+      "sourceIndex": 999
+    },
+    {
+      "type": "paragraph",
+      "text": "3. log₂3与log₂5。",
+      "style": "",
+      "sourceIndex": 1000
+    },
+    {
+      "type": "paragraph",
+      "text": "4. log_(1/2)2与log_(1/2)4。",
+      "style": "",
+      "sourceIndex": 1001
+    },
+    {
+      "type": "paragraph",
+      "text": "5. e^0与1。",
+      "style": "",
+      "sourceIndex": 1002
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.3²<3³；2.(1/2)^1>(1/2)^2；3.log₂3<log₂5；4.前者大；5.相等",
+      "style": "TinyNote",
+      "sourceIndex": 1003
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1004
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜比较a^x、log_a x或含e、ln的几个数大小。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜比较a^x、log_a x或含e、ln的几个数大小。",
+          "sourceIndex": 965
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。",
+          "sourceIndex": 966
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 967
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单调 → x增大时函数值总体是变大还是变小",
+          "style": "",
+          "sourceIndex": 968
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 969
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 970
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 971
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 能统一底数就统一；同底时先判断底数>1还是0<a<1。",
+          "style": "",
+          "sourceIndex": 972
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 973
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 974
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 不能统一时先与0、1比较，把数分层。",
+          "style": "",
+          "sourceIndex": 975
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 976
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 977
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 必要时用函数单调性或取对数。",
+          "style": "",
+          "sourceIndex": 978
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 979
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 980
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 981
+        },
+        {
+          "type": "paragraph",
+          "text": "• 底数>1：指数/真数越大，函数值越大。",
+          "style": "",
+          "sourceIndex": 982
+        },
+        {
+          "type": "paragraph",
+          "text": "• 0<底数<1：比较方向反过来。",
+          "style": "",
+          "sourceIndex": 983
+        },
+        {
+          "type": "paragraph",
+          "text": "• 解方程后一定回到真数>0等定义域检查。",
+          "style": "",
+          "sourceIndex": 984
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 985
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 986
+        },
+        {
+          "type": "paragraph",
+          "text": "• 底数是否合法？",
+          "style": "",
+          "sourceIndex": 987
+        },
+        {
+          "type": "paragraph",
+          "text": "• 对数真数是否>0？",
+          "style": "",
+          "sourceIndex": 988
+        },
+        {
+          "type": "paragraph",
+          "text": "• 底数在(0,1)时比较方向是否反了？",
+          "style": "",
+          "sourceIndex": 989
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 990
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+          "style": "",
+          "sourceIndex": 991
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+          "style": "",
+          "sourceIndex": 992
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜比较2^1与2^3。"
+            ],
+            [
+              "先怎么想｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。"
+            ],
+            [
+              "核心过程 / 答案｜底数2>1，指数越大函数值越大，所以2<8。"
+            ]
+          ],
+          "text": "典型例题｜比较2^1与2^3。\n先怎么想｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。\n核心过程 / 答案｜底数2>1，指数越大函数值越大，所以2<8。",
+          "sourceIndex": 993
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜底数在(0,1)时单调递减，比较方向与指数相反。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜底数在(0,1)时单调递减，比较方向与指数相反。",
+          "sourceIndex": 994
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 995
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。"
+            ]
+          ],
+          "text": "📌 30秒速记｜指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。",
+          "sourceIndex": 996
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 997
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 比较3²与3³。",
+          "style": "",
+          "sourceIndex": 998
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 比较(1/2)^1与(1/2)^2。",
+          "style": "",
+          "sourceIndex": 999
+        },
+        {
+          "type": "paragraph",
+          "text": "3. log₂3与log₂5。",
+          "style": "",
+          "sourceIndex": 1000
+        },
+        {
+          "type": "paragraph",
+          "text": "4. log_(1/2)2与log_(1/2)4。",
+          "style": "",
+          "sourceIndex": 1001
+        },
+        {
+          "type": "paragraph",
+          "text": "5. e^0与1。",
+          "style": "",
+          "sourceIndex": 1002
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.3²<3³；2.(1/2)^1>(1/2)^2；3.log₂3<log₂5；4.前者大；5.相等",
+          "style": "TinyNote",
+          "sourceIndex": 1003
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1004
+        }
+      ]
+    }
+  ],
+  "sort_order": 20,
+  "brain_first": "指对数比大小，第一步永远是判断底数在1的哪边。能同底就同底，不能同底就先和0、1比。"
+}

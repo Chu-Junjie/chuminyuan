@@ -1,0 +1,616 @@
+{
+  "id": "SOP024",
+  "code": "SOP024",
+  "title": "反函数与指对互化基础",
+  "chapter_id": "chapter-06",
+  "chapter": "必修第一册 第6章 幂函数、指数函数和对数函数",
+  "frequency": 3,
+  "keywords": [
+    "反函数",
+    "指对互化基础"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★☆☆  正常范围",
+      "style": "",
+      "sourceIndex": 1091
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜出现y=a^x与y=log_a x互换、自变量因变量交换、图像关于y=x。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜出现y=a^x与y=log_a x互换、自变量因变量交换、图像关于y=x。",
+      "sourceIndex": 1092
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。",
+      "sourceIndex": 1093
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1094
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域 → 哪些x允许放进这个函数",
+      "style": "",
+      "sourceIndex": 1095
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1096
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 1097
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1098
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 用定义：y=a^x ⇔ x=log_a y。",
+      "style": "",
+      "sourceIndex": 1099
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 1100
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 1101
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 交换x、y后解出y，可得到反函数表达式。",
+      "style": "",
+      "sourceIndex": 1102
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 1103
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 1104
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 检查原函数一一对应区间与反函数定义域。",
+      "style": "",
+      "sourceIndex": 1105
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 1106
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 1107
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1108
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 1109
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 1110
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1111
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1112
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域有没有先写？",
+      "style": "",
+      "sourceIndex": 1113
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把不同区间/分段混在一起？",
+      "style": "",
+      "sourceIndex": 1114
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否漏掉端点、零点或对称点？",
+      "style": "",
+      "sourceIndex": 1115
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1116
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+      "style": "",
+      "sourceIndex": 1117
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+      "style": "",
+      "sourceIndex": 1118
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜y=2^x的反函数。"
+        ],
+        [
+          "先怎么想｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。"
+        ],
+        [
+          "核心过程 / 答案｜y=log₂x。"
+        ]
+      ],
+      "text": "典型例题｜y=2^x的反函数。\n先怎么想｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。\n核心过程 / 答案｜y=log₂x。",
+      "sourceIndex": 1119
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜不是任何函数在整个定义域都有反函数，例如y=x²在R上不是一一对应。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜不是任何函数在整个定义域都有反函数，例如y=x²在R上不是一一对应。",
+      "sourceIndex": 1120
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1121
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。"
+        ]
+      ],
+      "text": "📌 30秒速记｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。",
+      "sourceIndex": 1122
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1123
+    },
+    {
+      "type": "paragraph",
+      "text": "1. y=3^x的反函数。",
+      "style": "",
+      "sourceIndex": 1124
+    },
+    {
+      "type": "paragraph",
+      "text": "2. y=log₅x的反函数。",
+      "style": "",
+      "sourceIndex": 1125
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 反函数图像与原函数关系。",
+      "style": "",
+      "sourceIndex": 1126
+    },
+    {
+      "type": "paragraph",
+      "text": "4. y=x²在R上是否有反函数？",
+      "style": "",
+      "sourceIndex": 1127
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 指数与对数互化：2³=8对应。",
+      "style": "",
+      "sourceIndex": 1128
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.y=log₃x；2.y=5^x；3.关于y=x对称；4.没有；5.log₂8=3",
+      "style": "TinyNote",
+      "sourceIndex": 1129
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1130
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜出现y=a^x与y=log_a x互换、自变量因变量交换、图像关于y=x。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜出现y=a^x与y=log_a x互换、自变量因变量交换、图像关于y=x。",
+          "sourceIndex": 1092
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。",
+          "sourceIndex": 1093
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1094
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域 → 哪些x允许放进这个函数",
+          "style": "",
+          "sourceIndex": 1095
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1096
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 1097
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1098
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 用定义：y=a^x ⇔ x=log_a y。",
+          "style": "",
+          "sourceIndex": 1099
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 1100
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 1101
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 交换x、y后解出y，可得到反函数表达式。",
+          "style": "",
+          "sourceIndex": 1102
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 1103
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 1104
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 检查原函数一一对应区间与反函数定义域。",
+          "style": "",
+          "sourceIndex": 1105
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 1106
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 1107
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1108
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 1109
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 1110
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1111
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1112
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域有没有先写？",
+          "style": "",
+          "sourceIndex": 1113
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把不同区间/分段混在一起？",
+          "style": "",
+          "sourceIndex": 1114
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否漏掉端点、零点或对称点？",
+          "style": "",
+          "sourceIndex": 1115
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1116
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+          "style": "",
+          "sourceIndex": 1117
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+          "style": "",
+          "sourceIndex": 1118
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜y=2^x的反函数。"
+            ],
+            [
+              "先怎么想｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。"
+            ],
+            [
+              "核心过程 / 答案｜y=log₂x。"
+            ]
+          ],
+          "text": "典型例题｜y=2^x的反函数。\n先怎么想｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。\n核心过程 / 答案｜y=log₂x。",
+          "sourceIndex": 1119
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜不是任何函数在整个定义域都有反函数，例如y=x²在R上不是一一对应。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜不是任何函数在整个定义域都有反函数，例如y=x²在R上不是一一对应。",
+          "sourceIndex": 1120
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1121
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。"
+            ]
+          ],
+          "text": "📌 30秒速记｜指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。",
+          "sourceIndex": 1122
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1123
+        },
+        {
+          "type": "paragraph",
+          "text": "1. y=3^x的反函数。",
+          "style": "",
+          "sourceIndex": 1124
+        },
+        {
+          "type": "paragraph",
+          "text": "2. y=log₅x的反函数。",
+          "style": "",
+          "sourceIndex": 1125
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 反函数图像与原函数关系。",
+          "style": "",
+          "sourceIndex": 1126
+        },
+        {
+          "type": "paragraph",
+          "text": "4. y=x²在R上是否有反函数？",
+          "style": "",
+          "sourceIndex": 1127
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 指数与对数互化：2³=8对应。",
+          "style": "",
+          "sourceIndex": 1128
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.y=log₃x；2.y=5^x；3.关于y=x对称；4.没有；5.log₂8=3",
+          "style": "TinyNote",
+          "sourceIndex": 1129
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1130
+        }
+      ]
+    }
+  ],
+  "sort_order": 23,
+  "brain_first": "指数和对数互为“反着做”：2³=8和log₂8=3是同一句话的两种写法。"
+}

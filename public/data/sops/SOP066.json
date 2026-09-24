@@ -1,0 +1,587 @@
+{
+  "id": "SOP066",
+  "code": "SOP066",
+  "title": "两直线平行、垂直与交点",
+  "chapter_id": "chapter-16",
+  "chapter": "选择性必修第一册 第1章 直线与方程",
+  "frequency": 5,
+  "keywords": [
+    "两直线平行",
+    "垂直",
+    "交点"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 2818
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜两条直线关系、参数、交点。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜两条直线关系、参数、交点。",
+      "sourceIndex": 2819
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。",
+      "sourceIndex": 2820
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2821
+    },
+    {
+      "type": "paragraph",
+      "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+      "style": "",
+      "sourceIndex": 2822
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2823
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 斜率都存在时：平行k1=k2（还要排除重合），垂直k1k2=-1。",
+      "style": "",
+      "sourceIndex": 2824
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 2825
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 2826
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 一般式可用系数比例判断平行/重合。",
+      "style": "",
+      "sourceIndex": 2827
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 2828
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 2829
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 交点直接联立两条直线方程。",
+      "style": "",
+      "sourceIndex": 2830
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 2831
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 2832
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2833
+    },
+    {
+      "type": "paragraph",
+      "text": "• 竖直线斜率不存在，要单独处理x=常数。",
+      "style": "",
+      "sourceIndex": 2834
+    },
+    {
+      "type": "paragraph",
+      "text": "• 斜率法麻烦时可把直线写成一般式Ax+By+C=0再处理距离/位置。",
+      "style": "",
+      "sourceIndex": 2835
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2836
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2837
+    },
+    {
+      "type": "paragraph",
+      "text": "• 有没有先认标准方程/方向？",
+      "style": "",
+      "sourceIndex": 2838
+    },
+    {
+      "type": "paragraph",
+      "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+      "style": "",
+      "sourceIndex": 2839
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算结果能否用图形常识检查正负和范围？",
+      "style": "",
+      "sourceIndex": 2840
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2841
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2842
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2843
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜y=2x+1与y=-1/2x+3关系。"
+        ],
+        [
+          "先怎么想｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。"
+        ],
+        [
+          "核心过程 / 答案｜斜率乘积-1，所以垂直。"
+        ]
+      ],
+      "text": "典型例题｜y=2x+1与y=-1/2x+3关系。\n先怎么想｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。\n核心过程 / 答案｜斜率乘积-1，所以垂直。",
+      "sourceIndex": 2844
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜平行判断要区分“平行”与“重合”。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜平行判断要区分“平行”与“重合”。",
+      "sourceIndex": 2845
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2846
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。"
+        ]
+      ],
+      "text": "📌 30秒速记｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。",
+      "sourceIndex": 2847
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2848
+    },
+    {
+      "type": "paragraph",
+      "text": "1. y=3x+1与y=3x-2。",
+      "style": "",
+      "sourceIndex": 2849
+    },
+    {
+      "type": "paragraph",
+      "text": "2. y=x与y=-x。",
+      "style": "",
+      "sourceIndex": 2850
+    },
+    {
+      "type": "paragraph",
+      "text": "3. x=1与y=2关系。",
+      "style": "",
+      "sourceIndex": 2851
+    },
+    {
+      "type": "paragraph",
+      "text": "4. y=x与y=2x交点。",
+      "style": "",
+      "sourceIndex": 2852
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 平行斜率条件。",
+      "style": "",
+      "sourceIndex": 2853
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.平行；2.垂直；3.垂直；4.(0,0)；5.k1=k2",
+      "style": "TinyNote",
+      "sourceIndex": 2854
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2855
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜两条直线关系、参数、交点。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜两条直线关系、参数、交点。",
+          "sourceIndex": 2819
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。",
+          "sourceIndex": 2820
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2821
+        },
+        {
+          "type": "paragraph",
+          "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+          "style": "",
+          "sourceIndex": 2822
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2823
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 斜率都存在时：平行k1=k2（还要排除重合），垂直k1k2=-1。",
+          "style": "",
+          "sourceIndex": 2824
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 2825
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 2826
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 一般式可用系数比例判断平行/重合。",
+          "style": "",
+          "sourceIndex": 2827
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 2828
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 2829
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 交点直接联立两条直线方程。",
+          "style": "",
+          "sourceIndex": 2830
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 2831
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 2832
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2833
+        },
+        {
+          "type": "paragraph",
+          "text": "• 竖直线斜率不存在，要单独处理x=常数。",
+          "style": "",
+          "sourceIndex": 2834
+        },
+        {
+          "type": "paragraph",
+          "text": "• 斜率法麻烦时可把直线写成一般式Ax+By+C=0再处理距离/位置。",
+          "style": "",
+          "sourceIndex": 2835
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2836
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2837
+        },
+        {
+          "type": "paragraph",
+          "text": "• 有没有先认标准方程/方向？",
+          "style": "",
+          "sourceIndex": 2838
+        },
+        {
+          "type": "paragraph",
+          "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+          "style": "",
+          "sourceIndex": 2839
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算结果能否用图形常识检查正负和范围？",
+          "style": "",
+          "sourceIndex": 2840
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2841
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2842
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2843
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜y=2x+1与y=-1/2x+3关系。"
+            ],
+            [
+              "先怎么想｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。"
+            ],
+            [
+              "核心过程 / 答案｜斜率乘积-1，所以垂直。"
+            ]
+          ],
+          "text": "典型例题｜y=2x+1与y=-1/2x+3关系。\n先怎么想｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。\n核心过程 / 答案｜斜率乘积-1，所以垂直。",
+          "sourceIndex": 2844
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜平行判断要区分“平行”与“重合”。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜平行判断要区分“平行”与“重合”。",
+          "sourceIndex": 2845
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2846
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。"
+            ]
+          ],
+          "text": "📌 30秒速记｜两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。",
+          "sourceIndex": 2847
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2848
+        },
+        {
+          "type": "paragraph",
+          "text": "1. y=3x+1与y=3x-2。",
+          "style": "",
+          "sourceIndex": 2849
+        },
+        {
+          "type": "paragraph",
+          "text": "2. y=x与y=-x。",
+          "style": "",
+          "sourceIndex": 2850
+        },
+        {
+          "type": "paragraph",
+          "text": "3. x=1与y=2关系。",
+          "style": "",
+          "sourceIndex": 2851
+        },
+        {
+          "type": "paragraph",
+          "text": "4. y=x与y=2x交点。",
+          "style": "",
+          "sourceIndex": 2852
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 平行斜率条件。",
+          "style": "",
+          "sourceIndex": 2853
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.平行；2.垂直；3.垂直；4.(0,0)；5.k1=k2",
+          "style": "TinyNote",
+          "sourceIndex": 2854
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2855
+        }
+      ]
+    }
+  ],
+  "sort_order": 65,
+  "brain_first": "两直线平行看“方向一样”，垂直看“方向差90°”。能用斜率就用斜率，竖直/水平线要单独处理。"
+}

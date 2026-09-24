@@ -1,0 +1,627 @@
+{
+  "id": "SOP045",
+  "code": "SOP045",
+  "title": "正弦定理",
+  "chapter_id": "chapter-11",
+  "chapter": "必修第二册 第11章 解三角形",
+  "frequency": 5,
+  "keywords": [
+    "正弦定理"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 1962
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜已知一组边角对应，再求另一边/角；出现a/sinA。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜已知一组边角对应，再求另一边/角；出现a/sinA。",
+      "sourceIndex": 1963
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。",
+      "sourceIndex": 1964
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1965
+    },
+    {
+      "type": "paragraph",
+      "text": "• 正弦定理 → 把每条边和它正对的角配成比例",
+      "style": "",
+      "sourceIndex": 1966
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1967
+    },
+    {
+      "type": "paragraph",
+      "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+      "style": "",
+      "sourceIndex": 1968
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1969
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 写a/sinA=b/sinB=c/sinC=2R。",
+      "style": "",
+      "sourceIndex": 1970
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：正弦定理靠“边和它正对的角”配对。只要已有一组完整对边/对角，就很适合列比例。",
+      "style": "",
+      "sourceIndex": 1971
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在图上给每条边写出它对面的角；把已知最多的两对放进 a/sinA=b/sinB，未知量只留一个。",
+      "style": "",
+      "sourceIndex": 1972
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 优先把已知的“边-对角”成对放入比例。",
+      "style": "",
+      "sourceIndex": 1973
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 1974
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 1975
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 求角时注意sinθ同值可能有补角，需要结合三角形角和/边大小筛选。",
+      "style": "",
+      "sourceIndex": 1976
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 1977
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 1978
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1979
+    },
+    {
+      "type": "paragraph",
+      "text": "• 出现区间：最终答案必须筛区间。",
+      "style": "",
+      "sourceIndex": 1980
+    },
+    {
+      "type": "paragraph",
+      "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+      "style": "",
+      "sourceIndex": 1981
+    },
+    {
+      "type": "paragraph",
+      "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+      "style": "",
+      "sourceIndex": 1982
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1983
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1984
+    },
+    {
+      "type": "paragraph",
+      "text": "• 角度/弧度单位是否统一？",
+      "style": "",
+      "sourceIndex": 1985
+    },
+    {
+      "type": "paragraph",
+      "text": "• 象限决定的正负有没有检查？",
+      "style": "",
+      "sourceIndex": 1986
+    },
+    {
+      "type": "paragraph",
+      "text": "• 最终角是否全部落在指定区间？",
+      "style": "",
+      "sourceIndex": 1987
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1988
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 1989
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 1990
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜a=2,A=30°,B=60°，求b。"
+        ],
+        [
+          "先怎么想｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。"
+        ],
+        [
+          "核心过程 / 答案｜b/sin60=2/sin30，b=2√3。"
+        ]
+      ],
+      "text": "典型例题｜a=2,A=30°,B=60°，求b。\n先怎么想｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。\n核心过程 / 答案｜b/sin60=2/sin30，b=2√3。",
+      "sourceIndex": 1991
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜由sinB得到B时可能有B和π-B两解，不能自动只取锐角。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜由sinB得到B时可能有B和π-B两解，不能自动只取锐角。",
+      "sourceIndex": 1992
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1993
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。"
+        ]
+      ],
+      "text": "📌 30秒速记｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。",
+      "sourceIndex": 1994
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1995
+    },
+    {
+      "type": "paragraph",
+      "text": "1. a=3,A=30°,B=90°，b。",
+      "style": "",
+      "sourceIndex": 1996
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 正弦定理中a/sinA等于什么几何量？",
+      "style": "",
+      "sourceIndex": 1997
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 边越大对应角怎样？",
+      "style": "",
+      "sourceIndex": 1998
+    },
+    {
+      "type": "paragraph",
+      "text": "4. A=30°,B=60°，C。",
+      "style": "",
+      "sourceIndex": 1999
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 有边角对应关系时优先哪个定理？",
+      "style": "",
+      "sourceIndex": 2000
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.6；2.2R；3.越大；4.90°；5.正弦定理",
+      "style": "TinyNote",
+      "sourceIndex": 2001
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2002
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜已知一组边角对应，再求另一边/角；出现a/sinA。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜已知一组边角对应，再求另一边/角；出现a/sinA。",
+          "sourceIndex": 1963
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。",
+          "sourceIndex": 1964
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1965
+        },
+        {
+          "type": "paragraph",
+          "text": "• 正弦定理 → 把每条边和它正对的角配成比例",
+          "style": "",
+          "sourceIndex": 1966
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1967
+        },
+        {
+          "type": "paragraph",
+          "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+          "style": "",
+          "sourceIndex": 1968
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1969
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 写a/sinA=b/sinB=c/sinC=2R。",
+          "style": "",
+          "sourceIndex": 1970
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：正弦定理靠“边和它正对的角”配对。只要已有一组完整对边/对角，就很适合列比例。",
+          "style": "",
+          "sourceIndex": 1971
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在图上给每条边写出它对面的角；把已知最多的两对放进 a/sinA=b/sinB，未知量只留一个。",
+          "style": "",
+          "sourceIndex": 1972
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 优先把已知的“边-对角”成对放入比例。",
+          "style": "",
+          "sourceIndex": 1973
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 1974
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 1975
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 求角时注意sinθ同值可能有补角，需要结合三角形角和/边大小筛选。",
+          "style": "",
+          "sourceIndex": 1976
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 1977
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 1978
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1979
+        },
+        {
+          "type": "paragraph",
+          "text": "• 出现区间：最终答案必须筛区间。",
+          "style": "",
+          "sourceIndex": 1980
+        },
+        {
+          "type": "paragraph",
+          "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+          "style": "",
+          "sourceIndex": 1981
+        },
+        {
+          "type": "paragraph",
+          "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+          "style": "",
+          "sourceIndex": 1982
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1983
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1984
+        },
+        {
+          "type": "paragraph",
+          "text": "• 角度/弧度单位是否统一？",
+          "style": "",
+          "sourceIndex": 1985
+        },
+        {
+          "type": "paragraph",
+          "text": "• 象限决定的正负有没有检查？",
+          "style": "",
+          "sourceIndex": 1986
+        },
+        {
+          "type": "paragraph",
+          "text": "• 最终角是否全部落在指定区间？",
+          "style": "",
+          "sourceIndex": 1987
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1988
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 1989
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 1990
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜a=2,A=30°,B=60°，求b。"
+            ],
+            [
+              "先怎么想｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。"
+            ],
+            [
+              "核心过程 / 答案｜b/sin60=2/sin30，b=2√3。"
+            ]
+          ],
+          "text": "典型例题｜a=2,A=30°,B=60°，求b。\n先怎么想｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。\n核心过程 / 答案｜b/sin60=2/sin30，b=2√3。",
+          "sourceIndex": 1991
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜由sinB得到B时可能有B和π-B两解，不能自动只取锐角。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜由sinB得到B时可能有B和π-B两解，不能自动只取锐角。",
+          "sourceIndex": 1992
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1993
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。"
+            ]
+          ],
+          "text": "📌 30秒速记｜正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。",
+          "sourceIndex": 1994
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1995
+        },
+        {
+          "type": "paragraph",
+          "text": "1. a=3,A=30°,B=90°，b。",
+          "style": "",
+          "sourceIndex": 1996
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 正弦定理中a/sinA等于什么几何量？",
+          "style": "",
+          "sourceIndex": 1997
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 边越大对应角怎样？",
+          "style": "",
+          "sourceIndex": 1998
+        },
+        {
+          "type": "paragraph",
+          "text": "4. A=30°,B=60°，C。",
+          "style": "",
+          "sourceIndex": 1999
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 有边角对应关系时优先哪个定理？",
+          "style": "",
+          "sourceIndex": 2000
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.6；2.2R；3.越大；4.90°；5.正弦定理",
+          "style": "TinyNote",
+          "sourceIndex": 2001
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2002
+        }
+      ]
+    }
+  ],
+  "sort_order": 44,
+  "brain_first": "正弦定理适合“已经有一组对边和对角”的题；谁和谁面对面，先配成一对。"
+}

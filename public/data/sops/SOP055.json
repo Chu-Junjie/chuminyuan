@@ -1,0 +1,587 @@
+{
+  "id": "SOP055",
+  "code": "SOP055",
+  "title": "截面、切接球与几何体基础",
+  "chapter_id": "chapter-13",
+  "chapter": "必修第二册 第13章 立体几何初步",
+  "frequency": 4,
+  "keywords": [
+    "截面",
+    "切接球",
+    "几何体基础"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 2370
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜正方体/棱锥与球内接外切、截面形状、空间距离的简单计算。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜正方体/棱锥与球内接外切、截面形状、空间距离的简单计算。",
+      "sourceIndex": 2371
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。",
+      "sourceIndex": 2372
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2373
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 2374
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2375
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先找对称中心，球心通常由对称性确定。",
+      "style": "",
+      "sourceIndex": 2376
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+      "style": "",
+      "sourceIndex": 2377
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+      "style": "",
+      "sourceIndex": 2378
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 内接长方体：体对角线=球直径；正方体尤其常用。",
+      "style": "",
+      "sourceIndex": 2379
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+      "style": "",
+      "sourceIndex": 2380
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+      "style": "",
+      "sourceIndex": 2381
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 截面题按“截平面与哪些棱相交”逐点连线，先判断形状再算。",
+      "style": "",
+      "sourceIndex": 2382
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+      "style": "",
+      "sourceIndex": 2383
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+      "style": "",
+      "sourceIndex": 2384
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2385
+    },
+    {
+      "type": "paragraph",
+      "text": "• 证明题优先找课本判定定理需要的“最少条件”，不要证明一大堆无关垂直/平行。",
+      "style": "",
+      "sourceIndex": 2386
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算题若纯几何绕：考虑建坐标，把角和距离改成向量。",
+      "style": "",
+      "sourceIndex": 2387
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2388
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2389
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 2390
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 2391
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 2392
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2393
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2394
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2395
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜棱长2的正方体外接球半径。"
+        ],
+        [
+          "先怎么想｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。"
+        ],
+        [
+          "核心过程 / 答案｜体对角线2√3=直径，所以R=√3。"
+        ]
+      ],
+      "text": "典型例题｜棱长2的正方体外接球半径。\n先怎么想｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。\n核心过程 / 答案｜体对角线2√3=直径，所以R=√3。",
+      "sourceIndex": 2396
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜外接球半径不是正方体面对角线的一半，而是体对角线的一半。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜外接球半径不是正方体面对角线的一半，而是体对角线的一半。",
+      "sourceIndex": 2397
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2398
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。"
+        ]
+      ],
+      "text": "📌 30秒速记｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。",
+      "sourceIndex": 2399
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2400
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 棱长a正方体体对角线。",
+      "style": "",
+      "sourceIndex": 2401
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 棱长a正方体外接球半径。",
+      "style": "",
+      "sourceIndex": 2402
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 球直径D与半径R关系。",
+      "style": "",
+      "sourceIndex": 2403
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 截面顶点通常来自哪里？",
+      "style": "",
+      "sourceIndex": 2404
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 切接球题第一优先。",
+      "style": "",
+      "sourceIndex": 2405
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.a√3；2.a√3/2；3.D=2R；4.截平面与棱的交点；5.利用对称性找球心",
+      "style": "TinyNote",
+      "sourceIndex": 2406
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2407
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜正方体/棱锥与球内接外切、截面形状、空间距离的简单计算。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜正方体/棱锥与球内接外切、截面形状、空间距离的简单计算。",
+          "sourceIndex": 2371
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。",
+          "sourceIndex": 2372
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2373
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 2374
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2375
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先找对称中心，球心通常由对称性确定。",
+          "style": "",
+          "sourceIndex": 2376
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+          "style": "",
+          "sourceIndex": 2377
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+          "style": "",
+          "sourceIndex": 2378
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 内接长方体：体对角线=球直径；正方体尤其常用。",
+          "style": "",
+          "sourceIndex": 2379
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+          "style": "",
+          "sourceIndex": 2380
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+          "style": "",
+          "sourceIndex": 2381
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 截面题按“截平面与哪些棱相交”逐点连线，先判断形状再算。",
+          "style": "",
+          "sourceIndex": 2382
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+          "style": "",
+          "sourceIndex": 2383
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+          "style": "",
+          "sourceIndex": 2384
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2385
+        },
+        {
+          "type": "paragraph",
+          "text": "• 证明题优先找课本判定定理需要的“最少条件”，不要证明一大堆无关垂直/平行。",
+          "style": "",
+          "sourceIndex": 2386
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算题若纯几何绕：考虑建坐标，把角和距离改成向量。",
+          "style": "",
+          "sourceIndex": 2387
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2388
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2389
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 2390
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 2391
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 2392
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2393
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2394
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2395
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜棱长2的正方体外接球半径。"
+            ],
+            [
+              "先怎么想｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。"
+            ],
+            [
+              "核心过程 / 答案｜体对角线2√3=直径，所以R=√3。"
+            ]
+          ],
+          "text": "典型例题｜棱长2的正方体外接球半径。\n先怎么想｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。\n核心过程 / 答案｜体对角线2√3=直径，所以R=√3。",
+          "sourceIndex": 2396
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜外接球半径不是正方体面对角线的一半，而是体对角线的一半。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜外接球半径不是正方体面对角线的一半，而是体对角线的一半。",
+          "sourceIndex": 2397
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2398
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。"
+            ]
+          ],
+          "text": "📌 30秒速记｜截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。",
+          "sourceIndex": 2399
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2400
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 棱长a正方体体对角线。",
+          "style": "",
+          "sourceIndex": 2401
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 棱长a正方体外接球半径。",
+          "style": "",
+          "sourceIndex": 2402
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 球直径D与半径R关系。",
+          "style": "",
+          "sourceIndex": 2403
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 截面顶点通常来自哪里？",
+          "style": "",
+          "sourceIndex": 2404
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 切接球题第一优先。",
+          "style": "",
+          "sourceIndex": 2405
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.a√3；2.a√3/2；3.D=2R；4.截平面与棱的交点；5.利用对称性找球心",
+          "style": "TinyNote",
+          "sourceIndex": 2406
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2407
+        }
+      ]
+    }
+  ],
+  "sort_order": 54,
+  "brain_first": "截面题别凭立体想象硬猜，按“同一个平面切过哪些棱”逐点连；切接球先找球心到各面的等距离关系。"
+}

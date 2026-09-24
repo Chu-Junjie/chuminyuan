@@ -1,0 +1,598 @@
+{
+  "id": "SOP012",
+  "code": "SOP012",
+  "title": "对数运算与换底",
+  "chapter_id": "chapter-04",
+  "chapter": "必修第一册 第4章 指数与对数",
+  "frequency": 4,
+  "keywords": [
+    "对数运算",
+    "换底"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 590
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜出现log_a、lg、ln，要求化简、求值或换底。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜出现log_a、lg、ln，要求化简、求值或换底。",
+      "sourceIndex": 591
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。",
+      "sourceIndex": 592
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 593
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 594
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 595
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先检查真数>0、底数>0且≠1。",
+      "style": "",
+      "sourceIndex": 596
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：对数最先检查的是“这个式子有没有意义”。定义域漏掉以后，解出来的数可能根本不能代回原式。",
+      "style": "",
+      "sourceIndex": 597
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在解题第一行写：真数>0；底数>0且≠1。多个对数就把每个真数条件都列出来，最后取交集。",
+      "style": "",
+      "sourceIndex": 598
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 用log_a(MN)=log_aM+log_aN、log_a(M/N)=差、log_a(M^k)=klog_aM。",
+      "style": "",
+      "sourceIndex": 599
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 600
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 601
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 不同底数时用换底公式 log_ab=lnb/lna。",
+      "style": "",
+      "sourceIndex": 602
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 603
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 604
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 605
+    },
+    {
+      "type": "paragraph",
+      "text": "• 底数>1：指数/真数越大，函数值越大。",
+      "style": "",
+      "sourceIndex": 606
+    },
+    {
+      "type": "paragraph",
+      "text": "• 0<底数<1：比较方向反过来。",
+      "style": "",
+      "sourceIndex": 607
+    },
+    {
+      "type": "paragraph",
+      "text": "• 解方程后一定回到真数>0等定义域检查。",
+      "style": "",
+      "sourceIndex": 608
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 609
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 610
+    },
+    {
+      "type": "paragraph",
+      "text": "• 底数是否合法？",
+      "style": "",
+      "sourceIndex": 611
+    },
+    {
+      "type": "paragraph",
+      "text": "• 对数真数是否>0？",
+      "style": "",
+      "sourceIndex": 612
+    },
+    {
+      "type": "paragraph",
+      "text": "• 底数在(0,1)时比较方向是否反了？",
+      "style": "",
+      "sourceIndex": 613
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 614
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 615
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 616
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜求 log₂8 + log₂4。"
+        ],
+        [
+          "先怎么想｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。"
+        ],
+        [
+          "核心过程 / 答案｜3+2=5。"
+        ]
+      ],
+      "text": "典型例题｜求 log₂8 + log₂4。\n先怎么想｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。\n核心过程 / 答案｜3+2=5。",
+      "sourceIndex": 617
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜没有“log(a+b)=loga+logb”这种公式。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜没有“log(a+b)=loga+logb”这种公式。",
+      "sourceIndex": 618
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 619
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。"
+        ]
+      ],
+      "text": "📌 30秒速记｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。",
+      "sourceIndex": 620
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 621
+    },
+    {
+      "type": "paragraph",
+      "text": "1. log₃27。",
+      "style": "",
+      "sourceIndex": 622
+    },
+    {
+      "type": "paragraph",
+      "text": "2. log₂(8/2)。",
+      "style": "",
+      "sourceIndex": 623
+    },
+    {
+      "type": "paragraph",
+      "text": "3. log₅1。",
+      "style": "",
+      "sourceIndex": 624
+    },
+    {
+      "type": "paragraph",
+      "text": "4. log₂8·log₈4。",
+      "style": "",
+      "sourceIndex": 625
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 若log₂x=3，x=？",
+      "style": "",
+      "sourceIndex": 626
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.3；2.2；3.0；4.2；5.8",
+      "style": "TinyNote",
+      "sourceIndex": 627
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 628
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜出现log_a、lg、ln，要求化简、求值或换底。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜出现log_a、lg、ln，要求化简、求值或换底。",
+          "sourceIndex": 591
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。",
+          "sourceIndex": 592
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 593
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 594
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 595
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先检查真数>0、底数>0且≠1。",
+          "style": "",
+          "sourceIndex": 596
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：对数最先检查的是“这个式子有没有意义”。定义域漏掉以后，解出来的数可能根本不能代回原式。",
+          "style": "",
+          "sourceIndex": 597
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在解题第一行写：真数>0；底数>0且≠1。多个对数就把每个真数条件都列出来，最后取交集。",
+          "style": "",
+          "sourceIndex": 598
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 用log_a(MN)=log_aM+log_aN、log_a(M/N)=差、log_a(M^k)=klog_aM。",
+          "style": "",
+          "sourceIndex": 599
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 600
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 601
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 不同底数时用换底公式 log_ab=lnb/lna。",
+          "style": "",
+          "sourceIndex": 602
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 603
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 604
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 605
+        },
+        {
+          "type": "paragraph",
+          "text": "• 底数>1：指数/真数越大，函数值越大。",
+          "style": "",
+          "sourceIndex": 606
+        },
+        {
+          "type": "paragraph",
+          "text": "• 0<底数<1：比较方向反过来。",
+          "style": "",
+          "sourceIndex": 607
+        },
+        {
+          "type": "paragraph",
+          "text": "• 解方程后一定回到真数>0等定义域检查。",
+          "style": "",
+          "sourceIndex": 608
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 609
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 610
+        },
+        {
+          "type": "paragraph",
+          "text": "• 底数是否合法？",
+          "style": "",
+          "sourceIndex": 611
+        },
+        {
+          "type": "paragraph",
+          "text": "• 对数真数是否>0？",
+          "style": "",
+          "sourceIndex": 612
+        },
+        {
+          "type": "paragraph",
+          "text": "• 底数在(0,1)时比较方向是否反了？",
+          "style": "",
+          "sourceIndex": 613
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 614
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 615
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 616
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜求 log₂8 + log₂4。"
+            ],
+            [
+              "先怎么想｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。"
+            ],
+            [
+              "核心过程 / 答案｜3+2=5。"
+            ]
+          ],
+          "text": "典型例题｜求 log₂8 + log₂4。\n先怎么想｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。\n核心过程 / 答案｜3+2=5。",
+          "sourceIndex": 617
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜没有“log(a+b)=loga+logb”这种公式。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜没有“log(a+b)=loga+logb”这种公式。",
+          "sourceIndex": 618
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 619
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。"
+            ]
+          ],
+          "text": "📌 30秒速记｜对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。",
+          "sourceIndex": 620
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 621
+        },
+        {
+          "type": "paragraph",
+          "text": "1. log₃27。",
+          "style": "",
+          "sourceIndex": 622
+        },
+        {
+          "type": "paragraph",
+          "text": "2. log₂(8/2)。",
+          "style": "",
+          "sourceIndex": 623
+        },
+        {
+          "type": "paragraph",
+          "text": "3. log₅1。",
+          "style": "",
+          "sourceIndex": 624
+        },
+        {
+          "type": "paragraph",
+          "text": "4. log₂8·log₈4。",
+          "style": "",
+          "sourceIndex": 625
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 若log₂x=3，x=？",
+          "style": "",
+          "sourceIndex": 626
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.3；2.2；3.0；4.2；5.8",
+          "style": "TinyNote",
+          "sourceIndex": 627
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 628
+        }
+      ]
+    }
+  ],
+  "sort_order": 11,
+  "brain_first": "对数先查合法：真数必须正、底数必须正且不等于1。能合并就合并，底数不同再换底。"
+}

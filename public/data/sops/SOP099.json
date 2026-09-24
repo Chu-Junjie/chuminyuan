@@ -1,0 +1,586 @@
+{
+  "id": "SOP099",
+  "code": "SOP099",
+  "title": "相关系数与一元线性回归",
+  "chapter_id": "chapter-24",
+  "chapter": "选择性必修第二册 第9章 统计",
+  "frequency": 4,
+  "keywords": [
+    "相关系数",
+    "一元线性回归"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 4172
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜散点图、相关系数r、回归直线ŷ=bx+a、预测。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜散点图、相关系数r、回归直线ŷ=bx+a、预测。",
+      "sourceIndex": 4173
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。",
+      "sourceIndex": 4174
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 4175
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 4176
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 4177
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先看散点走势：右上正相关，右下负相关。",
+      "style": "",
+      "sourceIndex": 4178
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：相关系数只描述线性同向/反向及强弱；回归线用于估计，不代表一个变量一定导致另一个变量变化。",
+      "style": "",
+      "sourceIndex": 4179
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先看r正负，再看|r|离1多近；预测时把x代入ŷ=bx+a，并在文字答案里写“估计/预测”。",
+      "style": "",
+      "sourceIndex": 4180
+    },
+    {
+      "type": "paragraph",
+      "text": "2. r符号看方向，|r|越接近1通常线性相关越强。",
+      "style": "",
+      "sourceIndex": 4181
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：相关系数只描述线性同向/反向及强弱；回归线用于估计，不代表一个变量一定导致另一个变量变化。",
+      "style": "",
+      "sourceIndex": 4182
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先看r正负，再看|r|离1多近；预测时把x代入ŷ=bx+a，并在文字答案里写“估计/预测”。",
+      "style": "",
+      "sourceIndex": 4183
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 回归直线经过( x̄, ȳ )；预测时把x代入，但结论写“预测/估计”。",
+      "style": "",
+      "sourceIndex": 4184
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：相关系数只描述线性同向/反向及强弱；回归线用于估计，不代表一个变量一定导致另一个变量变化。",
+      "style": "",
+      "sourceIndex": 4185
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先看r正负，再看|r|离1多近；预测时把x代入ŷ=bx+a，并在文字答案里写“估计/预测”。",
+      "style": "",
+      "sourceIndex": 4186
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 4187
+    },
+    {
+      "type": "paragraph",
+      "text": "• 相关≠因果。",
+      "style": "",
+      "sourceIndex": 4188
+    },
+    {
+      "type": "paragraph",
+      "text": "• 统计结论必须按题目给的显著性水平措辞，不能夸大成“绝对证明”。",
+      "style": "",
+      "sourceIndex": 4189
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 4190
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 4191
+    },
+    {
+      "type": "paragraph",
+      "text": "• 统计量和临界值比较方向是否正确？",
+      "style": "",
+      "sourceIndex": 4192
+    },
+    {
+      "type": "paragraph",
+      "text": "• 结论用词是否符合显著性水平？",
+      "style": "",
+      "sourceIndex": 4193
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否误写成因果关系？",
+      "style": "",
+      "sourceIndex": 4194
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 4195
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 4196
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 4197
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜r=-0.9说明什么？"
+        ],
+        [
+          "先怎么想｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。"
+        ],
+        [
+          "核心过程 / 答案｜较强负线性相关。"
+        ]
+      ],
+      "text": "典型例题｜r=-0.9说明什么？\n先怎么想｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。\n核心过程 / 答案｜较强负线性相关。",
+      "sourceIndex": 4198
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜相关不等于因果；预测值也不是必然真实值。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜相关不等于因果；预测值也不是必然真实值。",
+      "sourceIndex": 4199
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 4200
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。"
+        ]
+      ],
+      "text": "📌 30秒速记｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。",
+      "sourceIndex": 4201
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 4202
+    },
+    {
+      "type": "paragraph",
+      "text": "1. r=0.8方向。",
+      "style": "",
+      "sourceIndex": 4203
+    },
+    {
+      "type": "paragraph",
+      "text": "2. r=-0.2方向。",
+      "style": "",
+      "sourceIndex": 4204
+    },
+    {
+      "type": "paragraph",
+      "text": "3. |r|范围。",
+      "style": "",
+      "sourceIndex": 4205
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 回归直线必过哪个点？",
+      "style": "",
+      "sourceIndex": 4206
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 回归预测应写成确定事实吗？",
+      "style": "",
+      "sourceIndex": 4207
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.正相关；2.负相关但较弱；3.0到1；4.(x̄,ȳ)；5.不能，应写预测/估计",
+      "style": "TinyNote",
+      "sourceIndex": 4208
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 4209
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜散点图、相关系数r、回归直线ŷ=bx+a、预测。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜散点图、相关系数r、回归直线ŷ=bx+a、预测。",
+          "sourceIndex": 4173
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。",
+          "sourceIndex": 4174
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 4175
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 4176
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 4177
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先看散点走势：右上正相关，右下负相关。",
+          "style": "",
+          "sourceIndex": 4178
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：相关系数只描述线性同向/反向及强弱；回归线用于估计，不代表一个变量一定导致另一个变量变化。",
+          "style": "",
+          "sourceIndex": 4179
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先看r正负，再看|r|离1多近；预测时把x代入ŷ=bx+a，并在文字答案里写“估计/预测”。",
+          "style": "",
+          "sourceIndex": 4180
+        },
+        {
+          "type": "paragraph",
+          "text": "2. r符号看方向，|r|越接近1通常线性相关越强。",
+          "style": "",
+          "sourceIndex": 4181
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：相关系数只描述线性同向/反向及强弱；回归线用于估计，不代表一个变量一定导致另一个变量变化。",
+          "style": "",
+          "sourceIndex": 4182
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先看r正负，再看|r|离1多近；预测时把x代入ŷ=bx+a，并在文字答案里写“估计/预测”。",
+          "style": "",
+          "sourceIndex": 4183
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 回归直线经过( x̄, ȳ )；预测时把x代入，但结论写“预测/估计”。",
+          "style": "",
+          "sourceIndex": 4184
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：相关系数只描述线性同向/反向及强弱；回归线用于估计，不代表一个变量一定导致另一个变量变化。",
+          "style": "",
+          "sourceIndex": 4185
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先看r正负，再看|r|离1多近；预测时把x代入ŷ=bx+a，并在文字答案里写“估计/预测”。",
+          "style": "",
+          "sourceIndex": 4186
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 4187
+        },
+        {
+          "type": "paragraph",
+          "text": "• 相关≠因果。",
+          "style": "",
+          "sourceIndex": 4188
+        },
+        {
+          "type": "paragraph",
+          "text": "• 统计结论必须按题目给的显著性水平措辞，不能夸大成“绝对证明”。",
+          "style": "",
+          "sourceIndex": 4189
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 4190
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 4191
+        },
+        {
+          "type": "paragraph",
+          "text": "• 统计量和临界值比较方向是否正确？",
+          "style": "",
+          "sourceIndex": 4192
+        },
+        {
+          "type": "paragraph",
+          "text": "• 结论用词是否符合显著性水平？",
+          "style": "",
+          "sourceIndex": 4193
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否误写成因果关系？",
+          "style": "",
+          "sourceIndex": 4194
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 4195
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 4196
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 4197
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜r=-0.9说明什么？"
+            ],
+            [
+              "先怎么想｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。"
+            ],
+            [
+              "核心过程 / 答案｜较强负线性相关。"
+            ]
+          ],
+          "text": "典型例题｜r=-0.9说明什么？\n先怎么想｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。\n核心过程 / 答案｜较强负线性相关。",
+          "sourceIndex": 4198
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜相关不等于因果；预测值也不是必然真实值。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜相关不等于因果；预测值也不是必然真实值。",
+          "sourceIndex": 4199
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 4200
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。"
+            ]
+          ],
+          "text": "📌 30秒速记｜相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。",
+          "sourceIndex": 4201
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 4202
+        },
+        {
+          "type": "paragraph",
+          "text": "1. r=0.8方向。",
+          "style": "",
+          "sourceIndex": 4203
+        },
+        {
+          "type": "paragraph",
+          "text": "2. r=-0.2方向。",
+          "style": "",
+          "sourceIndex": 4204
+        },
+        {
+          "type": "paragraph",
+          "text": "3. |r|范围。",
+          "style": "",
+          "sourceIndex": 4205
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 回归直线必过哪个点？",
+          "style": "",
+          "sourceIndex": 4206
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 回归预测应写成确定事实吗？",
+          "style": "",
+          "sourceIndex": 4207
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.正相关；2.负相关但较弱；3.0到1；4.(x̄,ȳ)；5.不能，应写预测/估计",
+          "style": "TinyNote",
+          "sourceIndex": 4208
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 4209
+        }
+      ]
+    }
+  ],
+  "sort_order": 98,
+  "brain_first": "相关系数先看正负决定方向，再看绝对值离1多近。回归线只是在做估计，永远别把“相关”写成“因果”。"
+}

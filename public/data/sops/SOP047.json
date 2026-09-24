@@ -1,0 +1,627 @@
+{
+  "id": "SOP047",
+  "code": "SOP047",
+  "title": "解三角形实际测量情境",
+  "chapter_id": "chapter-11",
+  "chapter": "必修第二册 第11章 解三角形",
+  "frequency": 4,
+  "keywords": [
+    "解三角形实际测量情境"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 2046
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜测距、仰角、方位角、航行、建筑高度等，最后落到三角形。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜测距、仰角、方位角、航行、建筑高度等，最后落到三角形。",
+      "sourceIndex": 2047
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。",
+      "sourceIndex": 2048
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 2049
+    },
+    {
+      "type": "paragraph",
+      "text": "• 余弦定理 → 三角形里的“勾股定理升级版”",
+      "style": "",
+      "sourceIndex": 2050
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2051
+    },
+    {
+      "type": "paragraph",
+      "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+      "style": "",
+      "sourceIndex": 2052
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2053
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 画简图并标出已知边角，统一单位。",
+      "style": "",
+      "sourceIndex": 2054
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 2055
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 2056
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 先判断正弦/余弦定理或直角三角比。",
+      "style": "",
+      "sourceIndex": 2057
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 2058
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 2059
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 算完检查长度为正、角度合理，并按题意取近似值。",
+      "style": "",
+      "sourceIndex": 2060
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 2061
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 2062
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2063
+    },
+    {
+      "type": "paragraph",
+      "text": "• 出现区间：最终答案必须筛区间。",
+      "style": "",
+      "sourceIndex": 2064
+    },
+    {
+      "type": "paragraph",
+      "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+      "style": "",
+      "sourceIndex": 2065
+    },
+    {
+      "type": "paragraph",
+      "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+      "style": "",
+      "sourceIndex": 2066
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2067
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2068
+    },
+    {
+      "type": "paragraph",
+      "text": "• 角度/弧度单位是否统一？",
+      "style": "",
+      "sourceIndex": 2069
+    },
+    {
+      "type": "paragraph",
+      "text": "• 象限决定的正负有没有检查？",
+      "style": "",
+      "sourceIndex": 2070
+    },
+    {
+      "type": "paragraph",
+      "text": "• 最终角是否全部落在指定区间？",
+      "style": "",
+      "sourceIndex": 2071
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2072
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+      "style": "",
+      "sourceIndex": 2073
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+      "style": "",
+      "sourceIndex": 2074
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜已知直角三角形斜边10，30°角对边多长？"
+        ],
+        [
+          "先怎么想｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。"
+        ],
+        [
+          "核心过程 / 答案｜10sin30°=5。"
+        ]
+      ],
+      "text": "典型例题｜已知直角三角形斜边10，30°角对边多长？\n先怎么想｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。\n核心过程 / 答案｜10sin30°=5。",
+      "sourceIndex": 2075
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜方位角、仰角的参照方向容易认错，必须先画图。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜方位角、仰角的参照方向容易认错，必须先画图。",
+      "sourceIndex": 2076
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2077
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。"
+        ]
+      ],
+      "text": "📌 30秒速记｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。",
+      "sourceIndex": 2078
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2079
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 斜边20，45°角对边。",
+      "style": "",
+      "sourceIndex": 2080
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 两边3,4夹角90°第三边。",
+      "style": "",
+      "sourceIndex": 2081
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 仰角通常相对哪条线？",
+      "style": "",
+      "sourceIndex": 2082
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 实际长度单位m与km能直接相加吗？",
+      "style": "",
+      "sourceIndex": 2083
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 测距题第一步。",
+      "style": "",
+      "sourceIndex": 2084
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.10√2；2.5；3.水平线；4.不能，先统一；5.画图标量",
+      "style": "TinyNote",
+      "sourceIndex": 2085
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2086
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜测距、仰角、方位角、航行、建筑高度等，最后落到三角形。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜测距、仰角、方位角、航行、建筑高度等，最后落到三角形。",
+          "sourceIndex": 2047
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。",
+          "sourceIndex": 2048
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 2049
+        },
+        {
+          "type": "paragraph",
+          "text": "• 余弦定理 → 三角形里的“勾股定理升级版”",
+          "style": "",
+          "sourceIndex": 2050
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2051
+        },
+        {
+          "type": "paragraph",
+          "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+          "style": "",
+          "sourceIndex": 2052
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2053
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 画简图并标出已知边角，统一单位。",
+          "style": "",
+          "sourceIndex": 2054
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 2055
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 2056
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 先判断正弦/余弦定理或直角三角比。",
+          "style": "",
+          "sourceIndex": 2057
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 2058
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 2059
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 算完检查长度为正、角度合理，并按题意取近似值。",
+          "style": "",
+          "sourceIndex": 2060
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 2061
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 2062
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2063
+        },
+        {
+          "type": "paragraph",
+          "text": "• 出现区间：最终答案必须筛区间。",
+          "style": "",
+          "sourceIndex": 2064
+        },
+        {
+          "type": "paragraph",
+          "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+          "style": "",
+          "sourceIndex": 2065
+        },
+        {
+          "type": "paragraph",
+          "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+          "style": "",
+          "sourceIndex": 2066
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2067
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2068
+        },
+        {
+          "type": "paragraph",
+          "text": "• 角度/弧度单位是否统一？",
+          "style": "",
+          "sourceIndex": 2069
+        },
+        {
+          "type": "paragraph",
+          "text": "• 象限决定的正负有没有检查？",
+          "style": "",
+          "sourceIndex": 2070
+        },
+        {
+          "type": "paragraph",
+          "text": "• 最终角是否全部落在指定区间？",
+          "style": "",
+          "sourceIndex": 2071
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2072
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+          "style": "",
+          "sourceIndex": 2073
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+          "style": "",
+          "sourceIndex": 2074
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜已知直角三角形斜边10，30°角对边多长？"
+            ],
+            [
+              "先怎么想｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。"
+            ],
+            [
+              "核心过程 / 答案｜10sin30°=5。"
+            ]
+          ],
+          "text": "典型例题｜已知直角三角形斜边10，30°角对边多长？\n先怎么想｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。\n核心过程 / 答案｜10sin30°=5。",
+          "sourceIndex": 2075
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜方位角、仰角的参照方向容易认错，必须先画图。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜方位角、仰角的参照方向容易认错，必须先画图。",
+          "sourceIndex": 2076
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2077
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。"
+            ]
+          ],
+          "text": "📌 30秒速记｜实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。",
+          "sourceIndex": 2078
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2079
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 斜边20，45°角对边。",
+          "style": "",
+          "sourceIndex": 2080
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 两边3,4夹角90°第三边。",
+          "style": "",
+          "sourceIndex": 2081
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 仰角通常相对哪条线？",
+          "style": "",
+          "sourceIndex": 2082
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 实际长度单位m与km能直接相加吗？",
+          "style": "",
+          "sourceIndex": 2083
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 测距题第一步。",
+          "style": "",
+          "sourceIndex": 2084
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.10√2；2.5；3.水平线；4.不能，先统一；5.画图标量",
+          "style": "TinyNote",
+          "sourceIndex": 2085
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2086
+        }
+      ]
+    }
+  ],
+  "sort_order": 46,
+  "brain_first": "实际测量题先画一个干净三角形，把“距离、仰角、方位角”翻译成边和角，再回到正弦/余弦/面积。"
+}

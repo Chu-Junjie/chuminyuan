@@ -1,0 +1,599 @@
+{
+  "id": "SOP075",
+  "code": "SOP075",
+  "title": "抛物线焦点、准线与标准方程",
+  "chapter_id": "chapter-18",
+  "chapter": "选择性必修第一册 第3章 圆锥曲线与方程",
+  "frequency": 5,
+  "keywords": [
+    "抛物线焦点",
+    "准线",
+    "标准方程"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 3174
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜给y²=2px或x²=2py等，问焦点、准线、p或距离。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜给y²=2px或x²=2py等，问焦点、准线、p或距离。",
+      "sourceIndex": 3175
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。",
+      "sourceIndex": 3176
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3177
+    },
+    {
+      "type": "paragraph",
+      "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+      "style": "",
+      "sourceIndex": 3178
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3179
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先确认教材使用的标准形式系数含义。",
+      "style": "",
+      "sourceIndex": 3180
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 3181
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 3182
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 写出焦点和准线，不要凭记忆混方向。",
+      "style": "",
+      "sourceIndex": 3183
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：抛物线最值钱的定义是“到焦点=到准线”。很多根号距离一换成到直线距离，计算会瞬间变短。",
+      "style": "",
+      "sourceIndex": 3184
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先从标准方程确定开口、焦点F和准线；题里出现PF时，试着改写成P到准线的距离。",
+      "style": "",
+      "sourceIndex": 3185
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 利用抛物线定义：点到焦点距离=到准线距离。",
+      "style": "",
+      "sourceIndex": 3186
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：抛物线最值钱的定义是“到焦点=到准线”。很多根号距离一换成到直线距离，计算会瞬间变短。",
+      "style": "",
+      "sourceIndex": 3187
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先从标准方程确定开口、焦点F和准线；题里出现PF时，试着改写成P到准线的距离。",
+      "style": "",
+      "sourceIndex": 3188
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3189
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先认标准量和方向，再做运算。",
+      "style": "",
+      "sourceIndex": 3190
+    },
+    {
+      "type": "paragraph",
+      "text": "• 直线联立后如果只问中点/距离/关系，优先用韦达，别把两个根都硬算出来。",
+      "style": "",
+      "sourceIndex": 3191
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果代数式突然暴涨，先停下来检查是不是应该用定义或对称性。",
+      "style": "",
+      "sourceIndex": 3192
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3193
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3194
+    },
+    {
+      "type": "paragraph",
+      "text": "• 有没有先认标准方程/方向？",
+      "style": "",
+      "sourceIndex": 3195
+    },
+    {
+      "type": "paragraph",
+      "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+      "style": "",
+      "sourceIndex": 3196
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算结果能否用图形常识检查正负和范围？",
+      "style": "",
+      "sourceIndex": 3197
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3198
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果联立后展开越来越长：先停止，看看题目是不是只要根的和/积、中点、弦长；能用韦达就别解根。",
+      "style": "",
+      "sourceIndex": 3199
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果距离式出现很多根号：检查能否用曲线定义把焦点距离换掉。",
+      "style": "",
+      "sourceIndex": 3200
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜y²=4x的焦点与准线。"
+        ],
+        [
+          "先怎么想｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。"
+        ],
+        [
+          "核心过程 / 答案｜相当于4x=2px得p=2，焦点(1,0)，准线x=-1。"
+        ]
+      ],
+      "text": "典型例题｜y²=4x的焦点与准线。\n先怎么想｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。\n核心过程 / 答案｜相当于4x=2px得p=2，焦点(1,0)，准线x=-1。",
+      "sourceIndex": 3201
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜不同教材常见写法y²=2px或4px，必须按当前方程系数识别，不能机械套。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜不同教材常见写法y²=2px或4px，必须按当前方程系数识别，不能机械套。",
+      "sourceIndex": 3202
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3203
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。"
+        ]
+      ],
+      "text": "📌 30秒速记｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。",
+      "sourceIndex": 3204
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3205
+    },
+    {
+      "type": "paragraph",
+      "text": "1. y²=8x按y²=2px，p。",
+      "style": "",
+      "sourceIndex": 3206
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 上题焦点。",
+      "style": "",
+      "sourceIndex": 3207
+    },
+    {
+      "type": "paragraph",
+      "text": "3. x²=4y焦点。",
+      "style": "",
+      "sourceIndex": 3208
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 抛物线上点到焦点与到准线距离关系。",
+      "style": "",
+      "sourceIndex": 3209
+    },
+    {
+      "type": "paragraph",
+      "text": "5. y²=4x开口方向。",
+      "style": "",
+      "sourceIndex": 3210
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.4；2.(2,0)；3.(0,1)；4.相等；5.向右",
+      "style": "TinyNote",
+      "sourceIndex": 3211
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3212
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜给y²=2px或x²=2py等，问焦点、准线、p或距离。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜给y²=2px或x²=2py等，问焦点、准线、p或距离。",
+          "sourceIndex": 3175
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。",
+          "sourceIndex": 3176
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3177
+        },
+        {
+          "type": "paragraph",
+          "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+          "style": "",
+          "sourceIndex": 3178
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3179
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先确认教材使用的标准形式系数含义。",
+          "style": "",
+          "sourceIndex": 3180
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 3181
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 3182
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 写出焦点和准线，不要凭记忆混方向。",
+          "style": "",
+          "sourceIndex": 3183
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：抛物线最值钱的定义是“到焦点=到准线”。很多根号距离一换成到直线距离，计算会瞬间变短。",
+          "style": "",
+          "sourceIndex": 3184
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先从标准方程确定开口、焦点F和准线；题里出现PF时，试着改写成P到准线的距离。",
+          "style": "",
+          "sourceIndex": 3185
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 利用抛物线定义：点到焦点距离=到准线距离。",
+          "style": "",
+          "sourceIndex": 3186
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：抛物线最值钱的定义是“到焦点=到准线”。很多根号距离一换成到直线距离，计算会瞬间变短。",
+          "style": "",
+          "sourceIndex": 3187
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先从标准方程确定开口、焦点F和准线；题里出现PF时，试着改写成P到准线的距离。",
+          "style": "",
+          "sourceIndex": 3188
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3189
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先认标准量和方向，再做运算。",
+          "style": "",
+          "sourceIndex": 3190
+        },
+        {
+          "type": "paragraph",
+          "text": "• 直线联立后如果只问中点/距离/关系，优先用韦达，别把两个根都硬算出来。",
+          "style": "",
+          "sourceIndex": 3191
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果代数式突然暴涨，先停下来检查是不是应该用定义或对称性。",
+          "style": "",
+          "sourceIndex": 3192
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3193
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3194
+        },
+        {
+          "type": "paragraph",
+          "text": "• 有没有先认标准方程/方向？",
+          "style": "",
+          "sourceIndex": 3195
+        },
+        {
+          "type": "paragraph",
+          "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+          "style": "",
+          "sourceIndex": 3196
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算结果能否用图形常识检查正负和范围？",
+          "style": "",
+          "sourceIndex": 3197
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3198
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果联立后展开越来越长：先停止，看看题目是不是只要根的和/积、中点、弦长；能用韦达就别解根。",
+          "style": "",
+          "sourceIndex": 3199
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果距离式出现很多根号：检查能否用曲线定义把焦点距离换掉。",
+          "style": "",
+          "sourceIndex": 3200
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜y²=4x的焦点与准线。"
+            ],
+            [
+              "先怎么想｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。"
+            ],
+            [
+              "核心过程 / 答案｜相当于4x=2px得p=2，焦点(1,0)，准线x=-1。"
+            ]
+          ],
+          "text": "典型例题｜y²=4x的焦点与准线。\n先怎么想｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。\n核心过程 / 答案｜相当于4x=2px得p=2，焦点(1,0)，准线x=-1。",
+          "sourceIndex": 3201
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜不同教材常见写法y²=2px或4px，必须按当前方程系数识别，不能机械套。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜不同教材常见写法y²=2px或4px，必须按当前方程系数识别，不能机械套。",
+          "sourceIndex": 3202
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3203
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。"
+            ]
+          ],
+          "text": "📌 30秒速记｜抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。",
+          "sourceIndex": 3204
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3205
+        },
+        {
+          "type": "paragraph",
+          "text": "1. y²=8x按y²=2px，p。",
+          "style": "",
+          "sourceIndex": 3206
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 上题焦点。",
+          "style": "",
+          "sourceIndex": 3207
+        },
+        {
+          "type": "paragraph",
+          "text": "3. x²=4y焦点。",
+          "style": "",
+          "sourceIndex": 3208
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 抛物线上点到焦点与到准线距离关系。",
+          "style": "",
+          "sourceIndex": 3209
+        },
+        {
+          "type": "paragraph",
+          "text": "5. y²=4x开口方向。",
+          "style": "",
+          "sourceIndex": 3210
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.4；2.(2,0)；3.(0,1)；4.相等；5.向右",
+          "style": "TinyNote",
+          "sourceIndex": 3211
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3212
+        }
+      ]
+    }
+  ],
+  "sort_order": 74,
+  "brain_first": "抛物线先认开口方向，再写焦点和准线。题目里出现“到焦点的距离”，常常直接换成“到准线的距离”。"
+}

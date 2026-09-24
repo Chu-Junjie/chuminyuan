@@ -1,0 +1,587 @@
+{
+  "id": "SOP068",
+  "code": "SOP068",
+  "title": "直线中的中点、对称与基础轨迹",
+  "chapter_id": "chapter-16",
+  "chapter": "选择性必修第一册 第1章 直线与方程",
+  "frequency": 4,
+  "keywords": [
+    "直线中的中点",
+    "对称",
+    "基础轨迹"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 2896
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜关于点/直线对称，中点坐标，简单轨迹为直线。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜关于点/直线对称，中点坐标，简单轨迹为直线。",
+      "sourceIndex": 2897
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。",
+      "sourceIndex": 2898
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2899
+    },
+    {
+      "type": "paragraph",
+      "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+      "style": "",
+      "sourceIndex": 2900
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2901
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 中点直接用坐标平均。",
+      "style": "",
+      "sourceIndex": 2902
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 2903
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 2904
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 关于x轴：(x,y)→(x,-y)；关于y轴→(-x,y)；关于原点→(-x,-y)。",
+      "style": "",
+      "sourceIndex": 2905
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 2906
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 2907
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 关于一般直线对称可用“中点在线上 + 连线垂直对称轴”。",
+      "style": "",
+      "sourceIndex": 2908
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 2909
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 2910
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2911
+    },
+    {
+      "type": "paragraph",
+      "text": "• 竖直线斜率不存在，要单独处理x=常数。",
+      "style": "",
+      "sourceIndex": 2912
+    },
+    {
+      "type": "paragraph",
+      "text": "• 斜率法麻烦时可把直线写成一般式Ax+By+C=0再处理距离/位置。",
+      "style": "",
+      "sourceIndex": 2913
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2914
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2915
+    },
+    {
+      "type": "paragraph",
+      "text": "• 有没有先认标准方程/方向？",
+      "style": "",
+      "sourceIndex": 2916
+    },
+    {
+      "type": "paragraph",
+      "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+      "style": "",
+      "sourceIndex": 2917
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算结果能否用图形常识检查正负和范围？",
+      "style": "",
+      "sourceIndex": 2918
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2919
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2920
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2921
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜P(2,-3)关于x轴对称点。"
+        ],
+        [
+          "先怎么想｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。"
+        ],
+        [
+          "核心过程 / 答案｜(2,3)。"
+        ]
+      ],
+      "text": "典型例题｜P(2,-3)关于x轴对称点。\n先怎么想｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。\n核心过程 / 答案｜(2,3)。",
+      "sourceIndex": 2922
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜关于y=x对称时坐标互换，不是都变号。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜关于y=x对称时坐标互换，不是都变号。",
+      "sourceIndex": 2923
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2924
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。"
+        ]
+      ],
+      "text": "📌 30秒速记｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。",
+      "sourceIndex": 2925
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2926
+    },
+    {
+      "type": "paragraph",
+      "text": "1. A(1,2),B(3,4)中点。",
+      "style": "",
+      "sourceIndex": 2927
+    },
+    {
+      "type": "paragraph",
+      "text": "2. P(1,2)关于y轴。",
+      "style": "",
+      "sourceIndex": 2928
+    },
+    {
+      "type": "paragraph",
+      "text": "3. P(1,2)关于原点。",
+      "style": "",
+      "sourceIndex": 2929
+    },
+    {
+      "type": "paragraph",
+      "text": "4. P(1,2)关于y=x。",
+      "style": "",
+      "sourceIndex": 2930
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 垂直平分线上的点到两端点距离关系。",
+      "style": "",
+      "sourceIndex": 2931
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.(2,3)；2.(-1,2)；3.(-1,-2)；4.(2,1)；5.相等",
+      "style": "TinyNote",
+      "sourceIndex": 2932
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2933
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜关于点/直线对称，中点坐标，简单轨迹为直线。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜关于点/直线对称，中点坐标，简单轨迹为直线。",
+          "sourceIndex": 2897
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。",
+          "sourceIndex": 2898
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2899
+        },
+        {
+          "type": "paragraph",
+          "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+          "style": "",
+          "sourceIndex": 2900
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2901
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 中点直接用坐标平均。",
+          "style": "",
+          "sourceIndex": 2902
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 2903
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 2904
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 关于x轴：(x,y)→(x,-y)；关于y轴→(-x,y)；关于原点→(-x,-y)。",
+          "style": "",
+          "sourceIndex": 2905
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 2906
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 2907
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 关于一般直线对称可用“中点在线上 + 连线垂直对称轴”。",
+          "style": "",
+          "sourceIndex": 2908
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 2909
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 2910
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2911
+        },
+        {
+          "type": "paragraph",
+          "text": "• 竖直线斜率不存在，要单独处理x=常数。",
+          "style": "",
+          "sourceIndex": 2912
+        },
+        {
+          "type": "paragraph",
+          "text": "• 斜率法麻烦时可把直线写成一般式Ax+By+C=0再处理距离/位置。",
+          "style": "",
+          "sourceIndex": 2913
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2914
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2915
+        },
+        {
+          "type": "paragraph",
+          "text": "• 有没有先认标准方程/方向？",
+          "style": "",
+          "sourceIndex": 2916
+        },
+        {
+          "type": "paragraph",
+          "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+          "style": "",
+          "sourceIndex": 2917
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算结果能否用图形常识检查正负和范围？",
+          "style": "",
+          "sourceIndex": 2918
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2919
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2920
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2921
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜P(2,-3)关于x轴对称点。"
+            ],
+            [
+              "先怎么想｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。"
+            ],
+            [
+              "核心过程 / 答案｜(2,3)。"
+            ]
+          ],
+          "text": "典型例题｜P(2,-3)关于x轴对称点。\n先怎么想｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。\n核心过程 / 答案｜(2,3)。",
+          "sourceIndex": 2922
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜关于y=x对称时坐标互换，不是都变号。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜关于y=x对称时坐标互换，不是都变号。",
+          "sourceIndex": 2923
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2924
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。"
+            ]
+          ],
+          "text": "📌 30秒速记｜中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。",
+          "sourceIndex": 2925
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2926
+        },
+        {
+          "type": "paragraph",
+          "text": "1. A(1,2),B(3,4)中点。",
+          "style": "",
+          "sourceIndex": 2927
+        },
+        {
+          "type": "paragraph",
+          "text": "2. P(1,2)关于y轴。",
+          "style": "",
+          "sourceIndex": 2928
+        },
+        {
+          "type": "paragraph",
+          "text": "3. P(1,2)关于原点。",
+          "style": "",
+          "sourceIndex": 2929
+        },
+        {
+          "type": "paragraph",
+          "text": "4. P(1,2)关于y=x。",
+          "style": "",
+          "sourceIndex": 2930
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 垂直平分线上的点到两端点距离关系。",
+          "style": "",
+          "sourceIndex": 2931
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.(2,3)；2.(-1,2)；3.(-1,-2)；4.(2,1)；5.相等",
+          "style": "TinyNote",
+          "sourceIndex": 2932
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2933
+        }
+      ]
+    }
+  ],
+  "sort_order": 67,
+  "brain_first": "中点就是坐标取平均；对称就是“中点在对称轴/对称点关系上”。轨迹题把动点设成(x,y)，再把条件翻成方程。"
+}

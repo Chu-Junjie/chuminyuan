@@ -1,0 +1,587 @@
+{
+  "id": "SOP002",
+  "code": "SOP002",
+  "title": "子集、集合相等与参数",
+  "chapter_id": "chapter-01",
+  "chapter": "必修第一册 第1章 集合",
+  "frequency": 4,
+  "keywords": [
+    "子集",
+    "集合相等",
+    "参数"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 182
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜出现 A⊆B、A∩B=A、A∪B=B，或集合中含参数 a。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜出现 A⊆B、A∩B=A、A∪B=B，或集合中含参数 a。",
+      "sourceIndex": 183
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。",
+      "sourceIndex": 184
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 185
+    },
+    {
+      "type": "paragraph",
+      "text": "这一类题本质是在处理“范围”和“逻辑关系”。先把文字改成集合、区间或箭头，比直接靠中文语感稳定得多。",
+      "style": "",
+      "sourceIndex": 186
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 187
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 把集合运算关系翻译成包含关系：A∩B=A 或 A∪B=B 都说明 A⊆B。",
+      "style": "",
+      "sourceIndex": 188
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+      "style": "",
+      "sourceIndex": 189
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+      "style": "",
+      "sourceIndex": 190
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 把两集合端点/元素逐一比较，列出参数约束。",
+      "style": "",
+      "sourceIndex": 191
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：很多基础题真正丢分就在端点：< 和 ≤ 只差一个等号，但答案会完全不同。",
+      "style": "",
+      "sourceIndex": 192
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：最后单独扫一遍每个端点：它是否满足原条件？满足就闭，不满足就开；分母为0的点永远删掉。",
+      "style": "",
+      "sourceIndex": 193
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 若集合可能为空，必须把“空集也满足子集关系”单独检查。",
+      "style": "",
+      "sourceIndex": 194
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+      "style": "",
+      "sourceIndex": 195
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+      "style": "",
+      "sourceIndex": 196
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 197
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果集合先用不等式/方程描述：先把每个集合单独解成区间或元素清单，再做交并补。",
+      "style": "",
+      "sourceIndex": 198
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果有参数：重点盯端点能否取到、包含关系是否允许相等。",
+      "style": "",
+      "sourceIndex": 199
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 200
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 201
+    },
+    {
+      "type": "paragraph",
+      "text": "• 端点的开闭是否正确？",
+      "style": "",
+      "sourceIndex": 202
+    },
+    {
+      "type": "paragraph",
+      "text": "• 交集/并集有没有写反？",
+      "style": "",
+      "sourceIndex": 203
+    },
+    {
+      "type": "paragraph",
+      "text": "• 有参数时是否检查了边界相等的情况？",
+      "style": "",
+      "sourceIndex": 204
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 205
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 206
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 207
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜A=[1,a]，B=[0,3]，且A⊆B、A非空，求a范围。"
+        ],
+        [
+          "先怎么想｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。"
+        ],
+        [
+          "核心过程 / 答案｜A非空得a≥1；包含于B得a≤3，所以1≤a≤3。"
+        ]
+      ],
+      "text": "典型例题｜A=[1,a]，B=[0,3]，且A⊆B、A非空，求a范围。\n先怎么想｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。\n核心过程 / 答案｜A非空得a≥1；包含于B得a≤3，所以1≤a≤3。",
+      "sourceIndex": 208
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜参数集合最常漏掉“集合为空”的分支，也常把真子集和子集混淆。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜参数集合最常漏掉“集合为空”的分支，也常把真子集和子集混淆。",
+      "sourceIndex": 209
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 210
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。"
+        ]
+      ],
+      "text": "📌 30秒速记｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。",
+      "sourceIndex": 211
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 212
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 若A∩B=A，则A与B关系。",
+      "style": "",
+      "sourceIndex": 213
+    },
+    {
+      "type": "paragraph",
+      "text": "2. A={1,a}，B={1,2}，A=B，求a。",
+      "style": "",
+      "sourceIndex": 214
+    },
+    {
+      "type": "paragraph",
+      "text": "3. A=[a,2]非空且A⊆[0,3]，求a范围。",
+      "style": "",
+      "sourceIndex": 215
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 空集是否为任意集合的子集？",
+      "style": "",
+      "sourceIndex": 216
+    },
+    {
+      "type": "paragraph",
+      "text": "5. A={x|x>a}，B={x|x>2}，A⊆B，求a范围。",
+      "style": "",
+      "sourceIndex": 217
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.A⊆B；2.2；3.0≤a≤2；4.是；5.a≥2",
+      "style": "TinyNote",
+      "sourceIndex": 218
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 219
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜出现 A⊆B、A∩B=A、A∪B=B，或集合中含参数 a。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜出现 A⊆B、A∩B=A、A∪B=B，或集合中含参数 a。",
+          "sourceIndex": 183
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。",
+          "sourceIndex": 184
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 185
+        },
+        {
+          "type": "paragraph",
+          "text": "这一类题本质是在处理“范围”和“逻辑关系”。先把文字改成集合、区间或箭头，比直接靠中文语感稳定得多。",
+          "style": "",
+          "sourceIndex": 186
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 187
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 把集合运算关系翻译成包含关系：A∩B=A 或 A∪B=B 都说明 A⊆B。",
+          "style": "",
+          "sourceIndex": 188
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+          "style": "",
+          "sourceIndex": 189
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+          "style": "",
+          "sourceIndex": 190
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 把两集合端点/元素逐一比较，列出参数约束。",
+          "style": "",
+          "sourceIndex": 191
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：很多基础题真正丢分就在端点：< 和 ≤ 只差一个等号，但答案会完全不同。",
+          "style": "",
+          "sourceIndex": 192
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：最后单独扫一遍每个端点：它是否满足原条件？满足就闭，不满足就开；分母为0的点永远删掉。",
+          "style": "",
+          "sourceIndex": 193
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 若集合可能为空，必须把“空集也满足子集关系”单独检查。",
+          "style": "",
+          "sourceIndex": 194
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+          "style": "",
+          "sourceIndex": 195
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+          "style": "",
+          "sourceIndex": 196
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 197
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果集合先用不等式/方程描述：先把每个集合单独解成区间或元素清单，再做交并补。",
+          "style": "",
+          "sourceIndex": 198
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果有参数：重点盯端点能否取到、包含关系是否允许相等。",
+          "style": "",
+          "sourceIndex": 199
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 200
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 201
+        },
+        {
+          "type": "paragraph",
+          "text": "• 端点的开闭是否正确？",
+          "style": "",
+          "sourceIndex": 202
+        },
+        {
+          "type": "paragraph",
+          "text": "• 交集/并集有没有写反？",
+          "style": "",
+          "sourceIndex": 203
+        },
+        {
+          "type": "paragraph",
+          "text": "• 有参数时是否检查了边界相等的情况？",
+          "style": "",
+          "sourceIndex": 204
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 205
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 206
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 207
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜A=[1,a]，B=[0,3]，且A⊆B、A非空，求a范围。"
+            ],
+            [
+              "先怎么想｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。"
+            ],
+            [
+              "核心过程 / 答案｜A非空得a≥1；包含于B得a≤3，所以1≤a≤3。"
+            ]
+          ],
+          "text": "典型例题｜A=[1,a]，B=[0,3]，且A⊆B、A非空，求a范围。\n先怎么想｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。\n核心过程 / 答案｜A非空得a≥1；包含于B得a≤3，所以1≤a≤3。",
+          "sourceIndex": 208
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜参数集合最常漏掉“集合为空”的分支，也常把真子集和子集混淆。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜参数集合最常漏掉“集合为空”的分支，也常把真子集和子集混淆。",
+          "sourceIndex": 209
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 210
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。"
+            ]
+          ],
+          "text": "📌 30秒速记｜看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。",
+          "sourceIndex": 211
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 212
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 若A∩B=A，则A与B关系。",
+          "style": "",
+          "sourceIndex": 213
+        },
+        {
+          "type": "paragraph",
+          "text": "2. A={1,a}，B={1,2}，A=B，求a。",
+          "style": "",
+          "sourceIndex": 214
+        },
+        {
+          "type": "paragraph",
+          "text": "3. A=[a,2]非空且A⊆[0,3]，求a范围。",
+          "style": "",
+          "sourceIndex": 215
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 空集是否为任意集合的子集？",
+          "style": "",
+          "sourceIndex": 216
+        },
+        {
+          "type": "paragraph",
+          "text": "5. A={x|x>a}，B={x|x>2}，A⊆B，求a范围。",
+          "style": "",
+          "sourceIndex": 217
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.A⊆B；2.2；3.0≤a≤2；4.是；5.a≥2",
+          "style": "TinyNote",
+          "sourceIndex": 218
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 219
+        }
+      ]
+    }
+  ],
+  "sort_order": 1,
+  "brain_first": "看到“A包含B”不要靠眼猜：把小集合的每个元素/整个区间都塞进大集合里，参数通常卡在端点。"
+}

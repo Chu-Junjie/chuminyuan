@@ -1,0 +1,615 @@
+{
+  "id": "SOP027",
+  "code": "SOP027",
+  "title": "诱导公式快速化角",
+  "chapter_id": "chapter-07",
+  "chapter": "必修第一册 第7章 三角函数",
+  "frequency": 5,
+  "keywords": [
+    "诱导公式快速化角"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 1213
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜出现π±α、2π±α、-α、π/2±α等。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜出现π±α、2π±α、-α、π/2±α等。",
+      "sourceIndex": 1214
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。",
+      "sourceIndex": 1215
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1216
+    },
+    {
+      "type": "paragraph",
+      "text": "• 诱导公式 → 把大角、负角搬成熟悉角的规则",
+      "style": "",
+      "sourceIndex": 1217
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1218
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 1219
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1220
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先把大角化成“整数个π/2 ± 锐角/基本角”。",
+      "style": "",
+      "sourceIndex": 1221
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 1222
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 1223
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 确定函数名是否变化：奇数个π/2常换名，整数个π通常不换。",
+      "style": "",
+      "sourceIndex": 1224
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 1225
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 1226
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 最后按原角终边所在象限定正负。",
+      "style": "",
+      "sourceIndex": 1227
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 1228
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 1229
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1230
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 1231
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 1232
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1233
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1234
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 1235
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 1236
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 1237
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1238
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 1239
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 1240
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜化简 sin(π+α)。"
+        ],
+        [
+          "先怎么想｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。"
+        ],
+        [
+          "核心过程 / 答案｜第三象限正弦为负且不换名，得-sinα。"
+        ]
+      ],
+      "text": "典型例题｜化简 sin(π+α)。\n先怎么想｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。\n核心过程 / 答案｜第三象限正弦为负且不换名，得-sinα。",
+      "sourceIndex": 1241
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜最稳的方法不是背一长串口诀，而是“单位圆/象限符号 + 是否换名”。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜最稳的方法不是背一长串口诀，而是“单位圆/象限符号 + 是否换名”。",
+      "sourceIndex": 1242
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1243
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。"
+        ]
+      ],
+      "text": "📌 30秒速记｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。",
+      "sourceIndex": 1244
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1245
+    },
+    {
+      "type": "paragraph",
+      "text": "1. cos(π-α)。",
+      "style": "",
+      "sourceIndex": 1246
+    },
+    {
+      "type": "paragraph",
+      "text": "2. sin(-α)。",
+      "style": "",
+      "sourceIndex": 1247
+    },
+    {
+      "type": "paragraph",
+      "text": "3. cos(-α)。",
+      "style": "",
+      "sourceIndex": 1248
+    },
+    {
+      "type": "paragraph",
+      "text": "4. sin(2π+α)。",
+      "style": "",
+      "sourceIndex": 1249
+    },
+    {
+      "type": "paragraph",
+      "text": "5. cos(π/2-α)。",
+      "style": "",
+      "sourceIndex": 1250
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.-cosα；2.-sinα；3.cosα；4.sinα；5.sinα",
+      "style": "TinyNote",
+      "sourceIndex": 1251
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1252
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜出现π±α、2π±α、-α、π/2±α等。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜出现π±α、2π±α、-α、π/2±α等。",
+          "sourceIndex": 1214
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。",
+          "sourceIndex": 1215
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1216
+        },
+        {
+          "type": "paragraph",
+          "text": "• 诱导公式 → 把大角、负角搬成熟悉角的规则",
+          "style": "",
+          "sourceIndex": 1217
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1218
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 1219
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1220
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先把大角化成“整数个π/2 ± 锐角/基本角”。",
+          "style": "",
+          "sourceIndex": 1221
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 1222
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 1223
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 确定函数名是否变化：奇数个π/2常换名，整数个π通常不换。",
+          "style": "",
+          "sourceIndex": 1224
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 1225
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 1226
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 最后按原角终边所在象限定正负。",
+          "style": "",
+          "sourceIndex": 1227
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 1228
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 1229
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1230
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 1231
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 1232
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1233
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1234
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 1235
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 1236
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 1237
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1238
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 1239
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 1240
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜化简 sin(π+α)。"
+            ],
+            [
+              "先怎么想｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。"
+            ],
+            [
+              "核心过程 / 答案｜第三象限正弦为负且不换名，得-sinα。"
+            ]
+          ],
+          "text": "典型例题｜化简 sin(π+α)。\n先怎么想｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。\n核心过程 / 答案｜第三象限正弦为负且不换名，得-sinα。",
+          "sourceIndex": 1241
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜最稳的方法不是背一长串口诀，而是“单位圆/象限符号 + 是否换名”。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜最稳的方法不是背一长串口诀，而是“单位圆/象限符号 + 是否换名”。",
+          "sourceIndex": 1242
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1243
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。"
+            ]
+          ],
+          "text": "📌 30秒速记｜诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。",
+          "sourceIndex": 1244
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1245
+        },
+        {
+          "type": "paragraph",
+          "text": "1. cos(π-α)。",
+          "style": "",
+          "sourceIndex": 1246
+        },
+        {
+          "type": "paragraph",
+          "text": "2. sin(-α)。",
+          "style": "",
+          "sourceIndex": 1247
+        },
+        {
+          "type": "paragraph",
+          "text": "3. cos(-α)。",
+          "style": "",
+          "sourceIndex": 1248
+        },
+        {
+          "type": "paragraph",
+          "text": "4. sin(2π+α)。",
+          "style": "",
+          "sourceIndex": 1249
+        },
+        {
+          "type": "paragraph",
+          "text": "5. cos(π/2-α)。",
+          "style": "",
+          "sourceIndex": 1250
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.-cosα；2.-sinα；3.cosα；4.sinα；5.sinα",
+          "style": "TinyNote",
+          "sourceIndex": 1251
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1252
+        }
+      ]
+    }
+  ],
+  "sort_order": 26,
+  "brain_first": "诱导公式不要背成一串口令：先把角搬回熟悉位置，再看“函数名要不要换、符号是正还是负”。"
+}

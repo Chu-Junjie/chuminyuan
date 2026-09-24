@@ -1,0 +1,628 @@
+{
+  "id": "SOP018",
+  "code": "SOP018",
+  "title": "函数值域与基础最值",
+  "chapter_id": "chapter-05",
+  "chapter": "必修第一册 第5章 函数概念与性质",
+  "frequency": 4,
+  "keywords": [
+    "函数值域",
+    "基础最值"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 842
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问函数值域、最大/最小值，且结构是一次、二次、根式或简单分式。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问函数值域、最大/最小值，且结构是一次、二次、根式或简单分式。",
+      "sourceIndex": 843
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。",
+      "sourceIndex": 844
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 845
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域 → 哪些x允许放进这个函数",
+      "style": "",
+      "sourceIndex": 846
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单调 → x增大时函数值总体是变大还是变小",
+      "style": "",
+      "sourceIndex": 847
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 848
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 849
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 850
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先写定义域。",
+      "style": "",
+      "sourceIndex": 851
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 852
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 853
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 二次函数配方看顶点；单调函数看端点；根式令根内范围。",
+      "style": "",
+      "sourceIndex": 854
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：很多基础题真正丢分就在端点：< 和 ≤ 只差一个等号，但答案会完全不同。",
+      "style": "",
+      "sourceIndex": 855
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：最后单独扫一遍每个端点：它是否满足原条件？满足就闭，不满足就开；分母为0的点永远删掉。",
+      "style": "",
+      "sourceIndex": 856
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 有区间限制时把顶点和端点都检查。",
+      "style": "",
+      "sourceIndex": 857
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：很多基础题真正丢分就在端点：< 和 ≤ 只差一个等号，但答案会完全不同。",
+      "style": "",
+      "sourceIndex": 858
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：最后单独扫一遍每个端点：它是否满足原条件？满足就闭，不满足就开；分母为0的点永远删掉。",
+      "style": "",
+      "sourceIndex": 859
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 860
+    },
+    {
+      "type": "paragraph",
+      "text": "• 闭区间：端点必须查。",
+      "style": "",
+      "sourceIndex": 861
+    },
+    {
+      "type": "paragraph",
+      "text": "• 二次函数：顶点在区间内才参与最值比较；不在区间就只看端点。",
+      "style": "",
+      "sourceIndex": 862
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 863
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 864
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域有没有先写？",
+      "style": "",
+      "sourceIndex": 865
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把不同区间/分段混在一起？",
+      "style": "",
+      "sourceIndex": 866
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否漏掉端点、零点或对称点？",
+      "style": "",
+      "sourceIndex": 867
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 868
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+      "style": "",
+      "sourceIndex": 869
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+      "style": "",
+      "sourceIndex": 870
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜y=x²-4x+5，x∈R，求最小值。"
+        ],
+        [
+          "先怎么想｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。"
+        ],
+        [
+          "核心过程 / 答案｜配方(y=(x-2)²+1)，最小值1。"
+        ]
+      ],
+      "text": "典型例题｜y=x²-4x+5，x∈R，求最小值。\n先怎么想｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。\n核心过程 / 答案｜配方(y=(x-2)²+1)，最小值1。",
+      "sourceIndex": 871
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜求闭区间最值时不能只看顶点，也不能只看端点。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜求闭区间最值时不能只看顶点，也不能只看端点。",
+      "sourceIndex": 872
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 873
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。"
+        ]
+      ],
+      "text": "📌 30秒速记｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。",
+      "sourceIndex": 874
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 875
+    },
+    {
+      "type": "paragraph",
+      "text": "1. y=(x-1)²+2最小值。",
+      "style": "",
+      "sourceIndex": 876
+    },
+    {
+      "type": "paragraph",
+      "text": "2. y=2x+1，x∈[0,3]值域。",
+      "style": "",
+      "sourceIndex": 877
+    },
+    {
+      "type": "paragraph",
+      "text": "3. y=√(4-x²)值域。",
+      "style": "",
+      "sourceIndex": 878
+    },
+    {
+      "type": "paragraph",
+      "text": "4. y=x²，x∈[-1,2]最大值。",
+      "style": "",
+      "sourceIndex": 879
+    },
+    {
+      "type": "paragraph",
+      "text": "5. y=1/(x+1)，x>0值域。",
+      "style": "",
+      "sourceIndex": 880
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.2；2.[1,7]；3.[0,2]；4.4；5.(0,1)",
+      "style": "TinyNote",
+      "sourceIndex": 881
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 882
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问函数值域、最大/最小值，且结构是一次、二次、根式或简单分式。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问函数值域、最大/最小值，且结构是一次、二次、根式或简单分式。",
+          "sourceIndex": 843
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。",
+          "sourceIndex": 844
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 845
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域 → 哪些x允许放进这个函数",
+          "style": "",
+          "sourceIndex": 846
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单调 → x增大时函数值总体是变大还是变小",
+          "style": "",
+          "sourceIndex": 847
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 848
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 849
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 850
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先写定义域。",
+          "style": "",
+          "sourceIndex": 851
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 852
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 853
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 二次函数配方看顶点；单调函数看端点；根式令根内范围。",
+          "style": "",
+          "sourceIndex": 854
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：很多基础题真正丢分就在端点：< 和 ≤ 只差一个等号，但答案会完全不同。",
+          "style": "",
+          "sourceIndex": 855
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：最后单独扫一遍每个端点：它是否满足原条件？满足就闭，不满足就开；分母为0的点永远删掉。",
+          "style": "",
+          "sourceIndex": 856
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 有区间限制时把顶点和端点都检查。",
+          "style": "",
+          "sourceIndex": 857
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：很多基础题真正丢分就在端点：< 和 ≤ 只差一个等号，但答案会完全不同。",
+          "style": "",
+          "sourceIndex": 858
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：最后单独扫一遍每个端点：它是否满足原条件？满足就闭，不满足就开；分母为0的点永远删掉。",
+          "style": "",
+          "sourceIndex": 859
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 860
+        },
+        {
+          "type": "paragraph",
+          "text": "• 闭区间：端点必须查。",
+          "style": "",
+          "sourceIndex": 861
+        },
+        {
+          "type": "paragraph",
+          "text": "• 二次函数：顶点在区间内才参与最值比较；不在区间就只看端点。",
+          "style": "",
+          "sourceIndex": 862
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 863
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 864
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域有没有先写？",
+          "style": "",
+          "sourceIndex": 865
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把不同区间/分段混在一起？",
+          "style": "",
+          "sourceIndex": 866
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否漏掉端点、零点或对称点？",
+          "style": "",
+          "sourceIndex": 867
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 868
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+          "style": "",
+          "sourceIndex": 869
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+          "style": "",
+          "sourceIndex": 870
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜y=x²-4x+5，x∈R，求最小值。"
+            ],
+            [
+              "先怎么想｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。"
+            ],
+            [
+              "核心过程 / 答案｜配方(y=(x-2)²+1)，最小值1。"
+            ]
+          ],
+          "text": "典型例题｜y=x²-4x+5，x∈R，求最小值。\n先怎么想｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。\n核心过程 / 答案｜配方(y=(x-2)²+1)，最小值1。",
+          "sourceIndex": 871
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜求闭区间最值时不能只看顶点，也不能只看端点。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜求闭区间最值时不能只看顶点，也不能只看端点。",
+          "sourceIndex": 872
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 873
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。"
+            ]
+          ],
+          "text": "📌 30秒速记｜求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。",
+          "sourceIndex": 874
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 875
+        },
+        {
+          "type": "paragraph",
+          "text": "1. y=(x-1)²+2最小值。",
+          "style": "",
+          "sourceIndex": 876
+        },
+        {
+          "type": "paragraph",
+          "text": "2. y=2x+1，x∈[0,3]值域。",
+          "style": "",
+          "sourceIndex": 877
+        },
+        {
+          "type": "paragraph",
+          "text": "3. y=√(4-x²)值域。",
+          "style": "",
+          "sourceIndex": 878
+        },
+        {
+          "type": "paragraph",
+          "text": "4. y=x²，x∈[-1,2]最大值。",
+          "style": "",
+          "sourceIndex": 879
+        },
+        {
+          "type": "paragraph",
+          "text": "5. y=1/(x+1)，x>0值域。",
+          "style": "",
+          "sourceIndex": 880
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.2；2.[1,7]；3.[0,2]；4.4；5.(0,1)",
+          "style": "TinyNote",
+          "sourceIndex": 881
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 882
+        }
+      ]
+    }
+  ],
+  "sort_order": 17,
+  "brain_first": "求值域先别算一长串，先看图像形状：一次看端点，二次看顶点+端点，根式看根号里面能到什么范围。"
+}

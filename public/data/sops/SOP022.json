@@ -1,0 +1,641 @@
+{
+  "id": "SOP022",
+  "code": "SOP022",
+  "title": "指数、对数函数图像与性质",
+  "chapter_id": "chapter-06",
+  "chapter": "必修第一册 第6章 幂函数、指数函数和对数函数",
+  "frequency": 5,
+  "keywords": [
+    "指数",
+    "对数函数图像",
+    "性质"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 1006
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问图像、定义域值域、过定点、单调性或参数底数。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问图像、定义域值域、过定点、单调性或参数底数。",
+      "sourceIndex": 1007
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。",
+      "sourceIndex": 1008
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1009
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域 → 哪些x允许放进这个函数",
+      "style": "",
+      "sourceIndex": 1010
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单调 → x增大时函数值总体是变大还是变小",
+      "style": "",
+      "sourceIndex": 1011
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1012
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 1013
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1014
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 指数函数y=a^x：过(0,1)，值域(0,∞)。",
+      "style": "",
+      "sourceIndex": 1015
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 1016
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 1017
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 对数函数y=log_a x：过(1,0)，定义域(0,∞)。",
+      "style": "",
+      "sourceIndex": 1018
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 1019
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 1020
+    },
+    {
+      "type": "paragraph",
+      "text": "3. a>1两者递增；0<a<1两者递减，且互为关于y=x对称的反函数图像。",
+      "style": "",
+      "sourceIndex": 1021
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 1022
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 1023
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1024
+    },
+    {
+      "type": "paragraph",
+      "text": "• 底数>1：指数/真数越大，函数值越大。",
+      "style": "",
+      "sourceIndex": 1025
+    },
+    {
+      "type": "paragraph",
+      "text": "• 0<底数<1：比较方向反过来。",
+      "style": "",
+      "sourceIndex": 1026
+    },
+    {
+      "type": "paragraph",
+      "text": "• 解方程后一定回到真数>0等定义域检查。",
+      "style": "",
+      "sourceIndex": 1027
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1028
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1029
+    },
+    {
+      "type": "paragraph",
+      "text": "• 底数是否合法？",
+      "style": "",
+      "sourceIndex": 1030
+    },
+    {
+      "type": "paragraph",
+      "text": "• 对数真数是否>0？",
+      "style": "",
+      "sourceIndex": 1031
+    },
+    {
+      "type": "paragraph",
+      "text": "• 底数在(0,1)时比较方向是否反了？",
+      "style": "",
+      "sourceIndex": 1032
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1033
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+      "style": "",
+      "sourceIndex": 1034
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+      "style": "",
+      "sourceIndex": 1035
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜y=2^x过哪个定点？"
+        ],
+        [
+          "先怎么想｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。"
+        ],
+        [
+          "核心过程 / 答案｜x=0时y=1，所以过(0,1)。"
+        ]
+      ],
+      "text": "典型例题｜y=2^x过哪个定点？\n先怎么想｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。\n核心过程 / 答案｜x=0时y=1，所以过(0,1)。",
+      "sourceIndex": 1036
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜对数函数没有y轴截距，因为x=0不在定义域。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜对数函数没有y轴截距，因为x=0不在定义域。",
+      "sourceIndex": 1037
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1038
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。"
+        ]
+      ],
+      "text": "📌 30秒速记｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。",
+      "sourceIndex": 1039
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1040
+    },
+    {
+      "type": "paragraph",
+      "text": "1. y=3^x值域。",
+      "style": "",
+      "sourceIndex": 1041
+    },
+    {
+      "type": "paragraph",
+      "text": "2. y=log₂x定义域。",
+      "style": "",
+      "sourceIndex": 1042
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 0<a<1时y=a^x单调性。",
+      "style": "",
+      "sourceIndex": 1043
+    },
+    {
+      "type": "paragraph",
+      "text": "4. y=log₃x过定点。",
+      "style": "",
+      "sourceIndex": 1044
+    },
+    {
+      "type": "paragraph",
+      "text": "5. y=2^x与y=log₂x图像关系。",
+      "style": "",
+      "sourceIndex": 1045
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.(0,∞)；2.(0,∞)；3.递减；4.(1,0)；5.关于y=x对称",
+      "style": "TinyNote",
+      "sourceIndex": 1046
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1047
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问图像、定义域值域、过定点、单调性或参数底数。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问图像、定义域值域、过定点、单调性或参数底数。",
+          "sourceIndex": 1007
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。",
+          "sourceIndex": 1008
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1009
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域 → 哪些x允许放进这个函数",
+          "style": "",
+          "sourceIndex": 1010
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单调 → x增大时函数值总体是变大还是变小",
+          "style": "",
+          "sourceIndex": 1011
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1012
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 1013
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1014
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 指数函数y=a^x：过(0,1)，值域(0,∞)。",
+          "style": "",
+          "sourceIndex": 1015
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 1016
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 1017
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 对数函数y=log_a x：过(1,0)，定义域(0,∞)。",
+          "style": "",
+          "sourceIndex": 1018
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 1019
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 1020
+        },
+        {
+          "type": "paragraph",
+          "text": "3. a>1两者递增；0<a<1两者递减，且互为关于y=x对称的反函数图像。",
+          "style": "",
+          "sourceIndex": 1021
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 1022
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 1023
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1024
+        },
+        {
+          "type": "paragraph",
+          "text": "• 底数>1：指数/真数越大，函数值越大。",
+          "style": "",
+          "sourceIndex": 1025
+        },
+        {
+          "type": "paragraph",
+          "text": "• 0<底数<1：比较方向反过来。",
+          "style": "",
+          "sourceIndex": 1026
+        },
+        {
+          "type": "paragraph",
+          "text": "• 解方程后一定回到真数>0等定义域检查。",
+          "style": "",
+          "sourceIndex": 1027
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1028
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1029
+        },
+        {
+          "type": "paragraph",
+          "text": "• 底数是否合法？",
+          "style": "",
+          "sourceIndex": 1030
+        },
+        {
+          "type": "paragraph",
+          "text": "• 对数真数是否>0？",
+          "style": "",
+          "sourceIndex": 1031
+        },
+        {
+          "type": "paragraph",
+          "text": "• 底数在(0,1)时比较方向是否反了？",
+          "style": "",
+          "sourceIndex": 1032
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1033
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+          "style": "",
+          "sourceIndex": 1034
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+          "style": "",
+          "sourceIndex": 1035
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜y=2^x过哪个定点？"
+            ],
+            [
+              "先怎么想｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。"
+            ],
+            [
+              "核心过程 / 答案｜x=0时y=1，所以过(0,1)。"
+            ]
+          ],
+          "text": "典型例题｜y=2^x过哪个定点？\n先怎么想｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。\n核心过程 / 答案｜x=0时y=1，所以过(0,1)。",
+          "sourceIndex": 1036
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜对数函数没有y轴截距，因为x=0不在定义域。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜对数函数没有y轴截距，因为x=0不在定义域。",
+          "sourceIndex": 1037
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1038
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。"
+            ]
+          ],
+          "text": "📌 30秒速记｜指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。",
+          "sourceIndex": 1039
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1040
+        },
+        {
+          "type": "paragraph",
+          "text": "1. y=3^x值域。",
+          "style": "",
+          "sourceIndex": 1041
+        },
+        {
+          "type": "paragraph",
+          "text": "2. y=log₂x定义域。",
+          "style": "",
+          "sourceIndex": 1042
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 0<a<1时y=a^x单调性。",
+          "style": "",
+          "sourceIndex": 1043
+        },
+        {
+          "type": "paragraph",
+          "text": "4. y=log₃x过定点。",
+          "style": "",
+          "sourceIndex": 1044
+        },
+        {
+          "type": "paragraph",
+          "text": "5. y=2^x与y=log₂x图像关系。",
+          "style": "",
+          "sourceIndex": 1045
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.(0,∞)；2.(0,∞)；3.递减；4.(1,0)；5.关于y=x对称",
+          "style": "TinyNote",
+          "sourceIndex": 1046
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1047
+        }
+      ]
+    }
+  ],
+  "sort_order": 21,
+  "brain_first": "指数函数记住(0,1)，对数函数记住(1,0)；底数>1都往上走，0<底数<1都往下走。"
+}

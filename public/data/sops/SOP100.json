@@ -1,0 +1,616 @@
+{
+  "id": "SOP100",
+  "code": "SOP100",
+  "title": "2×2列联表与独立性检验",
+  "chapter_id": "chapter-24",
+  "chapter": "选择性必修第二册 第9章 统计",
+  "frequency": 5,
+  "keywords": [
+    "2×2列联表",
+    "独立性检验"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 4211
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜给两类分类变量列联表和χ²公式/临界值，问是否有关联。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜给两类分类变量列联表和χ²公式/临界值，问是否有关联。",
+      "sourceIndex": 4212
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。",
+      "sourceIndex": 4213
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 4214
+    },
+    {
+      "type": "paragraph",
+      "text": "• 独立性检验 → 用样本判断两个分类变量是否存在统计关联",
+      "style": "",
+      "sourceIndex": 4215
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 4216
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 4217
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 4218
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先补齐2×2表的行列合计。",
+      "style": "",
+      "sourceIndex": 4219
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：概率统计进阶题先确认模型和条件，再套公式。公式本身通常不难，难的是别把模型认错。",
+      "style": "",
+      "sourceIndex": 4220
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先写“已知条件/抽样方式/随机变量取值”；再决定条件概率、全概率、二项/超几何、回归或检验。",
+      "style": "",
+      "sourceIndex": 4221
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 按题目给公式计算χ²统计量。",
+      "style": "",
+      "sourceIndex": 4222
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：独立性检验最后不是看统计量本身“大不大”，而是和题目给的临界值比。跨过临界值才按对应显著性水平下结论。",
+      "style": "",
+      "sourceIndex": 4223
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先补表→按题给公式算χ²→在题目表里找到对应显著性水平临界值→写“χ²与临界值的大小关系→结论”。",
+      "style": "",
+      "sourceIndex": 4224
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 与临界值比较，并严格使用题目给定显著性水平的结论语言。",
+      "style": "",
+      "sourceIndex": 4225
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：独立性检验最后不是看统计量本身“大不大”，而是和题目给的临界值比。跨过临界值才按对应显著性水平下结论。",
+      "style": "",
+      "sourceIndex": 4226
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先补表→按题给公式算χ²→在题目表里找到对应显著性水平临界值→写“χ²与临界值的大小关系→结论”。",
+      "style": "",
+      "sourceIndex": 4227
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 4228
+    },
+    {
+      "type": "paragraph",
+      "text": "• 相关≠因果。",
+      "style": "",
+      "sourceIndex": 4229
+    },
+    {
+      "type": "paragraph",
+      "text": "• 统计结论必须按题目给的显著性水平措辞，不能夸大成“绝对证明”。",
+      "style": "",
+      "sourceIndex": 4230
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 4231
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 4232
+    },
+    {
+      "type": "paragraph",
+      "text": "• 统计量和临界值比较方向是否正确？",
+      "style": "",
+      "sourceIndex": 4233
+    },
+    {
+      "type": "paragraph",
+      "text": "• 结论用词是否符合显著性水平？",
+      "style": "",
+      "sourceIndex": 4234
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否误写成因果关系？",
+      "style": "",
+      "sourceIndex": 4235
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 4236
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 4237
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 4238
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜若计算χ²大于题目给出的0.01显著性水平临界值，应怎样表述？"
+        ],
+        [
+          "先怎么想｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。"
+        ],
+        [
+          "核心过程 / 答案｜按题设可认为两分类变量存在统计关联，使用“有99%把握”等规定措辞。"
+        ]
+      ],
+      "text": "典型例题｜若计算χ²大于题目给出的0.01显著性水平临界值，应怎样表述？\n先怎么想｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。\n核心过程 / 答案｜按题设可认为两分类变量存在统计关联，使用“有99%把握”等规定措辞。",
+      "sourceIndex": 4239
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜统计关联不是因果关系；不要写“证明了A导致B”。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜统计关联不是因果关系；不要写“证明了A导致B”。",
+      "sourceIndex": 4240
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 4241
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。"
+        ]
+      ],
+      "text": "📌 30秒速记｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。",
+      "sourceIndex": 4242
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 4243
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 独立性检验常用什么表？",
+      "style": "",
+      "sourceIndex": 4244
+    },
+    {
+      "type": "paragraph",
+      "text": "2. χ²越大通常说明什么？",
+      "style": "",
+      "sourceIndex": 4245
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 结论是否等同因果？",
+      "style": "",
+      "sourceIndex": 4246
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 计算前先做什么？",
+      "style": "",
+      "sourceIndex": 4247
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 显著性水平由谁给定？",
+      "style": "",
+      "sourceIndex": 4248
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.2×2列联表；2.偏离独立的程度更大；3.否；4.补行列合计；5.题目/检验设定",
+      "style": "TinyNote",
+      "sourceIndex": 4249
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 4250
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜给两类分类变量列联表和χ²公式/临界值，问是否有关联。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜给两类分类变量列联表和χ²公式/临界值，问是否有关联。",
+          "sourceIndex": 4212
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。",
+          "sourceIndex": 4213
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 4214
+        },
+        {
+          "type": "paragraph",
+          "text": "• 独立性检验 → 用样本判断两个分类变量是否存在统计关联",
+          "style": "",
+          "sourceIndex": 4215
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 4216
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 4217
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 4218
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先补齐2×2表的行列合计。",
+          "style": "",
+          "sourceIndex": 4219
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：概率统计进阶题先确认模型和条件，再套公式。公式本身通常不难，难的是别把模型认错。",
+          "style": "",
+          "sourceIndex": 4220
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先写“已知条件/抽样方式/随机变量取值”；再决定条件概率、全概率、二项/超几何、回归或检验。",
+          "style": "",
+          "sourceIndex": 4221
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 按题目给公式计算χ²统计量。",
+          "style": "",
+          "sourceIndex": 4222
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：独立性检验最后不是看统计量本身“大不大”，而是和题目给的临界值比。跨过临界值才按对应显著性水平下结论。",
+          "style": "",
+          "sourceIndex": 4223
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先补表→按题给公式算χ²→在题目表里找到对应显著性水平临界值→写“χ²与临界值的大小关系→结论”。",
+          "style": "",
+          "sourceIndex": 4224
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 与临界值比较，并严格使用题目给定显著性水平的结论语言。",
+          "style": "",
+          "sourceIndex": 4225
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：独立性检验最后不是看统计量本身“大不大”，而是和题目给的临界值比。跨过临界值才按对应显著性水平下结论。",
+          "style": "",
+          "sourceIndex": 4226
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先补表→按题给公式算χ²→在题目表里找到对应显著性水平临界值→写“χ²与临界值的大小关系→结论”。",
+          "style": "",
+          "sourceIndex": 4227
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 4228
+        },
+        {
+          "type": "paragraph",
+          "text": "• 相关≠因果。",
+          "style": "",
+          "sourceIndex": 4229
+        },
+        {
+          "type": "paragraph",
+          "text": "• 统计结论必须按题目给的显著性水平措辞，不能夸大成“绝对证明”。",
+          "style": "",
+          "sourceIndex": 4230
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 4231
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 4232
+        },
+        {
+          "type": "paragraph",
+          "text": "• 统计量和临界值比较方向是否正确？",
+          "style": "",
+          "sourceIndex": 4233
+        },
+        {
+          "type": "paragraph",
+          "text": "• 结论用词是否符合显著性水平？",
+          "style": "",
+          "sourceIndex": 4234
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否误写成因果关系？",
+          "style": "",
+          "sourceIndex": 4235
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 4236
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 4237
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 4238
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜若计算χ²大于题目给出的0.01显著性水平临界值，应怎样表述？"
+            ],
+            [
+              "先怎么想｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。"
+            ],
+            [
+              "核心过程 / 答案｜按题设可认为两分类变量存在统计关联，使用“有99%把握”等规定措辞。"
+            ]
+          ],
+          "text": "典型例题｜若计算χ²大于题目给出的0.01显著性水平临界值，应怎样表述？\n先怎么想｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。\n核心过程 / 答案｜按题设可认为两分类变量存在统计关联，使用“有99%把握”等规定措辞。",
+          "sourceIndex": 4239
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜统计关联不是因果关系；不要写“证明了A导致B”。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜统计关联不是因果关系；不要写“证明了A导致B”。",
+          "sourceIndex": 4240
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 4241
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。"
+            ]
+          ],
+          "text": "📌 30秒速记｜独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。",
+          "sourceIndex": 4242
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 4243
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 独立性检验常用什么表？",
+          "style": "",
+          "sourceIndex": 4244
+        },
+        {
+          "type": "paragraph",
+          "text": "2. χ²越大通常说明什么？",
+          "style": "",
+          "sourceIndex": 4245
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 结论是否等同因果？",
+          "style": "",
+          "sourceIndex": 4246
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 计算前先做什么？",
+          "style": "",
+          "sourceIndex": 4247
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 显著性水平由谁给定？",
+          "style": "",
+          "sourceIndex": 4248
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.2×2列联表；2.偏离独立的程度更大；3.否；4.补行列合计；5.题目/检验设定",
+          "style": "TinyNote",
+          "sourceIndex": 4249
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 4250
+        }
+      ]
+    }
+  ],
+  "sort_order": 99,
+  "brain_first": "独立性检验就是比较“实际人数”和“如果两件事没关系时应该出现的人数”差得大不大。先补表，再算统计量，再和临界值比。"
+}

@@ -1,0 +1,585 @@
+{
+  "id": "SOP011",
+  "code": "SOP011",
+  "title": "指数幂运算",
+  "chapter_id": "chapter-04",
+  "chapter": "必修第一册 第4章 指数与对数",
+  "frequency": 3,
+  "keywords": [
+    "指数幂运算"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★☆☆  正常范围",
+      "style": "",
+      "sourceIndex": 551
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜出现分数指数、负指数、根式与幂互化。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜出现分数指数、负指数、根式与幂互化。",
+      "sourceIndex": 552
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。",
+      "sourceIndex": 553
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 554
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 555
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 556
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 统一成同一底数或同一指数形式。",
+      "style": "",
+      "sourceIndex": 557
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：底数统一以后，复杂的指数式会退化成“比较指数”或“令指数相等”，这是最省运算的入口。",
+      "style": "",
+      "sourceIndex": 558
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把2、4、8改写成2的幂，或把1/2写成2^-1；统一后再看底数>1还是0<底数<1。",
+      "style": "",
+      "sourceIndex": 559
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 使用a^m·a^n=a^(m+n)、a^m/a^n=a^(m-n)、(a^m)^n=a^(mn)。",
+      "style": "",
+      "sourceIndex": 560
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 561
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 562
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 负指数变倒数，分数指数变根式并注意底数条件。",
+      "style": "",
+      "sourceIndex": 563
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+      "style": "",
+      "sourceIndex": 564
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+      "style": "",
+      "sourceIndex": 565
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 566
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 567
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 568
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 569
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 570
+    },
+    {
+      "type": "paragraph",
+      "text": "• 底数是否合法？",
+      "style": "",
+      "sourceIndex": 571
+    },
+    {
+      "type": "paragraph",
+      "text": "• 对数真数是否>0？",
+      "style": "",
+      "sourceIndex": 572
+    },
+    {
+      "type": "paragraph",
+      "text": "• 底数在(0,1)时比较方向是否反了？",
+      "style": "",
+      "sourceIndex": 573
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 574
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 575
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 576
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜化简 2³·2⁻¹。"
+        ],
+        [
+          "先怎么想｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。"
+        ],
+        [
+          "核心过程 / 答案｜2^(3-1)=2²=4。"
+        ]
+      ],
+      "text": "典型例题｜化简 2³·2⁻¹。\n先怎么想｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。\n核心过程 / 答案｜2^(3-1)=2²=4。",
+      "sourceIndex": 577
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜a^(1/2)默认涉及实数时通常要求a≥0；0的负指数无意义。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜a^(1/2)默认涉及实数时通常要求a≥0；0的负指数无意义。",
+      "sourceIndex": 578
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 579
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。"
+        ]
+      ],
+      "text": "📌 30秒速记｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。",
+      "sourceIndex": 580
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 581
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 3²·3³。",
+      "style": "",
+      "sourceIndex": 582
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 2⁻³。",
+      "style": "",
+      "sourceIndex": 583
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 16^(1/2)。",
+      "style": "",
+      "sourceIndex": 584
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 8^(2/3)。",
+      "style": "",
+      "sourceIndex": 585
+    },
+    {
+      "type": "paragraph",
+      "text": "5. (a²)³。",
+      "style": "",
+      "sourceIndex": 586
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.243；2.1/8；3.4；4.4；5.a^6",
+      "style": "TinyNote",
+      "sourceIndex": 587
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 588
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜出现分数指数、负指数、根式与幂互化。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜出现分数指数、负指数、根式与幂互化。",
+          "sourceIndex": 552
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。",
+          "sourceIndex": 553
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 554
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 555
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 556
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 统一成同一底数或同一指数形式。",
+          "style": "",
+          "sourceIndex": 557
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：底数统一以后，复杂的指数式会退化成“比较指数”或“令指数相等”，这是最省运算的入口。",
+          "style": "",
+          "sourceIndex": 558
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把2、4、8改写成2的幂，或把1/2写成2^-1；统一后再看底数>1还是0<底数<1。",
+          "style": "",
+          "sourceIndex": 559
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 使用a^m·a^n=a^(m+n)、a^m/a^n=a^(m-n)、(a^m)^n=a^(mn)。",
+          "style": "",
+          "sourceIndex": 560
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 561
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 562
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 负指数变倒数，分数指数变根式并注意底数条件。",
+          "style": "",
+          "sourceIndex": 563
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：先把表达式变成同一种语言（同底数、同函数或互化），这样就能用单调性和基本运算处理。",
+          "style": "",
+          "sourceIndex": 564
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把底数、真数和定义域写在旁边；能同底就同底，不能同底再考虑换底/与0、1比较。",
+          "style": "",
+          "sourceIndex": 565
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 566
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 567
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 568
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 569
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 570
+        },
+        {
+          "type": "paragraph",
+          "text": "• 底数是否合法？",
+          "style": "",
+          "sourceIndex": 571
+        },
+        {
+          "type": "paragraph",
+          "text": "• 对数真数是否>0？",
+          "style": "",
+          "sourceIndex": 572
+        },
+        {
+          "type": "paragraph",
+          "text": "• 底数在(0,1)时比较方向是否反了？",
+          "style": "",
+          "sourceIndex": 573
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 574
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 575
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 576
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜化简 2³·2⁻¹。"
+            ],
+            [
+              "先怎么想｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。"
+            ],
+            [
+              "核心过程 / 答案｜2^(3-1)=2²=4。"
+            ]
+          ],
+          "text": "典型例题｜化简 2³·2⁻¹。\n先怎么想｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。\n核心过程 / 答案｜2^(3-1)=2²=4。",
+          "sourceIndex": 577
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜a^(1/2)默认涉及实数时通常要求a≥0；0的负指数无意义。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜a^(1/2)默认涉及实数时通常要求a≥0；0的负指数无意义。",
+          "sourceIndex": 578
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 579
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。"
+            ]
+          ],
+          "text": "📌 30秒速记｜指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。",
+          "sourceIndex": 580
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 581
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 3²·3³。",
+          "style": "",
+          "sourceIndex": 582
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 2⁻³。",
+          "style": "",
+          "sourceIndex": 583
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 16^(1/2)。",
+          "style": "",
+          "sourceIndex": 584
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 8^(2/3)。",
+          "style": "",
+          "sourceIndex": 585
+        },
+        {
+          "type": "paragraph",
+          "text": "5. (a²)³。",
+          "style": "",
+          "sourceIndex": 586
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.243；2.1/8；3.4；4.4；5.a^6",
+          "style": "TinyNote",
+          "sourceIndex": 587
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 588
+        }
+      ]
+    }
+  ],
+  "sort_order": 10,
+  "brain_first": "指数运算的核心就是“底数相同就只管指数”。负指数先变倒数，分数指数先理解成根号。"
+}

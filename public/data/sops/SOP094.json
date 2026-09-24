@@ -1,0 +1,600 @@
+{
+  "id": "SOP094",
+  "code": "SOP094",
+  "title": "排列组合：顺序、捆绑与插空",
+  "chapter_id": "chapter-22",
+  "chapter": "选择性必修第二册 第7章 计数原理",
+  "frequency": 4,
+  "keywords": [
+    "排列组合",
+    "顺序",
+    "捆绑",
+    "插空"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 3961
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜排队、选人、相邻、不相邻、固定位置。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜排队、选人、相邻、不相邻、固定位置。",
+      "sourceIndex": 3962
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。",
+      "sourceIndex": 3963
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3964
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 3965
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3966
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先问“顺序重要吗”：重要排列，不重要组合。",
+      "style": "",
+      "sourceIndex": 3967
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：排列组合最先判断顺序是否产生新结果。特殊限制再用结构处理：相邻当整体，不相邻利用空位。",
+      "style": "",
+      "sourceIndex": 3968
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写“顺序重要？是→排列；否→组合”。相邻：先把特殊对象捆成1块；不相邻：先排普通对象，再数空隙插入。",
+      "style": "",
+      "sourceIndex": 3969
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 必须相邻→捆绑成一个整体；必须不相邻→先排普通对象再插空。",
+      "style": "",
+      "sourceIndex": 3970
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：排列组合最先判断顺序是否产生新结果。特殊限制再用结构处理：相邻当整体，不相邻利用空位。",
+      "style": "",
+      "sourceIndex": 3971
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写“顺序重要？是→排列；否→组合”。相邻：先把特殊对象捆成1块；不相邻：先排普通对象，再数空隙插入。",
+      "style": "",
+      "sourceIndex": 3972
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 有特殊位置/人群限制时先安排限制最强者。",
+      "style": "",
+      "sourceIndex": 3973
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：计数题最重要的是避免重复和遗漏。先明确“一个结果由哪些选择决定”，再决定加法、乘法、排列或组合。",
+      "style": "",
+      "sourceIndex": 3974
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把完成一件事的过程分成几类/几步；在每类或每步旁写可选数量，最后按逻辑相加或相乘。",
+      "style": "",
+      "sourceIndex": 3975
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3976
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先判断“分类加”还是“分步乘”。",
+      "style": "",
+      "sourceIndex": 3977
+    },
+    {
+      "type": "paragraph",
+      "text": "• 排列组合先判断顺序是否重要；相邻捆绑，不相邻插空。",
+      "style": "",
+      "sourceIndex": 3978
+    },
+    {
+      "type": "paragraph",
+      "text": "• 二项式指定项只写通项，不要把整个式子展开。",
+      "style": "",
+      "sourceIndex": 3979
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3980
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3981
+    },
+    {
+      "type": "paragraph",
+      "text": "• 有没有重复计数或漏计？",
+      "style": "",
+      "sourceIndex": 3982
+    },
+    {
+      "type": "paragraph",
+      "text": "• 顺序到底算不算不同？",
+      "style": "",
+      "sourceIndex": 3983
+    },
+    {
+      "type": "paragraph",
+      "text": "• 二项式项序号r+1是否和r混了？",
+      "style": "",
+      "sourceIndex": 3984
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3985
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 3986
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 3987
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜4人排队，其中A,B必须相邻，有多少种？"
+        ],
+        [
+          "先怎么想｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。"
+        ],
+        [
+          "核心过程 / 答案｜把AB捆绑成一块：3!×2=12。"
+        ]
+      ],
+      "text": "典型例题｜4人排队，其中A,B必须相邻，有多少种？\n先怎么想｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。\n核心过程 / 答案｜把AB捆绑成一块：3!×2=12。",
+      "sourceIndex": 3988
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜组合C_n^m不考虑顺序，排列A_n^m考虑顺序。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜组合C_n^m不考虑顺序，排列A_n^m考虑顺序。",
+      "sourceIndex": 3989
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3990
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。"
+        ]
+      ],
+      "text": "📌 30秒速记｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。",
+      "sourceIndex": 3991
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3992
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 5人选2人，不分职务。",
+      "style": "",
+      "sourceIndex": 3993
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 5人选班长副班长。",
+      "style": "",
+      "sourceIndex": 3994
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 3人全排列。",
+      "style": "",
+      "sourceIndex": 3995
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 相邻常用。",
+      "style": "",
+      "sourceIndex": 3996
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 不相邻常用。",
+      "style": "",
+      "sourceIndex": 3997
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.C(5,2)=10；2.A(5,2)=20；3.6；4.捆绑法；5.插空法",
+      "style": "TinyNote",
+      "sourceIndex": 3998
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3999
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜排队、选人、相邻、不相邻、固定位置。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜排队、选人、相邻、不相邻、固定位置。",
+          "sourceIndex": 3962
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。",
+          "sourceIndex": 3963
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3964
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 3965
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3966
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先问“顺序重要吗”：重要排列，不重要组合。",
+          "style": "",
+          "sourceIndex": 3967
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：排列组合最先判断顺序是否产生新结果。特殊限制再用结构处理：相邻当整体，不相邻利用空位。",
+          "style": "",
+          "sourceIndex": 3968
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写“顺序重要？是→排列；否→组合”。相邻：先把特殊对象捆成1块；不相邻：先排普通对象，再数空隙插入。",
+          "style": "",
+          "sourceIndex": 3969
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 必须相邻→捆绑成一个整体；必须不相邻→先排普通对象再插空。",
+          "style": "",
+          "sourceIndex": 3970
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：排列组合最先判断顺序是否产生新结果。特殊限制再用结构处理：相邻当整体，不相邻利用空位。",
+          "style": "",
+          "sourceIndex": 3971
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写“顺序重要？是→排列；否→组合”。相邻：先把特殊对象捆成1块；不相邻：先排普通对象，再数空隙插入。",
+          "style": "",
+          "sourceIndex": 3972
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 有特殊位置/人群限制时先安排限制最强者。",
+          "style": "",
+          "sourceIndex": 3973
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：计数题最重要的是避免重复和遗漏。先明确“一个结果由哪些选择决定”，再决定加法、乘法、排列或组合。",
+          "style": "",
+          "sourceIndex": 3974
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把完成一件事的过程分成几类/几步；在每类或每步旁写可选数量，最后按逻辑相加或相乘。",
+          "style": "",
+          "sourceIndex": 3975
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3976
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先判断“分类加”还是“分步乘”。",
+          "style": "",
+          "sourceIndex": 3977
+        },
+        {
+          "type": "paragraph",
+          "text": "• 排列组合先判断顺序是否重要；相邻捆绑，不相邻插空。",
+          "style": "",
+          "sourceIndex": 3978
+        },
+        {
+          "type": "paragraph",
+          "text": "• 二项式指定项只写通项，不要把整个式子展开。",
+          "style": "",
+          "sourceIndex": 3979
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3980
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3981
+        },
+        {
+          "type": "paragraph",
+          "text": "• 有没有重复计数或漏计？",
+          "style": "",
+          "sourceIndex": 3982
+        },
+        {
+          "type": "paragraph",
+          "text": "• 顺序到底算不算不同？",
+          "style": "",
+          "sourceIndex": 3983
+        },
+        {
+          "type": "paragraph",
+          "text": "• 二项式项序号r+1是否和r混了？",
+          "style": "",
+          "sourceIndex": 3984
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3985
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 3986
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 3987
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜4人排队，其中A,B必须相邻，有多少种？"
+            ],
+            [
+              "先怎么想｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。"
+            ],
+            [
+              "核心过程 / 答案｜把AB捆绑成一块：3!×2=12。"
+            ]
+          ],
+          "text": "典型例题｜4人排队，其中A,B必须相邻，有多少种？\n先怎么想｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。\n核心过程 / 答案｜把AB捆绑成一块：3!×2=12。",
+          "sourceIndex": 3988
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜组合C_n^m不考虑顺序，排列A_n^m考虑顺序。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜组合C_n^m不考虑顺序，排列A_n^m考虑顺序。",
+          "sourceIndex": 3989
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3990
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。"
+            ]
+          ],
+          "text": "📌 30秒速记｜排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。",
+          "sourceIndex": 3991
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3992
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 5人选2人，不分职务。",
+          "style": "",
+          "sourceIndex": 3993
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 5人选班长副班长。",
+          "style": "",
+          "sourceIndex": 3994
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 3人全排列。",
+          "style": "",
+          "sourceIndex": 3995
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 相邻常用。",
+          "style": "",
+          "sourceIndex": 3996
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 不相邻常用。",
+          "style": "",
+          "sourceIndex": 3997
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.C(5,2)=10；2.A(5,2)=20；3.6；4.捆绑法；5.插空法",
+          "style": "TinyNote",
+          "sourceIndex": 3998
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3999
+        }
+      ]
+    }
+  ],
+  "sort_order": 93,
+  "brain_first": "排列组合先问“换顺序算不算新结果”。相邻就把它们捆成一块，不相邻就先排普通的再往空隙里插。"
+}

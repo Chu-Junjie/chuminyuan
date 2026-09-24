@@ -1,0 +1,616 @@
+{
+  "id": "SOP087",
+  "code": "SOP087",
+  "title": "极值与闭区间最值",
+  "chapter_id": "chapter-20",
+  "chapter": "选择性必修第一册 第5章 导数及其应用",
+  "frequency": 5,
+  "keywords": [
+    "极值",
+    "闭区间最值"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 3666
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问极大/极小、最大最小值，区间常为[a,b]。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问极大/极小、最大最小值，区间常为[a,b]。",
+      "sourceIndex": 3667
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。",
+      "sourceIndex": 3668
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 3669
+    },
+    {
+      "type": "paragraph",
+      "text": "• 极值 → 函数由增变减或由减变增的位置附近出现的局部最大/最小",
+      "style": "",
+      "sourceIndex": 3670
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3671
+    },
+    {
+      "type": "paragraph",
+      "text": "导数把“函数走势”变成“斜率正负”。所以先求导、再看符号，是最稳定的主线；不需要一开始就研究原函数长什么样。",
+      "style": "",
+      "sourceIndex": 3672
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3673
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先用导数找临界点并判断左右符号。",
+      "style": "",
+      "sourceIndex": 3674
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：导数题的主线始终是“定义域→求导→临界点→符号”。只要不跳这条主线，大多数基础中档题都能继续。",
+      "style": "",
+      "sourceIndex": 3675
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先写定义域和f′；把f′=0的点按从小到大排在数轴上，再判断每段正负。",
+      "style": "",
+      "sourceIndex": 3676
+    },
+    {
+      "type": "paragraph",
+      "text": "2. +→-是极大，-→+是极小。",
+      "style": "",
+      "sourceIndex": 3677
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：临界点本身不自动等于极值点，关键看导数在它左右是否变号。",
+      "style": "",
+      "sourceIndex": 3678
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把临界点左右两段的f′符号并排看：+→-写极大，-→+写极小；同号不写极值。",
+      "style": "",
+      "sourceIndex": 3679
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 闭区间最值必须比较所有区间内极值点函数值与两个端点函数值。",
+      "style": "",
+      "sourceIndex": 3680
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：很多基础题真正丢分就在端点：< 和 ≤ 只差一个等号，但答案会完全不同。",
+      "style": "",
+      "sourceIndex": 3681
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：最后单独扫一遍每个端点：它是否满足原条件？满足就闭，不满足就开；分母为0的点永远删掉。",
+      "style": "",
+      "sourceIndex": 3682
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3683
+    },
+    {
+      "type": "paragraph",
+      "text": "• 闭区间：端点必须查。",
+      "style": "",
+      "sourceIndex": 3684
+    },
+    {
+      "type": "paragraph",
+      "text": "• 二次函数：顶点在区间内才参与最值比较；不在区间就只看端点。",
+      "style": "",
+      "sourceIndex": 3685
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3686
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3687
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域是否先考虑？",
+      "style": "",
+      "sourceIndex": 3688
+    },
+    {
+      "type": "paragraph",
+      "text": "• 临界点是否真的在定义域/区间内？",
+      "style": "",
+      "sourceIndex": 3689
+    },
+    {
+      "type": "paragraph",
+      "text": "• 闭区间最值是否比较了端点？",
+      "style": "",
+      "sourceIndex": 3690
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3691
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果求导后不会继续：先把f′(x)=0解出来，再画最简单的“+ / -”符号表。",
+      "style": "",
+      "sourceIndex": 3692
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果参数讨论一下子分很多类：先做到基础部分，复杂双参数通常已进入高难区。",
+      "style": "",
+      "sourceIndex": 3693
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜f=x²在[-1,2]最大值。"
+        ],
+        [
+          "先怎么想｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。"
+        ],
+        [
+          "核心过程 / 答案｜比较f(-1)=1,f(0)=0,f(2)=4，最大值4。"
+        ]
+      ],
+      "text": "典型例题｜f=x²在[-1,2]最大值。\n先怎么想｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。\n核心过程 / 答案｜比较f(-1)=1,f(0)=0,f(2)=4，最大值4。",
+      "sourceIndex": 3694
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜极值是局部概念，最值是全局概念；两者不能混用。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜极值是局部概念，最值是全局概念；两者不能混用。",
+      "sourceIndex": 3695
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3696
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。"
+        ]
+      ],
+      "text": "📌 30秒速记｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。",
+      "sourceIndex": 3697
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3698
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 导数符号+→-对应。",
+      "style": "",
+      "sourceIndex": 3699
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 导数符号-→+对应。",
+      "style": "",
+      "sourceIndex": 3700
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 闭区间最值要比较哪些点？",
+      "style": "",
+      "sourceIndex": 3701
+    },
+    {
+      "type": "paragraph",
+      "text": "4. f=x²在[-1,1]最小值。",
+      "style": "",
+      "sourceIndex": 3702
+    },
+    {
+      "type": "paragraph",
+      "text": "5. f=x在[0,3]最大值。",
+      "style": "",
+      "sourceIndex": 3703
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.极大值；2.极小值；3.端点+临界点；4.0；5.3",
+      "style": "TinyNote",
+      "sourceIndex": 3704
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3705
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问极大/极小、最大最小值，区间常为[a,b]。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问极大/极小、最大最小值，区间常为[a,b]。",
+          "sourceIndex": 3667
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。",
+          "sourceIndex": 3668
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 3669
+        },
+        {
+          "type": "paragraph",
+          "text": "• 极值 → 函数由增变减或由减变增的位置附近出现的局部最大/最小",
+          "style": "",
+          "sourceIndex": 3670
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3671
+        },
+        {
+          "type": "paragraph",
+          "text": "导数把“函数走势”变成“斜率正负”。所以先求导、再看符号，是最稳定的主线；不需要一开始就研究原函数长什么样。",
+          "style": "",
+          "sourceIndex": 3672
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3673
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先用导数找临界点并判断左右符号。",
+          "style": "",
+          "sourceIndex": 3674
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：导数题的主线始终是“定义域→求导→临界点→符号”。只要不跳这条主线，大多数基础中档题都能继续。",
+          "style": "",
+          "sourceIndex": 3675
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先写定义域和f′；把f′=0的点按从小到大排在数轴上，再判断每段正负。",
+          "style": "",
+          "sourceIndex": 3676
+        },
+        {
+          "type": "paragraph",
+          "text": "2. +→-是极大，-→+是极小。",
+          "style": "",
+          "sourceIndex": 3677
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：临界点本身不自动等于极值点，关键看导数在它左右是否变号。",
+          "style": "",
+          "sourceIndex": 3678
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把临界点左右两段的f′符号并排看：+→-写极大，-→+写极小；同号不写极值。",
+          "style": "",
+          "sourceIndex": 3679
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 闭区间最值必须比较所有区间内极值点函数值与两个端点函数值。",
+          "style": "",
+          "sourceIndex": 3680
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：很多基础题真正丢分就在端点：< 和 ≤ 只差一个等号，但答案会完全不同。",
+          "style": "",
+          "sourceIndex": 3681
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：最后单独扫一遍每个端点：它是否满足原条件？满足就闭，不满足就开；分母为0的点永远删掉。",
+          "style": "",
+          "sourceIndex": 3682
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3683
+        },
+        {
+          "type": "paragraph",
+          "text": "• 闭区间：端点必须查。",
+          "style": "",
+          "sourceIndex": 3684
+        },
+        {
+          "type": "paragraph",
+          "text": "• 二次函数：顶点在区间内才参与最值比较；不在区间就只看端点。",
+          "style": "",
+          "sourceIndex": 3685
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3686
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3687
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域是否先考虑？",
+          "style": "",
+          "sourceIndex": 3688
+        },
+        {
+          "type": "paragraph",
+          "text": "• 临界点是否真的在定义域/区间内？",
+          "style": "",
+          "sourceIndex": 3689
+        },
+        {
+          "type": "paragraph",
+          "text": "• 闭区间最值是否比较了端点？",
+          "style": "",
+          "sourceIndex": 3690
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3691
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果求导后不会继续：先把f′(x)=0解出来，再画最简单的“+ / -”符号表。",
+          "style": "",
+          "sourceIndex": 3692
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果参数讨论一下子分很多类：先做到基础部分，复杂双参数通常已进入高难区。",
+          "style": "",
+          "sourceIndex": 3693
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜f=x²在[-1,2]最大值。"
+            ],
+            [
+              "先怎么想｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。"
+            ],
+            [
+              "核心过程 / 答案｜比较f(-1)=1,f(0)=0,f(2)=4，最大值4。"
+            ]
+          ],
+          "text": "典型例题｜f=x²在[-1,2]最大值。\n先怎么想｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。\n核心过程 / 答案｜比较f(-1)=1,f(0)=0,f(2)=4，最大值4。",
+          "sourceIndex": 3694
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜极值是局部概念，最值是全局概念；两者不能混用。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜极值是局部概念，最值是全局概念；两者不能混用。",
+          "sourceIndex": 3695
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3696
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。"
+            ]
+          ],
+          "text": "📌 30秒速记｜极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。",
+          "sourceIndex": 3697
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3698
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 导数符号+→-对应。",
+          "style": "",
+          "sourceIndex": 3699
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 导数符号-→+对应。",
+          "style": "",
+          "sourceIndex": 3700
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 闭区间最值要比较哪些点？",
+          "style": "",
+          "sourceIndex": 3701
+        },
+        {
+          "type": "paragraph",
+          "text": "4. f=x²在[-1,1]最小值。",
+          "style": "",
+          "sourceIndex": 3702
+        },
+        {
+          "type": "paragraph",
+          "text": "5. f=x在[0,3]最大值。",
+          "style": "",
+          "sourceIndex": 3703
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.极大值；2.极小值；3.端点+临界点；4.0；5.3",
+          "style": "TinyNote",
+          "sourceIndex": 3704
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3705
+        }
+      ]
+    }
+  ],
+  "sort_order": 86,
+  "brain_first": "极值看导数符号有没有“换方向”；闭区间最值则把所有极值点和两个端点的函数值放一起比。"
+}

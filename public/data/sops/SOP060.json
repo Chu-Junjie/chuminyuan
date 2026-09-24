@@ -1,0 +1,586 @@
+{
+  "id": "SOP060",
+  "code": "SOP060",
+  "title": "统计图表阅读与样本估计总体",
+  "chapter_id": "chapter-14",
+  "chapter": "必修第二册 第14章 统计",
+  "frequency": 3,
+  "keywords": [
+    "统计图表阅读",
+    "样本估计总体"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★☆☆  正常范围",
+      "style": "",
+      "sourceIndex": 2571
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜条形图、折线图、饼图、表格给数据，问比例、趋势、用样本估总体。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜条形图、折线图、饼图、表格给数据，问比例、趋势、用样本估总体。",
+      "sourceIndex": 2572
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。",
+      "sourceIndex": 2573
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2574
+    },
+    {
+      "type": "paragraph",
+      "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+      "style": "",
+      "sourceIndex": 2575
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2576
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先确认横轴、纵轴、单位和样本量。",
+      "style": "",
+      "sourceIndex": 2577
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+      "style": "",
+      "sourceIndex": 2578
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+      "style": "",
+      "sourceIndex": 2579
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 只做题目要求的比值/差值/趋势，不凭图形视觉夸大差异。",
+      "style": "",
+      "sourceIndex": 2580
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+      "style": "",
+      "sourceIndex": 2581
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+      "style": "",
+      "sourceIndex": 2582
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 样本估总体要说明“估计”，避免写成必然。",
+      "style": "",
+      "sourceIndex": 2583
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+      "style": "",
+      "sourceIndex": 2584
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+      "style": "",
+      "sourceIndex": 2585
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2586
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先看单位、样本量和横纵轴含义。",
+      "style": "",
+      "sourceIndex": 2587
+    },
+    {
+      "type": "paragraph",
+      "text": "• 样本结论只能“估计总体”，不要写成对总体的绝对事实。",
+      "style": "",
+      "sourceIndex": 2588
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2589
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2590
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单位和样本量是否看清？",
+      "style": "",
+      "sourceIndex": 2591
+    },
+    {
+      "type": "paragraph",
+      "text": "• 直方图用面积还是柱高？",
+      "style": "",
+      "sourceIndex": 2592
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把“样本估计”写成了绝对结论？",
+      "style": "",
+      "sourceIndex": 2593
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2594
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2595
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2596
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜样本200人中80人选择A，估计比例。"
+        ],
+        [
+          "先怎么想｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。"
+        ],
+        [
+          "核心过程 / 答案｜80/200=0.4=40%。"
+        ]
+      ],
+      "text": "典型例题｜样本200人中80人选择A，估计比例。\n先怎么想｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。\n核心过程 / 答案｜80/200=0.4=40%。",
+      "sourceIndex": 2597
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜图表纵轴若不是从0开始，视觉差异可能被放大。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜图表纵轴若不是从0开始，视觉差异可能被放大。",
+      "sourceIndex": 2598
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2599
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。"
+        ]
+      ],
+      "text": "📌 30秒速记｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。",
+      "sourceIndex": 2600
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2601
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 样本500中125合格，合格率。",
+      "style": "",
+      "sourceIndex": 2602
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 饼图90°扇区占比。",
+      "style": "",
+      "sourceIndex": 2603
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 样本比例能否保证总体完全相同？",
+      "style": "",
+      "sourceIndex": 2604
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 折线图主要看什么？",
+      "style": "",
+      "sourceIndex": 2605
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 统计图第一步读什么？",
+      "style": "",
+      "sourceIndex": 2606
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.25%；2.25%；3.不能；4.随时间/顺序的变化趋势；5.轴、单位、样本量",
+      "style": "TinyNote",
+      "sourceIndex": 2607
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2608
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜条形图、折线图、饼图、表格给数据，问比例、趋势、用样本估总体。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜条形图、折线图、饼图、表格给数据，问比例、趋势、用样本估总体。",
+          "sourceIndex": 2572
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。",
+          "sourceIndex": 2573
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2574
+        },
+        {
+          "type": "paragraph",
+          "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+          "style": "",
+          "sourceIndex": 2575
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2576
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先确认横轴、纵轴、单位和样本量。",
+          "style": "",
+          "sourceIndex": 2577
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+          "style": "",
+          "sourceIndex": 2578
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+          "style": "",
+          "sourceIndex": 2579
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 只做题目要求的比值/差值/趋势，不凭图形视觉夸大差异。",
+          "style": "",
+          "sourceIndex": 2580
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+          "style": "",
+          "sourceIndex": 2581
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+          "style": "",
+          "sourceIndex": 2582
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 样本估总体要说明“估计”，避免写成必然。",
+          "style": "",
+          "sourceIndex": 2583
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+          "style": "",
+          "sourceIndex": 2584
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+          "style": "",
+          "sourceIndex": 2585
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2586
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先看单位、样本量和横纵轴含义。",
+          "style": "",
+          "sourceIndex": 2587
+        },
+        {
+          "type": "paragraph",
+          "text": "• 样本结论只能“估计总体”，不要写成对总体的绝对事实。",
+          "style": "",
+          "sourceIndex": 2588
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2589
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2590
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单位和样本量是否看清？",
+          "style": "",
+          "sourceIndex": 2591
+        },
+        {
+          "type": "paragraph",
+          "text": "• 直方图用面积还是柱高？",
+          "style": "",
+          "sourceIndex": 2592
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把“样本估计”写成了绝对结论？",
+          "style": "",
+          "sourceIndex": 2593
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2594
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2595
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2596
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜样本200人中80人选择A，估计比例。"
+            ],
+            [
+              "先怎么想｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。"
+            ],
+            [
+              "核心过程 / 答案｜80/200=0.4=40%。"
+            ]
+          ],
+          "text": "典型例题｜样本200人中80人选择A，估计比例。\n先怎么想｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。\n核心过程 / 答案｜80/200=0.4=40%。",
+          "sourceIndex": 2597
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜图表纵轴若不是从0开始，视觉差异可能被放大。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜图表纵轴若不是从0开始，视觉差异可能被放大。",
+          "sourceIndex": 2598
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2599
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。"
+            ]
+          ],
+          "text": "📌 30秒速记｜统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。",
+          "sourceIndex": 2600
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2601
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 样本500中125合格，合格率。",
+          "style": "",
+          "sourceIndex": 2602
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 饼图90°扇区占比。",
+          "style": "",
+          "sourceIndex": 2603
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 样本比例能否保证总体完全相同？",
+          "style": "",
+          "sourceIndex": 2604
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 折线图主要看什么？",
+          "style": "",
+          "sourceIndex": 2605
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 统计图第一步读什么？",
+          "style": "",
+          "sourceIndex": 2606
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.25%；2.25%；3.不能；4.随时间/顺序的变化趋势；5.轴、单位、样本量",
+          "style": "TinyNote",
+          "sourceIndex": 2607
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2608
+        }
+      ]
+    }
+  ],
+  "sort_order": 59,
+  "brain_first": "统计图表题第一步永远是看清横轴、纵轴、单位和样本量，再谈结论；样本只能估计总体，不能把估计写成绝对事实。"
+}

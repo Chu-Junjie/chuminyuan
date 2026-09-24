@@ -1,0 +1,629 @@
+{
+  "id": "SOP054",
+  "code": "SOP054",
+  "title": "空间角、异面直线与位置关系基础",
+  "chapter_id": "chapter-13",
+  "chapter": "必修第二册 第13章 立体几何初步",
+  "frequency": 4,
+  "keywords": [
+    "空间角",
+    "异面直线",
+    "位置关系基础"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 2328
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问异面直线所成角、线面角、二面角的定义或空间位置关系。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问异面直线所成角、线面角、二面角的定义或空间位置关系。",
+      "sourceIndex": 2329
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。",
+      "sourceIndex": 2330
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 2331
+    },
+    {
+      "type": "paragraph",
+      "text": "• 线面角 → 直线与它在平面上的投影之间的锐角",
+      "style": "",
+      "sourceIndex": 2332
+    },
+    {
+      "type": "paragraph",
+      "text": "• 二面角 → 两个平面张开的角",
+      "style": "",
+      "sourceIndex": 2333
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2334
+    },
+    {
+      "type": "paragraph",
+      "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+      "style": "",
+      "sourceIndex": 2335
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2336
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先通过平移把异面直线转成相交的平行线方向。",
+      "style": "",
+      "sourceIndex": 2337
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+      "style": "",
+      "sourceIndex": 2338
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+      "style": "",
+      "sourceIndex": 2339
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 线面角找直线在平面的射影；二面角找棱上同一点的两条垂线。",
+      "style": "",
+      "sourceIndex": 2340
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：空间角直接从图里量很难，向量法把它变成点乘。线面角通过法向量间接算，二面角通过两个法向量算。",
+      "style": "",
+      "sourceIndex": 2341
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先写方向向量v和法向量n；线面角用sinθ=|v·n|/(|v||n|)。二面角先算两法向量夹角，再根据图形决定是否取补角。",
+      "style": "",
+      "sourceIndex": 2342
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 如果后续学了空间向量，计算题优先向量法。",
+      "style": "",
+      "sourceIndex": 2343
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+      "style": "",
+      "sourceIndex": 2344
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+      "style": "",
+      "sourceIndex": 2345
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2346
+    },
+    {
+      "type": "paragraph",
+      "text": "• 证明题优先找课本判定定理需要的“最少条件”，不要证明一大堆无关垂直/平行。",
+      "style": "",
+      "sourceIndex": 2347
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算题若纯几何绕：考虑建坐标，把角和距离改成向量。",
+      "style": "",
+      "sourceIndex": 2348
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2349
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2350
+    },
+    {
+      "type": "paragraph",
+      "text": "• 证明定理的条件是否写全（线在面内、两线相交等）？",
+      "style": "",
+      "sourceIndex": 2351
+    },
+    {
+      "type": "paragraph",
+      "text": "• 角/距离是不是题目真正要求的那个？",
+      "style": "",
+      "sourceIndex": 2352
+    },
+    {
+      "type": "paragraph",
+      "text": "• 体积是否漏1/3？",
+      "style": "",
+      "sourceIndex": 2353
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2354
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果纯几何看不出来：先找明显的垂直边建坐标。",
+      "style": "",
+      "sourceIndex": 2355
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果证明题越证越多：回到判定定理，只补齐它真正需要的两三个条件。",
+      "style": "",
+      "sourceIndex": 2356
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜异面直线夹角的范围通常取？"
+        ],
+        [
+          "先怎么想｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。"
+        ],
+        [
+          "核心过程 / 答案｜0到π/2。"
+        ]
+      ],
+      "text": "典型例题｜异面直线夹角的范围通常取？\n先怎么想｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。\n核心过程 / 答案｜0到π/2。",
+      "sourceIndex": 2357
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜线面角不是“直线与平面内任意一条线的角”。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜线面角不是“直线与平面内任意一条线的角”。",
+      "sourceIndex": 2358
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2359
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。"
+        ]
+      ],
+      "text": "📌 30秒速记｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。",
+      "sourceIndex": 2360
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2361
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 两平行直线夹角。",
+      "style": "",
+      "sourceIndex": 2362
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 直线垂直平面时线面角。",
+      "style": "",
+      "sourceIndex": 2363
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 直线平行平面时线面角。",
+      "style": "",
+      "sourceIndex": 2364
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 二面角的公共直线叫什么？",
+      "style": "",
+      "sourceIndex": 2365
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 异面直线是否有公共点？",
+      "style": "",
+      "sourceIndex": 2366
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.0；2.π/2；3.0；4.棱；5.没有",
+      "style": "TinyNote",
+      "sourceIndex": 2367
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2368
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问异面直线所成角、线面角、二面角的定义或空间位置关系。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问异面直线所成角、线面角、二面角的定义或空间位置关系。",
+          "sourceIndex": 2329
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。",
+          "sourceIndex": 2330
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 2331
+        },
+        {
+          "type": "paragraph",
+          "text": "• 线面角 → 直线与它在平面上的投影之间的锐角",
+          "style": "",
+          "sourceIndex": 2332
+        },
+        {
+          "type": "paragraph",
+          "text": "• 二面角 → 两个平面张开的角",
+          "style": "",
+          "sourceIndex": 2333
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2334
+        },
+        {
+          "type": "paragraph",
+          "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+          "style": "",
+          "sourceIndex": 2335
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2336
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先通过平移把异面直线转成相交的平行线方向。",
+          "style": "",
+          "sourceIndex": 2337
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+          "style": "",
+          "sourceIndex": 2338
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+          "style": "",
+          "sourceIndex": 2339
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 线面角找直线在平面的射影；二面角找棱上同一点的两条垂线。",
+          "style": "",
+          "sourceIndex": 2340
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：空间角直接从图里量很难，向量法把它变成点乘。线面角通过法向量间接算，二面角通过两个法向量算。",
+          "style": "",
+          "sourceIndex": 2341
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先写方向向量v和法向量n；线面角用sinθ=|v·n|/(|v||n|)。二面角先算两法向量夹角，再根据图形决定是否取补角。",
+          "style": "",
+          "sourceIndex": 2342
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 如果后续学了空间向量，计算题优先向量法。",
+          "style": "",
+          "sourceIndex": 2343
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+          "style": "",
+          "sourceIndex": 2344
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+          "style": "",
+          "sourceIndex": 2345
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2346
+        },
+        {
+          "type": "paragraph",
+          "text": "• 证明题优先找课本判定定理需要的“最少条件”，不要证明一大堆无关垂直/平行。",
+          "style": "",
+          "sourceIndex": 2347
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算题若纯几何绕：考虑建坐标，把角和距离改成向量。",
+          "style": "",
+          "sourceIndex": 2348
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2349
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2350
+        },
+        {
+          "type": "paragraph",
+          "text": "• 证明定理的条件是否写全（线在面内、两线相交等）？",
+          "style": "",
+          "sourceIndex": 2351
+        },
+        {
+          "type": "paragraph",
+          "text": "• 角/距离是不是题目真正要求的那个？",
+          "style": "",
+          "sourceIndex": 2352
+        },
+        {
+          "type": "paragraph",
+          "text": "• 体积是否漏1/3？",
+          "style": "",
+          "sourceIndex": 2353
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2354
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果纯几何看不出来：先找明显的垂直边建坐标。",
+          "style": "",
+          "sourceIndex": 2355
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果证明题越证越多：回到判定定理，只补齐它真正需要的两三个条件。",
+          "style": "",
+          "sourceIndex": 2356
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜异面直线夹角的范围通常取？"
+            ],
+            [
+              "先怎么想｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。"
+            ],
+            [
+              "核心过程 / 答案｜0到π/2。"
+            ]
+          ],
+          "text": "典型例题｜异面直线夹角的范围通常取？\n先怎么想｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。\n核心过程 / 答案｜0到π/2。",
+          "sourceIndex": 2357
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜线面角不是“直线与平面内任意一条线的角”。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜线面角不是“直线与平面内任意一条线的角”。",
+          "sourceIndex": 2358
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2359
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。"
+            ]
+          ],
+          "text": "📌 30秒速记｜空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。",
+          "sourceIndex": 2360
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2361
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 两平行直线夹角。",
+          "style": "",
+          "sourceIndex": 2362
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 直线垂直平面时线面角。",
+          "style": "",
+          "sourceIndex": 2363
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 直线平行平面时线面角。",
+          "style": "",
+          "sourceIndex": 2364
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 二面角的公共直线叫什么？",
+          "style": "",
+          "sourceIndex": 2365
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 异面直线是否有公共点？",
+          "style": "",
+          "sourceIndex": 2366
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.0；2.π/2；3.0；4.棱；5.没有",
+          "style": "TinyNote",
+          "sourceIndex": 2367
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2368
+        }
+      ]
+    }
+  ],
+  "sort_order": 53,
+  "brain_first": "空间位置关系先分类：平行、相交、异面。求角时先想能不能把两条线“搬”到同一个点附近。"
+}

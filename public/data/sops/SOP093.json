@@ -1,0 +1,586 @@
+{
+  "id": "SOP093",
+  "code": "SOP093",
+  "title": "分类加法与分步乘法",
+  "chapter_id": "chapter-22",
+  "chapter": "选择性必修第二册 第7章 计数原理",
+  "frequency": 4,
+  "keywords": [
+    "分类加法",
+    "分步乘法"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 3922
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问“共有多少种方法”，过程可分类或分步骤。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问“共有多少种方法”，过程可分类或分步骤。",
+      "sourceIndex": 3923
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。",
+      "sourceIndex": 3924
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3925
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 3926
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3927
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先问：方案是互斥的“几类”还是必须依次完成“几步”。",
+      "style": "",
+      "sourceIndex": 3928
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 3929
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 3930
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 分类完成同一件事→加法；分步全部完成→乘法。",
+      "style": "",
+      "sourceIndex": 3931
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：“分类”是几条互相替代的路，走其中一条就完成；“分步”是每一步都必须做完，所以前者加、后者乘。",
+      "style": "",
+      "sourceIndex": 3932
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把题目用一句话重写成“可以选A或B”还是“先做A再做B”；看到“或”倾向加，看到“然后/再”倾向乘。",
+      "style": "",
+      "sourceIndex": 3933
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 检查分类是否重叠、分步是否遗漏。",
+      "style": "",
+      "sourceIndex": 3934
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：“分类”是几条互相替代的路，走其中一条就完成；“分步”是每一步都必须做完，所以前者加、后者乘。",
+      "style": "",
+      "sourceIndex": 3935
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把题目用一句话重写成“可以选A或B”还是“先做A再做B”；看到“或”倾向加，看到“然后/再”倾向乘。",
+      "style": "",
+      "sourceIndex": 3936
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3937
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 3938
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 3939
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3940
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3941
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 3942
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 3943
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 3944
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3945
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 3946
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 3947
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜从3支红笔或2支蓝笔中任选1支，有几种？"
+        ],
+        [
+          "先怎么想｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。"
+        ],
+        [
+          "核心过程 / 答案｜分类：3+2=5。"
+        ]
+      ],
+      "text": "典型例题｜从3支红笔或2支蓝笔中任选1支，有几种？\n先怎么想｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。\n核心过程 / 答案｜分类：3+2=5。",
+      "sourceIndex": 3948
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜把“分类”和“分步”混用是排列组合最根本的错误。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜把“分类”和“分步”混用是排列组合最根本的错误。",
+      "sourceIndex": 3949
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3950
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。"
+        ]
+      ],
+      "text": "📌 30秒速记｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。",
+      "sourceIndex": 3951
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3952
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 上衣3件裤子4条搭配。",
+      "style": "",
+      "sourceIndex": 3953
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 从A地到B有2条路，B到C有3条，A经B到C。",
+      "style": "",
+      "sourceIndex": 3954
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 从5人中选1人。",
+      "style": "",
+      "sourceIndex": 3955
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 分类计数用。",
+      "style": "",
+      "sourceIndex": 3956
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 分步计数用。",
+      "style": "",
+      "sourceIndex": 3957
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.12；2.6；3.5；4.加法；5.乘法",
+      "style": "TinyNote",
+      "sourceIndex": 3958
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3959
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问“共有多少种方法”，过程可分类或分步骤。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问“共有多少种方法”，过程可分类或分步骤。",
+          "sourceIndex": 3923
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。",
+          "sourceIndex": 3924
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3925
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 3926
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3927
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先问：方案是互斥的“几类”还是必须依次完成“几步”。",
+          "style": "",
+          "sourceIndex": 3928
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 3929
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 3930
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 分类完成同一件事→加法；分步全部完成→乘法。",
+          "style": "",
+          "sourceIndex": 3931
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：“分类”是几条互相替代的路，走其中一条就完成；“分步”是每一步都必须做完，所以前者加、后者乘。",
+          "style": "",
+          "sourceIndex": 3932
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把题目用一句话重写成“可以选A或B”还是“先做A再做B”；看到“或”倾向加，看到“然后/再”倾向乘。",
+          "style": "",
+          "sourceIndex": 3933
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 检查分类是否重叠、分步是否遗漏。",
+          "style": "",
+          "sourceIndex": 3934
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：“分类”是几条互相替代的路，走其中一条就完成；“分步”是每一步都必须做完，所以前者加、后者乘。",
+          "style": "",
+          "sourceIndex": 3935
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把题目用一句话重写成“可以选A或B”还是“先做A再做B”；看到“或”倾向加，看到“然后/再”倾向乘。",
+          "style": "",
+          "sourceIndex": 3936
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3937
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 3938
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 3939
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3940
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3941
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 3942
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 3943
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 3944
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3945
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 3946
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 3947
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜从3支红笔或2支蓝笔中任选1支，有几种？"
+            ],
+            [
+              "先怎么想｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。"
+            ],
+            [
+              "核心过程 / 答案｜分类：3+2=5。"
+            ]
+          ],
+          "text": "典型例题｜从3支红笔或2支蓝笔中任选1支，有几种？\n先怎么想｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。\n核心过程 / 答案｜分类：3+2=5。",
+          "sourceIndex": 3948
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜把“分类”和“分步”混用是排列组合最根本的错误。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜把“分类”和“分步”混用是排列组合最根本的错误。",
+          "sourceIndex": 3949
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3950
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。"
+            ]
+          ],
+          "text": "📌 30秒速记｜计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。",
+          "sourceIndex": 3951
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3952
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 上衣3件裤子4条搭配。",
+          "style": "",
+          "sourceIndex": 3953
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 从A地到B有2条路，B到C有3条，A经B到C。",
+          "style": "",
+          "sourceIndex": 3954
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 从5人中选1人。",
+          "style": "",
+          "sourceIndex": 3955
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 分类计数用。",
+          "style": "",
+          "sourceIndex": 3956
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 分步计数用。",
+          "style": "",
+          "sourceIndex": 3957
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.12；2.6；3.5；4.加法；5.乘法",
+          "style": "TinyNote",
+          "sourceIndex": 3958
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3959
+        }
+      ]
+    }
+  ],
+  "sort_order": 92,
+  "brain_first": "计数题先问“这是分几类任选一类，还是必须按几步全部做完？”分类用加法，分步用乘法。"
+}

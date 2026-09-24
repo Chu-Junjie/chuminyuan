@@ -1,0 +1,587 @@
+{
+  "id": "SOP025",
+  "code": "SOP025",
+  "title": "任意角、弧度制与特殊角",
+  "chapter_id": "chapter-07",
+  "chapter": "必修第一册 第7章 三角函数",
+  "frequency": 4,
+  "keywords": [
+    "任意角",
+    "弧度制",
+    "特殊角"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 1134
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜角度与弧度互化、终边象限、特殊角三角值。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜角度与弧度互化、终边象限、特殊角三角值。",
+      "sourceIndex": 1135
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。",
+      "sourceIndex": 1136
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1137
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 1138
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1139
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 牢记180°=π rad。",
+      "style": "",
+      "sourceIndex": 1140
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：角度制和弧度制只是单位不同，像“厘米和米”。统一单位后再算可以避免π和度数混用。",
+      "style": "",
+      "sourceIndex": 1141
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：角度→弧度写“×π/180”；弧度→角度写“×180/π”，约分后再代三角函数。",
+      "style": "",
+      "sourceIndex": 1142
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 角度→弧度乘π/180；弧度→角度乘180/π。",
+      "style": "",
+      "sourceIndex": 1143
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 1144
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 1145
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 终边象限先把角化到[0,2π)或[0°,360°)。",
+      "style": "",
+      "sourceIndex": 1146
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 1147
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 1148
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1149
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 1150
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 1151
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1152
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1153
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 1154
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 1155
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 1156
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1157
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 1158
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 1159
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜150°化为弧度。"
+        ],
+        [
+          "先怎么想｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。"
+        ],
+        [
+          "核心过程 / 答案｜150×π/180=5π/6。"
+        ]
+      ],
+      "text": "典型例题｜150°化为弧度。\n先怎么想｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。\n核心过程 / 答案｜150×π/180=5π/6。",
+      "sourceIndex": 1160
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜π不是180这个数，而是π弧度=180°。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜π不是180这个数，而是π弧度=180°。",
+      "sourceIndex": 1161
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1162
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。"
+        ]
+      ],
+      "text": "📌 30秒速记｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。",
+      "sourceIndex": 1163
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1164
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 60°=多少弧度？",
+      "style": "",
+      "sourceIndex": 1165
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 3π/2=多少度？",
+      "style": "",
+      "sourceIndex": 1166
+    },
+    {
+      "type": "paragraph",
+      "text": "3. -π/4终边在第几象限？",
+      "style": "",
+      "sourceIndex": 1167
+    },
+    {
+      "type": "paragraph",
+      "text": "4. sin(π/6)。",
+      "style": "",
+      "sourceIndex": 1168
+    },
+    {
+      "type": "paragraph",
+      "text": "5. cosπ。",
+      "style": "",
+      "sourceIndex": 1169
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.π/3；2.270°；3.第四象限；4.1/2；5.-1",
+      "style": "TinyNote",
+      "sourceIndex": 1170
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1171
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜角度与弧度互化、终边象限、特殊角三角值。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜角度与弧度互化、终边象限、特殊角三角值。",
+          "sourceIndex": 1135
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。",
+          "sourceIndex": 1136
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1137
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 1138
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1139
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 牢记180°=π rad。",
+          "style": "",
+          "sourceIndex": 1140
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：角度制和弧度制只是单位不同，像“厘米和米”。统一单位后再算可以避免π和度数混用。",
+          "style": "",
+          "sourceIndex": 1141
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：角度→弧度写“×π/180”；弧度→角度写“×180/π”，约分后再代三角函数。",
+          "style": "",
+          "sourceIndex": 1142
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 角度→弧度乘π/180；弧度→角度乘180/π。",
+          "style": "",
+          "sourceIndex": 1143
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 1144
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 1145
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 终边象限先把角化到[0,2π)或[0°,360°)。",
+          "style": "",
+          "sourceIndex": 1146
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 1147
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 1148
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1149
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 1150
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 1151
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1152
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1153
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 1154
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 1155
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 1156
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1157
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 1158
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 1159
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜150°化为弧度。"
+            ],
+            [
+              "先怎么想｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。"
+            ],
+            [
+              "核心过程 / 答案｜150×π/180=5π/6。"
+            ]
+          ],
+          "text": "典型例题｜150°化为弧度。\n先怎么想｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。\n核心过程 / 答案｜150×π/180=5π/6。",
+          "sourceIndex": 1160
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜π不是180这个数，而是π弧度=180°。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜π不是180这个数，而是π弧度=180°。",
+          "sourceIndex": 1161
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1162
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。"
+            ]
+          ],
+          "text": "📌 30秒速记｜角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。",
+          "sourceIndex": 1163
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1164
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 60°=多少弧度？",
+          "style": "",
+          "sourceIndex": 1165
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 3π/2=多少度？",
+          "style": "",
+          "sourceIndex": 1166
+        },
+        {
+          "type": "paragraph",
+          "text": "3. -π/4终边在第几象限？",
+          "style": "",
+          "sourceIndex": 1167
+        },
+        {
+          "type": "paragraph",
+          "text": "4. sin(π/6)。",
+          "style": "",
+          "sourceIndex": 1168
+        },
+        {
+          "type": "paragraph",
+          "text": "5. cosπ。",
+          "style": "",
+          "sourceIndex": 1169
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.π/3；2.270°；3.第四象限；4.1/2；5.-1",
+          "style": "TinyNote",
+          "sourceIndex": 1170
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1171
+        }
+      ]
+    }
+  ],
+  "sort_order": 24,
+  "brain_first": "角度和弧度就是两种单位：180°=π。先换到自己熟悉的单位，再判断象限。"
+}

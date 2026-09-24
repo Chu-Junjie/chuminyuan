@@ -1,0 +1,629 @@
+{
+  "id": "SOP029",
+  "code": "SOP029",
+  "title": "三角函数单调、零点与最值",
+  "chapter_id": "chapter-07",
+  "chapter": "必修第一册 第7章 三角函数",
+  "frequency": 5,
+  "keywords": [
+    "三角函数单调",
+    "零点",
+    "最值"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 1294
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜给区间，问sin/cos/tan的单调区间、零点个数、最值。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜给区间，问sin/cos/tan的单调区间、零点个数、最值。",
+      "sourceIndex": 1295
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。",
+      "sourceIndex": 1296
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1297
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单调 → x增大时函数值总体是变大还是变小",
+      "style": "",
+      "sourceIndex": 1298
+    },
+    {
+      "type": "paragraph",
+      "text": "• 零点 → 让f(x)=0的x，也就是图像碰到x轴的位置",
+      "style": "",
+      "sourceIndex": 1299
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1300
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 1301
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1302
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 设t=ωx+φ，把复杂自变量先换成t。",
+      "style": "",
+      "sourceIndex": 1303
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1304
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1305
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 在标准sin/cos/tan图像上找对应区间。",
+      "style": "",
+      "sourceIndex": 1306
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1307
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1308
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 再把t区间反解回x；数零点时先解标准方程再筛区间。",
+      "style": "",
+      "sourceIndex": 1309
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1310
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1311
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1312
+    },
+    {
+      "type": "paragraph",
+      "text": "• 同一个函数在不同区间可能方向不同，比较f(a)、f(b)前先确认a、b属于同一单调区间。",
+      "style": "",
+      "sourceIndex": 1313
+    },
+    {
+      "type": "paragraph",
+      "text": "• 复合结构看起来复杂时，可以先判断“里面怎么变、外面怎么变”；同向通常增，反向通常减。",
+      "style": "",
+      "sourceIndex": 1314
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1315
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1316
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域有没有先写？",
+      "style": "",
+      "sourceIndex": 1317
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把不同区间/分段混在一起？",
+      "style": "",
+      "sourceIndex": 1318
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否漏掉端点、零点或对称点？",
+      "style": "",
+      "sourceIndex": 1319
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1320
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+      "style": "",
+      "sourceIndex": 1321
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+      "style": "",
+      "sourceIndex": 1322
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜求sinx在[0,π]最大值。"
+        ],
+        [
+          "先怎么想｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。"
+        ],
+        [
+          "核心过程 / 答案｜x=π/2时最大值1。"
+        ]
+      ],
+      "text": "典型例题｜求sinx在[0,π]最大值。\n先怎么想｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。\n核心过程 / 答案｜x=π/2时最大值1。",
+      "sourceIndex": 1323
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜解出通解后必须用题目区间筛选，否则零点个数常多算。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜解出通解后必须用题目区间筛选，否则零点个数常多算。",
+      "sourceIndex": 1324
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1325
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。"
+        ]
+      ],
+      "text": "📌 30秒速记｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。",
+      "sourceIndex": 1326
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1327
+    },
+    {
+      "type": "paragraph",
+      "text": "1. cosx在[0,π]最大值。",
+      "style": "",
+      "sourceIndex": 1328
+    },
+    {
+      "type": "paragraph",
+      "text": "2. sinx=0在[0,2π]有几个解？",
+      "style": "",
+      "sourceIndex": 1329
+    },
+    {
+      "type": "paragraph",
+      "text": "3. tanx=0在[0,2π)有几个解？",
+      "style": "",
+      "sourceIndex": 1330
+    },
+    {
+      "type": "paragraph",
+      "text": "4. sinx在[-π/2,π/2]单调性。",
+      "style": "",
+      "sourceIndex": 1331
+    },
+    {
+      "type": "paragraph",
+      "text": "5. cosx在[0,π]单调性。",
+      "style": "",
+      "sourceIndex": 1332
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.1；2.3；3.2；4.递增；5.递减",
+      "style": "TinyNote",
+      "sourceIndex": 1333
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1334
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜给区间，问sin/cos/tan的单调区间、零点个数、最值。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜给区间，问sin/cos/tan的单调区间、零点个数、最值。",
+          "sourceIndex": 1295
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。",
+          "sourceIndex": 1296
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1297
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单调 → x增大时函数值总体是变大还是变小",
+          "style": "",
+          "sourceIndex": 1298
+        },
+        {
+          "type": "paragraph",
+          "text": "• 零点 → 让f(x)=0的x，也就是图像碰到x轴的位置",
+          "style": "",
+          "sourceIndex": 1299
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1300
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 1301
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1302
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 设t=ωx+φ，把复杂自变量先换成t。",
+          "style": "",
+          "sourceIndex": 1303
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1304
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1305
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 在标准sin/cos/tan图像上找对应区间。",
+          "style": "",
+          "sourceIndex": 1306
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1307
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1308
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 再把t区间反解回x；数零点时先解标准方程再筛区间。",
+          "style": "",
+          "sourceIndex": 1309
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1310
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1311
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1312
+        },
+        {
+          "type": "paragraph",
+          "text": "• 同一个函数在不同区间可能方向不同，比较f(a)、f(b)前先确认a、b属于同一单调区间。",
+          "style": "",
+          "sourceIndex": 1313
+        },
+        {
+          "type": "paragraph",
+          "text": "• 复合结构看起来复杂时，可以先判断“里面怎么变、外面怎么变”；同向通常增，反向通常减。",
+          "style": "",
+          "sourceIndex": 1314
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1315
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1316
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域有没有先写？",
+          "style": "",
+          "sourceIndex": 1317
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把不同区间/分段混在一起？",
+          "style": "",
+          "sourceIndex": 1318
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否漏掉端点、零点或对称点？",
+          "style": "",
+          "sourceIndex": 1319
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1320
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+          "style": "",
+          "sourceIndex": 1321
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+          "style": "",
+          "sourceIndex": 1322
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜求sinx在[0,π]最大值。"
+            ],
+            [
+              "先怎么想｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。"
+            ],
+            [
+              "核心过程 / 答案｜x=π/2时最大值1。"
+            ]
+          ],
+          "text": "典型例题｜求sinx在[0,π]最大值。\n先怎么想｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。\n核心过程 / 答案｜x=π/2时最大值1。",
+          "sourceIndex": 1323
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜解出通解后必须用题目区间筛选，否则零点个数常多算。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜解出通解后必须用题目区间筛选，否则零点个数常多算。",
+          "sourceIndex": 1324
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1325
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。"
+            ]
+          ],
+          "text": "📌 30秒速记｜三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。",
+          "sourceIndex": 1326
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1327
+        },
+        {
+          "type": "paragraph",
+          "text": "1. cosx在[0,π]最大值。",
+          "style": "",
+          "sourceIndex": 1328
+        },
+        {
+          "type": "paragraph",
+          "text": "2. sinx=0在[0,2π]有几个解？",
+          "style": "",
+          "sourceIndex": 1329
+        },
+        {
+          "type": "paragraph",
+          "text": "3. tanx=0在[0,2π)有几个解？",
+          "style": "",
+          "sourceIndex": 1330
+        },
+        {
+          "type": "paragraph",
+          "text": "4. sinx在[-π/2,π/2]单调性。",
+          "style": "",
+          "sourceIndex": 1331
+        },
+        {
+          "type": "paragraph",
+          "text": "5. cosx在[0,π]单调性。",
+          "style": "",
+          "sourceIndex": 1332
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.1；2.3；3.2；4.递增；5.递减",
+          "style": "TinyNote",
+          "sourceIndex": 1333
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1334
+        }
+      ]
+    }
+  ],
+  "sort_order": 28,
+  "brain_first": "三角函数求单调/零点/最值，先把括号里那坨当成一个新字母t，先解决sin t或cos t，再换回x。"
+}

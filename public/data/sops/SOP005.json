@@ -1,0 +1,628 @@
+{
+  "id": "SOP005",
+  "code": "SOP005",
+  "title": "全称量词、存在量词及命题否定",
+  "chapter_id": "chapter-02",
+  "chapter": "必修第一册 第2章 常用逻辑用语",
+  "frequency": 3,
+  "keywords": [
+    "全称量词",
+    "存在量词及命题否定"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★☆☆  正常范围",
+      "style": "",
+      "sourceIndex": 305
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜出现“∀x”“∃x”“任意”“存在”“至少一个”，要求写否定或判断真假。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜出现“∀x”“∃x”“任意”“存在”“至少一个”，要求写否定或判断真假。",
+      "sourceIndex": 306
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。",
+      "sourceIndex": 307
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 308
+    },
+    {
+      "type": "paragraph",
+      "text": "• 全称量词 → “对所有/任意一个”",
+      "style": "",
+      "sourceIndex": 309
+    },
+    {
+      "type": "paragraph",
+      "text": "• 存在量词 → “至少存在一个”",
+      "style": "",
+      "sourceIndex": 310
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 311
+    },
+    {
+      "type": "paragraph",
+      "text": "这一类题本质是在处理“范围”和“逻辑关系”。先把文字改成集合、区间或箭头，比直接靠中文语感稳定得多。",
+      "style": "",
+      "sourceIndex": 312
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 313
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先识别量词：全称∀还是存在∃。",
+      "style": "",
+      "sourceIndex": 314
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+      "style": "",
+      "sourceIndex": 315
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+      "style": "",
+      "sourceIndex": 316
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 否定时量词互换：∀↔∃，同时把结论取反。",
+      "style": "",
+      "sourceIndex": 317
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：命题的否定不是只在结论前加“不”。“所有”被否定后必须变成“至少有一个不”，反过来也一样。",
+      "style": "",
+      "sourceIndex": 318
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在草稿上直接写：∀ ↔ ∃；然后把后面的 ≥ 改成 <、= 改成 ≠、属于改成不属于等对应否定。",
+      "style": "",
+      "sourceIndex": 319
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 判断真假时：全称命题找反例即可推翻；存在命题找一个例子即可证明。",
+      "style": "",
+      "sourceIndex": 320
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：全称命题只要出现一个合法反例就彻底失败，所以先试特殊值往往比从头证明快得多。",
+      "style": "",
+      "sourceIndex": 321
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先试0、1、-1、边界值；每次都确认这个值满足题设前提，再看结论是否被打破。",
+      "style": "",
+      "sourceIndex": 322
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 323
+    },
+    {
+      "type": "paragraph",
+      "text": "• 全称命题要证明很难时，先找反例；找到一个就判假。",
+      "style": "",
+      "sourceIndex": 324
+    },
+    {
+      "type": "paragraph",
+      "text": "• 存在命题要判真，只要找到一个合法例子；要判假则必须说明所有情况都不可能。",
+      "style": "",
+      "sourceIndex": 325
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 326
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 327
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 328
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 329
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 330
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 331
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 332
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 333
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜命题“∀x∈R，x²≥0”的否定。"
+        ],
+        [
+          "先怎么想｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。"
+        ],
+        [
+          "核心过程 / 答案｜“∃x∈R，使x²<0”。"
+        ]
+      ],
+      "text": "典型例题｜命题“∀x∈R，x²≥0”的否定。\n先怎么想｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。\n核心过程 / 答案｜“∃x∈R，使x²<0”。",
+      "sourceIndex": 334
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜否定不是只加“不”；必须同时把量词互换。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜否定不是只加“不”；必须同时把量词互换。",
+      "sourceIndex": 335
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 336
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。"
+        ]
+      ],
+      "text": "📌 30秒速记｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。",
+      "sourceIndex": 337
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 338
+    },
+    {
+      "type": "paragraph",
+      "text": "1. “∀x>0，x+1>0”的否定。",
+      "style": "",
+      "sourceIndex": 339
+    },
+    {
+      "type": "paragraph",
+      "text": "2. “∃x∈R，x²=2”的否定。",
+      "style": "",
+      "sourceIndex": 340
+    },
+    {
+      "type": "paragraph",
+      "text": "3. “所有实数平方都非负”真假。",
+      "style": "",
+      "sourceIndex": 341
+    },
+    {
+      "type": "paragraph",
+      "text": "4. “存在实数x使x²+1=0”真假。",
+      "style": "",
+      "sourceIndex": 342
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 推翻全称命题最省力的方法。",
+      "style": "",
+      "sourceIndex": 343
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.∃x>0，使x+1≤0；2.∀x∈R，x²≠2；3.真；4.假；5.找一个反例",
+      "style": "TinyNote",
+      "sourceIndex": 344
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 345
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜出现“∀x”“∃x”“任意”“存在”“至少一个”，要求写否定或判断真假。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜出现“∀x”“∃x”“任意”“存在”“至少一个”，要求写否定或判断真假。",
+          "sourceIndex": 306
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。",
+          "sourceIndex": 307
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 308
+        },
+        {
+          "type": "paragraph",
+          "text": "• 全称量词 → “对所有/任意一个”",
+          "style": "",
+          "sourceIndex": 309
+        },
+        {
+          "type": "paragraph",
+          "text": "• 存在量词 → “至少存在一个”",
+          "style": "",
+          "sourceIndex": 310
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 311
+        },
+        {
+          "type": "paragraph",
+          "text": "这一类题本质是在处理“范围”和“逻辑关系”。先把文字改成集合、区间或箭头，比直接靠中文语感稳定得多。",
+          "style": "",
+          "sourceIndex": 312
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 313
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先识别量词：全称∀还是存在∃。",
+          "style": "",
+          "sourceIndex": 314
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+          "style": "",
+          "sourceIndex": 315
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+          "style": "",
+          "sourceIndex": 316
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 否定时量词互换：∀↔∃，同时把结论取反。",
+          "style": "",
+          "sourceIndex": 317
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：命题的否定不是只在结论前加“不”。“所有”被否定后必须变成“至少有一个不”，反过来也一样。",
+          "style": "",
+          "sourceIndex": 318
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在草稿上直接写：∀ ↔ ∃；然后把后面的 ≥ 改成 <、= 改成 ≠、属于改成不属于等对应否定。",
+          "style": "",
+          "sourceIndex": 319
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 判断真假时：全称命题找反例即可推翻；存在命题找一个例子即可证明。",
+          "style": "",
+          "sourceIndex": 320
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：全称命题只要出现一个合法反例就彻底失败，所以先试特殊值往往比从头证明快得多。",
+          "style": "",
+          "sourceIndex": 321
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先试0、1、-1、边界值；每次都确认这个值满足题设前提，再看结论是否被打破。",
+          "style": "",
+          "sourceIndex": 322
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 323
+        },
+        {
+          "type": "paragraph",
+          "text": "• 全称命题要证明很难时，先找反例；找到一个就判假。",
+          "style": "",
+          "sourceIndex": 324
+        },
+        {
+          "type": "paragraph",
+          "text": "• 存在命题要判真，只要找到一个合法例子；要判假则必须说明所有情况都不可能。",
+          "style": "",
+          "sourceIndex": 325
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 326
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 327
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 328
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 329
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 330
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 331
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 332
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 333
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜命题“∀x∈R，x²≥0”的否定。"
+            ],
+            [
+              "先怎么想｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。"
+            ],
+            [
+              "核心过程 / 答案｜“∃x∈R，使x²<0”。"
+            ]
+          ],
+          "text": "典型例题｜命题“∀x∈R，x²≥0”的否定。\n先怎么想｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。\n核心过程 / 答案｜“∃x∈R，使x²<0”。",
+          "sourceIndex": 334
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜否定不是只加“不”；必须同时把量词互换。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜否定不是只加“不”；必须同时把量词互换。",
+          "sourceIndex": 335
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 336
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。"
+            ]
+          ],
+          "text": "📌 30秒速记｜看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。",
+          "sourceIndex": 337
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 338
+        },
+        {
+          "type": "paragraph",
+          "text": "1. “∀x>0，x+1>0”的否定。",
+          "style": "",
+          "sourceIndex": 339
+        },
+        {
+          "type": "paragraph",
+          "text": "2. “∃x∈R，x²=2”的否定。",
+          "style": "",
+          "sourceIndex": 340
+        },
+        {
+          "type": "paragraph",
+          "text": "3. “所有实数平方都非负”真假。",
+          "style": "",
+          "sourceIndex": 341
+        },
+        {
+          "type": "paragraph",
+          "text": "4. “存在实数x使x²+1=0”真假。",
+          "style": "",
+          "sourceIndex": 342
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 推翻全称命题最省力的方法。",
+          "style": "",
+          "sourceIndex": 343
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.∃x>0，使x+1≤0；2.∀x∈R，x²≠2；3.真；4.假；5.找一个反例",
+          "style": "TinyNote",
+          "sourceIndex": 344
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 345
+        }
+      ]
+    }
+  ],
+  "sort_order": 4,
+  "brain_first": "看到“任意/所有”想到∀，看到“存在/至少一个”想到∃；否定时不仅改结论，还要把∀和∃互换。"
+}

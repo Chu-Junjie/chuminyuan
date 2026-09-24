@@ -1,0 +1,617 @@
+{
+  "id": "SOP036",
+  "code": "SOP036",
+  "title": "数量积、垂直与夹角",
+  "chapter_id": "chapter-09",
+  "chapter": "必修第二册 第9章 平面向量",
+  "frequency": 5,
+  "keywords": [
+    "数量积",
+    "垂直",
+    "夹角"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 1587
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问a·b、垂直、夹角cos或模长。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问a·b、垂直、夹角cos或模长。",
+      "sourceIndex": 1588
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。",
+      "sourceIndex": 1589
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1590
+    },
+    {
+      "type": "paragraph",
+      "text": "• 数量积 → 向量“点乘”，可以判断垂直和算夹角",
+      "style": "",
+      "sourceIndex": 1591
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1592
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 1593
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1594
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 坐标下a·b=x1x2+y1y2。",
+      "style": "",
+      "sourceIndex": 1595
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 1596
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 1597
+    },
+    {
+      "type": "paragraph",
+      "text": "2. a⊥b ⇔ a·b=0（非零向量）。",
+      "style": "",
+      "sourceIndex": 1598
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 1599
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 1600
+    },
+    {
+      "type": "paragraph",
+      "text": "3. cosθ=(a·b)/(|a||b|)，模长|a|=√(x²+y²)。",
+      "style": "",
+      "sourceIndex": 1601
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 1602
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 1603
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1604
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 1605
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 1606
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1607
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1608
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 1609
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 1610
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 1611
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1612
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 1613
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 1614
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜a=(1,2),b=(2,-1)，判断是否垂直。"
+        ],
+        [
+          "先怎么想｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。"
+        ],
+        [
+          "核心过程 / 答案｜a·b=2-2=0，所以垂直。"
+        ]
+      ],
+      "text": "典型例题｜a=(1,2),b=(2,-1)，判断是否垂直。\n先怎么想｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。\n核心过程 / 答案｜a·b=2-2=0，所以垂直。",
+      "sourceIndex": 1615
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜求夹角通常取0≤θ≤π；不要忘记模长在分母。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜求夹角通常取0≤θ≤π；不要忘记模长在分母。",
+      "sourceIndex": 1616
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1617
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。"
+        ]
+      ],
+      "text": "📌 30秒速记｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。",
+      "sourceIndex": 1618
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1619
+    },
+    {
+      "type": "paragraph",
+      "text": "1. a=(3,4)，|a|。",
+      "style": "",
+      "sourceIndex": 1620
+    },
+    {
+      "type": "paragraph",
+      "text": "2. (1,0)·(0,2)。",
+      "style": "",
+      "sourceIndex": 1621
+    },
+    {
+      "type": "paragraph",
+      "text": "3. a·a等于什么？",
+      "style": "",
+      "sourceIndex": 1622
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 单位向量a,b且a·b=1/2，夹角。",
+      "style": "",
+      "sourceIndex": 1623
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 垂直向量数量积。",
+      "style": "",
+      "sourceIndex": 1624
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.5；2.0；3.|a|²；4.π/3；5.0",
+      "style": "TinyNote",
+      "sourceIndex": 1625
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1626
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问a·b、垂直、夹角cos或模长。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问a·b、垂直、夹角cos或模长。",
+          "sourceIndex": 1588
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。",
+          "sourceIndex": 1589
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1590
+        },
+        {
+          "type": "paragraph",
+          "text": "• 数量积 → 向量“点乘”，可以判断垂直和算夹角",
+          "style": "",
+          "sourceIndex": 1591
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1592
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 1593
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1594
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 坐标下a·b=x1x2+y1y2。",
+          "style": "",
+          "sourceIndex": 1595
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 1596
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 1597
+        },
+        {
+          "type": "paragraph",
+          "text": "2. a⊥b ⇔ a·b=0（非零向量）。",
+          "style": "",
+          "sourceIndex": 1598
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 1599
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 1600
+        },
+        {
+          "type": "paragraph",
+          "text": "3. cosθ=(a·b)/(|a||b|)，模长|a|=√(x²+y²)。",
+          "style": "",
+          "sourceIndex": 1601
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 1602
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 1603
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1604
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 1605
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 1606
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1607
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1608
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 1609
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 1610
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 1611
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1612
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 1613
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 1614
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜a=(1,2),b=(2,-1)，判断是否垂直。"
+            ],
+            [
+              "先怎么想｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。"
+            ],
+            [
+              "核心过程 / 答案｜a·b=2-2=0，所以垂直。"
+            ]
+          ],
+          "text": "典型例题｜a=(1,2),b=(2,-1)，判断是否垂直。\n先怎么想｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。\n核心过程 / 答案｜a·b=2-2=0，所以垂直。",
+          "sourceIndex": 1615
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜求夹角通常取0≤θ≤π；不要忘记模长在分母。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜求夹角通常取0≤θ≤π；不要忘记模长在分母。",
+          "sourceIndex": 1616
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1617
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。"
+            ]
+          ],
+          "text": "📌 30秒速记｜看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。",
+          "sourceIndex": 1618
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1619
+        },
+        {
+          "type": "paragraph",
+          "text": "1. a=(3,4)，|a|。",
+          "style": "",
+          "sourceIndex": 1620
+        },
+        {
+          "type": "paragraph",
+          "text": "2. (1,0)·(0,2)。",
+          "style": "",
+          "sourceIndex": 1621
+        },
+        {
+          "type": "paragraph",
+          "text": "3. a·a等于什么？",
+          "style": "",
+          "sourceIndex": 1622
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 单位向量a,b且a·b=1/2，夹角。",
+          "style": "",
+          "sourceIndex": 1623
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 垂直向量数量积。",
+          "style": "",
+          "sourceIndex": 1624
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.5；2.0；3.|a|²；4.π/3；5.0",
+          "style": "TinyNote",
+          "sourceIndex": 1625
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1626
+        }
+      ]
+    }
+  ],
+  "sort_order": 35,
+  "brain_first": "看到垂直先想到数量积=0；看到夹角先想到“数量积÷两个长度”。"
+}

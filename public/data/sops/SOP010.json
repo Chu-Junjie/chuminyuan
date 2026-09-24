@@ -1,0 +1,586 @@
+{
+  "id": "SOP010",
+  "code": "SOP010",
+  "title": "不等式性质与比较大小",
+  "chapter_id": "chapter-03",
+  "chapter": "必修第一册 第3章 不等式",
+  "frequency": 3,
+  "keywords": [
+    "不等式性质",
+    "比较大小"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★☆☆  正常范围",
+      "style": "",
+      "sourceIndex": 510
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜给a>b等条件，比较式子大小或判断不等式变形是否成立。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜给a>b等条件，比较式子大小或判断不等式变形是否成立。",
+      "sourceIndex": 511
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。",
+      "sourceIndex": 512
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 513
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 514
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 515
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先确认乘除的量正负，负数乘除不等号要反向。",
+      "style": "",
+      "sourceIndex": 516
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：不等式的核心是判断正负和范围。先找变号点，再分区间，比盲目移项展开稳定。",
+      "style": "",
+      "sourceIndex": 517
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有关键点列在数轴上；每个区间选一个最简单数代入判断正负，最后按>0/<0选择区间。",
+      "style": "",
+      "sourceIndex": 518
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 比较A、B优先作差A-B并因式分解；正数时也可作商。",
+      "style": "",
+      "sourceIndex": 519
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：不等式的核心是判断正负和范围。先找变号点，再分区间，比盲目移项展开稳定。",
+      "style": "",
+      "sourceIndex": 520
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有关键点列在数轴上；每个区间选一个最简单数代入判断正负，最后按>0/<0选择区间。",
+      "style": "",
+      "sourceIndex": 521
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 遇平方、倒数、绝对值时检查额外条件。",
+      "style": "",
+      "sourceIndex": 522
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：不等式的核心是判断正负和范围。先找变号点，再分区间，比盲目移项展开稳定。",
+      "style": "",
+      "sourceIndex": 523
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有关键点列在数轴上；每个区间选一个最简单数代入判断正负，最后按>0/<0选择区间。",
+      "style": "",
+      "sourceIndex": 524
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 525
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果出现分母：先找分母为0的禁值，绝不能直接乘过去。",
+      "style": "",
+      "sourceIndex": 526
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果二次项系数为负：可先整体乘-1，但记得不等号方向改变。",
+      "style": "",
+      "sourceIndex": 527
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 528
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 529
+    },
+    {
+      "type": "paragraph",
+      "text": "• 所有分母禁值是否排除？",
+      "style": "",
+      "sourceIndex": 530
+    },
+    {
+      "type": "paragraph",
+      "text": "• 乘负数时不等号是否翻转？",
+      "style": "",
+      "sourceIndex": 531
+    },
+    {
+      "type": "paragraph",
+      "text": "• 含等号时端点是否应该取？",
+      "style": "",
+      "sourceIndex": 532
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 533
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 534
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 535
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜a>b，比较a+3与b+3。"
+        ],
+        [
+          "先怎么想｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。"
+        ],
+        [
+          "核心过程 / 答案｜作差(a+3)-(b+3)=a-b>0，所以a+3>b+3。"
+        ]
+      ],
+      "text": "典型例题｜a>b，比较a+3与b+3。\n先怎么想｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。\n核心过程 / 答案｜作差(a+3)-(b+3)=a-b>0，所以a+3>b+3。",
+      "sourceIndex": 536
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜a>b不能推出a²>b²；取倒数也需要a,b同号且非零。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜a>b不能推出a²>b²；取倒数也需要a,b同号且非零。",
+      "sourceIndex": 537
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 538
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。"
+        ]
+      ],
+      "text": "📌 30秒速记｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。",
+      "sourceIndex": 539
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 540
+    },
+    {
+      "type": "paragraph",
+      "text": "1. a>b，比较2a与2b。",
+      "style": "",
+      "sourceIndex": 541
+    },
+    {
+      "type": "paragraph",
+      "text": "2. a>b，比较-a与-b。",
+      "style": "",
+      "sourceIndex": 542
+    },
+    {
+      "type": "paragraph",
+      "text": "3. a>b>0，比较1/a与1/b。",
+      "style": "",
+      "sourceIndex": 543
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 比较x²+1与2x。",
+      "style": "",
+      "sourceIndex": 544
+    },
+    {
+      "type": "paragraph",
+      "text": "5. a,b>0，比较a/b与1需看什么？",
+      "style": "",
+      "sourceIndex": 545
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.2a>2b；2.-a<-b；3.1/a<1/b；4.x²+1≥2x；5.比较a与b",
+      "style": "TinyNote",
+      "sourceIndex": 546
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 547
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜给a>b等条件，比较式子大小或判断不等式变形是否成立。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜给a>b等条件，比较式子大小或判断不等式变形是否成立。",
+          "sourceIndex": 511
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。",
+          "sourceIndex": 512
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 513
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 514
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 515
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先确认乘除的量正负，负数乘除不等号要反向。",
+          "style": "",
+          "sourceIndex": 516
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：不等式的核心是判断正负和范围。先找变号点，再分区间，比盲目移项展开稳定。",
+          "style": "",
+          "sourceIndex": 517
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有关键点列在数轴上；每个区间选一个最简单数代入判断正负，最后按>0/<0选择区间。",
+          "style": "",
+          "sourceIndex": 518
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 比较A、B优先作差A-B并因式分解；正数时也可作商。",
+          "style": "",
+          "sourceIndex": 519
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：不等式的核心是判断正负和范围。先找变号点，再分区间，比盲目移项展开稳定。",
+          "style": "",
+          "sourceIndex": 520
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有关键点列在数轴上；每个区间选一个最简单数代入判断正负，最后按>0/<0选择区间。",
+          "style": "",
+          "sourceIndex": 521
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 遇平方、倒数、绝对值时检查额外条件。",
+          "style": "",
+          "sourceIndex": 522
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：不等式的核心是判断正负和范围。先找变号点，再分区间，比盲目移项展开稳定。",
+          "style": "",
+          "sourceIndex": 523
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有关键点列在数轴上；每个区间选一个最简单数代入判断正负，最后按>0/<0选择区间。",
+          "style": "",
+          "sourceIndex": 524
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 525
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果出现分母：先找分母为0的禁值，绝不能直接乘过去。",
+          "style": "",
+          "sourceIndex": 526
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果二次项系数为负：可先整体乘-1，但记得不等号方向改变。",
+          "style": "",
+          "sourceIndex": 527
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 528
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 529
+        },
+        {
+          "type": "paragraph",
+          "text": "• 所有分母禁值是否排除？",
+          "style": "",
+          "sourceIndex": 530
+        },
+        {
+          "type": "paragraph",
+          "text": "• 乘负数时不等号是否翻转？",
+          "style": "",
+          "sourceIndex": 531
+        },
+        {
+          "type": "paragraph",
+          "text": "• 含等号时端点是否应该取？",
+          "style": "",
+          "sourceIndex": 532
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 533
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 534
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 535
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜a>b，比较a+3与b+3。"
+            ],
+            [
+              "先怎么想｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。"
+            ],
+            [
+              "核心过程 / 答案｜作差(a+3)-(b+3)=a-b>0，所以a+3>b+3。"
+            ]
+          ],
+          "text": "典型例题｜a>b，比较a+3与b+3。\n先怎么想｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。\n核心过程 / 答案｜作差(a+3)-(b+3)=a-b>0，所以a+3>b+3。",
+          "sourceIndex": 536
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜a>b不能推出a²>b²；取倒数也需要a,b同号且非零。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜a>b不能推出a²>b²；取倒数也需要a,b同号且非零。",
+          "sourceIndex": 537
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 538
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。"
+            ]
+          ],
+          "text": "📌 30秒速记｜比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。",
+          "sourceIndex": 539
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 540
+        },
+        {
+          "type": "paragraph",
+          "text": "1. a>b，比较2a与2b。",
+          "style": "",
+          "sourceIndex": 541
+        },
+        {
+          "type": "paragraph",
+          "text": "2. a>b，比较-a与-b。",
+          "style": "",
+          "sourceIndex": 542
+        },
+        {
+          "type": "paragraph",
+          "text": "3. a>b>0，比较1/a与1/b。",
+          "style": "",
+          "sourceIndex": 543
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 比较x²+1与2x。",
+          "style": "",
+          "sourceIndex": 544
+        },
+        {
+          "type": "paragraph",
+          "text": "5. a,b>0，比较a/b与1需看什么？",
+          "style": "",
+          "sourceIndex": 545
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.2a>2b；2.-a<-b；3.1/a<1/b；4.x²+1≥2x；5.比较a与b",
+          "style": "TinyNote",
+          "sourceIndex": 546
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 547
+        }
+      ]
+    }
+  ],
+  "sort_order": 9,
+  "brain_first": "比较两个式子别靠感觉，最稳的是“作差看正负”；乘除前先看乘除的数是正还是负。"
+}

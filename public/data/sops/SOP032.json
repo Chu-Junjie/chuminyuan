@@ -1,0 +1,629 @@
+{
+  "id": "SOP032",
+  "code": "SOP032",
+  "title": "函数零点、方程根与图像交点",
+  "chapter_id": "chapter-08",
+  "chapter": "必修第一册 第8章 函数应用",
+  "frequency": 4,
+  "keywords": [
+    "函数零点",
+    "方程根",
+    "图像交点"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 1421
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问f(x)=0根个数、两个函数交点个数、零点所在区间。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问f(x)=0根个数、两个函数交点个数、零点所在区间。",
+      "sourceIndex": 1422
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。",
+      "sourceIndex": 1423
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1424
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单调 → x增大时函数值总体是变大还是变小",
+      "style": "",
+      "sourceIndex": 1425
+    },
+    {
+      "type": "paragraph",
+      "text": "• 零点 → 让f(x)=0的x，也就是图像碰到x轴的位置",
+      "style": "",
+      "sourceIndex": 1426
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1427
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 1428
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1429
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 把方程f(x)=g(x)改成h(x)=f(x)-g(x)=0。",
+      "style": "",
+      "sourceIndex": 1430
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1431
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1432
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 优先画图或研究h的单调性。",
+      "style": "",
+      "sourceIndex": 1433
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1434
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1435
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 若连续且h(a)h(b)<0，可判定(a,b)至少有一个零点；唯一性还需单调等条件。",
+      "style": "",
+      "sourceIndex": 1436
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1437
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1438
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1439
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 1440
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 1441
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1442
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1443
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域有没有先写？",
+      "style": "",
+      "sourceIndex": 1444
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把不同区间/分段混在一起？",
+      "style": "",
+      "sourceIndex": 1445
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否漏掉端点、零点或对称点？",
+      "style": "",
+      "sourceIndex": 1446
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1447
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+      "style": "",
+      "sourceIndex": 1448
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+      "style": "",
+      "sourceIndex": 1449
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜f(x)=x-2的零点。"
+        ],
+        [
+          "先怎么想｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。"
+        ],
+        [
+          "核心过程 / 答案｜令x-2=0，得x=2。"
+        ]
+      ],
+      "text": "典型例题｜f(x)=x-2的零点。\n先怎么想｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。\n核心过程 / 答案｜令x-2=0，得x=2。",
+      "sourceIndex": 1450
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜“端点异号”只能保证至少一个零点，不能自动推出“恰好一个”。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜“端点异号”只能保证至少一个零点，不能自动推出“恰好一个”。",
+      "sourceIndex": 1451
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1452
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。"
+        ]
+      ],
+      "text": "📌 30秒速记｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。",
+      "sourceIndex": 1453
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1454
+    },
+    {
+      "type": "paragraph",
+      "text": "1. x²-1的零点。",
+      "style": "",
+      "sourceIndex": 1455
+    },
+    {
+      "type": "paragraph",
+      "text": "2. y=x与y=2交点横坐标。",
+      "style": "",
+      "sourceIndex": 1456
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 连续f在[0,1]且f(0)f(1)<0说明什么？",
+      "style": "",
+      "sourceIndex": 1457
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 函数零点对应图像与什么轴交点？",
+      "style": "",
+      "sourceIndex": 1458
+    },
+    {
+      "type": "paragraph",
+      "text": "5. f-g零点对应什么？",
+      "style": "",
+      "sourceIndex": 1459
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.-1,1；2.2；3.(0,1)至少有一个零点；4.x轴；5.f与g图像交点横坐标",
+      "style": "TinyNote",
+      "sourceIndex": 1460
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1461
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问f(x)=0根个数、两个函数交点个数、零点所在区间。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问f(x)=0根个数、两个函数交点个数、零点所在区间。",
+          "sourceIndex": 1422
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。",
+          "sourceIndex": 1423
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1424
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单调 → x增大时函数值总体是变大还是变小",
+          "style": "",
+          "sourceIndex": 1425
+        },
+        {
+          "type": "paragraph",
+          "text": "• 零点 → 让f(x)=0的x，也就是图像碰到x轴的位置",
+          "style": "",
+          "sourceIndex": 1426
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1427
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 1428
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1429
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 把方程f(x)=g(x)改成h(x)=f(x)-g(x)=0。",
+          "style": "",
+          "sourceIndex": 1430
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1431
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1432
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 优先画图或研究h的单调性。",
+          "style": "",
+          "sourceIndex": 1433
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1434
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1435
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 若连续且h(a)h(b)<0，可判定(a,b)至少有一个零点；唯一性还需单调等条件。",
+          "style": "",
+          "sourceIndex": 1436
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1437
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1438
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1439
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 1440
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 1441
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1442
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1443
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域有没有先写？",
+          "style": "",
+          "sourceIndex": 1444
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把不同区间/分段混在一起？",
+          "style": "",
+          "sourceIndex": 1445
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否漏掉端点、零点或对称点？",
+          "style": "",
+          "sourceIndex": 1446
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1447
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+          "style": "",
+          "sourceIndex": 1448
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+          "style": "",
+          "sourceIndex": 1449
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜f(x)=x-2的零点。"
+            ],
+            [
+              "先怎么想｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。"
+            ],
+            [
+              "核心过程 / 答案｜令x-2=0，得x=2。"
+            ]
+          ],
+          "text": "典型例题｜f(x)=x-2的零点。\n先怎么想｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。\n核心过程 / 答案｜令x-2=0，得x=2。",
+          "sourceIndex": 1450
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜“端点异号”只能保证至少一个零点，不能自动推出“恰好一个”。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜“端点异号”只能保证至少一个零点，不能自动推出“恰好一个”。",
+          "sourceIndex": 1451
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1452
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。"
+            ]
+          ],
+          "text": "📌 30秒速记｜“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。",
+          "sourceIndex": 1453
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1454
+        },
+        {
+          "type": "paragraph",
+          "text": "1. x²-1的零点。",
+          "style": "",
+          "sourceIndex": 1455
+        },
+        {
+          "type": "paragraph",
+          "text": "2. y=x与y=2交点横坐标。",
+          "style": "",
+          "sourceIndex": 1456
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 连续f在[0,1]且f(0)f(1)<0说明什么？",
+          "style": "",
+          "sourceIndex": 1457
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 函数零点对应图像与什么轴交点？",
+          "style": "",
+          "sourceIndex": 1458
+        },
+        {
+          "type": "paragraph",
+          "text": "5. f-g零点对应什么？",
+          "style": "",
+          "sourceIndex": 1459
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.-1,1；2.2；3.(0,1)至少有一个零点；4.x轴；5.f与g图像交点横坐标",
+          "style": "TinyNote",
+          "sourceIndex": 1460
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1461
+        }
+      ]
+    }
+  ],
+  "sort_order": 31,
+  "brain_first": "“函数零点、方程根、两图交点”本质是一件事：都在问两个表达式什么时候相等。"
+}

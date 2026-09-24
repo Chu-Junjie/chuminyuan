@@ -1,0 +1,640 @@
+{
+  "id": "SOP030",
+  "code": "SOP030",
+  "title": "三角函数图像平移与对称",
+  "chapter_id": "chapter-07",
+  "chapter": "必修第一册 第7章 三角函数",
+  "frequency": 4,
+  "keywords": [
+    "三角函数图像平移",
+    "对称"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 1336
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问图像如何由y=sinx得到，或求对称轴/对称中心。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问图像如何由y=sinx得到，或求对称轴/对称中心。",
+      "sourceIndex": 1337
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。",
+      "sourceIndex": 1338
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1339
+    },
+    {
+      "type": "paragraph",
+      "text": "• 零点 → 让f(x)=0的x，也就是图像碰到x轴的位置",
+      "style": "",
+      "sourceIndex": 1340
+    },
+    {
+      "type": "paragraph",
+      "text": "• 极值 → 函数由增变减或由减变增的位置附近出现的局部最大/最小",
+      "style": "",
+      "sourceIndex": 1341
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1342
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 1343
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1344
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先把ωx+φ写成ω(x+φ/ω)，读出水平平移。",
+      "style": "",
+      "sourceIndex": 1345
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1346
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1347
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 再处理纵向伸缩A和上下平移k。",
+      "style": "",
+      "sourceIndex": 1348
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1349
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1350
+    },
+    {
+      "type": "paragraph",
+      "text": "3. sin图像对称中心来自零点位置，对称轴来自极值点位置；cos类似。",
+      "style": "",
+      "sourceIndex": 1351
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 1352
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 1353
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1354
+    },
+    {
+      "type": "paragraph",
+      "text": "• 出现区间：最终答案必须筛区间。",
+      "style": "",
+      "sourceIndex": 1355
+    },
+    {
+      "type": "paragraph",
+      "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+      "style": "",
+      "sourceIndex": 1356
+    },
+    {
+      "type": "paragraph",
+      "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+      "style": "",
+      "sourceIndex": 1357
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1358
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1359
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域有没有先写？",
+      "style": "",
+      "sourceIndex": 1360
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把不同区间/分段混在一起？",
+      "style": "",
+      "sourceIndex": 1361
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否漏掉端点、零点或对称点？",
+      "style": "",
+      "sourceIndex": 1362
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1363
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+      "style": "",
+      "sourceIndex": 1364
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+      "style": "",
+      "sourceIndex": 1365
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜y=sin(x-π/3)由y=sinx怎样变？"
+        ],
+        [
+          "先怎么想｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。"
+        ],
+        [
+          "核心过程 / 答案｜向右平移π/3。"
+        ]
+      ],
+      "text": "典型例题｜y=sin(x-π/3)由y=sinx怎样变？\n先怎么想｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。\n核心过程 / 答案｜向右平移π/3。",
+      "sourceIndex": 1366
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜水平平移量是-φ/ω，不是直接看φ。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜水平平移量是-φ/ω，不是直接看φ。",
+      "sourceIndex": 1367
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1368
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。"
+        ]
+      ],
+      "text": "📌 30秒速记｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。",
+      "sourceIndex": 1369
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1370
+    },
+    {
+      "type": "paragraph",
+      "text": "1. y=sin(x+π/4)。",
+      "style": "",
+      "sourceIndex": 1371
+    },
+    {
+      "type": "paragraph",
+      "text": "2. y=2sinx。",
+      "style": "",
+      "sourceIndex": 1372
+    },
+    {
+      "type": "paragraph",
+      "text": "3. y=sinx-1。",
+      "style": "",
+      "sourceIndex": 1373
+    },
+    {
+      "type": "paragraph",
+      "text": "4. sinx一个对称中心。",
+      "style": "",
+      "sourceIndex": 1374
+    },
+    {
+      "type": "paragraph",
+      "text": "5. cosx一条对称轴。",
+      "style": "",
+      "sourceIndex": 1375
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.左移π/4；2.纵向伸长为2倍；3.下移1；4.(0,0)；5.x=0",
+      "style": "TinyNote",
+      "sourceIndex": 1376
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1377
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问图像如何由y=sinx得到，或求对称轴/对称中心。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问图像如何由y=sinx得到，或求对称轴/对称中心。",
+          "sourceIndex": 1337
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。",
+          "sourceIndex": 1338
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1339
+        },
+        {
+          "type": "paragraph",
+          "text": "• 零点 → 让f(x)=0的x，也就是图像碰到x轴的位置",
+          "style": "",
+          "sourceIndex": 1340
+        },
+        {
+          "type": "paragraph",
+          "text": "• 极值 → 函数由增变减或由减变增的位置附近出现的局部最大/最小",
+          "style": "",
+          "sourceIndex": 1341
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1342
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 1343
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1344
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先把ωx+φ写成ω(x+φ/ω)，读出水平平移。",
+          "style": "",
+          "sourceIndex": 1345
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1346
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1347
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 再处理纵向伸缩A和上下平移k。",
+          "style": "",
+          "sourceIndex": 1348
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1349
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1350
+        },
+        {
+          "type": "paragraph",
+          "text": "3. sin图像对称中心来自零点位置，对称轴来自极值点位置；cos类似。",
+          "style": "",
+          "sourceIndex": 1351
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 1352
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 1353
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1354
+        },
+        {
+          "type": "paragraph",
+          "text": "• 出现区间：最终答案必须筛区间。",
+          "style": "",
+          "sourceIndex": 1355
+        },
+        {
+          "type": "paragraph",
+          "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+          "style": "",
+          "sourceIndex": 1356
+        },
+        {
+          "type": "paragraph",
+          "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+          "style": "",
+          "sourceIndex": 1357
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1358
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1359
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域有没有先写？",
+          "style": "",
+          "sourceIndex": 1360
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把不同区间/分段混在一起？",
+          "style": "",
+          "sourceIndex": 1361
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否漏掉端点、零点或对称点？",
+          "style": "",
+          "sourceIndex": 1362
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1363
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+          "style": "",
+          "sourceIndex": 1364
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+          "style": "",
+          "sourceIndex": 1365
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜y=sin(x-π/3)由y=sinx怎样变？"
+            ],
+            [
+              "先怎么想｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。"
+            ],
+            [
+              "核心过程 / 答案｜向右平移π/3。"
+            ]
+          ],
+          "text": "典型例题｜y=sin(x-π/3)由y=sinx怎样变？\n先怎么想｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。\n核心过程 / 答案｜向右平移π/3。",
+          "sourceIndex": 1366
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜水平平移量是-φ/ω，不是直接看φ。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜水平平移量是-φ/ω，不是直接看φ。",
+          "sourceIndex": 1367
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1368
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。"
+            ]
+          ],
+          "text": "📌 30秒速记｜三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。",
+          "sourceIndex": 1369
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1370
+        },
+        {
+          "type": "paragraph",
+          "text": "1. y=sin(x+π/4)。",
+          "style": "",
+          "sourceIndex": 1371
+        },
+        {
+          "type": "paragraph",
+          "text": "2. y=2sinx。",
+          "style": "",
+          "sourceIndex": 1372
+        },
+        {
+          "type": "paragraph",
+          "text": "3. y=sinx-1。",
+          "style": "",
+          "sourceIndex": 1373
+        },
+        {
+          "type": "paragraph",
+          "text": "4. sinx一个对称中心。",
+          "style": "",
+          "sourceIndex": 1374
+        },
+        {
+          "type": "paragraph",
+          "text": "5. cosx一条对称轴。",
+          "style": "",
+          "sourceIndex": 1375
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.左移π/4；2.纵向伸长为2倍；3.下移1；4.(0,0)；5.x=0",
+          "style": "TinyNote",
+          "sourceIndex": 1376
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1377
+        }
+      ]
+    }
+  ],
+  "sort_order": 29,
+  "brain_first": "三角图像平移别直接看φ，先把ω提出来写成ω(x±a)，真正平移的是括号里的a。"
+}

@@ -1,0 +1,586 @@
+{
+  "id": "SOP059",
+  "code": "SOP059",
+  "title": "简单随机抽样与分层抽样",
+  "chapter_id": "chapter-14",
+  "chapter": "必修第二册 第14章 统计",
+  "frequency": 4,
+  "keywords": [
+    "简单随机抽样",
+    "分层抽样"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 2532
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜总体分不同层级/年级/性别，问如何抽样或各层抽几人。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜总体分不同层级/年级/性别，问如何抽样或各层抽几人。",
+      "sourceIndex": 2533
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。",
+      "sourceIndex": 2534
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2535
+    },
+    {
+      "type": "paragraph",
+      "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+      "style": "",
+      "sourceIndex": 2536
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2537
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 总体较均匀可用简单随机抽样。",
+      "style": "",
+      "sourceIndex": 2538
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+      "style": "",
+      "sourceIndex": 2539
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+      "style": "",
+      "sourceIndex": 2540
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 各层差异明显而层内相对均匀，优先分层抽样。",
+      "style": "",
+      "sourceIndex": 2541
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：分层抽样的目的，是让样本保留总体中各类人群/对象的比例，避免某一类被抽得过多或过少。",
+      "style": "",
+      "sourceIndex": 2542
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先算抽样比 k=样本量/总体量；每层样本数=该层人数×k，最后检查各层相加等于总样本量。",
+      "style": "",
+      "sourceIndex": 2543
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 分层抽样按各层人数比例分配样本量。",
+      "style": "",
+      "sourceIndex": 2544
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：分层抽样的目的，是让样本保留总体中各类人群/对象的比例，避免某一类被抽得过多或过少。",
+      "style": "",
+      "sourceIndex": 2545
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先算抽样比 k=样本量/总体量；每层样本数=该层人数×k，最后检查各层相加等于总样本量。",
+      "style": "",
+      "sourceIndex": 2546
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2547
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先看单位、样本量和横纵轴含义。",
+      "style": "",
+      "sourceIndex": 2548
+    },
+    {
+      "type": "paragraph",
+      "text": "• 样本结论只能“估计总体”，不要写成对总体的绝对事实。",
+      "style": "",
+      "sourceIndex": 2549
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2550
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2551
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单位和样本量是否看清？",
+      "style": "",
+      "sourceIndex": 2552
+    },
+    {
+      "type": "paragraph",
+      "text": "• 直方图用面积还是柱高？",
+      "style": "",
+      "sourceIndex": 2553
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把“样本估计”写成了绝对结论？",
+      "style": "",
+      "sourceIndex": 2554
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2555
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2556
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2557
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜男600女400，共抽100人，按比例各抽多少？"
+        ],
+        [
+          "先怎么想｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。"
+        ],
+        [
+          "核心过程 / 答案｜男60、女40。"
+        ]
+      ],
+      "text": "典型例题｜男600女400，共抽100人，按比例各抽多少？\n先怎么想｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。\n核心过程 / 答案｜男60、女40。",
+      "sourceIndex": 2558
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜分层抽样不是每层抽相同人数，而是通常按比例抽取。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜分层抽样不是每层抽相同人数，而是通常按比例抽取。",
+      "sourceIndex": 2559
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2560
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。"
+        ]
+      ],
+      "text": "📌 30秒速记｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。",
+      "sourceIndex": 2561
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2562
+    },
+    {
+      "type": "paragraph",
+      "text": "1. A层200,B层300，共抽50，A抽几人？",
+      "style": "",
+      "sourceIndex": 2563
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 抽签法属于哪类？",
+      "style": "",
+      "sourceIndex": 2564
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 随机数法属于哪类？",
+      "style": "",
+      "sourceIndex": 2565
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 分层抽样各层抽样比是否相同？",
+      "style": "",
+      "sourceIndex": 2566
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 为什么要随机？",
+      "style": "",
+      "sourceIndex": 2567
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.20；2.简单随机抽样；3.简单随机抽样；4.相同；5.降低选择偏差",
+      "style": "TinyNote",
+      "sourceIndex": 2568
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2569
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜总体分不同层级/年级/性别，问如何抽样或各层抽几人。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜总体分不同层级/年级/性别，问如何抽样或各层抽几人。",
+          "sourceIndex": 2533
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。",
+          "sourceIndex": 2534
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2535
+        },
+        {
+          "type": "paragraph",
+          "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+          "style": "",
+          "sourceIndex": 2536
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2537
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 总体较均匀可用简单随机抽样。",
+          "style": "",
+          "sourceIndex": 2538
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+          "style": "",
+          "sourceIndex": 2539
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+          "style": "",
+          "sourceIndex": 2540
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 各层差异明显而层内相对均匀，优先分层抽样。",
+          "style": "",
+          "sourceIndex": 2541
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：分层抽样的目的，是让样本保留总体中各类人群/对象的比例，避免某一类被抽得过多或过少。",
+          "style": "",
+          "sourceIndex": 2542
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先算抽样比 k=样本量/总体量；每层样本数=该层人数×k，最后检查各层相加等于总样本量。",
+          "style": "",
+          "sourceIndex": 2543
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 分层抽样按各层人数比例分配样本量。",
+          "style": "",
+          "sourceIndex": 2544
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：分层抽样的目的，是让样本保留总体中各类人群/对象的比例，避免某一类被抽得过多或过少。",
+          "style": "",
+          "sourceIndex": 2545
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先算抽样比 k=样本量/总体量；每层样本数=该层人数×k，最后检查各层相加等于总样本量。",
+          "style": "",
+          "sourceIndex": 2546
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2547
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先看单位、样本量和横纵轴含义。",
+          "style": "",
+          "sourceIndex": 2548
+        },
+        {
+          "type": "paragraph",
+          "text": "• 样本结论只能“估计总体”，不要写成对总体的绝对事实。",
+          "style": "",
+          "sourceIndex": 2549
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2550
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2551
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单位和样本量是否看清？",
+          "style": "",
+          "sourceIndex": 2552
+        },
+        {
+          "type": "paragraph",
+          "text": "• 直方图用面积还是柱高？",
+          "style": "",
+          "sourceIndex": 2553
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把“样本估计”写成了绝对结论？",
+          "style": "",
+          "sourceIndex": 2554
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2555
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2556
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2557
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜男600女400，共抽100人，按比例各抽多少？"
+            ],
+            [
+              "先怎么想｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。"
+            ],
+            [
+              "核心过程 / 答案｜男60、女40。"
+            ]
+          ],
+          "text": "典型例题｜男600女400，共抽100人，按比例各抽多少？\n先怎么想｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。\n核心过程 / 答案｜男60、女40。",
+          "sourceIndex": 2558
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜分层抽样不是每层抽相同人数，而是通常按比例抽取。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜分层抽样不是每层抽相同人数，而是通常按比例抽取。",
+          "sourceIndex": 2559
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2560
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。"
+            ]
+          ],
+          "text": "📌 30秒速记｜抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。",
+          "sourceIndex": 2561
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2562
+        },
+        {
+          "type": "paragraph",
+          "text": "1. A层200,B层300，共抽50，A抽几人？",
+          "style": "",
+          "sourceIndex": 2563
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 抽签法属于哪类？",
+          "style": "",
+          "sourceIndex": 2564
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 随机数法属于哪类？",
+          "style": "",
+          "sourceIndex": 2565
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 分层抽样各层抽样比是否相同？",
+          "style": "",
+          "sourceIndex": 2566
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 为什么要随机？",
+          "style": "",
+          "sourceIndex": 2567
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.20；2.简单随机抽样；3.简单随机抽样；4.相同；5.降低选择偏差",
+          "style": "TinyNote",
+          "sourceIndex": 2568
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2569
+        }
+      ]
+    }
+  ],
+  "sort_order": 58,
+  "brain_first": "抽样题先问“每个人机会是否公平、总体是否分层明显”。总体有明显类别而且比例要保留时就分层抽。"
+}

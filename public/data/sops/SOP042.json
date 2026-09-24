@@ -1,0 +1,628 @@
+{
+  "id": "SOP042",
+  "code": "SOP042",
+  "title": "辅助角：a sinx+b cosx",
+  "chapter_id": "chapter-10",
+  "chapter": "必修第二册 第10章 三角恒等变换",
+  "frequency": 5,
+  "keywords": [
+    "辅助角",
+    "a sinx+b cosx"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 1834
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜出现a sinx+b cosx，要求最值、值域、方程或化简。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜出现a sinx+b cosx，要求最值、值域、方程或化简。",
+      "sourceIndex": 1835
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。",
+      "sourceIndex": 1836
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1837
+    },
+    {
+      "type": "paragraph",
+      "text": "• 辅助角 → 把a sinx+b cosx合并成一个正弦/余弦",
+      "style": "",
+      "sourceIndex": 1838
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1839
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 1840
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1841
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先算R=√(a²+b²)。",
+      "style": "",
+      "sourceIndex": 1842
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：a sinx+b cosx可以看成同频率的两个波叠在一起，合成后的最大振幅就是√(a²+b²)。",
+      "style": "",
+      "sourceIndex": 1843
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿角落写R=√(a²+b²)；再令R cosφ=a、R sinφ=b（或按你选的形式对应），把两项合成一个三角函数。",
+      "style": "",
+      "sourceIndex": 1844
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 写成R sin(x+φ)或R cos(x-φ)。",
+      "style": "",
+      "sourceIndex": 1845
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 1846
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 1847
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 直接得范围[-R,R]，有常数c则整体平移。",
+      "style": "",
+      "sourceIndex": 1848
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 1849
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 1850
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1851
+    },
+    {
+      "type": "paragraph",
+      "text": "• 出现区间：最终答案必须筛区间。",
+      "style": "",
+      "sourceIndex": 1852
+    },
+    {
+      "type": "paragraph",
+      "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+      "style": "",
+      "sourceIndex": 1853
+    },
+    {
+      "type": "paragraph",
+      "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+      "style": "",
+      "sourceIndex": 1854
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1855
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1856
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 1857
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 1858
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 1859
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1860
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 1861
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 1862
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜求3sinx+4cosx最大值。"
+        ],
+        [
+          "先怎么想｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。"
+        ],
+        [
+          "核心过程 / 答案｜R=5，所以最大值5。"
+        ]
+      ],
+      "text": "典型例题｜求3sinx+4cosx最大值。\n先怎么想｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。\n核心过程 / 答案｜R=5，所以最大值5。",
+      "sourceIndex": 1863
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜最大值是√(a²+b²)，不是|a|+|b|。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜最大值是√(a²+b²)，不是|a|+|b|。",
+      "sourceIndex": 1864
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1865
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。"
+        ]
+      ],
+      "text": "📌 30秒速记｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。",
+      "sourceIndex": 1866
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1867
+    },
+    {
+      "type": "paragraph",
+      "text": "1. sinx+cosx最大值。",
+      "style": "",
+      "sourceIndex": 1868
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 3sinx-4cosx最小值。",
+      "style": "",
+      "sourceIndex": 1869
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 2sinx+2cosx值域。",
+      "style": "",
+      "sourceIndex": 1870
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 5sinx最大值。",
+      "style": "",
+      "sourceIndex": 1871
+    },
+    {
+      "type": "paragraph",
+      "text": "5. a sinx+b cosx的振幅。",
+      "style": "",
+      "sourceIndex": 1872
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.√2；2.-5；3.[-2√2,2√2]；4.5；5.√(a²+b²)",
+      "style": "TinyNote",
+      "sourceIndex": 1873
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1874
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜出现a sinx+b cosx，要求最值、值域、方程或化简。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜出现a sinx+b cosx，要求最值、值域、方程或化简。",
+          "sourceIndex": 1835
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。",
+          "sourceIndex": 1836
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1837
+        },
+        {
+          "type": "paragraph",
+          "text": "• 辅助角 → 把a sinx+b cosx合并成一个正弦/余弦",
+          "style": "",
+          "sourceIndex": 1838
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1839
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 1840
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1841
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先算R=√(a²+b²)。",
+          "style": "",
+          "sourceIndex": 1842
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：a sinx+b cosx可以看成同频率的两个波叠在一起，合成后的最大振幅就是√(a²+b²)。",
+          "style": "",
+          "sourceIndex": 1843
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿角落写R=√(a²+b²)；再令R cosφ=a、R sinφ=b（或按你选的形式对应），把两项合成一个三角函数。",
+          "style": "",
+          "sourceIndex": 1844
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 写成R sin(x+φ)或R cos(x-φ)。",
+          "style": "",
+          "sourceIndex": 1845
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 1846
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 1847
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 直接得范围[-R,R]，有常数c则整体平移。",
+          "style": "",
+          "sourceIndex": 1848
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 1849
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 1850
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1851
+        },
+        {
+          "type": "paragraph",
+          "text": "• 出现区间：最终答案必须筛区间。",
+          "style": "",
+          "sourceIndex": 1852
+        },
+        {
+          "type": "paragraph",
+          "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+          "style": "",
+          "sourceIndex": 1853
+        },
+        {
+          "type": "paragraph",
+          "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+          "style": "",
+          "sourceIndex": 1854
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1855
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1856
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 1857
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 1858
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 1859
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1860
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 1861
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 1862
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜求3sinx+4cosx最大值。"
+            ],
+            [
+              "先怎么想｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。"
+            ],
+            [
+              "核心过程 / 答案｜R=5，所以最大值5。"
+            ]
+          ],
+          "text": "典型例题｜求3sinx+4cosx最大值。\n先怎么想｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。\n核心过程 / 答案｜R=5，所以最大值5。",
+          "sourceIndex": 1863
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜最大值是√(a²+b²)，不是|a|+|b|。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜最大值是√(a²+b²)，不是|a|+|b|。",
+          "sourceIndex": 1864
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1865
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。"
+            ]
+          ],
+          "text": "📌 30秒速记｜看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。",
+          "sourceIndex": 1866
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1867
+        },
+        {
+          "type": "paragraph",
+          "text": "1. sinx+cosx最大值。",
+          "style": "",
+          "sourceIndex": 1868
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 3sinx-4cosx最小值。",
+          "style": "",
+          "sourceIndex": 1869
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 2sinx+2cosx值域。",
+          "style": "",
+          "sourceIndex": 1870
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 5sinx最大值。",
+          "style": "",
+          "sourceIndex": 1871
+        },
+        {
+          "type": "paragraph",
+          "text": "5. a sinx+b cosx的振幅。",
+          "style": "",
+          "sourceIndex": 1872
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.√2；2.-5；3.[-2√2,2√2]；4.5；5.√(a²+b²)",
+          "style": "TinyNote",
+          "sourceIndex": 1873
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1874
+        }
+      ]
+    }
+  ],
+  "sort_order": 41,
+  "brain_first": "看到a sinx+b cosx不要分别折腾，想办法把它们合成“一条正弦曲线”，振幅就是√(a²+b²)。"
+}

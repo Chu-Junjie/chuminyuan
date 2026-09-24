@@ -1,0 +1,586 @@
+{
+  "id": "SOP051",
+  "code": "SOP051",
+  "title": "线面平行与面面平行证明",
+  "chapter_id": "chapter-13",
+  "chapter": "必修第二册 第13章 立体几何初步",
+  "frequency": 5,
+  "keywords": [
+    "线面平行",
+    "面面平行证明"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 2211
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜证明直线平行平面、两个平面平行。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜证明直线平行平面、两个平面平行。",
+      "sourceIndex": 2212
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。",
+      "sourceIndex": 2213
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2214
+    },
+    {
+      "type": "paragraph",
+      "text": "立体几何看图容易乱，所以要么用判定定理把目标拆成少量条件，要么建坐标把空间关系变成向量计算。先选路线比直接算更重要。",
+      "style": "",
+      "sourceIndex": 2215
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2216
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 线面平行：在平面内找一条与目标直线平行的直线，并说明目标直线不在平面内。",
+      "style": "",
+      "sourceIndex": 2217
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+      "style": "",
+      "sourceIndex": 2218
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+      "style": "",
+      "sourceIndex": 2219
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 面面平行：在一个平面内找两条相交直线，分别平行于另一平面内两条相交直线/另一平面。",
+      "style": "",
+      "sourceIndex": 2220
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：一条线只垂直平面内一条线还不够，因为它可能斜着穿过平面；垂直两条相交线才能把方向锁死。",
+      "style": "",
+      "sourceIndex": 2221
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在平面内圈出两条确实相交的线m、n，分别证明l⊥m、l⊥n，并写m∩n=点、m,n⊂平面。",
+      "style": "",
+      "sourceIndex": 2222
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 把“线属于哪个面、交点在哪里”写完整。",
+      "style": "",
+      "sourceIndex": 2223
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+      "style": "",
+      "sourceIndex": 2224
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+      "style": "",
+      "sourceIndex": 2225
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2226
+    },
+    {
+      "type": "paragraph",
+      "text": "• 证明题优先找课本判定定理需要的“最少条件”，不要证明一大堆无关垂直/平行。",
+      "style": "",
+      "sourceIndex": 2227
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算题若纯几何绕：考虑建坐标，把角和距离改成向量。",
+      "style": "",
+      "sourceIndex": 2228
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2229
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2230
+    },
+    {
+      "type": "paragraph",
+      "text": "• 证明定理的条件是否写全（线在面内、两线相交等）？",
+      "style": "",
+      "sourceIndex": 2231
+    },
+    {
+      "type": "paragraph",
+      "text": "• 角/距离是不是题目真正要求的那个？",
+      "style": "",
+      "sourceIndex": 2232
+    },
+    {
+      "type": "paragraph",
+      "text": "• 体积是否漏1/3？",
+      "style": "",
+      "sourceIndex": 2233
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2234
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2235
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2236
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜若l∥m，m⊂α且l不在α内，可得什么？"
+        ],
+        [
+          "先怎么想｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。"
+        ],
+        [
+          "核心过程 / 答案｜l∥α。"
+        ]
+      ],
+      "text": "典型例题｜若l∥m，m⊂α且l不在α内，可得什么？\n先怎么想｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。\n核心过程 / 答案｜l∥α。",
+      "sourceIndex": 2237
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜只写“l∥m，所以l∥平面α”不够，必须写m⊂α且l不在α。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜只写“l∥m，所以l∥平面α”不够，必须写m⊂α且l不在α。",
+      "sourceIndex": 2238
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2239
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。"
+        ]
+      ],
+      "text": "📌 30秒速记｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。",
+      "sourceIndex": 2240
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2241
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 线面平行判定核心。",
+      "style": "",
+      "sourceIndex": 2242
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 面面平行常找几条相交线？",
+      "style": "",
+      "sourceIndex": 2243
+    },
+    {
+      "type": "paragraph",
+      "text": "3. l⊂α能否再说l∥α？",
+      "style": "",
+      "sourceIndex": 2244
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 两个平面平行，其内同方向截线关系。",
+      "style": "",
+      "sourceIndex": 2245
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 证明题要写出的关键归属。",
+      "style": "",
+      "sourceIndex": 2246
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.平面内找平行线；2.2条；3.不能，线在面内；4.可得到平行性质；5.直线属于哪个平面",
+      "style": "TinyNote",
+      "sourceIndex": 2247
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2248
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜证明直线平行平面、两个平面平行。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜证明直线平行平面、两个平面平行。",
+          "sourceIndex": 2212
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。",
+          "sourceIndex": 2213
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2214
+        },
+        {
+          "type": "paragraph",
+          "text": "立体几何看图容易乱，所以要么用判定定理把目标拆成少量条件，要么建坐标把空间关系变成向量计算。先选路线比直接算更重要。",
+          "style": "",
+          "sourceIndex": 2215
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2216
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 线面平行：在平面内找一条与目标直线平行的直线，并说明目标直线不在平面内。",
+          "style": "",
+          "sourceIndex": 2217
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+          "style": "",
+          "sourceIndex": 2218
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+          "style": "",
+          "sourceIndex": 2219
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 面面平行：在一个平面内找两条相交直线，分别平行于另一平面内两条相交直线/另一平面。",
+          "style": "",
+          "sourceIndex": 2220
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：一条线只垂直平面内一条线还不够，因为它可能斜着穿过平面；垂直两条相交线才能把方向锁死。",
+          "style": "",
+          "sourceIndex": 2221
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在平面内圈出两条确实相交的线m、n，分别证明l⊥m、l⊥n，并写m∩n=点、m,n⊂平面。",
+          "style": "",
+          "sourceIndex": 2222
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 把“线属于哪个面、交点在哪里”写完整。",
+          "style": "",
+          "sourceIndex": 2223
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+          "style": "",
+          "sourceIndex": 2224
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+          "style": "",
+          "sourceIndex": 2225
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2226
+        },
+        {
+          "type": "paragraph",
+          "text": "• 证明题优先找课本判定定理需要的“最少条件”，不要证明一大堆无关垂直/平行。",
+          "style": "",
+          "sourceIndex": 2227
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算题若纯几何绕：考虑建坐标，把角和距离改成向量。",
+          "style": "",
+          "sourceIndex": 2228
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2229
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2230
+        },
+        {
+          "type": "paragraph",
+          "text": "• 证明定理的条件是否写全（线在面内、两线相交等）？",
+          "style": "",
+          "sourceIndex": 2231
+        },
+        {
+          "type": "paragraph",
+          "text": "• 角/距离是不是题目真正要求的那个？",
+          "style": "",
+          "sourceIndex": 2232
+        },
+        {
+          "type": "paragraph",
+          "text": "• 体积是否漏1/3？",
+          "style": "",
+          "sourceIndex": 2233
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2234
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2235
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2236
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜若l∥m，m⊂α且l不在α内，可得什么？"
+            ],
+            [
+              "先怎么想｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。"
+            ],
+            [
+              "核心过程 / 答案｜l∥α。"
+            ]
+          ],
+          "text": "典型例题｜若l∥m，m⊂α且l不在α内，可得什么？\n先怎么想｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。\n核心过程 / 答案｜l∥α。",
+          "sourceIndex": 2237
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜只写“l∥m，所以l∥平面α”不够，必须写m⊂α且l不在α。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜只写“l∥m，所以l∥平面α”不够，必须写m⊂α且l不在α。",
+          "sourceIndex": 2238
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2239
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。"
+            ]
+          ],
+          "text": "📌 30秒速记｜证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。",
+          "sourceIndex": 2240
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2241
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 线面平行判定核心。",
+          "style": "",
+          "sourceIndex": 2242
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 面面平行常找几条相交线？",
+          "style": "",
+          "sourceIndex": 2243
+        },
+        {
+          "type": "paragraph",
+          "text": "3. l⊂α能否再说l∥α？",
+          "style": "",
+          "sourceIndex": 2244
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 两个平面平行，其内同方向截线关系。",
+          "style": "",
+          "sourceIndex": 2245
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 证明题要写出的关键归属。",
+          "style": "",
+          "sourceIndex": 2246
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.平面内找平行线；2.2条；3.不能，线在面内；4.可得到平行性质；5.直线属于哪个平面",
+          "style": "TinyNote",
+          "sourceIndex": 2247
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2248
+        }
+      ]
+    }
+  ],
+  "sort_order": 50,
+  "brain_first": "证明线面平行时别直接盯着“线和面”，去那个平面里找一条和目标线平行的线。面面平行则找两条相交线分别平行。"
+}

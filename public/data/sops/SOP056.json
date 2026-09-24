@@ -1,0 +1,618 @@
+{
+  "id": "SOP056",
+  "code": "SOP056",
+  "title": "平均数、方差、标准差与数据变换",
+  "chapter_id": "chapter-14",
+  "chapter": "必修第二册 第14章 统计",
+  "frequency": 5,
+  "keywords": [
+    "平均数",
+    "方差",
+    "标准差",
+    "数据变换"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 2411
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜给一组样本或变换yi=axi+b，问均值/方差/标准差变化。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜给一组样本或变换yi=axi+b，问均值/方差/标准差变化。",
+      "sourceIndex": 2412
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。",
+      "sourceIndex": 2413
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 2414
+    },
+    {
+      "type": "paragraph",
+      "text": "• 方差 → 随机变量围绕平均值的离散程度",
+      "style": "",
+      "sourceIndex": 2415
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2416
+    },
+    {
+      "type": "paragraph",
+      "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+      "style": "",
+      "sourceIndex": 2417
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2418
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 均值先求总和/n。",
+      "style": "",
+      "sourceIndex": 2419
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+      "style": "",
+      "sourceIndex": 2420
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+      "style": "",
+      "sourceIndex": 2421
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 所有数据加b：均值加b，方差不变。",
+      "style": "",
+      "sourceIndex": 2422
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+      "style": "",
+      "sourceIndex": 2423
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+      "style": "",
+      "sourceIndex": 2424
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 所有数据乘a：均值乘a，方差乘a²，标准差乘|a|。",
+      "style": "",
+      "sourceIndex": 2425
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+      "style": "",
+      "sourceIndex": 2426
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+      "style": "",
+      "sourceIndex": 2427
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2428
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先看单位、样本量和横纵轴含义。",
+      "style": "",
+      "sourceIndex": 2429
+    },
+    {
+      "type": "paragraph",
+      "text": "• 样本结论只能“估计总体”，不要写成对总体的绝对事实。",
+      "style": "",
+      "sourceIndex": 2430
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2431
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2432
+    },
+    {
+      "type": "paragraph",
+      "text": "• 单位和样本量是否看清？",
+      "style": "",
+      "sourceIndex": 2433
+    },
+    {
+      "type": "paragraph",
+      "text": "• 直方图用面积还是柱高？",
+      "style": "",
+      "sourceIndex": 2434
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把“样本估计”写成了绝对结论？",
+      "style": "",
+      "sourceIndex": 2435
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2436
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2437
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2438
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜数据1,2,3的平均数。"
+        ],
+        [
+          "先怎么想｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。"
+        ],
+        [
+          "核心过程 / 答案｜2。"
+        ]
+      ],
+      "text": "典型例题｜数据1,2,3的平均数。\n先怎么想｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。\n核心过程 / 答案｜2。",
+      "sourceIndex": 2439
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜方差描述离散程度，不受整体平移影响。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜方差描述离散程度，不受整体平移影响。",
+      "sourceIndex": 2440
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2441
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。"
+        ]
+      ],
+      "text": "📌 30秒速记｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。",
+      "sourceIndex": 2442
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2443
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 2,4,6平均数。",
+      "style": "",
+      "sourceIndex": 2444
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 所有数据+5，方差怎样？",
+      "style": "",
+      "sourceIndex": 2445
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 所有数据×3，方差怎样？",
+      "style": "",
+      "sourceIndex": 2446
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 所有数据×-2，标准差怎样？",
+      "style": "",
+      "sourceIndex": 2447
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 标准差等于什么？",
+      "style": "",
+      "sourceIndex": 2448
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.4；2.不变；3.变为原来的9倍；4.变为原来的2倍；5.方差的算术平方根",
+      "style": "TinyNote",
+      "sourceIndex": 2449
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2450
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜给一组样本或变换yi=axi+b，问均值/方差/标准差变化。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜给一组样本或变换yi=axi+b，问均值/方差/标准差变化。",
+          "sourceIndex": 2412
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。",
+          "sourceIndex": 2413
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 2414
+        },
+        {
+          "type": "paragraph",
+          "text": "• 方差 → 随机变量围绕平均值的离散程度",
+          "style": "",
+          "sourceIndex": 2415
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2416
+        },
+        {
+          "type": "paragraph",
+          "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+          "style": "",
+          "sourceIndex": 2417
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2418
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 均值先求总和/n。",
+          "style": "",
+          "sourceIndex": 2419
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+          "style": "",
+          "sourceIndex": 2420
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+          "style": "",
+          "sourceIndex": 2421
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 所有数据加b：均值加b，方差不变。",
+          "style": "",
+          "sourceIndex": 2422
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+          "style": "",
+          "sourceIndex": 2423
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+          "style": "",
+          "sourceIndex": 2424
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 所有数据乘a：均值乘a，方差乘a²，标准差乘|a|。",
+          "style": "",
+          "sourceIndex": 2425
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：统计题的第一优先级是读懂数据和图表含义，再做计算。很多错误不是算错，而是把柱高、频率、比例、人数混了。",
+          "style": "",
+          "sourceIndex": 2426
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：写清样本量n、单位、组距或各层人数；每算一个量都注明它是“人数/频数/频率/均值/方差”中的哪一种。",
+          "style": "",
+          "sourceIndex": 2427
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2428
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先看单位、样本量和横纵轴含义。",
+          "style": "",
+          "sourceIndex": 2429
+        },
+        {
+          "type": "paragraph",
+          "text": "• 样本结论只能“估计总体”，不要写成对总体的绝对事实。",
+          "style": "",
+          "sourceIndex": 2430
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2431
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2432
+        },
+        {
+          "type": "paragraph",
+          "text": "• 单位和样本量是否看清？",
+          "style": "",
+          "sourceIndex": 2433
+        },
+        {
+          "type": "paragraph",
+          "text": "• 直方图用面积还是柱高？",
+          "style": "",
+          "sourceIndex": 2434
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把“样本估计”写成了绝对结论？",
+          "style": "",
+          "sourceIndex": 2435
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2436
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2437
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2438
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜数据1,2,3的平均数。"
+            ],
+            [
+              "先怎么想｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。"
+            ],
+            [
+              "核心过程 / 答案｜2。"
+            ]
+          ],
+          "text": "典型例题｜数据1,2,3的平均数。\n先怎么想｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。\n核心过程 / 答案｜2。",
+          "sourceIndex": 2439
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜方差描述离散程度，不受整体平移影响。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜方差描述离散程度，不受整体平移影响。",
+          "sourceIndex": 2440
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2441
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。"
+            ]
+          ],
+          "text": "📌 30秒速记｜平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。",
+          "sourceIndex": 2442
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2443
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 2,4,6平均数。",
+          "style": "",
+          "sourceIndex": 2444
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 所有数据+5，方差怎样？",
+          "style": "",
+          "sourceIndex": 2445
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 所有数据×3，方差怎样？",
+          "style": "",
+          "sourceIndex": 2446
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 所有数据×-2，标准差怎样？",
+          "style": "",
+          "sourceIndex": 2447
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 标准差等于什么？",
+          "style": "",
+          "sourceIndex": 2448
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.4；2.不变；3.变为原来的9倍；4.变为原来的2倍；5.方差的算术平方根",
+          "style": "TinyNote",
+          "sourceIndex": 2449
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2450
+        }
+      ]
+    }
+  ],
+  "sort_order": 55,
+  "brain_first": "平均数看“中心”，方差/标准差看“散不散”。所有数据整体加同一个数，散布没变；整体乘倍数，散布跟着放大。"
+}

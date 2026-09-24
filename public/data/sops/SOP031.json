@@ -1,0 +1,598 @@
+{
+  "id": "SOP031",
+  "code": "SOP031",
+  "title": "简单三角方程与区间求角",
+  "chapter_id": "chapter-07",
+  "chapter": "必修第一册 第7章 三角函数",
+  "frequency": 4,
+  "keywords": [
+    "简单三角方程",
+    "区间求角"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 1379
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜出现sinx=a、cosx=a、tanx=a并给定区间。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜出现sinx=a、cosx=a、tanx=a并给定区间。",
+      "sourceIndex": 1380
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。",
+      "sourceIndex": 1381
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1382
+    },
+    {
+      "type": "paragraph",
+      "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+      "style": "",
+      "sourceIndex": 1383
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1384
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先找参考角/特殊角。",
+      "style": "",
+      "sourceIndex": 1385
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 1386
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 1387
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 根据三角函数在各象限符号确定可能象限。",
+      "style": "",
+      "sourceIndex": 1388
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 1389
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 1390
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 写出区间内全部解并逐一筛选。",
+      "style": "",
+      "sourceIndex": 1391
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 1392
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 1393
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1394
+    },
+    {
+      "type": "paragraph",
+      "text": "• 出现区间：最终答案必须筛区间。",
+      "style": "",
+      "sourceIndex": 1395
+    },
+    {
+      "type": "paragraph",
+      "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+      "style": "",
+      "sourceIndex": 1396
+    },
+    {
+      "type": "paragraph",
+      "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+      "style": "",
+      "sourceIndex": 1397
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1398
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1399
+    },
+    {
+      "type": "paragraph",
+      "text": "• 角度/弧度单位是否统一？",
+      "style": "",
+      "sourceIndex": 1400
+    },
+    {
+      "type": "paragraph",
+      "text": "• 象限决定的正负有没有检查？",
+      "style": "",
+      "sourceIndex": 1401
+    },
+    {
+      "type": "paragraph",
+      "text": "• 最终角是否全部落在指定区间？",
+      "style": "",
+      "sourceIndex": 1402
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1403
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+      "style": "",
+      "sourceIndex": 1404
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+      "style": "",
+      "sourceIndex": 1405
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜在[0,2π)解sinx=1/2。"
+        ],
+        [
+          "先怎么想｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。"
+        ],
+        [
+          "核心过程 / 答案｜x=π/6或5π/6。"
+        ]
+      ],
+      "text": "典型例题｜在[0,2π)解sinx=1/2。\n先怎么想｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。\n核心过程 / 答案｜x=π/6或5π/6。",
+      "sourceIndex": 1406
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜只写一个角通常会漏解；区间端点是否包含要单独看。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜只写一个角通常会漏解；区间端点是否包含要单独看。",
+      "sourceIndex": 1407
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1408
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。"
+        ]
+      ],
+      "text": "📌 30秒速记｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。",
+      "sourceIndex": 1409
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1410
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 在[0,2π)解cosx=0。",
+      "style": "",
+      "sourceIndex": 1411
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 在[0,2π)解tanx=1。",
+      "style": "",
+      "sourceIndex": 1412
+    },
+    {
+      "type": "paragraph",
+      "text": "3. sinx=-1在[0,2π]解。",
+      "style": "",
+      "sourceIndex": 1413
+    },
+    {
+      "type": "paragraph",
+      "text": "4. cosx=1在[0,2π]解。",
+      "style": "",
+      "sourceIndex": 1414
+    },
+    {
+      "type": "paragraph",
+      "text": "5. sinx=0在(0,π)有解吗？",
+      "style": "",
+      "sourceIndex": 1415
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.π/2,3π/2；2.π/4,5π/4；3.3π/2；4.0,2π；5.没有",
+      "style": "TinyNote",
+      "sourceIndex": 1416
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1417
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜出现sinx=a、cosx=a、tanx=a并给定区间。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜出现sinx=a、cosx=a、tanx=a并给定区间。",
+          "sourceIndex": 1380
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。",
+          "sourceIndex": 1381
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1382
+        },
+        {
+          "type": "paragraph",
+          "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+          "style": "",
+          "sourceIndex": 1383
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1384
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先找参考角/特殊角。",
+          "style": "",
+          "sourceIndex": 1385
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 1386
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 1387
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 根据三角函数在各象限符号确定可能象限。",
+          "style": "",
+          "sourceIndex": 1388
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 1389
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 1390
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 写出区间内全部解并逐一筛选。",
+          "style": "",
+          "sourceIndex": 1391
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 1392
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 1393
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1394
+        },
+        {
+          "type": "paragraph",
+          "text": "• 出现区间：最终答案必须筛区间。",
+          "style": "",
+          "sourceIndex": 1395
+        },
+        {
+          "type": "paragraph",
+          "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+          "style": "",
+          "sourceIndex": 1396
+        },
+        {
+          "type": "paragraph",
+          "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+          "style": "",
+          "sourceIndex": 1397
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1398
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1399
+        },
+        {
+          "type": "paragraph",
+          "text": "• 角度/弧度单位是否统一？",
+          "style": "",
+          "sourceIndex": 1400
+        },
+        {
+          "type": "paragraph",
+          "text": "• 象限决定的正负有没有检查？",
+          "style": "",
+          "sourceIndex": 1401
+        },
+        {
+          "type": "paragraph",
+          "text": "• 最终角是否全部落在指定区间？",
+          "style": "",
+          "sourceIndex": 1402
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1403
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+          "style": "",
+          "sourceIndex": 1404
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+          "style": "",
+          "sourceIndex": 1405
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜在[0,2π)解sinx=1/2。"
+            ],
+            [
+              "先怎么想｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。"
+            ],
+            [
+              "核心过程 / 答案｜x=π/6或5π/6。"
+            ]
+          ],
+          "text": "典型例题｜在[0,2π)解sinx=1/2。\n先怎么想｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。\n核心过程 / 答案｜x=π/6或5π/6。",
+          "sourceIndex": 1406
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜只写一个角通常会漏解；区间端点是否包含要单独看。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜只写一个角通常会漏解；区间端点是否包含要单独看。",
+          "sourceIndex": 1407
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1408
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。"
+            ]
+          ],
+          "text": "📌 30秒速记｜三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。",
+          "sourceIndex": 1409
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1410
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 在[0,2π)解cosx=0。",
+          "style": "",
+          "sourceIndex": 1411
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 在[0,2π)解tanx=1。",
+          "style": "",
+          "sourceIndex": 1412
+        },
+        {
+          "type": "paragraph",
+          "text": "3. sinx=-1在[0,2π]解。",
+          "style": "",
+          "sourceIndex": 1413
+        },
+        {
+          "type": "paragraph",
+          "text": "4. cosx=1在[0,2π]解。",
+          "style": "",
+          "sourceIndex": 1414
+        },
+        {
+          "type": "paragraph",
+          "text": "5. sinx=0在(0,π)有解吗？",
+          "style": "",
+          "sourceIndex": 1415
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.π/2,3π/2；2.π/4,5π/4；3.3π/2；4.0,2π；5.没有",
+          "style": "TinyNote",
+          "sourceIndex": 1416
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1417
+        }
+      ]
+    }
+  ],
+  "sort_order": 30,
+  "brain_first": "三角方程先找参考角，再按象限找完整答案，最后用题目区间把多余的删掉。"
+}

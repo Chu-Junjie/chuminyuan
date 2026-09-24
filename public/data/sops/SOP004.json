@@ -1,0 +1,641 @@
+{
+  "id": "SOP004",
+  "code": "SOP004",
+  "title": "充分条件、必要条件与充要条件",
+  "chapter_id": "chapter-02",
+  "chapter": "必修第一册 第2章 常用逻辑用语",
+  "frequency": 4,
+  "keywords": [
+    "充分条件",
+    "必要条件",
+    "充要条件"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 262
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜题面出现“p是q的充分/必要/充要条件”。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜题面出现“p是q的充分/必要/充要条件”。",
+      "sourceIndex": 263
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。",
+      "sourceIndex": 264
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 265
+    },
+    {
+      "type": "paragraph",
+      "text": "• 充分条件 → 有它就足够推出后面的条件",
+      "style": "",
+      "sourceIndex": 266
+    },
+    {
+      "type": "paragraph",
+      "text": "• 必要条件 → 后面的事情要成立，它必须具备",
+      "style": "",
+      "sourceIndex": 267
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 268
+    },
+    {
+      "type": "paragraph",
+      "text": "这一类题本质是在处理“范围”和“逻辑关系”。先把文字改成集合、区间或箭头，比直接靠中文语感稳定得多。",
+      "style": "",
+      "sourceIndex": 269
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 270
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 把条件 p、q 各自转成对应解集P、Q。",
+      "style": "",
+      "sourceIndex": 271
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+      "style": "",
+      "sourceIndex": 272
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+      "style": "",
+      "sourceIndex": 273
+    },
+    {
+      "type": "paragraph",
+      "text": "2. p⇒q 等价 P⊆Q；q⇒p 等价 Q⊆P。",
+      "style": "",
+      "sourceIndex": 274
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+      "style": "",
+      "sourceIndex": 275
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+      "style": "",
+      "sourceIndex": 276
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 双向都成立才是充要条件。",
+      "style": "",
+      "sourceIndex": 277
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+      "style": "",
+      "sourceIndex": 278
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+      "style": "",
+      "sourceIndex": 279
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 280
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果p→q成立但q→p不成立：充分不必要。",
+      "style": "",
+      "sourceIndex": 281
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果q→p成立但p→q不成立：必要不充分。",
+      "style": "",
+      "sourceIndex": 282
+    },
+    {
+      "type": "paragraph",
+      "text": "• 两个方向都成立：充要；两个方向都不成立：既不充分也不必要。",
+      "style": "",
+      "sourceIndex": 283
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 284
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 285
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 286
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 287
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 288
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 289
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 290
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 291
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜p:x>2，q:x>1。判断p对q。"
+        ],
+        [
+          "先怎么想｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。"
+        ],
+        [
+          "核心过程 / 答案｜x>2一定推出x>1，所以p是q的充分不必要条件。"
+        ]
+      ],
+      "text": "典型例题｜p:x>2，q:x>1。判断p对q。\n先怎么想｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。\n核心过程 / 答案｜x>2一定推出x>1，所以p是q的充分不必要条件。",
+      "sourceIndex": 292
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜不要靠中文语感；“p是q的必要条件”应检查 q⇒p。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜不要靠中文语感；“p是q的必要条件”应检查 q⇒p。",
+      "sourceIndex": 293
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 294
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。"
+        ]
+      ],
+      "text": "📌 30秒速记｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。",
+      "sourceIndex": 295
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 296
+    },
+    {
+      "type": "paragraph",
+      "text": "1. p:x=1，q:x²=1，p是q的什么条件？",
+      "style": "",
+      "sourceIndex": 297
+    },
+    {
+      "type": "paragraph",
+      "text": "2. p:x²<1，q:-1<x<1，关系？",
+      "style": "",
+      "sourceIndex": 298
+    },
+    {
+      "type": "paragraph",
+      "text": "3. p:a>b，q:a²>b²，p是否充分？",
+      "style": "",
+      "sourceIndex": 299
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 若P⊆Q，则p对q是什么条件？",
+      "style": "",
+      "sourceIndex": 300
+    },
+    {
+      "type": "paragraph",
+      "text": "5. “q是p的必要条件”对应哪个箭头？",
+      "style": "",
+      "sourceIndex": 301
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.充分不必要；2.充要；3.不是；4.充分条件；5.p⇒q",
+      "style": "TinyNote",
+      "sourceIndex": 302
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 303
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜题面出现“p是q的充分/必要/充要条件”。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜题面出现“p是q的充分/必要/充要条件”。",
+          "sourceIndex": 263
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。",
+          "sourceIndex": 264
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 265
+        },
+        {
+          "type": "paragraph",
+          "text": "• 充分条件 → 有它就足够推出后面的条件",
+          "style": "",
+          "sourceIndex": 266
+        },
+        {
+          "type": "paragraph",
+          "text": "• 必要条件 → 后面的事情要成立，它必须具备",
+          "style": "",
+          "sourceIndex": 267
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 268
+        },
+        {
+          "type": "paragraph",
+          "text": "这一类题本质是在处理“范围”和“逻辑关系”。先把文字改成集合、区间或箭头，比直接靠中文语感稳定得多。",
+          "style": "",
+          "sourceIndex": 269
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 270
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 把条件 p、q 各自转成对应解集P、Q。",
+          "style": "",
+          "sourceIndex": 271
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+          "style": "",
+          "sourceIndex": 272
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+          "style": "",
+          "sourceIndex": 273
+        },
+        {
+          "type": "paragraph",
+          "text": "2. p⇒q 等价 P⊆Q；q⇒p 等价 Q⊆P。",
+          "style": "",
+          "sourceIndex": 274
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+          "style": "",
+          "sourceIndex": 275
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+          "style": "",
+          "sourceIndex": 276
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 双向都成立才是充要条件。",
+          "style": "",
+          "sourceIndex": 277
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把中文逻辑翻成集合/箭头。翻译完成后，关系会从“读起来绕”变成可以直接比较的范围。",
+          "style": "",
+          "sourceIndex": 278
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把条件分别写成P、Q或A、B；能画数轴就画数轴，能写p→q就直接写箭头。",
+          "style": "",
+          "sourceIndex": 279
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 280
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果p→q成立但q→p不成立：充分不必要。",
+          "style": "",
+          "sourceIndex": 281
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果q→p成立但p→q不成立：必要不充分。",
+          "style": "",
+          "sourceIndex": 282
+        },
+        {
+          "type": "paragraph",
+          "text": "• 两个方向都成立：充要；两个方向都不成立：既不充分也不必要。",
+          "style": "",
+          "sourceIndex": 283
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 284
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 285
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 286
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 287
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 288
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 289
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 290
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 291
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜p:x>2，q:x>1。判断p对q。"
+            ],
+            [
+              "先怎么想｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。"
+            ],
+            [
+              "核心过程 / 答案｜x>2一定推出x>1，所以p是q的充分不必要条件。"
+            ]
+          ],
+          "text": "典型例题｜p:x>2，q:x>1。判断p对q。\n先怎么想｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。\n核心过程 / 答案｜x>2一定推出x>1，所以p是q的充分不必要条件。",
+          "sourceIndex": 292
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜不要靠中文语感；“p是q的必要条件”应检查 q⇒p。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜不要靠中文语感；“p是q的必要条件”应检查 q⇒p。",
+          "sourceIndex": 293
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 294
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。"
+            ]
+          ],
+          "text": "📌 30秒速记｜别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。",
+          "sourceIndex": 295
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 296
+        },
+        {
+          "type": "paragraph",
+          "text": "1. p:x=1，q:x²=1，p是q的什么条件？",
+          "style": "",
+          "sourceIndex": 297
+        },
+        {
+          "type": "paragraph",
+          "text": "2. p:x²<1，q:-1<x<1，关系？",
+          "style": "",
+          "sourceIndex": 298
+        },
+        {
+          "type": "paragraph",
+          "text": "3. p:a>b，q:a²>b²，p是否充分？",
+          "style": "",
+          "sourceIndex": 299
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 若P⊆Q，则p对q是什么条件？",
+          "style": "",
+          "sourceIndex": 300
+        },
+        {
+          "type": "paragraph",
+          "text": "5. “q是p的必要条件”对应哪个箭头？",
+          "style": "",
+          "sourceIndex": 301
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.充分不必要；2.充要；3.不是；4.充分条件；5.p⇒q",
+          "style": "TinyNote",
+          "sourceIndex": 302
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 303
+        }
+      ]
+    }
+  ],
+  "sort_order": 3,
+  "brain_first": "别背“充分必要”这四个字，先画箭头：p能推出q，就是p→q；再看反方向能不能回来。"
+}

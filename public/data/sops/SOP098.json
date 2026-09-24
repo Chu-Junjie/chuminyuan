@@ -1,0 +1,629 @@
+{
+  "id": "SOP098",
+  "code": "SOP098",
+  "title": "二项分布、超几何分布与正态分布识别",
+  "chapter_id": "chapter-23",
+  "chapter": "选择性必修第二册 第8章 概率",
+  "frequency": 5,
+  "keywords": [
+    "二项分布",
+    "超几何分布",
+    "正态分布识别"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 4128
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜重复独立成功失败、不放回抽取特殊个体、或给N(μ,σ²)。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜重复独立成功失败、不放回抽取特殊个体、或给N(μ,σ²)。",
+      "sourceIndex": 4129
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。",
+      "sourceIndex": 4130
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 4131
+    },
+    {
+      "type": "paragraph",
+      "text": "• 超几何分布 → 有限总体中不放回抽取时，数“抽中特殊对象几个”的分布",
+      "style": "",
+      "sourceIndex": 4132
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 4133
+    },
+    {
+      "type": "paragraph",
+      "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+      "style": "",
+      "sourceIndex": 4134
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 4135
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 独立重复n次、成功率p不变→X~B(n,p)，P(X=k)=C_n^k p^k(1-p)^(n-k)。",
+      "style": "",
+      "sourceIndex": 4136
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：概率统计进阶题先确认模型和条件，再套公式。公式本身通常不难，难的是别把模型认错。",
+      "style": "",
+      "sourceIndex": 4137
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先写“已知条件/抽样方式/随机变量取值”；再决定条件概率、全概率、二项/超几何、回归或检验。",
+      "style": "",
+      "sourceIndex": 4138
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 有限总体不放回抽取、计特殊个数→超几何分布。",
+      "style": "",
+      "sourceIndex": 4139
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步不是套公式，而是先认“抽取机制”。独立重复和不放回是两种完全不同的随机结构。",
+      "style": "",
+      "sourceIndex": 4140
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在题边上标：是否固定n次？是否独立？p是否不变？若三者都“是”→二项；有限总体不放回→超几何；给N(μ,σ²)→正态。",
+      "style": "",
+      "sourceIndex": 4141
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 正态分布先用关于μ对称，P(X<μ)=0.5，再结合给定区间概率。",
+      "style": "",
+      "sourceIndex": 4142
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步不是套公式，而是先认“抽取机制”。独立重复和不放回是两种完全不同的随机结构。",
+      "style": "",
+      "sourceIndex": 4143
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在题边上标：是否固定n次？是否独立？p是否不变？若三者都“是”→二项；有限总体不放回→超几何；给N(μ,σ²)→正态。",
+      "style": "",
+      "sourceIndex": 4144
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 4145
+    },
+    {
+      "type": "paragraph",
+      "text": "• “至少一个”情况太多：优先算补事件。",
+      "style": "",
+      "sourceIndex": 4146
+    },
+    {
+      "type": "paragraph",
+      "text": "• 不放回通常不独立；独立重复才考虑二项分布。",
+      "style": "",
+      "sourceIndex": 4147
+    },
+    {
+      "type": "paragraph",
+      "text": "• 所有概率算完先检查是否在0到1之间。",
+      "style": "",
+      "sourceIndex": 4148
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 4149
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 4150
+    },
+    {
+      "type": "paragraph",
+      "text": "• 概率是否都在[0,1]？",
+      "style": "",
+      "sourceIndex": 4151
+    },
+    {
+      "type": "paragraph",
+      "text": "• 总概率是否=1？",
+      "style": "",
+      "sourceIndex": 4152
+    },
+    {
+      "type": "paragraph",
+      "text": "• “不放回”是否被误当独立？",
+      "style": "",
+      "sourceIndex": 4153
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 4154
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果“至少一个”分类太多：马上改算“一个都没有”。",
+      "style": "",
+      "sourceIndex": 4155
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果你不知道乘还是加：问自己“这些情况是互相替代，还是要同时一步步发生？”",
+      "style": "",
+      "sourceIndex": 4156
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜10次独立投篮命中率0.6，命中次数X属于什么分布？"
+        ],
+        [
+          "先怎么想｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。"
+        ],
+        [
+          "核心过程 / 答案｜X~B(10,0.6)。"
+        ]
+      ],
+      "text": "典型例题｜10次独立投篮命中率0.6，命中次数X属于什么分布？\n先怎么想｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。\n核心过程 / 答案｜X~B(10,0.6)。",
+      "sourceIndex": 4157
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜“不放回”通常不独立，不能机械套二项分布。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜“不放回”通常不独立，不能机械套二项分布。",
+      "sourceIndex": 4158
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 4159
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。"
+        ]
+      ],
+      "text": "📌 30秒速记｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。",
+      "sourceIndex": 4160
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 4161
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 5次独立抛硬币正面次数。",
+      "style": "",
+      "sourceIndex": 4162
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 10件中3件次品，不放回抽4件，次品数。",
+      "style": "",
+      "sourceIndex": 4163
+    },
+    {
+      "type": "paragraph",
+      "text": "3. X~B(n,p)期望。",
+      "style": "",
+      "sourceIndex": 4164
+    },
+    {
+      "type": "paragraph",
+      "text": "4. X~B(n,p)方差。",
+      "style": "",
+      "sourceIndex": 4165
+    },
+    {
+      "type": "paragraph",
+      "text": "5. X~N(μ,σ²)，P(X<μ)。",
+      "style": "",
+      "sourceIndex": 4166
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.B(5,0.5)；2.超几何分布；3.np；4.np(1-p)；5.0.5",
+      "style": "TinyNote",
+      "sourceIndex": 4167
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 4168
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜重复独立成功失败、不放回抽取特殊个体、或给N(μ,σ²)。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜重复独立成功失败、不放回抽取特殊个体、或给N(μ,σ²)。",
+          "sourceIndex": 4129
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。",
+          "sourceIndex": 4130
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 4131
+        },
+        {
+          "type": "paragraph",
+          "text": "• 超几何分布 → 有限总体中不放回抽取时，数“抽中特殊对象几个”的分布",
+          "style": "",
+          "sourceIndex": 4132
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 4133
+        },
+        {
+          "type": "paragraph",
+          "text": "概率统计题最重要的是先搞清“样本空间/数据含义/抽样方式”。条件理解错了，后面公式完全正确也会得错答案。",
+          "style": "",
+          "sourceIndex": 4134
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 4135
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 独立重复n次、成功率p不变→X~B(n,p)，P(X=k)=C_n^k p^k(1-p)^(n-k)。",
+          "style": "",
+          "sourceIndex": 4136
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：概率统计进阶题先确认模型和条件，再套公式。公式本身通常不难，难的是别把模型认错。",
+          "style": "",
+          "sourceIndex": 4137
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先写“已知条件/抽样方式/随机变量取值”；再决定条件概率、全概率、二项/超几何、回归或检验。",
+          "style": "",
+          "sourceIndex": 4138
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 有限总体不放回抽取、计特殊个数→超几何分布。",
+          "style": "",
+          "sourceIndex": 4139
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步不是套公式，而是先认“抽取机制”。独立重复和不放回是两种完全不同的随机结构。",
+          "style": "",
+          "sourceIndex": 4140
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在题边上标：是否固定n次？是否独立？p是否不变？若三者都“是”→二项；有限总体不放回→超几何；给N(μ,σ²)→正态。",
+          "style": "",
+          "sourceIndex": 4141
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 正态分布先用关于μ对称，P(X<μ)=0.5，再结合给定区间概率。",
+          "style": "",
+          "sourceIndex": 4142
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步不是套公式，而是先认“抽取机制”。独立重复和不放回是两种完全不同的随机结构。",
+          "style": "",
+          "sourceIndex": 4143
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在题边上标：是否固定n次？是否独立？p是否不变？若三者都“是”→二项；有限总体不放回→超几何；给N(μ,σ²)→正态。",
+          "style": "",
+          "sourceIndex": 4144
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 4145
+        },
+        {
+          "type": "paragraph",
+          "text": "• “至少一个”情况太多：优先算补事件。",
+          "style": "",
+          "sourceIndex": 4146
+        },
+        {
+          "type": "paragraph",
+          "text": "• 不放回通常不独立；独立重复才考虑二项分布。",
+          "style": "",
+          "sourceIndex": 4147
+        },
+        {
+          "type": "paragraph",
+          "text": "• 所有概率算完先检查是否在0到1之间。",
+          "style": "",
+          "sourceIndex": 4148
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 4149
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 4150
+        },
+        {
+          "type": "paragraph",
+          "text": "• 概率是否都在[0,1]？",
+          "style": "",
+          "sourceIndex": 4151
+        },
+        {
+          "type": "paragraph",
+          "text": "• 总概率是否=1？",
+          "style": "",
+          "sourceIndex": 4152
+        },
+        {
+          "type": "paragraph",
+          "text": "• “不放回”是否被误当独立？",
+          "style": "",
+          "sourceIndex": 4153
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 4154
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果“至少一个”分类太多：马上改算“一个都没有”。",
+          "style": "",
+          "sourceIndex": 4155
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果你不知道乘还是加：问自己“这些情况是互相替代，还是要同时一步步发生？”",
+          "style": "",
+          "sourceIndex": 4156
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜10次独立投篮命中率0.6，命中次数X属于什么分布？"
+            ],
+            [
+              "先怎么想｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。"
+            ],
+            [
+              "核心过程 / 答案｜X~B(10,0.6)。"
+            ]
+          ],
+          "text": "典型例题｜10次独立投篮命中率0.6，命中次数X属于什么分布？\n先怎么想｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。\n核心过程 / 答案｜X~B(10,0.6)。",
+          "sourceIndex": 4157
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜“不放回”通常不独立，不能机械套二项分布。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜“不放回”通常不独立，不能机械套二项分布。",
+          "sourceIndex": 4158
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 4159
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。"
+            ]
+          ],
+          "text": "📌 30秒速记｜识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。",
+          "sourceIndex": 4160
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 4161
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 5次独立抛硬币正面次数。",
+          "style": "",
+          "sourceIndex": 4162
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 10件中3件次品，不放回抽4件，次品数。",
+          "style": "",
+          "sourceIndex": 4163
+        },
+        {
+          "type": "paragraph",
+          "text": "3. X~B(n,p)期望。",
+          "style": "",
+          "sourceIndex": 4164
+        },
+        {
+          "type": "paragraph",
+          "text": "4. X~B(n,p)方差。",
+          "style": "",
+          "sourceIndex": 4165
+        },
+        {
+          "type": "paragraph",
+          "text": "5. X~N(μ,σ²)，P(X<μ)。",
+          "style": "",
+          "sourceIndex": 4166
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.B(5,0.5)；2.超几何分布；3.np；4.np(1-p)；5.0.5",
+          "style": "TinyNote",
+          "sourceIndex": 4167
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 4168
+        }
+      ]
+    }
+  ],
+  "sort_order": 97,
+  "brain_first": "识别分布先看抽样方式：固定次数、独立、成功率不变→二项；有限总体不放回→超几何；钟形连续变量→正态。"
+}

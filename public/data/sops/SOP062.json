@@ -1,0 +1,618 @@
+{
+  "id": "SOP062",
+  "code": "SOP062",
+  "title": "互斥、对立、加法与补集",
+  "chapter_id": "chapter-15",
+  "chapter": "必修第二册 第15章 概率",
+  "frequency": 5,
+  "keywords": [
+    "互斥",
+    "对立",
+    "加法",
+    "补集"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 2653
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜“至少一个”“都不”“A或B”，或判断互斥/对立事件。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜“至少一个”“都不”“A或B”，或判断互斥/对立事件。",
+      "sourceIndex": 2654
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。",
+      "sourceIndex": 2655
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 2656
+    },
+    {
+      "type": "paragraph",
+      "text": "• 补集 → 全集中不属于这个集合的部分",
+      "style": "",
+      "sourceIndex": 2657
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2658
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 2659
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2660
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 至少一个常优先用补集：1-P(一个都不)。",
+      "style": "",
+      "sourceIndex": 2661
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：“至少一个”常包含1个、2个、3个……很多情况，正面分类容易漏；它的反面只有“一个都没有”。",
+      "style": "",
+      "sourceIndex": 2662
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先写P(至少一个)=1-P(一个都没有)，然后只算反面事件。",
+      "style": "",
+      "sourceIndex": 2663
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 互斥事件P(A∪B)=P(A)+P(B)。",
+      "style": "",
+      "sourceIndex": 2664
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 2665
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 2666
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 对立事件既互斥又穷尽，P(Ā)=1-P(A)。",
+      "style": "",
+      "sourceIndex": 2667
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 2668
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 2669
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2670
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 2671
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 2672
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2673
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2674
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 2675
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 2676
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 2677
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2678
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2679
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2680
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜P(A)=0.3，求P(Ā)。"
+        ],
+        [
+          "先怎么想｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。"
+        ],
+        [
+          "核心过程 / 答案｜0.7。"
+        ]
+      ],
+      "text": "典型例题｜P(A)=0.3，求P(Ā)。\n先怎么想｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。\n核心过程 / 答案｜0.7。",
+      "sourceIndex": 2681
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜互斥不等于独立；对立比互斥条件更强。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜互斥不等于独立；对立比互斥条件更强。",
+      "sourceIndex": 2682
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2683
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。"
+        ]
+      ],
+      "text": "📌 30秒速记｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。",
+      "sourceIndex": 2684
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2685
+    },
+    {
+      "type": "paragraph",
+      "text": "1. P(A)=0.4，P(Ā)。",
+      "style": "",
+      "sourceIndex": 2686
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 互斥A,B且P(A)=0.2,P(B)=0.5，P(A∪B)。",
+      "style": "",
+      "sourceIndex": 2687
+    },
+    {
+      "type": "paragraph",
+      "text": "3. “至少一次成功”常算什么补事件？",
+      "style": "",
+      "sourceIndex": 2688
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 对立事件交集概率。",
+      "style": "",
+      "sourceIndex": 2689
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 对立事件并集概率。",
+      "style": "",
+      "sourceIndex": 2690
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.0.6；2.0.7；3.一次都不成功；4.0；5.1",
+      "style": "TinyNote",
+      "sourceIndex": 2691
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2692
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜“至少一个”“都不”“A或B”，或判断互斥/对立事件。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜“至少一个”“都不”“A或B”，或判断互斥/对立事件。",
+          "sourceIndex": 2654
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。",
+          "sourceIndex": 2655
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 2656
+        },
+        {
+          "type": "paragraph",
+          "text": "• 补集 → 全集中不属于这个集合的部分",
+          "style": "",
+          "sourceIndex": 2657
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2658
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 2659
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2660
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 至少一个常优先用补集：1-P(一个都不)。",
+          "style": "",
+          "sourceIndex": 2661
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：“至少一个”常包含1个、2个、3个……很多情况，正面分类容易漏；它的反面只有“一个都没有”。",
+          "style": "",
+          "sourceIndex": 2662
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先写P(至少一个)=1-P(一个都没有)，然后只算反面事件。",
+          "style": "",
+          "sourceIndex": 2663
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 互斥事件P(A∪B)=P(A)+P(B)。",
+          "style": "",
+          "sourceIndex": 2664
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 2665
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 2666
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 对立事件既互斥又穷尽，P(Ā)=1-P(A)。",
+          "style": "",
+          "sourceIndex": 2667
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 2668
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 2669
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2670
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 2671
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 2672
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2673
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2674
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 2675
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 2676
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 2677
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2678
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2679
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2680
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜P(A)=0.3，求P(Ā)。"
+            ],
+            [
+              "先怎么想｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。"
+            ],
+            [
+              "核心过程 / 答案｜0.7。"
+            ]
+          ],
+          "text": "典型例题｜P(A)=0.3，求P(Ā)。\n先怎么想｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。\n核心过程 / 答案｜0.7。",
+          "sourceIndex": 2681
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜互斥不等于独立；对立比互斥条件更强。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜互斥不等于独立；对立比互斥条件更强。",
+          "sourceIndex": 2682
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2683
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。"
+            ]
+          ],
+          "text": "📌 30秒速记｜“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。",
+          "sourceIndex": 2684
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2685
+        },
+        {
+          "type": "paragraph",
+          "text": "1. P(A)=0.4，P(Ā)。",
+          "style": "",
+          "sourceIndex": 2686
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 互斥A,B且P(A)=0.2,P(B)=0.5，P(A∪B)。",
+          "style": "",
+          "sourceIndex": 2687
+        },
+        {
+          "type": "paragraph",
+          "text": "3. “至少一次成功”常算什么补事件？",
+          "style": "",
+          "sourceIndex": 2688
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 对立事件交集概率。",
+          "style": "",
+          "sourceIndex": 2689
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 对立事件并集概率。",
+          "style": "",
+          "sourceIndex": 2690
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.0.6；2.0.7；3.一次都不成功；4.0；5.1",
+          "style": "TinyNote",
+          "sourceIndex": 2691
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2692
+        }
+      ]
+    }
+  ],
+  "sort_order": 61,
+  "brain_first": "“至少一个”正面情况太多时，先算它的反面“一个都没有”。互斥事件才可以直接把概率相加。"
+}

@@ -1,0 +1,627 @@
+{
+  "id": "SOP044",
+  "code": "SOP044",
+  "title": "余弦定理",
+  "chapter_id": "chapter-11",
+  "chapter": "必修第二册 第11章 解三角形",
+  "frequency": 5,
+  "keywords": [
+    "余弦定理"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 1920
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜三边、两边夹角、求角，或式子含a²+b²-c²。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜三边、两边夹角、求角，或式子含a²+b²-c²。",
+      "sourceIndex": 1921
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。",
+      "sourceIndex": 1922
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1923
+    },
+    {
+      "type": "paragraph",
+      "text": "• 余弦定理 → 三角形里的“勾股定理升级版”",
+      "style": "",
+      "sourceIndex": 1924
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1925
+    },
+    {
+      "type": "paragraph",
+      "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+      "style": "",
+      "sourceIndex": 1926
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1927
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先确定角A对边a等对应关系。",
+      "style": "",
+      "sourceIndex": 1928
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 1929
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 1930
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 用a²=b²+c²-2bc cosA，或变形cosA=(b²+c²-a²)/(2bc)。",
+      "style": "",
+      "sourceIndex": 1931
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 1932
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 1933
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 求角后检查最大边对最大角。",
+      "style": "",
+      "sourceIndex": 1934
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 1935
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 1936
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1937
+    },
+    {
+      "type": "paragraph",
+      "text": "• 出现区间：最终答案必须筛区间。",
+      "style": "",
+      "sourceIndex": 1938
+    },
+    {
+      "type": "paragraph",
+      "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+      "style": "",
+      "sourceIndex": 1939
+    },
+    {
+      "type": "paragraph",
+      "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+      "style": "",
+      "sourceIndex": 1940
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1941
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1942
+    },
+    {
+      "type": "paragraph",
+      "text": "• 角度/弧度单位是否统一？",
+      "style": "",
+      "sourceIndex": 1943
+    },
+    {
+      "type": "paragraph",
+      "text": "• 象限决定的正负有没有检查？",
+      "style": "",
+      "sourceIndex": 1944
+    },
+    {
+      "type": "paragraph",
+      "text": "• 最终角是否全部落在指定区间？",
+      "style": "",
+      "sourceIndex": 1945
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1946
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 1947
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 1948
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜b=3,c=4,A=90°，求a。"
+        ],
+        [
+          "先怎么想｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。"
+        ],
+        [
+          "核心过程 / 答案｜a²=9+16=25，所以a=5。"
+        ]
+      ],
+      "text": "典型例题｜b=3,c=4,A=90°，求a。\n先怎么想｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。\n核心过程 / 答案｜a²=9+16=25，所以a=5。",
+      "sourceIndex": 1949
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜边角对应必须一致；A的对边是a。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜边角对应必须一致；A的对边是a。",
+      "sourceIndex": 1950
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1951
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。"
+        ]
+      ],
+      "text": "📌 30秒速记｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。",
+      "sourceIndex": 1952
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1953
+    },
+    {
+      "type": "paragraph",
+      "text": "1. a=5,b=3,c=4，A。",
+      "style": "",
+      "sourceIndex": 1954
+    },
+    {
+      "type": "paragraph",
+      "text": "2. b=c=1,A=60°，a。",
+      "style": "",
+      "sourceIndex": 1955
+    },
+    {
+      "type": "paragraph",
+      "text": "3. a²=b²+c²说明A。",
+      "style": "",
+      "sourceIndex": 1956
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 最长边对应什么角？",
+      "style": "",
+      "sourceIndex": 1957
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 余弦定理适合“两边+什么”？",
+      "style": "",
+      "sourceIndex": 1958
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.90°；2.1；3.90°；4.最大角；5.夹角",
+      "style": "TinyNote",
+      "sourceIndex": 1959
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1960
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜三边、两边夹角、求角，或式子含a²+b²-c²。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜三边、两边夹角、求角，或式子含a²+b²-c²。",
+          "sourceIndex": 1921
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。",
+          "sourceIndex": 1922
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1923
+        },
+        {
+          "type": "paragraph",
+          "text": "• 余弦定理 → 三角形里的“勾股定理升级版”",
+          "style": "",
+          "sourceIndex": 1924
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1925
+        },
+        {
+          "type": "paragraph",
+          "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+          "style": "",
+          "sourceIndex": 1926
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1927
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先确定角A对边a等对应关系。",
+          "style": "",
+          "sourceIndex": 1928
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 1929
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 1930
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 用a²=b²+c²-2bc cosA，或变形cosA=(b²+c²-a²)/(2bc)。",
+          "style": "",
+          "sourceIndex": 1931
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 1932
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 1933
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 求角后检查最大边对最大角。",
+          "style": "",
+          "sourceIndex": 1934
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 1935
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 1936
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1937
+        },
+        {
+          "type": "paragraph",
+          "text": "• 出现区间：最终答案必须筛区间。",
+          "style": "",
+          "sourceIndex": 1938
+        },
+        {
+          "type": "paragraph",
+          "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+          "style": "",
+          "sourceIndex": 1939
+        },
+        {
+          "type": "paragraph",
+          "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+          "style": "",
+          "sourceIndex": 1940
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1941
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1942
+        },
+        {
+          "type": "paragraph",
+          "text": "• 角度/弧度单位是否统一？",
+          "style": "",
+          "sourceIndex": 1943
+        },
+        {
+          "type": "paragraph",
+          "text": "• 象限决定的正负有没有检查？",
+          "style": "",
+          "sourceIndex": 1944
+        },
+        {
+          "type": "paragraph",
+          "text": "• 最终角是否全部落在指定区间？",
+          "style": "",
+          "sourceIndex": 1945
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1946
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 1947
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 1948
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜b=3,c=4,A=90°，求a。"
+            ],
+            [
+              "先怎么想｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。"
+            ],
+            [
+              "核心过程 / 答案｜a²=9+16=25，所以a=5。"
+            ]
+          ],
+          "text": "典型例题｜b=3,c=4,A=90°，求a。\n先怎么想｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。\n核心过程 / 答案｜a²=9+16=25，所以a=5。",
+          "sourceIndex": 1949
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜边角对应必须一致；A的对边是a。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜边角对应必须一致；A的对边是a。",
+          "sourceIndex": 1950
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1951
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。"
+            ]
+          ],
+          "text": "📌 30秒速记｜三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。",
+          "sourceIndex": 1952
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1953
+        },
+        {
+          "type": "paragraph",
+          "text": "1. a=5,b=3,c=4，A。",
+          "style": "",
+          "sourceIndex": 1954
+        },
+        {
+          "type": "paragraph",
+          "text": "2. b=c=1,A=60°，a。",
+          "style": "",
+          "sourceIndex": 1955
+        },
+        {
+          "type": "paragraph",
+          "text": "3. a²=b²+c²说明A。",
+          "style": "",
+          "sourceIndex": 1956
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 最长边对应什么角？",
+          "style": "",
+          "sourceIndex": 1957
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 余弦定理适合“两边+什么”？",
+          "style": "",
+          "sourceIndex": 1958
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.90°；2.1；3.90°；4.最大角；5.夹角",
+          "style": "TinyNote",
+          "sourceIndex": 1959
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1960
+        }
+      ]
+    }
+  ],
+  "sort_order": 43,
+  "brain_first": "三角形给“两边夹角”或“三边”时，优先余弦定理；它就是三角形里的“勾股定理升级版”。"
+}

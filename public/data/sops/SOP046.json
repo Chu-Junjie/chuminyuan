@@ -1,0 +1,628 @@
+{
+  "id": "SOP046",
+  "code": "SOP046",
+  "title": "三角形面积与边角综合",
+  "chapter_id": "chapter-11",
+  "chapter": "必修第二册 第11章 解三角形",
+  "frequency": 5,
+  "keywords": [
+    "三角形面积",
+    "边角综合"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 2004
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问面积、两边夹角、面积与正余弦定理联立。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问面积、两边夹角、面积与正余弦定理联立。",
+      "sourceIndex": 2005
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。",
+      "sourceIndex": 2006
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 2007
+    },
+    {
+      "type": "paragraph",
+      "text": "• 余弦定理 → 三角形里的“勾股定理升级版”",
+      "style": "",
+      "sourceIndex": 2008
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2009
+    },
+    {
+      "type": "paragraph",
+      "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+      "style": "",
+      "sourceIndex": 2010
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2011
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 优先凑“两边+夹角”：S=1/2 bc sinA。",
+      "style": "",
+      "sourceIndex": 2012
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 2013
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 2014
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 若只给三边先用余弦求角或用面积关系转化。",
+      "style": "",
+      "sourceIndex": 2015
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 2016
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 2017
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 面积已知时可反求sinA，再结合余弦定理确定边角。",
+      "style": "",
+      "sourceIndex": 2018
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+      "style": "",
+      "sourceIndex": 2019
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+      "style": "",
+      "sourceIndex": 2020
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2021
+    },
+    {
+      "type": "paragraph",
+      "text": "• 出现区间：最终答案必须筛区间。",
+      "style": "",
+      "sourceIndex": 2022
+    },
+    {
+      "type": "paragraph",
+      "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+      "style": "",
+      "sourceIndex": 2023
+    },
+    {
+      "type": "paragraph",
+      "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+      "style": "",
+      "sourceIndex": 2024
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2025
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2026
+    },
+    {
+      "type": "paragraph",
+      "text": "• 角度/弧度单位是否统一？",
+      "style": "",
+      "sourceIndex": 2027
+    },
+    {
+      "type": "paragraph",
+      "text": "• 象限决定的正负有没有检查？",
+      "style": "",
+      "sourceIndex": 2028
+    },
+    {
+      "type": "paragraph",
+      "text": "• 最终角是否全部落在指定区间？",
+      "style": "",
+      "sourceIndex": 2029
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2030
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+      "style": "",
+      "sourceIndex": 2031
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+      "style": "",
+      "sourceIndex": 2032
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜b=4,c=5,A=30°，求面积。"
+        ],
+        [
+          "先怎么想｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。"
+        ],
+        [
+          "核心过程 / 答案｜S=1/2×4×5×1/2=5。"
+        ]
+      ],
+      "text": "典型例题｜b=4,c=5,A=30°，求面积。\n先怎么想｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。\n核心过程 / 答案｜S=1/2×4×5×1/2=5。",
+      "sourceIndex": 2033
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜面积公式中的A必须是b、c两边的夹角。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜面积公式中的A必须是b、c两边的夹角。",
+      "sourceIndex": 2034
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2035
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。"
+        ]
+      ],
+      "text": "📌 30秒速记｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。",
+      "sourceIndex": 2036
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2037
+    },
+    {
+      "type": "paragraph",
+      "text": "1. a=3,b=4,C=90°，面积。",
+      "style": "",
+      "sourceIndex": 2038
+    },
+    {
+      "type": "paragraph",
+      "text": "2. S=1/2ab sinC中C是什么角？",
+      "style": "",
+      "sourceIndex": 2039
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 两边6,8夹角30°面积。",
+      "style": "",
+      "sourceIndex": 2040
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 等边三角形边长2面积。",
+      "style": "",
+      "sourceIndex": 2041
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 面积为0说明三点关系。",
+      "style": "",
+      "sourceIndex": 2042
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.6；2.a,b夹角；3.12；4.√3；5.共线/退化",
+      "style": "TinyNote",
+      "sourceIndex": 2043
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2044
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问面积、两边夹角、面积与正余弦定理联立。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问面积、两边夹角、面积与正余弦定理联立。",
+          "sourceIndex": 2005
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。",
+          "sourceIndex": 2006
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 2007
+        },
+        {
+          "type": "paragraph",
+          "text": "• 余弦定理 → 三角形里的“勾股定理升级版”",
+          "style": "",
+          "sourceIndex": 2008
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2009
+        },
+        {
+          "type": "paragraph",
+          "text": "三角题看起来公式多，其实大多数错误来自“角没统一、符号没看象限、区间没筛”。先把这三件事固定，公式反而是后面的机械步骤。",
+          "style": "",
+          "sourceIndex": 2010
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2011
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 优先凑“两边+夹角”：S=1/2 bc sinA。",
+          "style": "",
+          "sourceIndex": 2012
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 2013
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 2014
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 若只给三边先用余弦求角或用面积关系转化。",
+          "style": "",
+          "sourceIndex": 2015
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 2016
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 2017
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 面积已知时可反求sinA，再结合余弦定理确定边角。",
+          "style": "",
+          "sourceIndex": 2018
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：三角题最怕角和函数种类混在一起。先把角统一、再看象限和公式，能显著减少符号错误。",
+          "style": "",
+          "sourceIndex": 2019
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把所有角化成同一基准角；在旁边标象限，再选择只需要的一条公式，不要把全部公式同时展开。",
+          "style": "",
+          "sourceIndex": 2020
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2021
+        },
+        {
+          "type": "paragraph",
+          "text": "• 出现区间：最终答案必须筛区间。",
+          "style": "",
+          "sourceIndex": 2022
+        },
+        {
+          "type": "paragraph",
+          "text": "• 开平方/反三角找角时：符号和象限必须同时检查。",
+          "style": "",
+          "sourceIndex": 2023
+        },
+        {
+          "type": "paragraph",
+          "text": "• 公式很多时先统一角，再统一函数种类，别一上来全展开。",
+          "style": "",
+          "sourceIndex": 2024
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2025
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2026
+        },
+        {
+          "type": "paragraph",
+          "text": "• 角度/弧度单位是否统一？",
+          "style": "",
+          "sourceIndex": 2027
+        },
+        {
+          "type": "paragraph",
+          "text": "• 象限决定的正负有没有检查？",
+          "style": "",
+          "sourceIndex": 2028
+        },
+        {
+          "type": "paragraph",
+          "text": "• 最终角是否全部落在指定区间？",
+          "style": "",
+          "sourceIndex": 2029
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2030
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果公式越套越乱：停下来，只做两件事——统一角、统一成sin/cos。",
+          "style": "",
+          "sourceIndex": 2031
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果不知道符号：画一个单位圆或写象限，不要靠记忆硬猜。",
+          "style": "",
+          "sourceIndex": 2032
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜b=4,c=5,A=30°，求面积。"
+            ],
+            [
+              "先怎么想｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。"
+            ],
+            [
+              "核心过程 / 答案｜S=1/2×4×5×1/2=5。"
+            ]
+          ],
+          "text": "典型例题｜b=4,c=5,A=30°，求面积。\n先怎么想｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。\n核心过程 / 答案｜S=1/2×4×5×1/2=5。",
+          "sourceIndex": 2033
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜面积公式中的A必须是b、c两边的夹角。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜面积公式中的A必须是b、c两边的夹角。",
+          "sourceIndex": 2034
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2035
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。"
+            ]
+          ],
+          "text": "📌 30秒速记｜面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。",
+          "sourceIndex": 2036
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2037
+        },
+        {
+          "type": "paragraph",
+          "text": "1. a=3,b=4,C=90°，面积。",
+          "style": "",
+          "sourceIndex": 2038
+        },
+        {
+          "type": "paragraph",
+          "text": "2. S=1/2ab sinC中C是什么角？",
+          "style": "",
+          "sourceIndex": 2039
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 两边6,8夹角30°面积。",
+          "style": "",
+          "sourceIndex": 2040
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 等边三角形边长2面积。",
+          "style": "",
+          "sourceIndex": 2041
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 面积为0说明三点关系。",
+          "style": "",
+          "sourceIndex": 2042
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.6；2.a,b夹角；3.12；4.√3；5.共线/退化",
+          "style": "TinyNote",
+          "sourceIndex": 2043
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2044
+        }
+      ]
+    }
+  ],
+  "sort_order": 45,
+  "brain_first": "面积题先问：能不能找到“两条边+它们夹着的角”？找到就直接½ab sinC。"
+}

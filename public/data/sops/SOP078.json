@@ -1,0 +1,598 @@
+{
+  "id": "SOP078",
+  "code": "SOP078",
+  "title": "等差数列通项与基本性质",
+  "chapter_id": "chapter-19",
+  "chapter": "选择性必修第一册 第4章 数列",
+  "frequency": 5,
+  "keywords": [
+    "等差数列通项",
+    "基本性质"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 3298
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜出现“等差数列、公差d、an”，求通项或某项。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜出现“等差数列、公差d、an”，求通项或某项。",
+      "sourceIndex": 3299
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。",
+      "sourceIndex": 3300
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 3301
+    },
+    {
+      "type": "paragraph",
+      "text": "数列只是把“第几项”换成n来表达。把所有条件统一翻译成少数几个基本量（如a₁,d,q,S_n），题目会从很多下标变成普通方程。",
+      "style": "",
+      "sourceIndex": 3302
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 3303
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 设首项a1、公差d。",
+      "style": "",
+      "sourceIndex": 3304
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：数列的下标看着多，但等差/等比都由极少数参数决定。先统一成a1和d/q，条件就会变成普通方程。",
+      "style": "",
+      "sourceIndex": 3305
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把每个a_n都替成a1+(n-1)d或a1 q^(n-1)；把所有已知写成关于a1、d/q的方程组。",
+      "style": "",
+      "sourceIndex": 3306
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 用an=a1+(n-1)d，把条件翻译成a1,d方程。",
+      "style": "",
+      "sourceIndex": 3307
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：数列的下标看着多，但等差/等比都由极少数参数决定。先统一成a1和d/q，条件就会变成普通方程。",
+      "style": "",
+      "sourceIndex": 3308
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把每个a_n都替成a1+(n-1)d或a1 q^(n-1)；把所有已知写成关于a1、d/q的方程组。",
+      "style": "",
+      "sourceIndex": 3309
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 利用am+an=ap+aq（m+n=p+q）等性质可快速算。",
+      "style": "",
+      "sourceIndex": 3310
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：把不同下标统一翻成少数基本量，是数列题的关键。先统一语言再解方程，会比盯着a7、a12容易很多。",
+      "style": "",
+      "sourceIndex": 3311
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：等差统一写a1,d；等比统一写a1,q；求和题先写S_n公式或前几项结构。",
+      "style": "",
+      "sourceIndex": 3312
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 3313
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先判断是在求“第n项”还是“前n项和”。",
+      "style": "",
+      "sourceIndex": 3314
+    },
+    {
+      "type": "paragraph",
+      "text": "• 等比求和必须检查q=1。",
+      "style": "",
+      "sourceIndex": 3315
+    },
+    {
+      "type": "paragraph",
+      "text": "• 由S_n求a_n时a₁=S₁必须单独处理。",
+      "style": "",
+      "sourceIndex": 3316
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 3317
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 3318
+    },
+    {
+      "type": "paragraph",
+      "text": "• n从1开始还是从2开始？",
+      "style": "",
+      "sourceIndex": 3319
+    },
+    {
+      "type": "paragraph",
+      "text": "• q=1是否单独处理？",
+      "style": "",
+      "sourceIndex": 3320
+    },
+    {
+      "type": "paragraph",
+      "text": "• 由S_n求a_n时a₁是否单独检查？",
+      "style": "",
+      "sourceIndex": 3321
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 3322
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 3323
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 3324
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜a1=2,d=3，求a5。"
+        ],
+        [
+          "先怎么想｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。"
+        ],
+        [
+          "核心过程 / 答案｜a5=2+4×3=14。"
+        ]
+      ],
+      "text": "典型例题｜a1=2,d=3，求a5。\n先怎么想｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。\n核心过程 / 答案｜a5=2+4×3=14。",
+      "sourceIndex": 3325
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜第n项是(n-1)d，不是nd。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜第n项是(n-1)d，不是nd。",
+      "sourceIndex": 3326
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 3327
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。"
+        ]
+      ],
+      "text": "📌 30秒速记｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。",
+      "sourceIndex": 3328
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 3329
+    },
+    {
+      "type": "paragraph",
+      "text": "1. a1=5,d=-2，a4。",
+      "style": "",
+      "sourceIndex": 3330
+    },
+    {
+      "type": "paragraph",
+      "text": "2. a3=7,d=2，a1。",
+      "style": "",
+      "sourceIndex": 3331
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 等差中项：a,b,c成等差，关系。",
+      "style": "",
+      "sourceIndex": 3332
+    },
+    {
+      "type": "paragraph",
+      "text": "4. a2+a6与a3+a5关系。",
+      "style": "",
+      "sourceIndex": 3333
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 公差定义。",
+      "style": "",
+      "sourceIndex": 3334
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.-1；2.3；3.2b=a+c；4.相等；5.a_{n+1}-a_n=d",
+      "style": "TinyNote",
+      "sourceIndex": 3335
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 3336
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜出现“等差数列、公差d、an”，求通项或某项。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜出现“等差数列、公差d、an”，求通项或某项。",
+          "sourceIndex": 3299
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。",
+          "sourceIndex": 3300
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 3301
+        },
+        {
+          "type": "paragraph",
+          "text": "数列只是把“第几项”换成n来表达。把所有条件统一翻译成少数几个基本量（如a₁,d,q,S_n），题目会从很多下标变成普通方程。",
+          "style": "",
+          "sourceIndex": 3302
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 3303
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 设首项a1、公差d。",
+          "style": "",
+          "sourceIndex": 3304
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：数列的下标看着多，但等差/等比都由极少数参数决定。先统一成a1和d/q，条件就会变成普通方程。",
+          "style": "",
+          "sourceIndex": 3305
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把每个a_n都替成a1+(n-1)d或a1 q^(n-1)；把所有已知写成关于a1、d/q的方程组。",
+          "style": "",
+          "sourceIndex": 3306
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 用an=a1+(n-1)d，把条件翻译成a1,d方程。",
+          "style": "",
+          "sourceIndex": 3307
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：数列的下标看着多，但等差/等比都由极少数参数决定。先统一成a1和d/q，条件就会变成普通方程。",
+          "style": "",
+          "sourceIndex": 3308
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把每个a_n都替成a1+(n-1)d或a1 q^(n-1)；把所有已知写成关于a1、d/q的方程组。",
+          "style": "",
+          "sourceIndex": 3309
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 利用am+an=ap+aq（m+n=p+q）等性质可快速算。",
+          "style": "",
+          "sourceIndex": 3310
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：把不同下标统一翻成少数基本量，是数列题的关键。先统一语言再解方程，会比盯着a7、a12容易很多。",
+          "style": "",
+          "sourceIndex": 3311
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：等差统一写a1,d；等比统一写a1,q；求和题先写S_n公式或前几项结构。",
+          "style": "",
+          "sourceIndex": 3312
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 3313
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先判断是在求“第n项”还是“前n项和”。",
+          "style": "",
+          "sourceIndex": 3314
+        },
+        {
+          "type": "paragraph",
+          "text": "• 等比求和必须检查q=1。",
+          "style": "",
+          "sourceIndex": 3315
+        },
+        {
+          "type": "paragraph",
+          "text": "• 由S_n求a_n时a₁=S₁必须单独处理。",
+          "style": "",
+          "sourceIndex": 3316
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 3317
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 3318
+        },
+        {
+          "type": "paragraph",
+          "text": "• n从1开始还是从2开始？",
+          "style": "",
+          "sourceIndex": 3319
+        },
+        {
+          "type": "paragraph",
+          "text": "• q=1是否单独处理？",
+          "style": "",
+          "sourceIndex": 3320
+        },
+        {
+          "type": "paragraph",
+          "text": "• 由S_n求a_n时a₁是否单独检查？",
+          "style": "",
+          "sourceIndex": 3321
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 3322
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 3323
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 3324
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜a1=2,d=3，求a5。"
+            ],
+            [
+              "先怎么想｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。"
+            ],
+            [
+              "核心过程 / 答案｜a5=2+4×3=14。"
+            ]
+          ],
+          "text": "典型例题｜a1=2,d=3，求a5。\n先怎么想｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。\n核心过程 / 答案｜a5=2+4×3=14。",
+          "sourceIndex": 3325
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜第n项是(n-1)d，不是nd。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜第n项是(n-1)d，不是nd。",
+          "sourceIndex": 3326
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 3327
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。"
+            ]
+          ],
+          "text": "📌 30秒速记｜等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。",
+          "sourceIndex": 3328
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 3329
+        },
+        {
+          "type": "paragraph",
+          "text": "1. a1=5,d=-2，a4。",
+          "style": "",
+          "sourceIndex": 3330
+        },
+        {
+          "type": "paragraph",
+          "text": "2. a3=7,d=2，a1。",
+          "style": "",
+          "sourceIndex": 3331
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 等差中项：a,b,c成等差，关系。",
+          "style": "",
+          "sourceIndex": 3332
+        },
+        {
+          "type": "paragraph",
+          "text": "4. a2+a6与a3+a5关系。",
+          "style": "",
+          "sourceIndex": 3333
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 公差定义。",
+          "style": "",
+          "sourceIndex": 3334
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.-1；2.3；3.2b=a+c；4.相等；5.a_{n+1}-a_n=d",
+          "style": "TinyNote",
+          "sourceIndex": 3335
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 3336
+        }
+      ]
+    }
+  ],
+  "sort_order": 77,
+  "brain_first": "等差数列先把所有条件翻译成a₁和d。不要被a₇、a₁₂吓到，它们都只是a₁+(n-1)d。"
+}

@@ -1,0 +1,628 @@
+{
+  "id": "SOP038",
+  "code": "SOP038",
+  "title": "平面向量基本定理与基底表示",
+  "chapter_id": "chapter-09",
+  "chapter": "必修第二册 第9章 平面向量",
+  "frequency": 4,
+  "keywords": [
+    "平面向量基本定理",
+    "基底表示"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 1668
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜给两个不共线向量e1,e2，要求唯一表示a=xe1+ye2。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜给两个不共线向量e1,e2，要求唯一表示a=xe1+ye2。",
+      "sourceIndex": 1669
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。",
+      "sourceIndex": 1670
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1671
+    },
+    {
+      "type": "paragraph",
+      "text": "• 基底 → 平面/空间里用来拼出其他向量的一组基础方向",
+      "style": "",
+      "sourceIndex": 1672
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1673
+    },
+    {
+      "type": "paragraph",
+      "text": "向量的价值就是把几何语言变成数字：坐标负责运算，数量积负责角和垂直，倍数关系负责平行。先确定要翻译成哪一种关系。",
+      "style": "",
+      "sourceIndex": 1674
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1675
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 确认e1,e2不共线，才可作为平面的一组基底。",
+      "style": "",
+      "sourceIndex": 1676
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把几何关系翻成坐标或数量积。翻译对了，后面通常只是普通代数。",
+      "style": "",
+      "sourceIndex": 1677
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把点先写坐标；向量用“终点-起点”；平行写倍数关系，垂直写点积0，夹角写余弦公式。",
+      "style": "",
+      "sourceIndex": 1678
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 把等式两边按基底系数比较，或转成坐标方程。",
+      "style": "",
+      "sourceIndex": 1679
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把几何关系翻成坐标或数量积。翻译对了，后面通常只是普通代数。",
+      "style": "",
+      "sourceIndex": 1680
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把点先写坐标；向量用“终点-起点”；平行写倍数关系，垂直写点积0，夹角写余弦公式。",
+      "style": "",
+      "sourceIndex": 1681
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 利用“表示唯一性”直接对应系数。",
+      "style": "",
+      "sourceIndex": 1682
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把几何关系翻成坐标或数量积。翻译对了，后面通常只是普通代数。",
+      "style": "",
+      "sourceIndex": 1683
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把点先写坐标；向量用“终点-起点”；平行写倍数关系，垂直写点积0，夹角写余弦公式。",
+      "style": "",
+      "sourceIndex": 1684
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1685
+    },
+    {
+      "type": "paragraph",
+      "text": "• 给坐标：优先坐标法。",
+      "style": "",
+      "sourceIndex": 1686
+    },
+    {
+      "type": "paragraph",
+      "text": "• 图形关系特别清楚：可先用几何关系简化，再坐标计算。",
+      "style": "",
+      "sourceIndex": 1687
+    },
+    {
+      "type": "paragraph",
+      "text": "• 数量积为0只能说明垂直，前提是两个向量都非零。",
+      "style": "",
+      "sourceIndex": 1688
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1689
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1690
+    },
+    {
+      "type": "paragraph",
+      "text": "• 向量起点终点顺序是否写反？",
+      "style": "",
+      "sourceIndex": 1691
+    },
+    {
+      "type": "paragraph",
+      "text": "• 数量积公式是否漏了长度？",
+      "style": "",
+      "sourceIndex": 1692
+    },
+    {
+      "type": "paragraph",
+      "text": "• 求夹角时是否取题目要求的角？",
+      "style": "",
+      "sourceIndex": 1693
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1694
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 1695
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 1696
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜e1,e2不共线，2e1+ye2=xe1-3e2，求x,y。"
+        ],
+        [
+          "先怎么想｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。"
+        ],
+        [
+          "核心过程 / 答案｜唯一性得x=2,y=-3。"
+        ]
+      ],
+      "text": "典型例题｜e1,e2不共线，2e1+ye2=xe1-3e2，求x,y。\n先怎么想｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。\n核心过程 / 答案｜唯一性得x=2,y=-3。",
+      "sourceIndex": 1697
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜只有基底不共线时，系数比较才具有唯一性。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜只有基底不共线时，系数比较才具有唯一性。",
+      "sourceIndex": 1698
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1699
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。"
+        ]
+      ],
+      "text": "📌 30秒速记｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。",
+      "sourceIndex": 1700
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1701
+    },
+    {
+      "type": "paragraph",
+      "text": "1. e1,e2为基底，3e1+2e2=xe1+ye2，x,y。",
+      "style": "",
+      "sourceIndex": 1702
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 两个共线向量能作平面基底吗？",
+      "style": "",
+      "sourceIndex": 1703
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 平面基底需要几个不共线向量？",
+      "style": "",
+      "sourceIndex": 1704
+    },
+    {
+      "type": "paragraph",
+      "text": "4. a=0e1+0e2表示什么？",
+      "style": "",
+      "sourceIndex": 1705
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 基底表示的核心性质。",
+      "style": "",
+      "sourceIndex": 1706
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.3,2；2.不能；3.2个；4.零向量；5.唯一性",
+      "style": "TinyNote",
+      "sourceIndex": 1707
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1708
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜给两个不共线向量e1,e2，要求唯一表示a=xe1+ye2。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜给两个不共线向量e1,e2，要求唯一表示a=xe1+ye2。",
+          "sourceIndex": 1669
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。",
+          "sourceIndex": 1670
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1671
+        },
+        {
+          "type": "paragraph",
+          "text": "• 基底 → 平面/空间里用来拼出其他向量的一组基础方向",
+          "style": "",
+          "sourceIndex": 1672
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1673
+        },
+        {
+          "type": "paragraph",
+          "text": "向量的价值就是把几何语言变成数字：坐标负责运算，数量积负责角和垂直，倍数关系负责平行。先确定要翻译成哪一种关系。",
+          "style": "",
+          "sourceIndex": 1674
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1675
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 确认e1,e2不共线，才可作为平面的一组基底。",
+          "style": "",
+          "sourceIndex": 1676
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把几何关系翻成坐标或数量积。翻译对了，后面通常只是普通代数。",
+          "style": "",
+          "sourceIndex": 1677
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把点先写坐标；向量用“终点-起点”；平行写倍数关系，垂直写点积0，夹角写余弦公式。",
+          "style": "",
+          "sourceIndex": 1678
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 把等式两边按基底系数比较，或转成坐标方程。",
+          "style": "",
+          "sourceIndex": 1679
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把几何关系翻成坐标或数量积。翻译对了，后面通常只是普通代数。",
+          "style": "",
+          "sourceIndex": 1680
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把点先写坐标；向量用“终点-起点”；平行写倍数关系，垂直写点积0，夹角写余弦公式。",
+          "style": "",
+          "sourceIndex": 1681
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 利用“表示唯一性”直接对应系数。",
+          "style": "",
+          "sourceIndex": 1682
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把几何关系翻成坐标或数量积。翻译对了，后面通常只是普通代数。",
+          "style": "",
+          "sourceIndex": 1683
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把点先写坐标；向量用“终点-起点”；平行写倍数关系，垂直写点积0，夹角写余弦公式。",
+          "style": "",
+          "sourceIndex": 1684
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1685
+        },
+        {
+          "type": "paragraph",
+          "text": "• 给坐标：优先坐标法。",
+          "style": "",
+          "sourceIndex": 1686
+        },
+        {
+          "type": "paragraph",
+          "text": "• 图形关系特别清楚：可先用几何关系简化，再坐标计算。",
+          "style": "",
+          "sourceIndex": 1687
+        },
+        {
+          "type": "paragraph",
+          "text": "• 数量积为0只能说明垂直，前提是两个向量都非零。",
+          "style": "",
+          "sourceIndex": 1688
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1689
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1690
+        },
+        {
+          "type": "paragraph",
+          "text": "• 向量起点终点顺序是否写反？",
+          "style": "",
+          "sourceIndex": 1691
+        },
+        {
+          "type": "paragraph",
+          "text": "• 数量积公式是否漏了长度？",
+          "style": "",
+          "sourceIndex": 1692
+        },
+        {
+          "type": "paragraph",
+          "text": "• 求夹角时是否取题目要求的角？",
+          "style": "",
+          "sourceIndex": 1693
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1694
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 1695
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 1696
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜e1,e2不共线，2e1+ye2=xe1-3e2，求x,y。"
+            ],
+            [
+              "先怎么想｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。"
+            ],
+            [
+              "核心过程 / 答案｜唯一性得x=2,y=-3。"
+            ]
+          ],
+          "text": "典型例题｜e1,e2不共线，2e1+ye2=xe1-3e2，求x,y。\n先怎么想｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。\n核心过程 / 答案｜唯一性得x=2,y=-3。",
+          "sourceIndex": 1697
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜只有基底不共线时，系数比较才具有唯一性。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜只有基底不共线时，系数比较才具有唯一性。",
+          "sourceIndex": 1698
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1699
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。"
+            ]
+          ],
+          "text": "📌 30秒速记｜平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。",
+          "sourceIndex": 1700
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1701
+        },
+        {
+          "type": "paragraph",
+          "text": "1. e1,e2为基底，3e1+2e2=xe1+ye2，x,y。",
+          "style": "",
+          "sourceIndex": 1702
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 两个共线向量能作平面基底吗？",
+          "style": "",
+          "sourceIndex": 1703
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 平面基底需要几个不共线向量？",
+          "style": "",
+          "sourceIndex": 1704
+        },
+        {
+          "type": "paragraph",
+          "text": "4. a=0e1+0e2表示什么？",
+          "style": "",
+          "sourceIndex": 1705
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 基底表示的核心性质。",
+          "style": "",
+          "sourceIndex": 1706
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.3,2；2.不能；3.2个；4.零向量；5.唯一性",
+          "style": "TinyNote",
+          "sourceIndex": 1707
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1708
+        }
+      ]
+    }
+  ],
+  "sort_order": 37,
+  "brain_first": "平面里选两条不共线向量当“积木”，其他向量都拆成这两块的倍数相加。"
+}

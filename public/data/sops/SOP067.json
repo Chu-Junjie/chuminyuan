@@ -1,0 +1,586 @@
+{
+  "id": "SOP067",
+  "code": "SOP067",
+  "title": "点到直线距离与平行线距离",
+  "chapter_id": "chapter-16",
+  "chapter": "选择性必修第一册 第1章 直线与方程",
+  "frequency": 5,
+  "keywords": [
+    "点到直线距离",
+    "平行线距离"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 2857
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜点P到Ax+By+C=0距离，或两平行直线间距离。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜点P到Ax+By+C=0距离，或两平行直线间距离。",
+      "sourceIndex": 2858
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。",
+      "sourceIndex": 2859
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2860
+    },
+    {
+      "type": "paragraph",
+      "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+      "style": "",
+      "sourceIndex": 2861
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2862
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先把直线写成Ax+By+C=0。",
+      "style": "",
+      "sourceIndex": 2863
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 2864
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 2865
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 点线距离d=|Ax0+By0+C|/√(A²+B²)。",
+      "style": "",
+      "sourceIndex": 2866
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：距离公式只适用于一般式Ax+By+C=0，所以先标准化直线，能减少代错系数。",
+      "style": "",
+      "sourceIndex": 2867
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：按A、B、C顺序把点坐标代入绝对值分子，分母写√(A²+B²)；先算平方和再开根号。",
+      "style": "",
+      "sourceIndex": 2868
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 两平行线Ax+By+C1=0与Ax+By+C2=0距离=|C1-C2|/√(A²+B²)。",
+      "style": "",
+      "sourceIndex": 2869
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+      "style": "",
+      "sourceIndex": 2870
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+      "style": "",
+      "sourceIndex": 2871
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2872
+    },
+    {
+      "type": "paragraph",
+      "text": "• 竖直线斜率不存在，要单独处理x=常数。",
+      "style": "",
+      "sourceIndex": 2873
+    },
+    {
+      "type": "paragraph",
+      "text": "• 斜率法麻烦时可把直线写成一般式Ax+By+C=0再处理距离/位置。",
+      "style": "",
+      "sourceIndex": 2874
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2875
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2876
+    },
+    {
+      "type": "paragraph",
+      "text": "• 有没有先认标准方程/方向？",
+      "style": "",
+      "sourceIndex": 2877
+    },
+    {
+      "type": "paragraph",
+      "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+      "style": "",
+      "sourceIndex": 2878
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算结果能否用图形常识检查正负和范围？",
+      "style": "",
+      "sourceIndex": 2879
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2880
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2881
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2882
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜点(0,0)到3x+4y-5=0距离。"
+        ],
+        [
+          "先怎么想｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。"
+        ],
+        [
+          "核心过程 / 答案｜5/5=1。"
+        ]
+      ],
+      "text": "典型例题｜点(0,0)到3x+4y-5=0距离。\n先怎么想｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。\n核心过程 / 答案｜5/5=1。",
+      "sourceIndex": 2883
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜两平行线公式要求A、B系数完全相同，必要时先倍乘统一。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜两平行线公式要求A、B系数完全相同，必要时先倍乘统一。",
+      "sourceIndex": 2884
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2885
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。"
+        ]
+      ],
+      "text": "📌 30秒速记｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。",
+      "sourceIndex": 2886
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2887
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 点(1,0)到x=0距离。",
+      "style": "",
+      "sourceIndex": 2888
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 点(0,2)到y=0距离。",
+      "style": "",
+      "sourceIndex": 2889
+    },
+    {
+      "type": "paragraph",
+      "text": "3. x=1与x=4距离。",
+      "style": "",
+      "sourceIndex": 2890
+    },
+    {
+      "type": "paragraph",
+      "text": "4. y=2x+1写一般式。",
+      "style": "",
+      "sourceIndex": 2891
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 距离公式分母。",
+      "style": "",
+      "sourceIndex": 2892
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.1；2.2；3.3；4.2x-y+1=0；5.√(A²+B²)",
+      "style": "TinyNote",
+      "sourceIndex": 2893
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2894
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜点P到Ax+By+C=0距离，或两平行直线间距离。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜点P到Ax+By+C=0距离，或两平行直线间距离。",
+          "sourceIndex": 2858
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。",
+          "sourceIndex": 2859
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2860
+        },
+        {
+          "type": "paragraph",
+          "text": "解析几何题最怕一开始就暴力联立。先认图形的标准量和最短工具（距离、定义、韦达、对称），往往能少算一半。",
+          "style": "",
+          "sourceIndex": 2861
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2862
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先把直线写成Ax+By+C=0。",
+          "style": "",
+          "sourceIndex": 2863
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 2864
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 2865
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 点线距离d=|Ax0+By0+C|/√(A²+B²)。",
+          "style": "",
+          "sourceIndex": 2866
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：距离公式只适用于一般式Ax+By+C=0，所以先标准化直线，能减少代错系数。",
+          "style": "",
+          "sourceIndex": 2867
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：按A、B、C顺序把点坐标代入绝对值分子，分母写√(A²+B²)；先算平方和再开根号。",
+          "style": "",
+          "sourceIndex": 2868
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 两平行线Ax+By+C1=0与Ax+By+C2=0距离=|C1-C2|/√(A²+B²)。",
+          "style": "",
+          "sourceIndex": 2869
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：解析几何先把对象化成标准方程，再用距离、对称、定义或韦达。直接暴力解坐标通常是最后选择。",
+          "style": "",
+          "sourceIndex": 2870
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把标准量（斜率、圆心半径、a/b/c/e、焦点准线）先写在图旁，再决定距离法还是联立法。",
+          "style": "",
+          "sourceIndex": 2871
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2872
+        },
+        {
+          "type": "paragraph",
+          "text": "• 竖直线斜率不存在，要单独处理x=常数。",
+          "style": "",
+          "sourceIndex": 2873
+        },
+        {
+          "type": "paragraph",
+          "text": "• 斜率法麻烦时可把直线写成一般式Ax+By+C=0再处理距离/位置。",
+          "style": "",
+          "sourceIndex": 2874
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2875
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2876
+        },
+        {
+          "type": "paragraph",
+          "text": "• 有没有先认标准方程/方向？",
+          "style": "",
+          "sourceIndex": 2877
+        },
+        {
+          "type": "paragraph",
+          "text": "• 判别式或距离条件是否满足“确实有交点/相切”？",
+          "style": "",
+          "sourceIndex": 2878
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算结果能否用图形常识检查正负和范围？",
+          "style": "",
+          "sourceIndex": 2879
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2880
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2881
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2882
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜点(0,0)到3x+4y-5=0距离。"
+            ],
+            [
+              "先怎么想｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。"
+            ],
+            [
+              "核心过程 / 答案｜5/5=1。"
+            ]
+          ],
+          "text": "典型例题｜点(0,0)到3x+4y-5=0距离。\n先怎么想｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。\n核心过程 / 答案｜5/5=1。",
+          "sourceIndex": 2883
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜两平行线公式要求A、B系数完全相同，必要时先倍乘统一。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜两平行线公式要求A、B系数完全相同，必要时先倍乘统一。",
+          "sourceIndex": 2884
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2885
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。"
+            ]
+          ],
+          "text": "📌 30秒速记｜点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。",
+          "sourceIndex": 2886
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2887
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 点(1,0)到x=0距离。",
+          "style": "",
+          "sourceIndex": 2888
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 点(0,2)到y=0距离。",
+          "style": "",
+          "sourceIndex": 2889
+        },
+        {
+          "type": "paragraph",
+          "text": "3. x=1与x=4距离。",
+          "style": "",
+          "sourceIndex": 2890
+        },
+        {
+          "type": "paragraph",
+          "text": "4. y=2x+1写一般式。",
+          "style": "",
+          "sourceIndex": 2891
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 距离公式分母。",
+          "style": "",
+          "sourceIndex": 2892
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.1；2.2；3.3；4.2x-y+1=0；5.√(A²+B²)",
+          "style": "TinyNote",
+          "sourceIndex": 2893
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2894
+        }
+      ]
+    }
+  ],
+  "sort_order": 66,
+  "brain_first": "点到直线距离就是把点代进Ax+By+C，再除以√(A²+B²)。平行线距离也可以选一条线上任一点去算。"
+}

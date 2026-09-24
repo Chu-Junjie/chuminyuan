@@ -1,0 +1,615 @@
+{
+  "id": "SOP061",
+  "code": "SOP061",
+  "title": "古典概型",
+  "chapter_id": "chapter-15",
+  "chapter": "必修第二册 第15章 概率",
+  "frequency": 5,
+  "keywords": [
+    "古典概型"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 2612
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜有限个等可能基本事件，“随机取/掷/抽”求概率。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜有限个等可能基本事件，“随机取/掷/抽”求概率。",
+      "sourceIndex": 2613
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。",
+      "sourceIndex": 2614
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 2615
+    },
+    {
+      "type": "paragraph",
+      "text": "• 古典概型 → 所有基本结果等可能时，用有利数÷总数",
+      "style": "",
+      "sourceIndex": 2616
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2617
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 2618
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2619
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先确认基本事件等可能。",
+      "style": "",
+      "sourceIndex": 2620
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：“有利数÷总数”成立的前提是每个基本结果机会一样。若概率本来就不同，数个数没有意义。",
+      "style": "",
+      "sourceIndex": 2621
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先写出样本空间或说明每个基本事件等可能；再数总数N和有利数M，最后P=M/N。",
+      "style": "",
+      "sourceIndex": 2622
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 数总基本事件数N。",
+      "style": "",
+      "sourceIndex": 2623
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 2624
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 2625
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 数事件A包含的有利结果数M，P(A)=M/N。",
+      "style": "",
+      "sourceIndex": 2626
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 2627
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 2628
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2629
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 2630
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 2631
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2632
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2633
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 2634
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 2635
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 2636
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2637
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2638
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2639
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜掷一枚公平骰子，点数为偶数概率。"
+        ],
+        [
+          "先怎么想｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。"
+        ],
+        [
+          "核心过程 / 答案｜有利{2,4,6}共3个，总6个，概率1/2。"
+        ]
+      ],
+      "text": "典型例题｜掷一枚公平骰子，点数为偶数概率。\n先怎么想｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。\n核心过程 / 答案｜有利{2,4,6}共3个，总6个，概率1/2。",
+      "sourceIndex": 2640
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜样本点不等可能时不能直接用“个数比”。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜样本点不等可能时不能直接用“个数比”。",
+      "sourceIndex": 2641
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2642
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。"
+        ]
+      ],
+      "text": "📌 30秒速记｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。",
+      "sourceIndex": 2643
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2644
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 掷骰子点数>4概率。",
+      "style": "",
+      "sourceIndex": 2645
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 抛硬币一次正面概率。",
+      "style": "",
+      "sourceIndex": 2646
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 从1,2,3中随机取1个，取到奇数概率。",
+      "style": "",
+      "sourceIndex": 2647
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 古典概型核心前提。",
+      "style": "",
+      "sourceIndex": 2648
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 概率范围。",
+      "style": "",
+      "sourceIndex": 2649
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.1/3；2.1/2；3.2/3；4.有限且等可能；5.[0,1]",
+      "style": "TinyNote",
+      "sourceIndex": 2650
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2651
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜有限个等可能基本事件，“随机取/掷/抽”求概率。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜有限个等可能基本事件，“随机取/掷/抽”求概率。",
+          "sourceIndex": 2613
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。",
+          "sourceIndex": 2614
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 2615
+        },
+        {
+          "type": "paragraph",
+          "text": "• 古典概型 → 所有基本结果等可能时，用有利数÷总数",
+          "style": "",
+          "sourceIndex": 2616
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2617
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 2618
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2619
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先确认基本事件等可能。",
+          "style": "",
+          "sourceIndex": 2620
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：“有利数÷总数”成立的前提是每个基本结果机会一样。若概率本来就不同，数个数没有意义。",
+          "style": "",
+          "sourceIndex": 2621
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先写出样本空间或说明每个基本事件等可能；再数总数N和有利数M，最后P=M/N。",
+          "style": "",
+          "sourceIndex": 2622
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 数总基本事件数N。",
+          "style": "",
+          "sourceIndex": 2623
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 2624
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 2625
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 数事件A包含的有利结果数M，P(A)=M/N。",
+          "style": "",
+          "sourceIndex": 2626
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 2627
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 2628
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2629
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 2630
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 2631
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2632
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2633
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 2634
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 2635
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 2636
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2637
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2638
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2639
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜掷一枚公平骰子，点数为偶数概率。"
+            ],
+            [
+              "先怎么想｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。"
+            ],
+            [
+              "核心过程 / 答案｜有利{2,4,6}共3个，总6个，概率1/2。"
+            ]
+          ],
+          "text": "典型例题｜掷一枚公平骰子，点数为偶数概率。\n先怎么想｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。\n核心过程 / 答案｜有利{2,4,6}共3个，总6个，概率1/2。",
+          "sourceIndex": 2640
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜样本点不等可能时不能直接用“个数比”。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜样本点不等可能时不能直接用“个数比”。",
+          "sourceIndex": 2641
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2642
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。"
+            ]
+          ],
+          "text": "📌 30秒速记｜古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。",
+          "sourceIndex": 2643
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2644
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 掷骰子点数>4概率。",
+          "style": "",
+          "sourceIndex": 2645
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 抛硬币一次正面概率。",
+          "style": "",
+          "sourceIndex": 2646
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 从1,2,3中随机取1个，取到奇数概率。",
+          "style": "",
+          "sourceIndex": 2647
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 古典概型核心前提。",
+          "style": "",
+          "sourceIndex": 2648
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 概率范围。",
+          "style": "",
+          "sourceIndex": 2649
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.1/3；2.1/2；3.2/3；4.有限且等可能；5.[0,1]",
+          "style": "TinyNote",
+          "sourceIndex": 2650
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2651
+        }
+      ]
+    }
+  ],
+  "sort_order": 60,
+  "brain_first": "古典概率只有在“每个基本结果机会一样”时才用“有利情况数÷总情况数”。先数总数，再数想要的。"
+}

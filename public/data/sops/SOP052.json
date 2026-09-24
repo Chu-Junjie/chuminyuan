@@ -1,0 +1,586 @@
+{
+  "id": "SOP052",
+  "code": "SOP052",
+  "title": "线面垂直与面面垂直证明",
+  "chapter_id": "chapter-13",
+  "chapter": "必修第二册 第13章 立体几何初步",
+  "frequency": 5,
+  "keywords": [
+    "线面垂直",
+    "面面垂直证明"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 2250
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜证明直线⊥平面、两个平面⊥。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜证明直线⊥平面、两个平面⊥。",
+      "sourceIndex": 2251
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。",
+      "sourceIndex": 2252
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 2253
+    },
+    {
+      "type": "paragraph",
+      "text": "立体几何看图容易乱，所以要么用判定定理把目标拆成少量条件，要么建坐标把空间关系变成向量计算。先选路线比直接算更重要。",
+      "style": "",
+      "sourceIndex": 2254
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 2255
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 线面垂直：找平面内两条相交直线m,n，证明l⊥m且l⊥n。",
+      "style": "",
+      "sourceIndex": 2256
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：一条线只垂直平面内一条线还不够，因为它可能斜着穿过平面；垂直两条相交线才能把方向锁死。",
+      "style": "",
+      "sourceIndex": 2257
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在平面内圈出两条确实相交的线m、n，分别证明l⊥m、l⊥n，并写m∩n=点、m,n⊂平面。",
+      "style": "",
+      "sourceIndex": 2258
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 面面垂直：在一个平面内找一条直线l，证明l⊥另一个平面。",
+      "style": "",
+      "sourceIndex": 2259
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+      "style": "",
+      "sourceIndex": 2260
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+      "style": "",
+      "sourceIndex": 2261
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 利用已知直角、等腰中线、勾股或平面垂直性质得到线线垂直。",
+      "style": "",
+      "sourceIndex": 2262
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+      "style": "",
+      "sourceIndex": 2263
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+      "style": "",
+      "sourceIndex": 2264
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 2265
+    },
+    {
+      "type": "paragraph",
+      "text": "• 证明题优先找课本判定定理需要的“最少条件”，不要证明一大堆无关垂直/平行。",
+      "style": "",
+      "sourceIndex": 2266
+    },
+    {
+      "type": "paragraph",
+      "text": "• 计算题若纯几何绕：考虑建坐标，把角和距离改成向量。",
+      "style": "",
+      "sourceIndex": 2267
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 2268
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 2269
+    },
+    {
+      "type": "paragraph",
+      "text": "• 证明定理的条件是否写全（线在面内、两线相交等）？",
+      "style": "",
+      "sourceIndex": 2270
+    },
+    {
+      "type": "paragraph",
+      "text": "• 角/距离是不是题目真正要求的那个？",
+      "style": "",
+      "sourceIndex": 2271
+    },
+    {
+      "type": "paragraph",
+      "text": "• 体积是否漏1/3？",
+      "style": "",
+      "sourceIndex": 2272
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 2273
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 2274
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 2275
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜l⊥m,l⊥n，m,n在α内且相交，结论？"
+        ],
+        [
+          "先怎么想｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。"
+        ],
+        [
+          "核心过程 / 答案｜l⊥α。"
+        ]
+      ],
+      "text": "典型例题｜l⊥m,l⊥n，m,n在α内且相交，结论？\n先怎么想｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。\n核心过程 / 答案｜l⊥α。",
+      "sourceIndex": 2276
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜“垂直平面内一条线”不能推出垂直整个平面。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜“垂直平面内一条线”不能推出垂直整个平面。",
+      "sourceIndex": 2277
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 2278
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。"
+        ]
+      ],
+      "text": "📌 30秒速记｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。",
+      "sourceIndex": 2279
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 2280
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 线面垂直需要平面内几条相交线？",
+      "style": "",
+      "sourceIndex": 2281
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 若l⊂α且l⊥β，可得α与β怎样？",
+      "style": "",
+      "sourceIndex": 2282
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 线面垂直后，l与平面内任意过垂足的线关系。",
+      "style": "",
+      "sourceIndex": 2283
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 面面垂直判定常转化为什么？",
+      "style": "",
+      "sourceIndex": 2284
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 两平面垂直是否任取一条线都互相垂直？",
+      "style": "",
+      "sourceIndex": 2285
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.2条；2.α⊥β；3.垂直；4.线面垂直；5.否",
+      "style": "TinyNote",
+      "sourceIndex": 2286
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 2287
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜证明直线⊥平面、两个平面⊥。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜证明直线⊥平面、两个平面⊥。",
+          "sourceIndex": 2251
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。",
+          "sourceIndex": 2252
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 2253
+        },
+        {
+          "type": "paragraph",
+          "text": "立体几何看图容易乱，所以要么用判定定理把目标拆成少量条件，要么建坐标把空间关系变成向量计算。先选路线比直接算更重要。",
+          "style": "",
+          "sourceIndex": 2254
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 2255
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 线面垂直：找平面内两条相交直线m,n，证明l⊥m且l⊥n。",
+          "style": "",
+          "sourceIndex": 2256
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：一条线只垂直平面内一条线还不够，因为它可能斜着穿过平面；垂直两条相交线才能把方向锁死。",
+          "style": "",
+          "sourceIndex": 2257
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在平面内圈出两条确实相交的线m、n，分别证明l⊥m、l⊥n，并写m∩n=点、m,n⊂平面。",
+          "style": "",
+          "sourceIndex": 2258
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 面面垂直：在一个平面内找一条直线l，证明l⊥另一个平面。",
+          "style": "",
+          "sourceIndex": 2259
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+          "style": "",
+          "sourceIndex": 2260
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+          "style": "",
+          "sourceIndex": 2261
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 利用已知直角、等腰中线、勾股或平面垂直性质得到线线垂直。",
+          "style": "",
+          "sourceIndex": 2262
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：空间题先明确目标是“证明关系”还是“算角/距离”。证明走判定定理，计算复杂时优先坐标/向量。",
+          "style": "",
+          "sourceIndex": 2263
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：在图上圈出目标关系；旁边写对应定理需要哪些条件，只去补这些条件，避免漫无目的证明。",
+          "style": "",
+          "sourceIndex": 2264
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 2265
+        },
+        {
+          "type": "paragraph",
+          "text": "• 证明题优先找课本判定定理需要的“最少条件”，不要证明一大堆无关垂直/平行。",
+          "style": "",
+          "sourceIndex": 2266
+        },
+        {
+          "type": "paragraph",
+          "text": "• 计算题若纯几何绕：考虑建坐标，把角和距离改成向量。",
+          "style": "",
+          "sourceIndex": 2267
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 2268
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 2269
+        },
+        {
+          "type": "paragraph",
+          "text": "• 证明定理的条件是否写全（线在面内、两线相交等）？",
+          "style": "",
+          "sourceIndex": 2270
+        },
+        {
+          "type": "paragraph",
+          "text": "• 角/距离是不是题目真正要求的那个？",
+          "style": "",
+          "sourceIndex": 2271
+        },
+        {
+          "type": "paragraph",
+          "text": "• 体积是否漏1/3？",
+          "style": "",
+          "sourceIndex": 2272
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 2273
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 2274
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 2275
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜l⊥m,l⊥n，m,n在α内且相交，结论？"
+            ],
+            [
+              "先怎么想｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。"
+            ],
+            [
+              "核心过程 / 答案｜l⊥α。"
+            ]
+          ],
+          "text": "典型例题｜l⊥m,l⊥n，m,n在α内且相交，结论？\n先怎么想｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。\n核心过程 / 答案｜l⊥α。",
+          "sourceIndex": 2276
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜“垂直平面内一条线”不能推出垂直整个平面。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜“垂直平面内一条线”不能推出垂直整个平面。",
+          "sourceIndex": 2277
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 2278
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。"
+            ]
+          ],
+          "text": "📌 30秒速记｜证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。",
+          "sourceIndex": 2279
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 2280
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 线面垂直需要平面内几条相交线？",
+          "style": "",
+          "sourceIndex": 2281
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 若l⊂α且l⊥β，可得α与β怎样？",
+          "style": "",
+          "sourceIndex": 2282
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 线面垂直后，l与平面内任意过垂足的线关系。",
+          "style": "",
+          "sourceIndex": 2283
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 面面垂直判定常转化为什么？",
+          "style": "",
+          "sourceIndex": 2284
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 两平面垂直是否任取一条线都互相垂直？",
+          "style": "",
+          "sourceIndex": 2285
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.2条；2.α⊥β；3.垂直；4.线面垂直；5.否",
+          "style": "TinyNote",
+          "sourceIndex": 2286
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 2287
+        }
+      ]
+    }
+  ],
+  "sort_order": 51,
+  "brain_first": "证明线面垂直，只要在平面里找到两条相交线都和目标线垂直；证明面面垂直，常常先找一条线垂直另一个面。"
+}

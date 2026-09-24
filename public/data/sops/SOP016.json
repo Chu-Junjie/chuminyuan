@@ -1,0 +1,639 @@
+{
+  "id": "SOP016",
+  "code": "SOP016",
+  "title": "函数奇偶性",
+  "chapter_id": "chapter-05",
+  "chapter": "必修第一册 第5章 函数概念与性质",
+  "frequency": 5,
+  "keywords": [
+    "函数奇偶性"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★★  高频优先",
+      "style": "",
+      "sourceIndex": 760
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜问奇函数/偶函数、利用f(-x)、对称性求值或参数。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜问奇函数/偶函数、利用f(-x)、对称性求值或参数。",
+      "sourceIndex": 761
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。",
+      "sourceIndex": 762
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 763
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域 → 哪些x允许放进这个函数",
+      "style": "",
+      "sourceIndex": 764
+    },
+    {
+      "type": "paragraph",
+      "text": "• 奇函数 → 图像关于原点对称",
+      "style": "",
+      "sourceIndex": 765
+    },
+    {
+      "type": "paragraph",
+      "text": "• 偶函数 → 图像关于y轴对称",
+      "style": "",
+      "sourceIndex": 766
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 767
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 768
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 769
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先检查定义域是否关于原点对称。",
+      "style": "",
+      "sourceIndex": 770
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 771
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 772
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 计算f(-x)：等于f(x)为偶，等于-f(x)为奇。",
+      "style": "",
+      "sourceIndex": 773
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：奇偶性不是看图猜，而是把输入从x换成-x，看输出和原来是相同还是整体变号。",
+      "style": "",
+      "sourceIndex": 774
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：原式中的每一个x都替换成(-x)，先别急着化简；展开后与f(x)、-f(x)逐项比较。",
+      "style": "",
+      "sourceIndex": 775
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 利用偶函数关于y轴、奇函数关于原点；奇函数在0有定义则f(0)=0。",
+      "style": "",
+      "sourceIndex": 776
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 777
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 778
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 779
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域不关于0对称：直接判“非奇非偶”，不用继续算f(-x)。",
+      "style": "",
+      "sourceIndex": 780
+    },
+    {
+      "type": "paragraph",
+      "text": "• 奇函数若0在定义域：马上有f(0)=0，可用来卡参数。",
+      "style": "",
+      "sourceIndex": 781
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 782
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 783
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域有没有先写？",
+      "style": "",
+      "sourceIndex": 784
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把不同区间/分段混在一起？",
+      "style": "",
+      "sourceIndex": 785
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否漏掉端点、零点或对称点？",
+      "style": "",
+      "sourceIndex": 786
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 787
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+      "style": "",
+      "sourceIndex": 788
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+      "style": "",
+      "sourceIndex": 789
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜判断f(x)=x³+x奇偶性。"
+        ],
+        [
+          "先怎么想｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。"
+        ],
+        [
+          "核心过程 / 答案｜f(-x)=-x³-x=-f(x)，所以为奇函数。"
+        ]
+      ],
+      "text": "典型例题｜判断f(x)=x³+x奇偶性。\n先怎么想｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。\n核心过程 / 答案｜f(-x)=-x³-x=-f(x)，所以为奇函数。",
+      "sourceIndex": 790
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜定义域不关于原点对称时，不能谈奇偶性。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜定义域不关于原点对称时，不能谈奇偶性。",
+      "sourceIndex": 791
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 792
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。"
+        ]
+      ],
+      "text": "📌 30秒速记｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。",
+      "sourceIndex": 793
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 794
+    },
+    {
+      "type": "paragraph",
+      "text": "1. x²+1是什么函数？",
+      "style": "",
+      "sourceIndex": 795
+    },
+    {
+      "type": "paragraph",
+      "text": "2. x³是什么函数？",
+      "style": "",
+      "sourceIndex": 796
+    },
+    {
+      "type": "paragraph",
+      "text": "3. f奇且f(2)=3，f(-2)=？",
+      "style": "",
+      "sourceIndex": 797
+    },
+    {
+      "type": "paragraph",
+      "text": "4. f偶且f(-4)=5，f(4)=？",
+      "style": "",
+      "sourceIndex": 798
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 奇函数且0在定义域，f(0)=？",
+      "style": "",
+      "sourceIndex": 799
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.偶函数；2.奇函数；3.-3；4.5；5.0",
+      "style": "TinyNote",
+      "sourceIndex": 800
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 801
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜问奇函数/偶函数、利用f(-x)、对称性求值或参数。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜问奇函数/偶函数、利用f(-x)、对称性求值或参数。",
+          "sourceIndex": 761
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。",
+          "sourceIndex": 762
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 763
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域 → 哪些x允许放进这个函数",
+          "style": "",
+          "sourceIndex": 764
+        },
+        {
+          "type": "paragraph",
+          "text": "• 奇函数 → 图像关于原点对称",
+          "style": "",
+          "sourceIndex": 765
+        },
+        {
+          "type": "paragraph",
+          "text": "• 偶函数 → 图像关于y轴对称",
+          "style": "",
+          "sourceIndex": 766
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 767
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 768
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 769
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先检查定义域是否关于原点对称。",
+          "style": "",
+          "sourceIndex": 770
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 771
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 772
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 计算f(-x)：等于f(x)为偶，等于-f(x)为奇。",
+          "style": "",
+          "sourceIndex": 773
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：奇偶性不是看图猜，而是把输入从x换成-x，看输出和原来是相同还是整体变号。",
+          "style": "",
+          "sourceIndex": 774
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：原式中的每一个x都替换成(-x)，先别急着化简；展开后与f(x)、-f(x)逐项比较。",
+          "style": "",
+          "sourceIndex": 775
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 利用偶函数关于y轴、奇函数关于原点；奇函数在0有定义则f(0)=0。",
+          "style": "",
+          "sourceIndex": 776
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 777
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 778
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 779
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域不关于0对称：直接判“非奇非偶”，不用继续算f(-x)。",
+          "style": "",
+          "sourceIndex": 780
+        },
+        {
+          "type": "paragraph",
+          "text": "• 奇函数若0在定义域：马上有f(0)=0，可用来卡参数。",
+          "style": "",
+          "sourceIndex": 781
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 782
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 783
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域有没有先写？",
+          "style": "",
+          "sourceIndex": 784
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把不同区间/分段混在一起？",
+          "style": "",
+          "sourceIndex": 785
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否漏掉端点、零点或对称点？",
+          "style": "",
+          "sourceIndex": 786
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 787
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+          "style": "",
+          "sourceIndex": 788
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+          "style": "",
+          "sourceIndex": 789
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜判断f(x)=x³+x奇偶性。"
+            ],
+            [
+              "先怎么想｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。"
+            ],
+            [
+              "核心过程 / 答案｜f(-x)=-x³-x=-f(x)，所以为奇函数。"
+            ]
+          ],
+          "text": "典型例题｜判断f(x)=x³+x奇偶性。\n先怎么想｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。\n核心过程 / 答案｜f(-x)=-x³-x=-f(x)，所以为奇函数。",
+          "sourceIndex": 790
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜定义域不关于原点对称时，不能谈奇偶性。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜定义域不关于原点对称时，不能谈奇偶性。",
+          "sourceIndex": 791
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 792
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。"
+            ]
+          ],
+          "text": "📌 30秒速记｜奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。",
+          "sourceIndex": 793
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 794
+        },
+        {
+          "type": "paragraph",
+          "text": "1. x²+1是什么函数？",
+          "style": "",
+          "sourceIndex": 795
+        },
+        {
+          "type": "paragraph",
+          "text": "2. x³是什么函数？",
+          "style": "",
+          "sourceIndex": 796
+        },
+        {
+          "type": "paragraph",
+          "text": "3. f奇且f(2)=3，f(-2)=？",
+          "style": "",
+          "sourceIndex": 797
+        },
+        {
+          "type": "paragraph",
+          "text": "4. f偶且f(-4)=5，f(4)=？",
+          "style": "",
+          "sourceIndex": 798
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 奇函数且0在定义域，f(0)=？",
+          "style": "",
+          "sourceIndex": 799
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.偶函数；2.奇函数；3.-3；4.5；5.0",
+          "style": "TinyNote",
+          "sourceIndex": 800
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 801
+        }
+      ]
+    }
+  ],
+  "sort_order": 15,
+  "brain_first": "奇偶性先看定义域能不能左右对称，再把x换成-x。换完没变是偶，整体变号是奇。"
+}

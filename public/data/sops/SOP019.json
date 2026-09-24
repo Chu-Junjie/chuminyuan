@@ -1,0 +1,587 @@
+{
+  "id": "SOP019",
+  "code": "SOP019",
+  "title": "函数图像平移、翻折与绝对值",
+  "chapter_id": "chapter-05",
+  "chapter": "必修第一册 第5章 函数概念与性质",
+  "frequency": 4,
+  "keywords": [
+    "函数图像平移",
+    "翻折",
+    "绝对值"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 884
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜出现f(x-a)、f(x)+b、f(-x)、-f(x)、|f(x)|、f(|x|)。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜出现f(x-a)、f(x)+b、f(-x)、-f(x)、|f(x)|、f(|x|)。",
+      "sourceIndex": 885
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。",
+      "sourceIndex": 886
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 887
+    },
+    {
+      "type": "paragraph",
+      "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+      "style": "",
+      "sourceIndex": 888
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 889
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 括号内平移方向相反：f(x-a)向右a。",
+      "style": "",
+      "sourceIndex": 890
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 891
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 892
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 括号外方向相同：f(x)+b向上b；f(-x)关于y轴，-f(x)关于x轴。",
+      "style": "",
+      "sourceIndex": 893
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：奇偶性不是看图猜，而是把输入从x换成-x，看输出和原来是相同还是整体变号。",
+      "style": "",
+      "sourceIndex": 894
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：原式中的每一个x都替换成(-x)，先别急着化简；展开后与f(x)、-f(x)逐项比较。",
+      "style": "",
+      "sourceIndex": 895
+    },
+    {
+      "type": "paragraph",
+      "text": "3. |f(x)|把x轴下方翻上；f(|x|)保留右半边并镜像到左边。",
+      "style": "",
+      "sourceIndex": 896
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+      "style": "",
+      "sourceIndex": 897
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+      "style": "",
+      "sourceIndex": 898
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 899
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 900
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 901
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 902
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 903
+    },
+    {
+      "type": "paragraph",
+      "text": "• 定义域有没有先写？",
+      "style": "",
+      "sourceIndex": 904
+    },
+    {
+      "type": "paragraph",
+      "text": "• 是否把不同区间/分段混在一起？",
+      "style": "",
+      "sourceIndex": 905
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否漏掉端点、零点或对称点？",
+      "style": "",
+      "sourceIndex": 906
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 907
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+      "style": "",
+      "sourceIndex": 908
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+      "style": "",
+      "sourceIndex": 909
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜y=f(x-2)+3由y=f(x)怎样变换？"
+        ],
+        [
+          "先怎么想｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。"
+        ],
+        [
+          "核心过程 / 答案｜向右2，再向上3。"
+        ]
+      ],
+      "text": "典型例题｜y=f(x-2)+3由y=f(x)怎样变换？\n先怎么想｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。\n核心过程 / 答案｜向右2，再向上3。",
+      "sourceIndex": 910
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜最常错的是把f(x-2)说成“左移2”。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜最常错的是把f(x-2)说成“左移2”。",
+      "sourceIndex": 911
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 912
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。"
+        ]
+      ],
+      "text": "📌 30秒速记｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。",
+      "sourceIndex": 913
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 914
+    },
+    {
+      "type": "paragraph",
+      "text": "1. f(x+1)相对f(x)。",
+      "style": "",
+      "sourceIndex": 915
+    },
+    {
+      "type": "paragraph",
+      "text": "2. f(x)-4。",
+      "style": "",
+      "sourceIndex": 916
+    },
+    {
+      "type": "paragraph",
+      "text": "3. f(-x)。",
+      "style": "",
+      "sourceIndex": 917
+    },
+    {
+      "type": "paragraph",
+      "text": "4. -f(x)。",
+      "style": "",
+      "sourceIndex": 918
+    },
+    {
+      "type": "paragraph",
+      "text": "5. |f(x)|怎么处理负值部分？",
+      "style": "",
+      "sourceIndex": 919
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.左移1；2.下移4；3.关于y轴对称；4.关于x轴对称；5.翻到x轴上方",
+      "style": "TinyNote",
+      "sourceIndex": 920
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 921
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜出现f(x-a)、f(x)+b、f(-x)、-f(x)、|f(x)|、f(|x|)。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜出现f(x-a)、f(x)+b、f(-x)、-f(x)、|f(x)|、f(|x|)。",
+          "sourceIndex": 885
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。",
+          "sourceIndex": 886
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 887
+        },
+        {
+          "type": "paragraph",
+          "text": "函数题信息很多，但真正有用的通常是定义域、图像、单调、奇偶、周期、零点这几种结构。先抓结构，能避免无目的展开。",
+          "style": "",
+          "sourceIndex": 888
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 889
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 括号内平移方向相反：f(x-a)向右a。",
+          "style": "",
+          "sourceIndex": 890
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 891
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 892
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 括号外方向相同：f(x)+b向上b；f(-x)关于y轴，-f(x)关于x轴。",
+          "style": "",
+          "sourceIndex": 893
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：奇偶性不是看图猜，而是把输入从x换成-x，看输出和原来是相同还是整体变号。",
+          "style": "",
+          "sourceIndex": 894
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：原式中的每一个x都替换成(-x)，先别急着化简；展开后与f(x)、-f(x)逐项比较。",
+          "style": "",
+          "sourceIndex": 895
+        },
+        {
+          "type": "paragraph",
+          "text": "3. |f(x)|把x轴下方翻上；f(|x|)保留右半边并镜像到左边。",
+          "style": "",
+          "sourceIndex": 896
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在利用函数的结构信息，而不是硬算所有函数值。定义域、图像、单调和对称往往能直接缩小范围。",
+          "style": "",
+          "sourceIndex": 897
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先在草稿上写“定义域/已知区间/单调方向”，再决定代值、画图还是解方程。",
+          "style": "",
+          "sourceIndex": 898
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 899
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 900
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 901
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 902
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 903
+        },
+        {
+          "type": "paragraph",
+          "text": "• 定义域有没有先写？",
+          "style": "",
+          "sourceIndex": 904
+        },
+        {
+          "type": "paragraph",
+          "text": "• 是否把不同区间/分段混在一起？",
+          "style": "",
+          "sourceIndex": 905
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否漏掉端点、零点或对称点？",
+          "style": "",
+          "sourceIndex": 906
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 907
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果式子很复杂：先别展开，先看定义域、图像、单调、奇偶、周期这些“结构信息”。",
+          "style": "",
+          "sourceIndex": 908
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果比较函数值：先问两个自变量是不是在同一个单调区间。",
+          "style": "",
+          "sourceIndex": 909
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜y=f(x-2)+3由y=f(x)怎样变换？"
+            ],
+            [
+              "先怎么想｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。"
+            ],
+            [
+              "核心过程 / 答案｜向右2，再向上3。"
+            ]
+          ],
+          "text": "典型例题｜y=f(x-2)+3由y=f(x)怎样变换？\n先怎么想｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。\n核心过程 / 答案｜向右2，再向上3。",
+          "sourceIndex": 910
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜最常错的是把f(x-2)说成“左移2”。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜最常错的是把f(x-2)说成“左移2”。",
+          "sourceIndex": 911
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 912
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。"
+            ]
+          ],
+          "text": "📌 30秒速记｜图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。",
+          "sourceIndex": 913
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 914
+        },
+        {
+          "type": "paragraph",
+          "text": "1. f(x+1)相对f(x)。",
+          "style": "",
+          "sourceIndex": 915
+        },
+        {
+          "type": "paragraph",
+          "text": "2. f(x)-4。",
+          "style": "",
+          "sourceIndex": 916
+        },
+        {
+          "type": "paragraph",
+          "text": "3. f(-x)。",
+          "style": "",
+          "sourceIndex": 917
+        },
+        {
+          "type": "paragraph",
+          "text": "4. -f(x)。",
+          "style": "",
+          "sourceIndex": 918
+        },
+        {
+          "type": "paragraph",
+          "text": "5. |f(x)|怎么处理负值部分？",
+          "style": "",
+          "sourceIndex": 919
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.左移1；2.下移4；3.关于y轴对称；4.关于x轴对称；5.翻到x轴上方",
+          "style": "TinyNote",
+          "sourceIndex": 920
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 921
+        }
+      ]
+    }
+  ],
+  "sort_order": 18,
+  "brain_first": "图像变换只记两句话：括号里面方向反着看，括号外面方向照着看；绝对值就是把负的部分翻上去。"
+}

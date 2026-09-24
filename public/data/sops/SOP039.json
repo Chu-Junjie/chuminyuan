@@ -1,0 +1,652 @@
+{
+  "id": "SOP039",
+  "code": "SOP039",
+  "title": "向量在几何中的应用与投影",
+  "chapter_id": "chapter-09",
+  "chapter": "必修第二册 第9章 平面向量",
+  "frequency": 4,
+  "keywords": [
+    "向量在几何中的应用",
+    "投影"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 1710
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜几何图形中求中点、重心、投影长度、距离或用向量证明。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜几何图形中求中点、重心、投影长度、距离或用向量证明。",
+      "sourceIndex": 1711
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。",
+      "sourceIndex": 1712
+    },
+    {
+      "type": "paragraph",
+      "text": "术语翻译：老师这么说，你脑子这样理解",
+      "style": "Heading3",
+      "sourceIndex": 1713
+    },
+    {
+      "type": "paragraph",
+      "text": "• 数量积 → 向量“点乘”，可以判断垂直和算夹角",
+      "style": "",
+      "sourceIndex": 1714
+    },
+    {
+      "type": "paragraph",
+      "text": "• 基底 → 平面/空间里用来拼出其他向量的一组基础方向",
+      "style": "",
+      "sourceIndex": 1715
+    },
+    {
+      "type": "paragraph",
+      "text": "• 投影 → 一个向量沿另一个方向留下的“影子长度”",
+      "style": "",
+      "sourceIndex": 1716
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 1717
+    },
+    {
+      "type": "paragraph",
+      "text": "向量的价值就是把几何语言变成数字：坐标负责运算，数量积负责角和垂直，倍数关系负责平行。先确定要翻译成哪一种关系。",
+      "style": "",
+      "sourceIndex": 1718
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 1719
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 优先选方便的原点/基底，把点写成向量。",
+      "style": "",
+      "sourceIndex": 1720
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把几何关系翻成坐标或数量积。翻译对了，后面通常只是普通代数。",
+      "style": "",
+      "sourceIndex": 1721
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把点先写坐标；向量用“终点-起点”；平行写倍数关系，垂直写点积0，夹角写余弦公式。",
+      "style": "",
+      "sourceIndex": 1722
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 中点向量=(a+b)/2；重心向量=(a+b+c)/3。",
+      "style": "",
+      "sourceIndex": 1723
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把几何关系翻成坐标或数量积。翻译对了，后面通常只是普通代数。",
+      "style": "",
+      "sourceIndex": 1724
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把点先写坐标；向量用“终点-起点”；平行写倍数关系，垂直写点积0，夹角写余弦公式。",
+      "style": "",
+      "sourceIndex": 1725
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 投影相关用数量积：a在b方向的数量投影=(a·b)/|b|。",
+      "style": "",
+      "sourceIndex": 1726
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：相关系数只描述线性同向/反向及强弱；回归线用于估计，不代表一个变量一定导致另一个变量变化。",
+      "style": "",
+      "sourceIndex": 1727
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：先看r正负，再看|r|离1多近；预测时把x代入ŷ=bx+a，并在文字答案里写“估计/预测”。",
+      "style": "",
+      "sourceIndex": 1728
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 1729
+    },
+    {
+      "type": "paragraph",
+      "text": "• 给坐标：优先坐标法。",
+      "style": "",
+      "sourceIndex": 1730
+    },
+    {
+      "type": "paragraph",
+      "text": "• 图形关系特别清楚：可先用几何关系简化，再坐标计算。",
+      "style": "",
+      "sourceIndex": 1731
+    },
+    {
+      "type": "paragraph",
+      "text": "• 数量积为0只能说明垂直，前提是两个向量都非零。",
+      "style": "",
+      "sourceIndex": 1732
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 1733
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 1734
+    },
+    {
+      "type": "paragraph",
+      "text": "• 向量起点终点顺序是否写反？",
+      "style": "",
+      "sourceIndex": 1735
+    },
+    {
+      "type": "paragraph",
+      "text": "• 数量积公式是否漏了长度？",
+      "style": "",
+      "sourceIndex": 1736
+    },
+    {
+      "type": "paragraph",
+      "text": "• 求夹角时是否取题目要求的角？",
+      "style": "",
+      "sourceIndex": 1737
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 1738
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 1739
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 1740
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜A、B位置向量分别a,b，中点M位置向量。"
+        ],
+        [
+          "先怎么想｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。"
+        ],
+        [
+          "核心过程 / 答案｜(a+b)/2。"
+        ]
+      ],
+      "text": "典型例题｜A、B位置向量分别a,b，中点M位置向量。\n先怎么想｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。\n核心过程 / 答案｜(a+b)/2。",
+      "sourceIndex": 1741
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜“数量投影”可为负；“投影向量”与“投影长度”不是同一个量。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜“数量投影”可为负；“投影向量”与“投影长度”不是同一个量。",
+      "sourceIndex": 1742
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 1743
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。"
+        ]
+      ],
+      "text": "📌 30秒速记｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。",
+      "sourceIndex": 1744
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 1745
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 三角形顶点位置向量a,b,c，重心。",
+      "style": "",
+      "sourceIndex": 1746
+    },
+    {
+      "type": "paragraph",
+      "text": "2. a=(3,4)在x轴方向的数量投影。",
+      "style": "",
+      "sourceIndex": 1747
+    },
+    {
+      "type": "paragraph",
+      "text": "3. AB中点坐标公式。",
+      "style": "",
+      "sourceIndex": 1748
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 向量法证明垂直最直接看什么？",
+      "style": "",
+      "sourceIndex": 1749
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 向量法证明平行最直接看什么？",
+      "style": "",
+      "sourceIndex": 1750
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.(a+b+c)/3；2.3；3.((xA+xB)/2,(yA+yB)/2)；4.数量积是否为0；5.是否成比例/叉式为0",
+      "style": "TinyNote",
+      "sourceIndex": 1751
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 1752
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜几何图形中求中点、重心、投影长度、距离或用向量证明。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜几何图形中求中点、重心、投影长度、距离或用向量证明。",
+          "sourceIndex": 1711
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。",
+          "sourceIndex": 1712
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "术语翻译：老师这么说，你脑子这样理解",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "术语翻译：老师这么说，你脑子这样理解",
+          "style": "Heading3",
+          "sourceIndex": 1713
+        },
+        {
+          "type": "paragraph",
+          "text": "• 数量积 → 向量“点乘”，可以判断垂直和算夹角",
+          "style": "",
+          "sourceIndex": 1714
+        },
+        {
+          "type": "paragraph",
+          "text": "• 基底 → 平面/空间里用来拼出其他向量的一组基础方向",
+          "style": "",
+          "sourceIndex": 1715
+        },
+        {
+          "type": "paragraph",
+          "text": "• 投影 → 一个向量沿另一个方向留下的“影子长度”",
+          "style": "",
+          "sourceIndex": 1716
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 1717
+        },
+        {
+          "type": "paragraph",
+          "text": "向量的价值就是把几何语言变成数字：坐标负责运算，数量积负责角和垂直，倍数关系负责平行。先确定要翻译成哪一种关系。",
+          "style": "",
+          "sourceIndex": 1718
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 1719
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 优先选方便的原点/基底，把点写成向量。",
+          "style": "",
+          "sourceIndex": 1720
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把几何关系翻成坐标或数量积。翻译对了，后面通常只是普通代数。",
+          "style": "",
+          "sourceIndex": 1721
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把点先写坐标；向量用“终点-起点”；平行写倍数关系，垂直写点积0，夹角写余弦公式。",
+          "style": "",
+          "sourceIndex": 1722
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 中点向量=(a+b)/2；重心向量=(a+b+c)/3。",
+          "style": "",
+          "sourceIndex": 1723
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把几何关系翻成坐标或数量积。翻译对了，后面通常只是普通代数。",
+          "style": "",
+          "sourceIndex": 1724
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把点先写坐标；向量用“终点-起点”；平行写倍数关系，垂直写点积0，夹角写余弦公式。",
+          "style": "",
+          "sourceIndex": 1725
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 投影相关用数量积：a在b方向的数量投影=(a·b)/|b|。",
+          "style": "",
+          "sourceIndex": 1726
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：相关系数只描述线性同向/反向及强弱；回归线用于估计，不代表一个变量一定导致另一个变量变化。",
+          "style": "",
+          "sourceIndex": 1727
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：先看r正负，再看|r|离1多近；预测时把x代入ŷ=bx+a，并在文字答案里写“估计/预测”。",
+          "style": "",
+          "sourceIndex": 1728
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 1729
+        },
+        {
+          "type": "paragraph",
+          "text": "• 给坐标：优先坐标法。",
+          "style": "",
+          "sourceIndex": 1730
+        },
+        {
+          "type": "paragraph",
+          "text": "• 图形关系特别清楚：可先用几何关系简化，再坐标计算。",
+          "style": "",
+          "sourceIndex": 1731
+        },
+        {
+          "type": "paragraph",
+          "text": "• 数量积为0只能说明垂直，前提是两个向量都非零。",
+          "style": "",
+          "sourceIndex": 1732
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 1733
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 1734
+        },
+        {
+          "type": "paragraph",
+          "text": "• 向量起点终点顺序是否写反？",
+          "style": "",
+          "sourceIndex": 1735
+        },
+        {
+          "type": "paragraph",
+          "text": "• 数量积公式是否漏了长度？",
+          "style": "",
+          "sourceIndex": 1736
+        },
+        {
+          "type": "paragraph",
+          "text": "• 求夹角时是否取题目要求的角？",
+          "style": "",
+          "sourceIndex": 1737
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 1738
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 1739
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 1740
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜A、B位置向量分别a,b，中点M位置向量。"
+            ],
+            [
+              "先怎么想｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。"
+            ],
+            [
+              "核心过程 / 答案｜(a+b)/2。"
+            ]
+          ],
+          "text": "典型例题｜A、B位置向量分别a,b，中点M位置向量。\n先怎么想｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。\n核心过程 / 答案｜(a+b)/2。",
+          "sourceIndex": 1741
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜“数量投影”可为负；“投影向量”与“投影长度”不是同一个量。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜“数量投影”可为负；“投影向量”与“投影长度”不是同一个量。",
+          "sourceIndex": 1742
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 1743
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。"
+            ]
+          ],
+          "text": "📌 30秒速记｜几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。",
+          "sourceIndex": 1744
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 1745
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 三角形顶点位置向量a,b,c，重心。",
+          "style": "",
+          "sourceIndex": 1746
+        },
+        {
+          "type": "paragraph",
+          "text": "2. a=(3,4)在x轴方向的数量投影。",
+          "style": "",
+          "sourceIndex": 1747
+        },
+        {
+          "type": "paragraph",
+          "text": "3. AB中点坐标公式。",
+          "style": "",
+          "sourceIndex": 1748
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 向量法证明垂直最直接看什么？",
+          "style": "",
+          "sourceIndex": 1749
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 向量法证明平行最直接看什么？",
+          "style": "",
+          "sourceIndex": 1750
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.(a+b+c)/3；2.3；3.((xA+xB)/2,(yA+yB)/2)；4.数量积是否为0；5.是否成比例/叉式为0",
+          "style": "TinyNote",
+          "sourceIndex": 1751
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 1752
+        }
+      ]
+    }
+  ],
+  "sort_order": 38,
+  "brain_first": "几何题里向量的价值是把“长度、角度、投影”变成可以算的坐标和数量积。"
+}

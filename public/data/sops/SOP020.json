@@ -1,0 +1,587 @@
+{
+  "id": "SOP020",
+  "code": "SOP020",
+  "title": "周期性、对称性与“搬回已知区间”",
+  "chapter_id": "chapter-05",
+  "chapter": "必修第一册 第5章 函数概念与性质",
+  "frequency": 4,
+  "keywords": [
+    "周期性",
+    "对称性",
+    "“搬回已知区间”"
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "频次 ★★★★☆  高频优先",
+      "style": "",
+      "sourceIndex": 923
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "👀 题目长什么样｜已知周期T、奇偶性或图像对称，只给局部解析式，要求求远处函数值。"
+        ]
+      ],
+      "text": "👀 题目长什么样｜已知周期T、奇偶性或图像对称，只给局部解析式，要求求远处函数值。",
+      "sourceIndex": 924
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "🧠 脑内第一句话｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。"
+        ]
+      ],
+      "text": "🧠 脑内第一句话｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。",
+      "sourceIndex": 925
+    },
+    {
+      "type": "paragraph",
+      "text": "为什么先这样想",
+      "style": "Heading3",
+      "sourceIndex": 926
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+      "style": "",
+      "sourceIndex": 927
+    },
+    {
+      "type": "paragraph",
+      "text": "固定SOP：一步一步跟着做",
+      "style": "Heading3",
+      "sourceIndex": 928
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 用周期把自变量x变成x+kT，搬到已知区间。",
+      "style": "",
+      "sourceIndex": 929
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：周期表示每隔T图像完全重复，所以远处的函数值可以平移整数个周期搬回已知区间。",
+      "style": "",
+      "sourceIndex": 930
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：解一个整数k，使x+kT落进题目给的区间；然后写f(x)=f(x+kT)。",
+      "style": "",
+      "sourceIndex": 931
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 若有奇偶性，再用f(-x)=±f(x)改变符号。",
+      "style": "",
+      "sourceIndex": 932
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：奇偶性不是看图猜，而是把输入从x换成-x，看输出和原来是相同还是整体变号。",
+      "style": "",
+      "sourceIndex": 933
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：原式中的每一个x都替换成(-x)，先别急着化简；展开后与f(x)、-f(x)逐项比较。",
+      "style": "",
+      "sourceIndex": 934
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 最终代入局部解析式。",
+      "style": "",
+      "sourceIndex": 935
+    },
+    {
+      "type": "paragraph",
+      "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+      "style": "",
+      "sourceIndex": 936
+    },
+    {
+      "type": "paragraph",
+      "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+      "style": "",
+      "sourceIndex": 937
+    },
+    {
+      "type": "paragraph",
+      "text": "如果题目换个样子：按这些分支走",
+      "style": "Heading3",
+      "sourceIndex": 938
+    },
+    {
+      "type": "paragraph",
+      "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+      "style": "",
+      "sourceIndex": 939
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+      "style": "",
+      "sourceIndex": 940
+    },
+    {
+      "type": "paragraph",
+      "text": "做到哪里算结束？",
+      "style": "Heading3",
+      "sourceIndex": 941
+    },
+    {
+      "type": "paragraph",
+      "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+      "style": "",
+      "sourceIndex": 942
+    },
+    {
+      "type": "paragraph",
+      "text": "• 条件是否全部用上？",
+      "style": "",
+      "sourceIndex": 943
+    },
+    {
+      "type": "paragraph",
+      "text": "• 答案是否满足原题定义域/范围？",
+      "style": "",
+      "sourceIndex": 944
+    },
+    {
+      "type": "paragraph",
+      "text": "• 能否用特殊值或常识快速回查？",
+      "style": "",
+      "sourceIndex": 945
+    },
+    {
+      "type": "paragraph",
+      "text": "卡住时怎么自救",
+      "style": "Heading3",
+      "sourceIndex": 946
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+      "style": "",
+      "sourceIndex": 947
+    },
+    {
+      "type": "paragraph",
+      "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+      "style": "",
+      "sourceIndex": 948
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "典型例题｜f周期2且偶，f(x)=x(1≤x≤2)，求f(-3)。"
+        ],
+        [
+          "先怎么想｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。"
+        ],
+        [
+          "核心过程 / 答案｜偶性f(-3)=f(3)，周期2得f(3)=f(1)=1。"
+        ]
+      ],
+      "text": "典型例题｜f周期2且偶，f(x)=x(1≤x≤2)，求f(-3)。\n先怎么想｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。\n核心过程 / 答案｜偶性f(-3)=f(3)，周期2得f(3)=f(1)=1。",
+      "sourceIndex": 949
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "⚠ 易错警报｜周期关系是f(x+T)=f(x)，不要写成f(Tx)=f(x)。"
+        ]
+      ],
+      "text": "⚠ 易错警报｜周期关系是f(x+T)=f(x)，不要写成f(Tx)=f(x)。",
+      "sourceIndex": 950
+    },
+    {
+      "type": "paragraph",
+      "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+      "style": "",
+      "sourceIndex": 951
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📌 30秒速记｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。"
+        ]
+      ],
+      "text": "📌 30秒速记｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。",
+      "sourceIndex": 952
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固题｜需要时再做",
+      "style": "Heading3",
+      "sourceIndex": 953
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 周期3，f(1)=2，f(4)=？",
+      "style": "",
+      "sourceIndex": 954
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 偶函数f(2)=5，f(-2)=？",
+      "style": "",
+      "sourceIndex": 955
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 奇函数f(3)=-1，f(-3)=？",
+      "style": "",
+      "sourceIndex": 956
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 周期2，f(0.5)=4，f(2.5)=？",
+      "style": "",
+      "sourceIndex": 957
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 先周期还是先奇偶有固定顺序吗？",
+      "style": "",
+      "sourceIndex": 958
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1.2；2.5；3.1；4.4；5.没有，目标是搬到已知区间",
+      "style": "TinyNote",
+      "sourceIndex": 959
+    },
+    {
+      "type": "paragraph",
+      "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+      "style": "",
+      "sourceIndex": 960
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-0",
+      "title": "👀 题目长什么样",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "👀 题目长什么样｜已知周期T、奇偶性或图像对称，只给局部解析式，要求求远处函数值。"
+            ]
+          ],
+          "text": "👀 题目长什么样｜已知周期T、奇偶性或图像对称，只给局部解析式，要求求远处函数值。",
+          "sourceIndex": 924
+        }
+      ]
+    },
+    {
+      "id": "section-1",
+      "title": "🧠 脑内第一句话",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧠 脑内第一句话｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。"
+            ]
+          ],
+          "text": "🧠 脑内第一句话｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。",
+          "sourceIndex": 925
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "为什么先这样想",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "为什么先这样想",
+          "style": "Heading3",
+          "sourceIndex": 926
+        },
+        {
+          "type": "paragraph",
+          "text": "这类题最容易的问题不是“公式不会”，而是第一步没有认出结构。题目一旦被整理成标准形式，后面通常就是有限的几种固定操作。",
+          "style": "",
+          "sourceIndex": 927
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "固定SOP：一步一步跟着做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "固定SOP：一步一步跟着做",
+          "style": "Heading3",
+          "sourceIndex": 928
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 用周期把自变量x变成x+kT，搬到已知区间。",
+          "style": "",
+          "sourceIndex": 929
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：周期表示每隔T图像完全重复，所以远处的函数值可以平移整数个周期搬回已知区间。",
+          "style": "",
+          "sourceIndex": 930
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：解一个整数k，使x+kT落进题目给的区间；然后写f(x)=f(x+kT)。",
+          "style": "",
+          "sourceIndex": 931
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 若有奇偶性，再用f(-x)=±f(x)改变符号。",
+          "style": "",
+          "sourceIndex": 932
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：奇偶性不是看图猜，而是把输入从x换成-x，看输出和原来是相同还是整体变号。",
+          "style": "",
+          "sourceIndex": 933
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：原式中的每一个x都替换成(-x)，先别急着化简；展开后与f(x)、-f(x)逐项比较。",
+          "style": "",
+          "sourceIndex": 934
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 最终代入局部解析式。",
+          "style": "",
+          "sourceIndex": 935
+        },
+        {
+          "type": "paragraph",
+          "text": "白话解释：这一步是在把题目整理成标准形式，目的是减少同时处理的信息量。",
+          "style": "",
+          "sourceIndex": 936
+        },
+        {
+          "type": "paragraph",
+          "text": "草稿纸上具体写：把这一行单独写在草稿上，确认得到的式子/范围没有违反原题条件，再进入下一步。",
+          "style": "",
+          "sourceIndex": 937
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "如果题目换个样子：按这些分支走",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果题目换个样子：按这些分支走",
+          "style": "Heading3",
+          "sourceIndex": 938
+        },
+        {
+          "type": "paragraph",
+          "text": "• 先把题目翻译成你熟悉的标准式，再选择公式。",
+          "style": "",
+          "sourceIndex": 939
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果计算越来越长，先停一下：很多基础题有更短的结构化方法。",
+          "style": "",
+          "sourceIndex": 940
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "做到哪里算结束？",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "做到哪里算结束？",
+          "style": "Heading3",
+          "sourceIndex": 941
+        },
+        {
+          "type": "paragraph",
+          "text": "当你已经把题目化成标准形式、得到满足原题范围的答案，并完成下面检查，就可以停，不要为了“看起来更完整”继续无意义展开。",
+          "style": "",
+          "sourceIndex": 942
+        },
+        {
+          "type": "paragraph",
+          "text": "• 条件是否全部用上？",
+          "style": "",
+          "sourceIndex": 943
+        },
+        {
+          "type": "paragraph",
+          "text": "• 答案是否满足原题定义域/范围？",
+          "style": "",
+          "sourceIndex": 944
+        },
+        {
+          "type": "paragraph",
+          "text": "• 能否用特殊值或常识快速回查？",
+          "style": "",
+          "sourceIndex": 945
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "卡住时怎么自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "卡住时怎么自救",
+          "style": "Heading3",
+          "sourceIndex": 946
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果第一步完全没头绪：把题目里的关键词、范围、等号条件圈出来，再对照本页“题目长什么样”。",
+          "style": "",
+          "sourceIndex": 947
+        },
+        {
+          "type": "paragraph",
+          "text": "• 如果运算突然变得特别长：先停下来检查是否有更标准的公式、图像或对称关系可用。",
+          "style": "",
+          "sourceIndex": 948
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "典型例题｜f周期2且偶，f(x)=x(1≤x≤2)，求f(-3)。"
+            ],
+            [
+              "先怎么想｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。"
+            ],
+            [
+              "核心过程 / 答案｜偶性f(-3)=f(3)，周期2得f(3)=f(1)=1。"
+            ]
+          ],
+          "text": "典型例题｜f周期2且偶，f(x)=x(1≤x≤2)，求f(-3)。\n先怎么想｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。\n核心过程 / 答案｜偶性f(-3)=f(3)，周期2得f(3)=f(1)=1。",
+          "sourceIndex": 949
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "⚠ 易错警报",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "⚠ 易错警报｜周期关系是f(x+T)=f(x)，不要写成f(Tx)=f(x)。"
+            ]
+          ],
+          "text": "⚠ 易错警报｜周期关系是f(x+T)=f(x)，不要写成f(Tx)=f(x)。",
+          "sourceIndex": 950
+        },
+        {
+          "type": "paragraph",
+          "text": "纠错动作：做完后不要只对最终答案。回看自己是“题型没认出、条件漏了、公式方向错了、运算错了、还是答案没筛范围”。同类错误只要连续出现两次，就把对应检查项画星号。",
+          "style": "",
+          "sourceIndex": 951
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "📌 30秒速记",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📌 30秒速记｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。"
+            ]
+          ],
+          "text": "📌 30秒速记｜周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。",
+          "sourceIndex": 952
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "可选巩固题｜需要时再做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "可选巩固题｜需要时再做",
+          "style": "Heading3",
+          "sourceIndex": 953
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 周期3，f(1)=2，f(4)=？",
+          "style": "",
+          "sourceIndex": 954
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 偶函数f(2)=5，f(-2)=？",
+          "style": "",
+          "sourceIndex": 955
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 奇函数f(3)=-1，f(-3)=？",
+          "style": "",
+          "sourceIndex": 956
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 周期2，f(0.5)=4，f(2.5)=？",
+          "style": "",
+          "sourceIndex": 957
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 先周期还是先奇偶有固定顺序吗？",
+          "style": "",
+          "sourceIndex": 958
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1.2；2.5；3.1；4.4；5.没有，目标是搬到已知区间",
+          "style": "TinyNote",
+          "sourceIndex": 959
+        },
+        {
+          "type": "paragraph",
+          "text": "—  本题型到这里。下次卡住直接搜 SOP 编号或题型名。  —",
+          "style": "",
+          "sourceIndex": 960
+        }
+      ]
+    }
+  ],
+  "sort_order": 19,
+  "brain_first": "周期题就是“把很远的x搬回你认识的那一小段”；有奇偶性时还能先左右翻回来。"
+}

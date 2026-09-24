@@ -1,0 +1,13 @@
+{
+  "source": "math.docx",
+  "sha256": "936453c2c906e5330572844d32950598e73e60553be48ddbcdab32238356215a",
+  "sopCount": 100,
+  "chapterCount": 24,
+  "paragraphCount": 3751,
+  "tableCount": 503,
+  "ommlCount": 0,
+  "sourceBlockCount": 4254,
+  "importedSopBlocks": 4067,
+  "warnings": [],
+  "missingSections": []
+}
