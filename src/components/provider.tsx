@@ -102,9 +102,12 @@ export function Provider({ children }: { children: React.ReactNode }) {
     };
   }, [sync]);
   useEffect(() => {
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
     if ("serviceWorker" in navigator && process.env.NODE_ENV === "production")
       navigator.serviceWorker
-        .register("/sw.js")
+        .register(`${basePath}/sw.js`, {
+          scope: `${basePath || ""}/`,
+        })
         .then(async () => {
           await navigator.serviceWorker.ready;
           const cache = await caches.open("gaokao-quest-v1");
@@ -112,7 +115,7 @@ export function Provider({ children }: { children: React.ReactNode }) {
             .getEntriesByType("resource")
             .map((entry) => entry.name)
             .filter((url) =>
-              url.startsWith(location.origin + "/_next/static/"),
+              url.startsWith(location.origin + basePath + "/_next/static/"),
             );
           if (!location.pathname.startsWith("/admin")) urls.push(location.href);
           await Promise.allSettled(urls.map((url) => cache.add(url)));

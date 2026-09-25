@@ -1,5 +1,11 @@
 import { notFound } from "next/navigation";
 import { SopReader } from "@/components/sop-reader";
+import catalog from "../../../../public/data/catalog.json";
+
+export function generateStaticParams() {
+  return catalog.map((sop) => ({ id: sop.id }));
+}
+
 export default async function Page({
   params,
 }: {

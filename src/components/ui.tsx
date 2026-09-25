@@ -14,12 +14,14 @@ export function useData<T>(path: string) {
     [error, setError] = useState("");
   useEffect(() => {
     const abort = new AbortController();
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+    const requestPath = `${basePath}${path}`;
     setData(null);
     setError("");
     async function load() {
       let local: unknown = null;
       try {
-        const response = await fetch(path, { signal: abort.signal });
+        const response = await fetch(requestPath, { signal: abort.signal });
         if (response.ok) local = await response.json();
       } catch (e) {
         if (abort.signal.aborted) return;
@@ -34,7 +36,7 @@ export function useData<T>(path: string) {
         const id = path.split("/").pop()!.replace(".json", "");
         void navigator.serviceWorker.ready
           .then(() => caches.open("gaokao-quest-v1"))
-          .then((cache) => cache.add(`/sop/${id}`))
+          .then((cache) => cache.add(`${basePath}/sop/${id}`))
           .catch(() => {});
       }
       if (
@@ -47,7 +49,7 @@ export function useData<T>(path: string) {
           .open("gaokao-quest-v1")
           .then((cache) =>
             cache.put(
-              path,
+              requestPath,
               new Response(snapshot, {
                 headers: { "Content-Type": "application/json" },
               }),
@@ -93,7 +95,7 @@ export function useData<T>(path: string) {
           if (local && "caches" in window) {
             const cache = await caches.open("gaokao-quest-v1");
             await cache.put(
-              path,
+              requestPath,
               new Response(JSON.stringify(local), {
                 headers: { "Content-Type": "application/json" },
               }),

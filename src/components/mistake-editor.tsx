@@ -317,7 +317,7 @@ export function MistakeEditor({ id }: { id?: string }) {
               className="button primary full"
               onClick={async () => {
                 if (await update({}))
-                  router.push(`/mistakes/${draft.id}/review`);
+                  router.push(`/mistakes/review?id=${draft.id}`);
               }}
             >
               ↻ 再做一次
@@ -325,7 +325,8 @@ export function MistakeEditor({ id }: { id?: string }) {
             <button
               className="button secondary full"
               onClick={async () => {
-                if (await update({})) router.push(`/mistakes/${draft.id}`);
+                if (await update({}))
+                  router.push(`/mistakes/edit?id=${draft.id}`);
               }}
             >
               完成记录

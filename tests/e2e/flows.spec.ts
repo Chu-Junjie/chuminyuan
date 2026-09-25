@@ -49,7 +49,7 @@ test("upload → crop → associate → reload → related SOP → redo", async 
     .getByRole("textbox", { name: "我当时为什么错？" })
     .fill("SECRET_OLD_ANSWER");
   await page.getByRole("button", { name: "完成记录", exact: true }).click();
-  await expect(page).toHaveURL(/\/mistakes\/[a-f0-9-]+$/);
+  await expect(page).toHaveURL(/\/mistakes\/edit\/?\?id=[a-f0-9-]+$/);
   const detail = page.url();
   await page.reload();
   await expect(page.getByRole("textbox", { name: "错题标题" })).toHaveValue(

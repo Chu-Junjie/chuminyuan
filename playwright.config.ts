@@ -6,7 +6,8 @@ export default defineConfig({
   timeout: 45000,
   use: { baseURL: "http://localhost:3000", trace: "retain-on-failure" },
   webServer: {
-    command: "npm run start",
+    command: "npm run build && node scripts/static-server.mjs",
+    env: { NEXT_TELEMETRY_DISABLED: "1" },
     url: "http://localhost:3000",
     reuseExistingServer: !process.env.CI,
     timeout: 120000,

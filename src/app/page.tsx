@@ -151,7 +151,7 @@ export default function Home() {
             <div className="small-links">
               最近错题：
               <Link
-                href={`/mistakes/${[...mistakes].sort((a, b) => b.updatedAt.localeCompare(a.updatedAt))[0].id}`}
+                href={`/mistakes/edit?id=${[...mistakes].sort((a, b) => b.updatedAt.localeCompare(a.updatedAt))[0].id}`}
               >
                 {[...mistakes].sort((a, b) =>
                   b.updatedAt.localeCompare(a.updatedAt),

@@ -51,7 +51,7 @@ export default function Page() {
           className="button secondary"
           onClick={() => {
             const m = oldMistake(mistakes);
-            if (m) router.push(`/mistakes/${m.id}/review`);
+            if (m) router.push(`/mistakes/review?id=${m.id}`);
             else
               setMessage(
                 "还没有 3 天前的错题。先把今天的思路记下来，过几天再来。",
@@ -181,7 +181,7 @@ export default function Page() {
         <div className="mistake-grid">
           {items.map((m) => (
             <Link
-              href={`/mistakes/${m.id}`}
+              href={`/mistakes/edit?id=${m.id}`}
               className="mistake-card"
               key={m.recordId}
             >

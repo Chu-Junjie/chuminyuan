@@ -123,7 +123,7 @@ export function MistakeReview({ id }: { id: string }) {
             {result}
           </p>
         )}
-        <Link className="list-row" href={`/mistakes/${id}`}>
+        <Link className="list-row" href={`/mistakes/edit?id=${id}`}>
           完成重做，回到完整记录 ↗
         </Link>
       </section>

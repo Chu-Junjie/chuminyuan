@@ -2,6 +2,11 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { subjects } from "@/lib/catalog";
 import { Learn } from "@/components/learn";
+
+export function generateStaticParams() {
+  return subjects.map((subject) => ({ slug: subject.id }));
+}
+
 export default async function Page({
   params,
 }: {

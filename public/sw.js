@@ -1,4 +1,6 @@
-const CACHE = "gaokao-quest-v1";
+const CACHE = "gaokao-quest-v2";
+const BASE = new URL(self.registration.scope).pathname.replace(/\/$/, "");
+const asset = (path) => `${BASE}${path}`;
 const CORE = [
   "/offline.html",
   "/manifest.webmanifest",
@@ -6,7 +8,7 @@ const CORE = [
   "/icon-512.png",
   "/data/catalog.json",
   "/data/chapters.json",
-];
+].map(asset);
 self.addEventListener("install", (event) =>
   event.waitUntil(
     caches
@@ -35,8 +37,8 @@ self.addEventListener("fetch", (event) => {
   if (
     request.method !== "GET" ||
     url.origin !== location.origin ||
-    url.pathname.startsWith("/admin") ||
-    url.pathname.startsWith("/api")
+    url.pathname.startsWith(`${BASE}/admin`) ||
+    url.pathname.startsWith(`${BASE}/api`)
   )
     return;
   // RSC responses have separate URLs and Vary headers; retain the original Request as the cache key.
@@ -55,14 +57,14 @@ self.addEventListener("fetch", (event) => {
         .catch(
           async () =>
             (await caches.match(request)) ||
-            (await caches.match("/offline.html")),
+            (await caches.match(asset("/offline.html"))),
         ),
     );
     return;
   }
   if (
-    url.pathname.startsWith("/_next/static/") ||
-    url.pathname.startsWith("/data/") ||
+    url.pathname.startsWith(`${BASE}/_next/static/`) ||
+    url.pathname.startsWith(`${BASE}/data/`) ||
     url.pathname.endsWith(".png") ||
     request.headers.get("RSC") === "1"
   ) {

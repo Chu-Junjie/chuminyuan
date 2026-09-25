@@ -272,7 +272,7 @@ export function SopReader({ id }: { id: string }) {
               <Link
                 className="list-row"
                 key={m.recordId}
-                href={`/mistakes/${m.id}`}
+                href={`/mistakes/edit?id=${m.id}`}
               >
                 {m.title || "未命名错题"}
                 <ArrowRight size={17} />
