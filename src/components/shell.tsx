@@ -24,6 +24,12 @@ export function Shell({ children }: { children: React.ReactNode }) {
   const count = useRecords("progress").filter(
     (p) => p.status !== "seen",
   ).length;
+  const active = (href: string) =>
+    href === "/"
+      ? path === "/"
+      : path.startsWith(href) ||
+        (href === "/learn" &&
+          (path.startsWith("/sop") || path.startsWith("/subjects")));
   return (
     <div className="app">
       <aside className="sidebar">
@@ -39,18 +45,8 @@ export function Shell({ children }: { children: React.ReactNode }) {
             <Link
               key={href}
               href={href}
-              className={
-                (
-                  href === "/"
-                    ? path === "/"
-                    : path.startsWith(href) ||
-                      (href === "/learn" &&
-                        (path.startsWith("/sop") ||
-                          path.startsWith("/subjects")))
-                )
-                  ? "active"
-                  : ""
-              }
+              className={active(href) ? "active" : ""}
+              aria-current={active(href) ? "page" : undefined}
             >
               <Icon size={20} />
               {label}
@@ -78,10 +74,14 @@ export function Shell({ children }: { children: React.ReactNode }) {
       </aside>
       <div className="workspace">
         <div className="topbar">
-          <span>
+          <span className="desktop-kicker">
             你的学习练习室 <span className="top-sep">/</span>{" "}
             <strong>每一步，都算数</strong>
           </span>
+          <Link className="mobile-brand" href="/" aria-label="上岸地图首页">
+            <span>↗</span>
+            上岸地图
+          </Link>
           <span className="save-status" role="status">
             {!online && <WifiOff size={14} />} {message}
           </span>
@@ -96,11 +96,8 @@ export function Shell({ children }: { children: React.ReactNode }) {
           <Link
             key={href}
             href={href}
-            className={
-              path === href || (href !== "/" && path.startsWith(href))
-                ? "active"
-                : ""
-            }
+            className={active(href) ? "active" : ""}
+            aria-current={active(href) ? "page" : undefined}
           >
             <Icon size={21} />
             <span>{label}</span>
