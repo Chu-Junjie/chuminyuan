@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 import { useRecords, useStore } from "@/components/provider";
 import { useData, SopCard } from "@/components/ui";
-import { subjects } from "@/lib/catalog";
+import { subjects, sopSubject } from "@/lib/catalog";
 import type { SopSummary } from "@/lib/types";
 export default function Home() {
   const { settings } = useStore();
@@ -98,7 +98,7 @@ export default function Home() {
       <div className="subjects">
         {subjects.map((s) => (
           <Link
-            className={`subject-card ${s.id === "math" ? "subject-open" : ""}`}
+            className={`subject-card ${s.status === "open" ? "subject-open" : ""}`}
             key={s.id}
             href={`/subjects/${s.id}`}
           >
@@ -106,7 +106,9 @@ export default function Home() {
             <div>
               <h3>{s.name}</h3>
               <small>
-                {s.status === "open" ? "100 个 SOP · 已开放" : "🚧 内容建设中"}
+                {s.status === "open"
+                  ? `${sops?.filter((item) => sopSubject(item) === s.id && item.kind !== "resource").length ?? "…"} 个 SOP · 已开放`
+                  : "🚧 内容建设中"}
               </small>
             </div>
             <ArrowUpRight size={17} />

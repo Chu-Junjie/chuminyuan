@@ -1,0 +1,132 @@
+{
+  "id": "EN-11-1",
+  "code": "11.1",
+  "title": "每学一个译林版单元，只提取5类东西",
+  "subject_id": "english",
+  "chapter_id": "en-yilin",
+  "chapter": "译林版教材对接",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "11.1",
+    "每学一个译林版单元，只提取5类东西",
+    "译林版教材对接",
+    "Extract",
+    "What",
+    "write",
+    "into",
+    "your",
+    "handbook",
+    "Vocabulary",
+    "Grammar",
+    "Theme",
+    "Paraphrase",
+    "Writing",
+    "function"
+  ],
+  "brain_first": "按原文查阅 每学一个译林版单元，只提取5类东西",
+  "sort_order": 1109,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Extract",
+          "What to write into your handbook"
+        ],
+        [
+          "Vocabulary",
+          "只记录高频词、词性变化、固定搭配、熟词生义。"
+        ]
+      ],
+      "text": "Extract | What to write into your handbook\nVocabulary | 只记录高频词、词性变化、固定搭配、熟词生义。",
+      "sourcePage": 125,
+      "sourceIndex": 3015
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Extract",
+          "What to write into your handbook"
+        ],
+        [
+          "Grammar",
+          "把本单元语法链接到本宝典相应决策树。"
+        ],
+        [
+          "Theme",
+          "积累2-3个可用于阅读/写作的主题观点。"
+        ],
+        [
+          "Paraphrase",
+          "把课文里的常用同义表达收进阅读词库。"
+        ],
+        [
+          "Writing function",
+          "记录邀请、说明、观点、建议、叙事等可复用表达。"
+        ]
+      ],
+      "text": "Extract | What to write into your handbook\nGrammar | 把本单元语法链接到本宝典相应决策树。\nTheme | 积累2-3个可用于阅读/写作的主题观点。\nParaphrase | 把课文里的常用同义表达收进阅读词库。\nWriting function | 记录邀请、说明、观点、建议、叙事等可复用表达。",
+      "sourcePage": 126,
+      "sourceIndex": 3016
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-11-1-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Extract",
+              "What to write into your handbook"
+            ],
+            [
+              "Vocabulary",
+              "只记录高频词、词性变化、固定搭配、熟词生义。"
+            ]
+          ],
+          "text": "Extract | What to write into your handbook\nVocabulary | 只记录高频词、词性变化、固定搭配、熟词生义。",
+          "sourcePage": 125,
+          "sourceIndex": 3015
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Extract",
+              "What to write into your handbook"
+            ],
+            [
+              "Grammar",
+              "把本单元语法链接到本宝典相应决策树。"
+            ],
+            [
+              "Theme",
+              "积累2-3个可用于阅读/写作的主题观点。"
+            ],
+            [
+              "Paraphrase",
+              "把课文里的常用同义表达收进阅读词库。"
+            ],
+            [
+              "Writing function",
+              "记录邀请、说明、观点、建议、叙事等可复用表达。"
+            ]
+          ],
+          "text": "Extract | What to write into your handbook\nGrammar | 把本单元语法链接到本宝典相应决策树。\nTheme | 积累2-3个可用于阅读/写作的主题观点。\nParaphrase | 把课文里的常用同义表达收进阅读词库。\nWriting function | 记录邀请、说明、观点、建议、叙事等可复用表达。",
+          "sourcePage": 126,
+          "sourceIndex": 3016
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 125,
+    "endPage": 126
+  }
+}

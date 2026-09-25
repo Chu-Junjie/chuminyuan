@@ -1,0 +1,288 @@
+{
+  "id": "EN-9-1",
+  "code": "9.1",
+  "title": "Word Formation 构词与词性",
+  "subject_id": "english",
+  "chapter_id": "en-vocabulary",
+  "chapter": "词汇工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "9.1",
+    "Word Formation 构词与词性",
+    "词汇工具箱",
+    "Method",
+    "Examples",
+    "Derivation",
+    "happy",
+    "happiness",
+    "possible",
+    "impossible",
+    "Compounding",
+    "website",
+    "greenhouse",
+    "lifelong",
+    "Conversion",
+    "email",
+    "impact",
+    "Abbreviation",
+    "WHO",
+    "app",
+    "Target",
+    "Common",
+    "endings",
+    "Noun",
+    "tion/-sion",
+    "ment",
+    "ness",
+    "ity",
+    "er/-",
+    "develop",
+    "development",
+    "possibility",
+    "Adjective",
+    "ful",
+    "less",
+    "ive",
+    "ous",
+    "able",
+    "use",
+    "useful",
+    "effect",
+    "effective",
+    "culture",
+    "cultural",
+    "Adverb",
+    "careful",
+    "carefully",
+    "significant",
+    "significantly",
+    "Verb",
+    "ize/-ise",
+    "modern",
+    "modernize",
+    "strength",
+    "strengthen",
+    "Negative",
+    "un-",
+    "in-/im-/ir-",
+    "dis-",
+    "usual",
+    "unusual",
+    "agree",
+    "disagree",
+    "decide",
+    "decision",
+    "true",
+    "truly",
+    "simple",
+    "simply"
+  ],
+  "brain_first": "按原文查阅 Word Formation 构词与词性",
+  "sort_order": 1092,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "构词不只前后缀：四种高考实用识别",
+      "sourcePage": 115,
+      "sourceIndex": 2939
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Method",
+          "你怎么认",
+          "Examples"
+        ],
+        [
+          "Derivation 派生",
+          "前后缀改变意义/词性",
+          "happy→happiness; possible→impossible"
+        ],
+        [
+          "Compounding 合成",
+          "两个已有词组合",
+          "website, greenhouse, lifelong"
+        ],
+        [
+          "Conversion 转化",
+          "拼写不变，词性改变",
+          "email (n./v.); impact (n./v.)"
+        ],
+        [
+          "Abbreviation 缩写",
+          "首字母或缩略形式",
+          "AI, WHO, app"
+        ]
+      ],
+      "text": "Method | 你怎么认 | Examples\nDerivation 派生 | 前后缀改变意义/词性 | happy→happiness; possible→impossible\nCompounding 合成 | 两个已有词组合 | website, greenhouse, lifelong\nConversion 转化 | 拼写不变，词性改变 | email (n./v.); impact (n./v.)\nAbbreviation 缩写 | 首字母或缩略形式 | AI, WHO, app",
+      "sourcePage": 115,
+      "sourceIndex": 2940
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "做题用途：阅读遇到生词时，先拆前后缀/合成部分；语法填空时先确定空需要什么词性，再做拼写变化。"
+        ]
+      ],
+      "text": " | 做题用途：阅读遇到生词时，先拆前后缀/合成部分；语法填空时先确定空需要什么词性，再做拼写变化。",
+      "sourcePage": 115,
+      "sourceIndex": 2941
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Target",
+          "Common endings",
+          "Examples"
+        ],
+        [
+          "Noun",
+          "-tion/-sion, -ment, -ness, -ity, -er/-\nor",
+          "develop→development; happy→happiness;\npossible→possibility"
+        ],
+        [
+          "Adjective",
+          "-ful, -less, -ive, -al, -ous, -able",
+          "use→useful; effect→effective; culture→cultural"
+        ],
+        [
+          "Adverb",
+          "-ly",
+          "careful→carefully; significant→significantly"
+        ],
+        [
+          "Verb",
+          "-ize/-ise, -en",
+          "modern→modernize; strength→strengthen"
+        ],
+        [
+          "Negative",
+          "un-, in-/im-/ir-, dis-",
+          "usual→unusual; possible→impossible; agree→disagree"
+        ]
+      ],
+      "text": "Target | Common endings | Examples\nNoun | -tion/-sion, -ment, -ness, -ity, -er/-\nor | develop→development; happy→happiness;\npossible→possibility\nAdjective | -ful, -less, -ive, -al, -ous, -able | use→useful; effect→effective; culture→cultural\nAdverb | -ly | careful→carefully; significant→significantly\nVerb | -ize/-ise, -en | modern→modernize; strength→strengthen\nNegative | un-, in-/im-/ir-, dis- | usual→unusual; possible→impossible; agree→disagree",
+      "sourcePage": 115,
+      "sourceIndex": 2942
+    },
+    {
+      "type": "paragraph",
+      "text": "注意拼写：happy→happiness；decide→decision；possible→possibility；true→truly；simple→simply。",
+      "sourcePage": 115,
+      "sourceIndex": 2943
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-9-1-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "构词不只前后缀：四种高考实用识别",
+          "sourcePage": 115,
+          "sourceIndex": 2939
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Method",
+              "你怎么认",
+              "Examples"
+            ],
+            [
+              "Derivation 派生",
+              "前后缀改变意义/词性",
+              "happy→happiness; possible→impossible"
+            ],
+            [
+              "Compounding 合成",
+              "两个已有词组合",
+              "website, greenhouse, lifelong"
+            ],
+            [
+              "Conversion 转化",
+              "拼写不变，词性改变",
+              "email (n./v.); impact (n./v.)"
+            ],
+            [
+              "Abbreviation 缩写",
+              "首字母或缩略形式",
+              "AI, WHO, app"
+            ]
+          ],
+          "text": "Method | 你怎么认 | Examples\nDerivation 派生 | 前后缀改变意义/词性 | happy→happiness; possible→impossible\nCompounding 合成 | 两个已有词组合 | website, greenhouse, lifelong\nConversion 转化 | 拼写不变，词性改变 | email (n./v.); impact (n./v.)\nAbbreviation 缩写 | 首字母或缩略形式 | AI, WHO, app",
+          "sourcePage": 115,
+          "sourceIndex": 2940
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "做题用途：阅读遇到生词时，先拆前后缀/合成部分；语法填空时先确定空需要什么词性，再做拼写变化。"
+            ]
+          ],
+          "text": " | 做题用途：阅读遇到生词时，先拆前后缀/合成部分；语法填空时先确定空需要什么词性，再做拼写变化。",
+          "sourcePage": 115,
+          "sourceIndex": 2941
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Target",
+              "Common endings",
+              "Examples"
+            ],
+            [
+              "Noun",
+              "-tion/-sion, -ment, -ness, -ity, -er/-\nor",
+              "develop→development; happy→happiness;\npossible→possibility"
+            ],
+            [
+              "Adjective",
+              "-ful, -less, -ive, -al, -ous, -able",
+              "use→useful; effect→effective; culture→cultural"
+            ],
+            [
+              "Adverb",
+              "-ly",
+              "careful→carefully; significant→significantly"
+            ],
+            [
+              "Verb",
+              "-ize/-ise, -en",
+              "modern→modernize; strength→strengthen"
+            ],
+            [
+              "Negative",
+              "un-, in-/im-/ir-, dis-",
+              "usual→unusual; possible→impossible; agree→disagree"
+            ]
+          ],
+          "text": "Target | Common endings | Examples\nNoun | -tion/-sion, -ment, -ness, -ity, -er/-\nor | develop→development; happy→happiness;\npossible→possibility\nAdjective | -ful, -less, -ive, -al, -ous, -able | use→useful; effect→effective; culture→cultural\nAdverb | -ly | careful→carefully; significant→significantly\nVerb | -ize/-ise, -en | modern→modernize; strength→strengthen\nNegative | un-, in-/im-/ir-, dis- | usual→unusual; possible→impossible; agree→disagree",
+          "sourcePage": 115,
+          "sourceIndex": 2942
+        },
+        {
+          "type": "paragraph",
+          "text": "注意拼写：happy→happiness；decide→decision；possible→possibility；true→truly；simple→simply。",
+          "sourcePage": 115,
+          "sourceIndex": 2943
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 115,
+    "endPage": 115
+  }
+}

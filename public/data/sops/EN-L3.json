@@ -1,0 +1,660 @@
+{
+  "id": "EN-L3",
+  "code": "L3",
+  "title": "人物关系题",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "L3",
+    "人物关系题",
+    "听力",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "What",
+    "the",
+    "relationship",
+    "between",
+    "speakers",
+    "teacher/student",
+    "doctor/patient",
+    "customer/",
+    "staff",
+    "colleagues",
+    "friends",
+    "family",
+    "TERM",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "Please",
+    "finish",
+    "Friday",
+    "STEPS",
+    "Follow",
+    "route",
+    "old",
+    "new",
+    "drive",
+    "sleep",
+    "IF/THEN",
+    "then",
+    "homework",
+    "assignment",
+    "class",
+    "teacher-student",
+    "reservation",
+    "order",
+    "bill",
+    "staff-customer",
+    "symptom",
+    "medicine",
+    "appointment",
+    "doctor-patient",
+    "project",
+    "deadline",
+    "meeting",
+    "boss-employee",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "Your",
+    "essay",
+    "much",
+    "clearer",
+    "time",
+    "revise",
+    "last",
+    "paragraph",
+    "before",
+    "teacher",
+    "student",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "L-K",
+    "L-C",
+    "L-P",
+    "L-I",
+    "L-A",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "submit",
+    "Would",
+    "like",
+    "anything",
+    "else",
+    "with",
+    "blood"
+  ],
+  "brain_first": "“谁在对谁做什么？谁有权要求谁做什么？”",
+  "sort_order": 1006,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 10,
+      "sourceIndex": 259
+    },
+    {
+      "type": "paragraph",
+      "text": "What is the relationship between the speakers?",
+      "sourcePage": 10,
+      "sourceIndex": 260
+    },
+    {
+      "type": "paragraph",
+      "text": "常见 teacher/student, doctor/patient, customer/",
+      "sourcePage": 10,
+      "sourceIndex": 261
+    },
+    {
+      "type": "paragraph",
+      "text": "staff, colleagues, friends, family。",
+      "sourcePage": 10,
+      "sourceIndex": 262
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 10,
+      "sourceIndex": 263
+    },
+    {
+      "type": "paragraph",
+      "text": "人物关系通过身份、职责、称呼、请求方式表现。",
+      "sourcePage": 10,
+      "sourceIndex": 264
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “谁在对谁做什么？谁有权要求谁做什么？”",
+      "sourcePage": 10,
+      "sourceIndex": 265
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 同一句 Please finish this by Friday 在工作场景和课堂场景都可能出现，所以要",
+      "sourcePage": 10,
+      "sourceIndex": 266
+    },
+    {
+      "type": "paragraph",
+      "text": "结合任务对象。",
+      "sourcePage": 10,
+      "sourceIndex": 267
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 10,
+      "sourceIndex": 268
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先看选项中的关系差异。",
+      "sourcePage": 10,
+      "sourceIndex": 269
+    },
+    {
+      "type": "paragraph",
+      "text": "2 听称呼、工作内容、课程/付款/诊疗等角色线索。",
+      "sourcePage": 10,
+      "sourceIndex": 270
+    },
+    {
+      "type": "paragraph",
+      "text": "3 判断双方权力和职责：谁布置任务、谁提供服务、谁求助。",
+      "sourcePage": 10,
+      "sourceIndex": 271
+    },
+    {
+      "type": "paragraph",
+      "text": "4 用整段关系而不是一句话定答案。",
+      "sourcePage": 10,
+      "sourceIndex": 272
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计",
+      "sourcePage": 10,
+      "sourceIndex": 273
+    },
+    {
+      "type": "paragraph",
+      "text": "划写成“drive→sleep”；不要抄完整句。",
+      "sourcePage": 10,
+      "sourceIndex": 274
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 10,
+      "sourceIndex": 275
+    },
+    {
+      "type": "paragraph",
+      "text": "· homework / assignment / class → teacher-student",
+      "sourcePage": 10,
+      "sourceIndex": 276
+    },
+    {
+      "type": "paragraph",
+      "text": "· reservation / order / bill → staff-customer",
+      "sourcePage": 10,
+      "sourceIndex": 277
+    },
+    {
+      "type": "paragraph",
+      "text": "· symptom / medicine / appointment → doctor-patient",
+      "sourcePage": 10,
+      "sourceIndex": 278
+    },
+    {
+      "type": "paragraph",
+      "text": "· project / deadline / meeting → colleagues or boss-employee",
+      "sourcePage": 10,
+      "sourceIndex": 279
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 角色职责能够解释双方至少两处话语。",
+      "sourcePage": 10,
+      "sourceIndex": 280
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 若同事和朋友难区分，看是否出现明确工作职责；若师生和同学难区分，看是",
+      "sourcePage": 11,
+      "sourceIndex": 281
+    },
+    {
+      "type": "paragraph",
+      "text": "否一方布置/评价学习任务。",
+      "sourcePage": 11,
+      "sourceIndex": 282
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 11,
+      "sourceIndex": 283
+    },
+    {
+      "type": "paragraph",
+      "text": "Your essay is much clearer this time. Please revise the last paragraph before class.",
+      "sourcePage": 11,
+      "sourceIndex": 284
+    },
+    {
+      "type": "paragraph",
+      "text": "评价作文并要求课前修改，明显是 teacher → student。",
+      "sourcePage": 11,
+      "sourceIndex": 285
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 11,
+      "sourceIndex": 286
+    },
+    {
+      "type": "paragraph",
+      "text": "· 根据年龄或男女声音猜关系。",
+      "sourcePage": 11,
+      "sourceIndex": 287
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只看一句礼貌程度判断。",
+      "sourcePage": 11,
+      "sourceIndex": 288
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 11,
+      "sourceIndex": 289
+    },
+    {
+      "type": "paragraph",
+      "text": "· 角色是否能解释双方行为？",
+      "sourcePage": 11,
+      "sourceIndex": 290
+    },
+    {
+      "type": "paragraph",
+      "text": "· 有没有职业/课堂/家庭专属词？",
+      "sourcePage": 11,
+      "sourceIndex": 291
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同",
+      "sourcePage": 11,
+      "sourceIndex": 292
+    },
+    {
+      "type": "paragraph",
+      "text": "义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+      "sourcePage": 11,
+      "sourceIndex": 293
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 11,
+      "sourceIndex": 294
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 关系题先问：谁有责任对谁做什么？",
+      "sourcePage": 11,
+      "sourceIndex": 295
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 11,
+      "sourceIndex": 297
+    },
+    {
+      "type": "paragraph",
+      "text": "1. “Please submit the essay before class.”关系最可能？",
+      "sourcePage": 11,
+      "sourceIndex": 298
+    },
+    {
+      "type": "paragraph",
+      "text": "2. “Would you like anything else with your order?”",
+      "sourcePage": 11,
+      "sourceIndex": 299
+    },
+    {
+      "type": "paragraph",
+      "text": "3. “Your blood pressure looks normal.”",
+      "sourcePage": 11,
+      "sourceIndex": 300
+    },
+    {
+      "type": "paragraph",
+      "text": "4. “The deadline for our project is Friday.”若双方都讨论分工，关系更可能？",
+      "sourcePage": 11,
+      "sourceIndex": 301
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 能不能根据男女声音直接判断husband/wife？",
+      "sourcePage": 11,
+      "sourceIndex": 302
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. teacher-student；2. server/customer；3. doctor/patient；4. colleagues/classmates，需结合场景",
+      "sourcePage": 11,
+      "sourceIndex": 303
+    },
+    {
+      "type": "paragraph",
+      "text": "进一步确认。；5. 不能。",
+      "sourcePage": 11,
+      "sourceIndex": 304
+    },
+    {
+      "type": "paragraph",
+      "text": "— L3 本题型到这里。下次卡住直接 Ctrl+F 搜“L3”或题型关键词。—",
+      "sourcePage": 11,
+      "sourceIndex": 305
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-L3-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What is the relationship between the speakers? 常见 teacher/student, doctor/patient, customer/ staff, colleagues, friends, family。",
+          "sourcePage": 10,
+          "sourceIndex": 260
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "人物关系通过身份、职责、称呼、请求方式表现。",
+          "sourcePage": 10,
+          "sourceIndex": 264
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“谁在对谁做什么？谁有权要求谁做什么？”",
+          "sourcePage": 10,
+          "sourceIndex": 265
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "同一句 Please finish this by Friday 在工作场景和课堂场景都可能出现，所以要 结合任务对象。",
+          "sourcePage": 10,
+          "sourceIndex": 266
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先看选项中的关系差异。",
+          "sourcePage": 10,
+          "sourceIndex": 269
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 听称呼、工作内容、课程/付款/诊疗等角色线索。",
+          "sourcePage": 10,
+          "sourceIndex": 270
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 判断双方权力和职责：谁布置任务、谁提供服务、谁求助。",
+          "sourcePage": 10,
+          "sourceIndex": 271
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 用整段关系而不是一句话定答案。",
+          "sourcePage": 10,
+          "sourceIndex": 272
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计 划写成“drive→sleep”；不要抄完整句。",
+          "sourcePage": 10,
+          "sourceIndex": 273
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· homework / assignment / class → teacher-student",
+          "sourcePage": 10,
+          "sourceIndex": 276
+        },
+        {
+          "type": "paragraph",
+          "text": "· reservation / order / bill → staff-customer",
+          "sourcePage": 10,
+          "sourceIndex": 277
+        },
+        {
+          "type": "paragraph",
+          "text": "· symptom / medicine / appointment → doctor-patient",
+          "sourcePage": 10,
+          "sourceIndex": 278
+        },
+        {
+          "type": "paragraph",
+          "text": "· project / deadline / meeting → colleagues or boss-employee",
+          "sourcePage": 10,
+          "sourceIndex": 279
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "角色职责能够解释双方至少两处话语。",
+          "sourcePage": 10,
+          "sourceIndex": 280
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "若同事和朋友难区分，看是否出现明确工作职责；若师生和同学难区分，看是 否一方布置/评价学习任务。",
+          "sourcePage": 11,
+          "sourceIndex": 281
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Your essay is much clearer this time. Please revise the last paragraph before class. 评价作文并要求课前修改，明显是 teacher → student。",
+          "sourcePage": 11,
+          "sourceIndex": 284
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 根据年龄或男女声音猜关系。",
+          "sourcePage": 11,
+          "sourceIndex": 287
+        },
+        {
+          "type": "paragraph",
+          "text": "· 只看一句礼貌程度判断。",
+          "sourcePage": 11,
+          "sourceIndex": 288
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 角色是否能解释双方行为？",
+          "sourcePage": 11,
+          "sourceIndex": 290
+        },
+        {
+          "type": "paragraph",
+          "text": "· 有没有职业/课堂/家庭专属词？",
+          "sourcePage": 11,
+          "sourceIndex": 291
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同 义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+          "sourcePage": 11,
+          "sourceIndex": 292
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 11,
+          "sourceIndex": 294
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "关系题先问：谁有责任对谁做什么？",
+          "sourcePage": 11,
+          "sourceIndex": 295
+        }
+      ]
+    },
+    {
+      "id": "EN-L3-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. “Please submit the essay before class.”关系最可能？",
+          "sourcePage": 11,
+          "sourceIndex": 298
+        },
+        {
+          "type": "paragraph",
+          "text": "2. “Would you like anything else with your order?”",
+          "sourcePage": 11,
+          "sourceIndex": 299
+        },
+        {
+          "type": "paragraph",
+          "text": "3. “Your blood pressure looks normal.”",
+          "sourcePage": 11,
+          "sourceIndex": 300
+        },
+        {
+          "type": "paragraph",
+          "text": "4. “The deadline for our project is Friday.”若双方都讨论分工，关系更可能？",
+          "sourcePage": 11,
+          "sourceIndex": 301
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 能不能根据男女声音直接判断husband/wife？",
+          "sourcePage": 11,
+          "sourceIndex": 302
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. teacher-student；2. server/customer；3. doctor/patient；4. colleagues/classmates，需结合场景 进一步确认。；5. 不能。",
+          "sourcePage": 11,
+          "sourceIndex": 303
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 10,
+    "endPage": 11
+  }
+}

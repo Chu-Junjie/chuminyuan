@@ -1,0 +1,176 @@
+{
+  "id": "EN-12-7",
+  "code": "12.7",
+  "title": "最后必须记住的12句话",
+  "subject_id": "english",
+  "chapter_id": "en-rescue",
+  "chapter": "急救与索引",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "12.7",
+    "最后必须记住的12句话",
+    "急救与索引"
+  ],
+  "brain_first": "按原文查阅 最后必须记住的12句话",
+  "sort_order": 1122,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "1. 阅读不是全文翻译，题目问什么就找什么。",
+      "sourcePage": 130,
+      "sourceIndex": 3087
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 细节题：圈题干，回原文，找同义。",
+      "sourcePage": 130,
+      "sourceIndex": 3088
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 推断题：只能多走半步。",
+      "sourcePage": 130,
+      "sourceIndex": 3089
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 主旨题：不要被一个细节吸走。",
+      "sourcePage": 130,
+      "sourceIndex": 3090
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 七选五：前后、代词、逻辑、词链。",
+      "sourcePage": 130,
+      "sourceIndex": 3091
+    },
+    {
+      "type": "paragraph",
+      "text": "6. 完形：别单看词，先看人物为什么现在这样做。",
+      "sourcePage": 131,
+      "sourceIndex": 3092
+    },
+    {
+      "type": "paragraph",
+      "text": "7. 生词：不影响当前题就先跳。",
+      "sourcePage": 131,
+      "sourceIndex": 3093
+    },
+    {
+      "type": "paragraph",
+      "text": "8. 动词：先看有没有谓语。",
+      "sourcePage": 131,
+      "sourceIndex": 3094
+    },
+    {
+      "type": "paragraph",
+      "text": "9. 从句：先看从句缺不缺成分。",
+      "sourcePage": 131,
+      "sourceIndex": 3095
+    },
+    {
+      "type": "paragraph",
+      "text": "10. 应用文：先把任务信息写全。",
+      "sourcePage": 131,
+      "sourceIndex": 3096
+    },
+    {
+      "type": "paragraph",
+      "text": "11. 续写：先看两段首句，再决定故事路线。",
+      "sourcePage": 131,
+      "sourceIndex": 3097
+    },
+    {
+      "type": "paragraph",
+      "text": "12. 正确 > 完整 > 清楚 > 自然 > 高级。",
+      "sourcePage": 131,
+      "sourceIndex": 3098
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-12-7-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 阅读不是全文翻译，题目问什么就找什么。",
+          "sourcePage": 130,
+          "sourceIndex": 3087
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 细节题：圈题干，回原文，找同义。",
+          "sourcePage": 130,
+          "sourceIndex": 3088
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 推断题：只能多走半步。",
+          "sourcePage": 130,
+          "sourceIndex": 3089
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 主旨题：不要被一个细节吸走。",
+          "sourcePage": 130,
+          "sourceIndex": 3090
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 七选五：前后、代词、逻辑、词链。",
+          "sourcePage": 130,
+          "sourceIndex": 3091
+        },
+        {
+          "type": "paragraph",
+          "text": "6. 完形：别单看词，先看人物为什么现在这样做。",
+          "sourcePage": 131,
+          "sourceIndex": 3092
+        },
+        {
+          "type": "paragraph",
+          "text": "7. 生词：不影响当前题就先跳。",
+          "sourcePage": 131,
+          "sourceIndex": 3093
+        },
+        {
+          "type": "paragraph",
+          "text": "8. 动词：先看有没有谓语。",
+          "sourcePage": 131,
+          "sourceIndex": 3094
+        },
+        {
+          "type": "paragraph",
+          "text": "9. 从句：先看从句缺不缺成分。",
+          "sourcePage": 131,
+          "sourceIndex": 3095
+        },
+        {
+          "type": "paragraph",
+          "text": "10. 应用文：先把任务信息写全。",
+          "sourcePage": 131,
+          "sourceIndex": 3096
+        },
+        {
+          "type": "paragraph",
+          "text": "11. 续写：先看两段首句，再决定故事路线。",
+          "sourcePage": 131,
+          "sourceIndex": 3097
+        },
+        {
+          "type": "paragraph",
+          "text": "12. 正确 > 完整 > 清楚 > 自然 > 高级。",
+          "sourcePage": 131,
+          "sourceIndex": 3098
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 130,
+    "endPage": 131
+  }
+}

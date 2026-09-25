@@ -1,0 +1,603 @@
+{
+  "id": "EN-CW4",
+  "code": "CW4",
+  "title": "对话怎么写才不占满全文",
+  "subject_id": "english",
+  "chapter_id": "en-continuation",
+  "chapter": "读后续写",
+  "kind": "sop",
+  "frequency": 3,
+  "keywords": [
+    "CW4",
+    "对话怎么写才不占满全文",
+    "读后续写",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Dialogue",
+    "should",
+    "reveal",
+    "intention",
+    "move",
+    "action",
+    "forward",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "V/N/Adj/Adv",
+    "worried",
+    "help",
+    "relieved",
+    "IF/THEN",
+    "then",
+    "Let",
+    "said",
+    "reaching",
+    "for",
+    "box",
+    "found",
+    "near",
+    "gate",
+    "she",
+    "explained",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "said/asked",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "Take",
+    "seat",
+    "boy",
+    "stepping",
+    "aside",
+    "The",
+    "old",
+    "man",
+    "looked",
+    "surprised",
+    "thanked",
+    "him",
+    "quietly",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Ctrl"
+  ],
+  "brain_first": "“对话只负责推动故事，不负责凑字数。”",
+  "sort_order": 1067,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 101,
+      "sourceIndex": 2719
+    },
+    {
+      "type": "paragraph",
+      "text": "人物需要交流信息、道歉、感谢、提出办法。",
+      "sourcePage": 101,
+      "sourceIndex": 2720
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 101,
+      "sourceIndex": 2721
+    },
+    {
+      "type": "paragraph",
+      "text": "Dialogue should reveal intention or move action",
+      "sourcePage": 101,
+      "sourceIndex": 2722
+    },
+    {
+      "type": "paragraph",
+      "text": "forward.",
+      "sourcePage": 101,
+      "sourceIndex": 2723
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “对话只负责推动故事，不负责凑字数。”",
+      "sourcePage": 102,
+      "sourceIndex": 2724
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 续写中长对话会挤压情节，而且容易标点/时态出错。",
+      "sourcePage": 102,
+      "sourceIndex": 2725
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 102,
+      "sourceIndex": 2726
+    },
+    {
+      "type": "paragraph",
+      "text": "1 只保留必须说出来的信息。",
+      "sourcePage": 102,
+      "sourceIndex": 2727
+    },
+    {
+      "type": "paragraph",
+      "text": "2 一句对话后跟一个动作或反应。",
+      "sourcePage": 102,
+      "sourceIndex": 2728
+    },
+    {
+      "type": "paragraph",
+      "text": "3 同一人物连续多句可以合并。",
+      "sourcePage": 102,
+      "sourceIndex": 2729
+    },
+    {
+      "type": "paragraph",
+      "text": "4 避免重复原文已经知道的信息。",
+      "sourcePage": 102,
+      "sourceIndex": 2730
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如",
+      "sourcePage": 102,
+      "sourceIndex": 2731
+    },
+    {
+      "type": "paragraph",
+      "text": "worried→help→relieved；难空先打 ? 继续。",
+      "sourcePage": 102,
+      "sourceIndex": 2732
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 102,
+      "sourceIndex": 2733
+    },
+    {
+      "type": "paragraph",
+      "text": "· “Let me help,” he said, reaching for the box.",
+      "sourcePage": 102,
+      "sourceIndex": 2734
+    },
+    {
+      "type": "paragraph",
+      "text": "· “I found it near the gate,” she explained.",
+      "sourcePage": 102,
+      "sourceIndex": 2735
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 删掉这句对话后故事会少一个必要信息或人物选择。",
+      "sourcePage": 102,
+      "sourceIndex": 2736
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 不知道复杂引语标点时，使用简短直接引语+said/asked。",
+      "sourcePage": 102,
+      "sourceIndex": 2737
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 102,
+      "sourceIndex": 2738
+    },
+    {
+      "type": "paragraph",
+      "text": "“Take my seat,” the boy said, stepping aside. The old man looked surprised, then thanked him",
+      "sourcePage": 102,
+      "sourceIndex": 2739
+    },
+    {
+      "type": "paragraph",
+      "text": "quietly.",
+      "sourcePage": 102,
+      "sourceIndex": 2740
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 102,
+      "sourceIndex": 2741
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把整段写成聊天记录。",
+      "sourcePage": 102,
+      "sourceIndex": 2742
+    },
+    {
+      "type": "paragraph",
+      "text": "· 对话只重复情绪。",
+      "sourcePage": 102,
+      "sourceIndex": 2743
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 102,
+      "sourceIndex": 2744
+    },
+    {
+      "type": "paragraph",
+      "text": "· 推动情节了吗？",
+      "sourcePage": 102,
+      "sourceIndex": 2745
+    },
+    {
+      "type": "paragraph",
+      "text": "· 人物说话符合身份吗？",
+      "sourcePage": 102,
+      "sourceIndex": 2746
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现",
+      "sourcePage": 102,
+      "sourceIndex": 2747
+    },
+    {
+      "type": "paragraph",
+      "text": "｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+      "sourcePage": 102,
+      "sourceIndex": 2748
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 102,
+      "sourceIndex": 2749
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 对话短一点，让它推动故事。",
+      "sourcePage": 103,
+      "sourceIndex": 2750
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 103,
+      "sourceIndex": 2752
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 对话占满整段的问题？",
+      "sourcePage": 103,
+      "sourceIndex": 2753
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 对话最重要功能？",
+      "sourcePage": 103,
+      "sourceIndex": 2754
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 一句对话后最好配？",
+      "sourcePage": 103,
+      "sourceIndex": 2755
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 不熟复杂标点时怎么办？",
+      "sourcePage": 103,
+      "sourceIndex": 2756
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 每句都引号是否必要？",
+      "sourcePage": 103,
+      "sourceIndex": 2757
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 挤掉动作、情节和衔接。；2. 推动情节/揭示信息/反应情绪。；3. 动作或反应。；4. 少写长对话，保",
+      "sourcePage": 103,
+      "sourceIndex": 2758
+    },
+    {
+      "type": "paragraph",
+      "text": "持简单准确。；5. 不必要。",
+      "sourcePage": 103,
+      "sourceIndex": 2759
+    },
+    {
+      "type": "paragraph",
+      "text": "— CW4 本题型到这里。下次卡住直接 Ctrl+F 搜“CW4”或题型关键词。—",
+      "sourcePage": 103,
+      "sourceIndex": 2760
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-CW4-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "人物需要交流信息、道歉、感谢、提出办法。",
+          "sourcePage": 101,
+          "sourceIndex": 2720
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dialogue should reveal intention or move action forward.",
+          "sourcePage": 101,
+          "sourceIndex": 2722
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“对话只负责推动故事，不负责凑字数。”",
+          "sourcePage": 102,
+          "sourceIndex": 2724
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "续写中长对话会挤压情节，而且容易标点/时态出错。",
+          "sourcePage": 102,
+          "sourceIndex": 2725
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 只保留必须说出来的信息。",
+          "sourcePage": 102,
+          "sourceIndex": 2727
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 一句对话后跟一个动作或反应。",
+          "sourcePage": 102,
+          "sourceIndex": 2728
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 同一人物连续多句可以合并。",
+          "sourcePage": 102,
+          "sourceIndex": 2729
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 避免重复原文已经知道的信息。",
+          "sourcePage": 102,
+          "sourceIndex": 2730
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如 worried→help→relieved；难空先打 ? 继续。",
+          "sourcePage": 102,
+          "sourceIndex": 2731
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· “Let me help,” he said, reaching for the box.",
+          "sourcePage": 102,
+          "sourceIndex": 2734
+        },
+        {
+          "type": "paragraph",
+          "text": "· “I found it near the gate,” she explained.",
+          "sourcePage": 102,
+          "sourceIndex": 2735
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "删掉这句对话后故事会少一个必要信息或人物选择。",
+          "sourcePage": 102,
+          "sourceIndex": 2736
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "不知道复杂引语标点时，使用简短直接引语+said/asked。",
+          "sourcePage": 102,
+          "sourceIndex": 2737
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“Take my seat,” the boy said, stepping aside. The old man looked surprised, then thanked him quietly.",
+          "sourcePage": 102,
+          "sourceIndex": 2739
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把整段写成聊天记录。",
+          "sourcePage": 102,
+          "sourceIndex": 2742
+        },
+        {
+          "type": "paragraph",
+          "text": "· 对话只重复情绪。",
+          "sourcePage": 102,
+          "sourceIndex": 2743
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 推动情节了吗？",
+          "sourcePage": 102,
+          "sourceIndex": 2745
+        },
+        {
+          "type": "paragraph",
+          "text": "· 人物说话符合身份吗？",
+          "sourcePage": 102,
+          "sourceIndex": 2746
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现 ｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+          "sourcePage": 102,
+          "sourceIndex": 2747
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 102,
+          "sourceIndex": 2749
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "对话短一点，让它推动故事。",
+          "sourcePage": 103,
+          "sourceIndex": 2750
+        }
+      ]
+    },
+    {
+      "id": "EN-CW4-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 对话占满整段的问题？",
+          "sourcePage": 103,
+          "sourceIndex": 2753
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 对话最重要功能？",
+          "sourcePage": 103,
+          "sourceIndex": 2754
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 一句对话后最好配？",
+          "sourcePage": 103,
+          "sourceIndex": 2755
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 不熟复杂标点时怎么办？",
+          "sourcePage": 103,
+          "sourceIndex": 2756
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 每句都引号是否必要？",
+          "sourcePage": 103,
+          "sourceIndex": 2757
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 挤掉动作、情节和衔接。；2. 推动情节/揭示信息/反应情绪。；3. 动作或反应。；4. 少写长对话，保 持简单准确。；5. 不必要。",
+          "sourcePage": 103,
+          "sourceIndex": 2758
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 101,
+    "endPage": 103
+  }
+}

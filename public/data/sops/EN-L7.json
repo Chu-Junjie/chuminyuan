@@ -1,0 +1,584 @@
+{
+  "id": "EN-L7",
+  "code": "L7",
+  "title": "主旨题",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "L7",
+    "主旨题",
+    "听力",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "What",
+    "are",
+    "the",
+    "speakers",
+    "mainly",
+    "talking",
+    "about",
+    "talk",
+    "TERM",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "old",
+    "new",
+    "drive",
+    "sleep",
+    "IF/THEN",
+    "then",
+    "trip",
+    "planning",
+    "tips",
+    "how",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "buying",
+    "train",
+    "tickets",
+    "TRAPS",
+    "Common",
+    "traps",
+    "life",
+    "technology",
+    "education",
+    "CHECK",
+    "Final",
+    "check",
+    "L-K",
+    "L-C",
+    "L-P",
+    "L-I",
+    "L-A",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "save",
+    "money",
+    "money-saving",
+    "Ctrl"
+  ],
+  "brain_first": "“找整段一直围绕的事情，不追最具体的一个细节。”",
+  "sort_order": 1010,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 16,
+      "sourceIndex": 449
+    },
+    {
+      "type": "paragraph",
+      "text": "What are the speakers mainly talking about? /",
+      "sourcePage": 16,
+      "sourceIndex": 450
+    },
+    {
+      "type": "paragraph",
+      "text": "What is the talk mainly about?",
+      "sourcePage": 16,
+      "sourceIndex": 451
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 16,
+      "sourceIndex": 452
+    },
+    {
+      "type": "paragraph",
+      "text": "主旨题要找覆盖整段的“上位概念”。",
+      "sourcePage": 16,
+      "sourceIndex": 453
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “找整段一直围绕的事情，不追最具体的一个细节。”",
+      "sourcePage": 16,
+      "sourceIndex": 454
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 错误选项经常来自某个具体细节，因为你刚听到它，印象最深。",
+      "sourcePage": 17,
+      "sourceIndex": 455
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 17,
+      "sourceIndex": 456
+    },
+    {
+      "type": "paragraph",
+      "text": "1 开头听主题入口，中间听反复出现的核心名词，结尾听决定/总结。",
+      "sourcePage": 17,
+      "sourceIndex": 457
+    },
+    {
+      "type": "paragraph",
+      "text": "2 把每个选项问自己：能不能罩住大部分内容？",
+      "sourcePage": 17,
+      "sourceIndex": 458
+    },
+    {
+      "type": "paragraph",
+      "text": "3 如果选项只对应一句细节，先降级。",
+      "sourcePage": 17,
+      "sourceIndex": 459
+    },
+    {
+      "type": "paragraph",
+      "text": "4 优先选“人物为什么在谈这些细节”的总主题。",
+      "sourcePage": 17,
+      "sourceIndex": 460
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计",
+      "sourcePage": 17,
+      "sourceIndex": 461
+    },
+    {
+      "type": "paragraph",
+      "text": "划写成“drive→sleep”；不要抄完整句。",
+      "sourcePage": 17,
+      "sourceIndex": 462
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 17,
+      "sourceIndex": 463
+    },
+    {
+      "type": "paragraph",
+      "text": "· 多个细节都围绕一次 trip → 主旨是 trip planning，不是某家酒店",
+      "sourcePage": 17,
+      "sourceIndex": 464
+    },
+    {
+      "type": "paragraph",
+      "text": "· 独白列多个 tips → 主旨通常是 how to...",
+      "sourcePage": 17,
+      "sourceIndex": 465
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 一个选项能解释至少两到三个主要信息点。",
+      "sourcePage": 17,
+      "sourceIndex": 466
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 若两个选项都大，选更贴合材料“目的”的那个，而不是无限泛化。",
+      "sourcePage": 17,
+      "sourceIndex": 467
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 17,
+      "sourceIndex": 468
+    },
+    {
+      "type": "paragraph",
+      "text": "对话先谈火车票，再谈住宿，再谈景点安排。主旨应是 planning a trip，而不是 buying train tickets。",
+      "sourcePage": 17,
+      "sourceIndex": 469
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 17,
+      "sourceIndex": 470
+    },
+    {
+      "type": "paragraph",
+      "text": "· 选最后一句细节。",
+      "sourcePage": 17,
+      "sourceIndex": 471
+    },
+    {
+      "type": "paragraph",
+      "text": "· 选范围过大的“life / technology / education”泛主题。",
+      "sourcePage": 17,
+      "sourceIndex": 472
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 17,
+      "sourceIndex": 473
+    },
+    {
+      "type": "paragraph",
+      "text": "· 能覆盖整段吗？",
+      "sourcePage": 17,
+      "sourceIndex": 474
+    },
+    {
+      "type": "paragraph",
+      "text": "· 是不是只覆盖一个细节？",
+      "sourcePage": 17,
+      "sourceIndex": 475
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同",
+      "sourcePage": 17,
+      "sourceIndex": 476
+    },
+    {
+      "type": "paragraph",
+      "text": "义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+      "sourcePage": 17,
+      "sourceIndex": 477
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 17,
+      "sourceIndex": 478
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 主旨找“所有细节为什么放在一起”。",
+      "sourcePage": 17,
+      "sourceIndex": 479
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 18,
+      "sourceIndex": 481
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 对话谈车票、酒店、景点，主旨？",
+      "sourcePage": 18,
+      "sourceIndex": 482
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 独白连续给三条省钱建议，主旨？",
+      "sourcePage": 18,
+      "sourceIndex": 483
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 主旨选项只对应最后一句，通常？",
+      "sourcePage": 18,
+      "sourceIndex": 484
+    },
+    {
+      "type": "paragraph",
+      "text": "4. “technology”出现多次就一定是主旨吗？",
+      "sourcePage": 18,
+      "sourceIndex": 485
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 主旨判断至少应覆盖几处主要信息？",
+      "sourcePage": 18,
+      "sourceIndex": 486
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. planning a trip；2. how to save money / money-saving tips；3. 太窄。；4. 不一定，要看全段为何",
+      "sourcePage": 18,
+      "sourceIndex": 487
+    },
+    {
+      "type": "paragraph",
+      "text": "谈这些细节。；5. 大部分/至少2-3个主要信息点。",
+      "sourcePage": 18,
+      "sourceIndex": 488
+    },
+    {
+      "type": "paragraph",
+      "text": "— L7 本题型到这里。下次卡住直接 Ctrl+F 搜“L7”或题型关键词。—",
+      "sourcePage": 18,
+      "sourceIndex": 489
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-L7-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What are the speakers mainly talking about? / What is the talk mainly about?",
+          "sourcePage": 16,
+          "sourceIndex": 450
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "主旨题要找覆盖整段的“上位概念”。",
+          "sourcePage": 16,
+          "sourceIndex": 453
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“找整段一直围绕的事情，不追最具体的一个细节。”",
+          "sourcePage": 16,
+          "sourceIndex": 454
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "错误选项经常来自某个具体细节，因为你刚听到它，印象最深。",
+          "sourcePage": 17,
+          "sourceIndex": 455
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 开头听主题入口，中间听反复出现的核心名词，结尾听决定/总结。",
+          "sourcePage": 17,
+          "sourceIndex": 457
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 把每个选项问自己：能不能罩住大部分内容？",
+          "sourcePage": 17,
+          "sourceIndex": 458
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 如果选项只对应一句细节，先降级。",
+          "sourcePage": 17,
+          "sourceIndex": 459
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 优先选“人物为什么在谈这些细节”的总主题。",
+          "sourcePage": 17,
+          "sourceIndex": 460
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计 划写成“drive→sleep”；不要抄完整句。",
+          "sourcePage": 17,
+          "sourceIndex": 461
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 多个细节都围绕一次 trip → 主旨是 trip planning，不是某家酒店",
+          "sourcePage": 17,
+          "sourceIndex": 464
+        },
+        {
+          "type": "paragraph",
+          "text": "· 独白列多个 tips → 主旨通常是 how to...",
+          "sourcePage": 17,
+          "sourceIndex": 465
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "一个选项能解释至少两到三个主要信息点。",
+          "sourcePage": 17,
+          "sourceIndex": 466
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "若两个选项都大，选更贴合材料“目的”的那个，而不是无限泛化。",
+          "sourcePage": 17,
+          "sourceIndex": 467
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "对话先谈火车票，再谈住宿，再谈景点安排。主旨应是 planning a trip，而不是 buying train tickets。",
+          "sourcePage": 17,
+          "sourceIndex": 469
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 选最后一句细节。",
+          "sourcePage": 17,
+          "sourceIndex": 471
+        },
+        {
+          "type": "paragraph",
+          "text": "· 选范围过大的“life / technology / education”泛主题。",
+          "sourcePage": 17,
+          "sourceIndex": 472
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 能覆盖整段吗？",
+          "sourcePage": 17,
+          "sourceIndex": 474
+        },
+        {
+          "type": "paragraph",
+          "text": "· 是不是只覆盖一个细节？",
+          "sourcePage": 17,
+          "sourceIndex": 475
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同 义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+          "sourcePage": 17,
+          "sourceIndex": 476
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 17,
+          "sourceIndex": 478
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "主旨找“所有细节为什么放在一起”。",
+          "sourcePage": 17,
+          "sourceIndex": 479
+        }
+      ]
+    },
+    {
+      "id": "EN-L7-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 对话谈车票、酒店、景点，主旨？",
+          "sourcePage": 18,
+          "sourceIndex": 482
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 独白连续给三条省钱建议，主旨？",
+          "sourcePage": 18,
+          "sourceIndex": 483
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 主旨选项只对应最后一句，通常？",
+          "sourcePage": 18,
+          "sourceIndex": 484
+        },
+        {
+          "type": "paragraph",
+          "text": "4. “technology”出现多次就一定是主旨吗？",
+          "sourcePage": 18,
+          "sourceIndex": 485
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 主旨判断至少应覆盖几处主要信息？",
+          "sourcePage": 18,
+          "sourceIndex": 486
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. planning a trip；2. how to save money / money-saving tips；3. 太窄。；4. 不一定，要看全段为何 谈这些细节。；5. 大部分/至少2-3个主要信息点。",
+          "sourcePage": 18,
+          "sourceIndex": 487
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 16,
+    "endPage": 18
+  }
+}

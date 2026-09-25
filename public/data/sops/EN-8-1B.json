@@ -1,0 +1,254 @@
+{
+  "id": "EN-8-1B",
+  "code": "8.1B",
+  "title": "Long Sentence Rescue 长难句拆解",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.1B",
+    "Long Sentence Rescue 长难句拆解",
+    "语法工具箱",
+    "the",
+    "city",
+    "with",
+    "his",
+    "friends",
+    "who/which/that",
+    "doing/done/to",
+    "Example",
+    "Students",
+    "who",
+    "regularly",
+    "review",
+    "new",
+    "words",
+    "short",
+    "sessions",
+    "are",
+    "more",
+    "likely",
+    "remember",
+    "them",
+    "than",
+    "those",
+    "trying",
+    "memorize",
+    "long",
+    "list",
+    "once",
+    "Step",
+    "students"
+  ],
+  "brain_first": "按原文查阅 Long Sentence Rescue 长难句拆解",
+  "sort_order": 1071,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "目标不是画复杂语法树，而是把一句很长的英语拆成自己能读懂的几块。",
+      "sourcePage": 105,
+      "sourceIndex": 2819
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先找主句主语：谁/什么是整句主角？",
+      "sourcePage": 105,
+      "sourceIndex": 2820
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 找主句谓语：这个主语真正“做什么/是什么”？",
+      "sourcePage": 105,
+      "sourceIndex": 2821
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 把介词短语先用括号括起来，例如 in the city, with his friends。",
+      "sourcePage": 105,
+      "sourceIndex": 2822
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 把定语从句括起来，例如 who/which/that 后面补充名词的信息。",
+      "sourcePage": 105,
+      "sourceIndex": 2823
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 把 doing/done/to do 非谓语块括起来。",
+      "sourcePage": 105,
+      "sourceIndex": 2824
+    },
+    {
+      "type": "paragraph",
+      "text": "6. 先只读主干“谁做什么”。",
+      "sourcePage": 105,
+      "sourceIndex": 2825
+    },
+    {
+      "type": "paragraph",
+      "text": "7. 再把修饰信息一块一块放回去。",
+      "sourcePage": 105,
+      "sourceIndex": 2826
+    },
+    {
+      "type": "paragraph",
+      "text": "Example",
+      "sourcePage": 106,
+      "sourceIndex": 2827
+    },
+    {
+      "type": "paragraph",
+      "text": "Students who regularly review new words in short sessions are more likely to remember them than",
+      "sourcePage": 106,
+      "sourceIndex": 2828
+    },
+    {
+      "type": "paragraph",
+      "text": "those trying to memorize a long list at once.",
+      "sourcePage": 106,
+      "sourceIndex": 2829
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 1 主干： Students are more likely to remember them.",
+      "sourcePage": 106,
+      "sourceIndex": 2830
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 2 定语从句： who regularly review new words in short sessions → 说明 students。",
+      "sourcePage": 106,
+      "sourceIndex": 2831
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 3 比较部分： than those... → 与另一类学生比较。",
+      "sourcePage": 106,
+      "sourceIndex": 2832
+    },
+    {
+      "type": "paragraph",
+      "text": "Step 4 非谓语： trying to memorize... → 说明 those。",
+      "sourcePage": 106,
+      "sourceIndex": 2833
+    },
+    {
+      "type": "paragraph",
+      "text": "先读主干，再把这些信息加回来，就不需要逐字从左翻到右。",
+      "sourcePage": 106,
+      "sourceIndex": 2834
+    },
+    {
+      "type": "paragraph",
+      "text": "脑内第一句话：先找谁做什么，其他长东西先放旁边。",
+      "sourcePage": 106,
+      "sourceIndex": 2835
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-1B-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "目标不是画复杂语法树，而是把一句很长的英语拆成自己能读懂的几块。",
+          "sourcePage": 105,
+          "sourceIndex": 2819
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先找主句主语：谁/什么是整句主角？",
+          "sourcePage": 105,
+          "sourceIndex": 2820
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 找主句谓语：这个主语真正“做什么/是什么”？",
+          "sourcePage": 105,
+          "sourceIndex": 2821
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 把介词短语先用括号括起来，例如 in the city, with his friends。",
+          "sourcePage": 105,
+          "sourceIndex": 2822
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 把定语从句括起来，例如 who/which/that 后面补充名词的信息。",
+          "sourcePage": 105,
+          "sourceIndex": 2823
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 把 doing/done/to do 非谓语块括起来。",
+          "sourcePage": 105,
+          "sourceIndex": 2824
+        },
+        {
+          "type": "paragraph",
+          "text": "6. 先只读主干“谁做什么”。",
+          "sourcePage": 105,
+          "sourceIndex": 2825
+        },
+        {
+          "type": "paragraph",
+          "text": "7. 再把修饰信息一块一块放回去。",
+          "sourcePage": 105,
+          "sourceIndex": 2826
+        },
+        {
+          "type": "paragraph",
+          "text": "Example Students who regularly review new words in short sessions are more likely to remember them than those trying to memorize a long list at once.",
+          "sourcePage": 106,
+          "sourceIndex": 2827
+        },
+        {
+          "type": "paragraph",
+          "text": "Step 1 主干： Students are more likely to remember them.",
+          "sourcePage": 106,
+          "sourceIndex": 2830
+        },
+        {
+          "type": "paragraph",
+          "text": "Step 2 定语从句： who regularly review new words in short sessions → 说明 students。",
+          "sourcePage": 106,
+          "sourceIndex": 2831
+        },
+        {
+          "type": "paragraph",
+          "text": "Step 3 比较部分： than those... → 与另一类学生比较。",
+          "sourcePage": 106,
+          "sourceIndex": 2832
+        },
+        {
+          "type": "paragraph",
+          "text": "Step 4 非谓语： trying to memorize... → 说明 those。",
+          "sourcePage": 106,
+          "sourceIndex": 2833
+        },
+        {
+          "type": "paragraph",
+          "text": "先读主干，再把这些信息加回来，就不需要逐字从左翻到右。",
+          "sourcePage": 106,
+          "sourceIndex": 2834
+        },
+        {
+          "type": "paragraph",
+          "text": "脑内第一句话：先找谁做什么，其他长东西先放旁边。",
+          "sourcePage": 106,
+          "sourceIndex": 2835
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 105,
+    "endPage": 106
+  }
+}

@@ -1,0 +1,637 @@
+{
+  "id": "EN-C5",
+  "code": "C5",
+  "title": "固定搭配与语块",
+  "subject_id": "english",
+  "chapter_id": "en-cloze",
+  "chapter": "完形填空",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "C5",
+    "固定搭配与语块",
+    "完形填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Collocation",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "take",
+    "responsibility",
+    "pay",
+    "attention",
+    "come",
+    "decision",
+    "STEPS",
+    "Follow",
+    "route",
+    "V/N/Adj/Adv",
+    "worried",
+    "help",
+    "relieved",
+    "IF/THEN",
+    "then",
+    "make",
+    "progress",
+    "part",
+    "aware",
+    "have",
+    "access",
+    "play",
+    "role",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "reach",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "The",
+    "program",
+    "gives",
+    "students",
+    "free",
+    "online",
+    "courses",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "depend",
+    "prevent",
+    "doing",
+    "proud",
+    "contribute",
+    "from",
+    "Ctrl"
+  ],
+  "brain_first": "“不要一个词一个词翻译，把前后2-4个词当一整块。”",
+  "sort_order": 1045,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 69,
+      "sourceIndex": 1925
+    },
+    {
+      "type": "paragraph",
+      "text": "四个词单独都认识，但只有一个与前后词形成自然",
+      "sourcePage": 69,
+      "sourceIndex": 1926
+    },
+    {
+      "type": "paragraph",
+      "text": "搭配。",
+      "sourcePage": 69,
+      "sourceIndex": 1927
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 69,
+      "sourceIndex": 1928
+    },
+    {
+      "type": "paragraph",
+      "text": "Collocation：英语中习惯一起出现的词。",
+      "sourcePage": 69,
+      "sourceIndex": 1929
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “不要一个词一个词翻译，把前后2-4个词当一整块。”",
+      "sourcePage": 69,
+      "sourceIndex": 1930
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 完形常考真实用法，如 take responsibility, pay attention to, come to a",
+      "sourcePage": 69,
+      "sourceIndex": 1931
+    },
+    {
+      "type": "paragraph",
+      "text": "decision。",
+      "sourcePage": 69,
+      "sourceIndex": 1932
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 69,
+      "sourceIndex": 1933
+    },
+    {
+      "type": "paragraph",
+      "text": "1 把空与前后词连成短语。",
+      "sourcePage": 69,
+      "sourceIndex": 1934
+    },
+    {
+      "type": "paragraph",
+      "text": "2 回忆是否见过固定搭配。",
+      "sourcePage": 69,
+      "sourceIndex": 1935
+    },
+    {
+      "type": "paragraph",
+      "text": "3 若不确定，用语义和介词搭配排除。",
+      "sourcePage": 69,
+      "sourceIndex": 1936
+    },
+    {
+      "type": "paragraph",
+      "text": "4 记错题时记整个语块，不只记答案单词。",
+      "sourcePage": 69,
+      "sourceIndex": 1937
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如",
+      "sourcePage": 70,
+      "sourceIndex": 1938
+    },
+    {
+      "type": "paragraph",
+      "text": "worried→help→relieved；难空先打 ? 继续。",
+      "sourcePage": 70,
+      "sourceIndex": 1939
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 70,
+      "sourceIndex": 1940
+    },
+    {
+      "type": "paragraph",
+      "text": "· make progress",
+      "sourcePage": 70,
+      "sourceIndex": 1941
+    },
+    {
+      "type": "paragraph",
+      "text": "· take part in",
+      "sourcePage": 70,
+      "sourceIndex": 1942
+    },
+    {
+      "type": "paragraph",
+      "text": "· be aware of",
+      "sourcePage": 70,
+      "sourceIndex": 1943
+    },
+    {
+      "type": "paragraph",
+      "text": "· have access to",
+      "sourcePage": 70,
+      "sourceIndex": 1944
+    },
+    {
+      "type": "paragraph",
+      "text": "· play a role in",
+      "sourcePage": 70,
+      "sourceIndex": 1945
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 整块表达自然且符合上下文。",
+      "sourcePage": 70,
+      "sourceIndex": 1946
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 两个都能搭配时，比较语义：例如 make a decision 与 reach a decision 都",
+      "sourcePage": 70,
+      "sourceIndex": 1947
+    },
+    {
+      "type": "paragraph",
+      "text": "可，但句法环境不同。",
+      "sourcePage": 70,
+      "sourceIndex": 1948
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 70,
+      "sourceIndex": 1949
+    },
+    {
+      "type": "paragraph",
+      "text": "The program gives students access ___ free online courses. 固定结构是 access to。",
+      "sourcePage": 70,
+      "sourceIndex": 1950
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 70,
+      "sourceIndex": 1951
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只背单词中文。",
+      "sourcePage": 70,
+      "sourceIndex": 1952
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略介词。",
+      "sourcePage": 70,
+      "sourceIndex": 1953
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 70,
+      "sourceIndex": 1954
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把整块读一遍自然吗？",
+      "sourcePage": 70,
+      "sourceIndex": 1955
+    },
+    {
+      "type": "paragraph",
+      "text": "· 是否是常见语块？",
+      "sourcePage": 70,
+      "sourceIndex": 1956
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现",
+      "sourcePage": 70,
+      "sourceIndex": 1957
+    },
+    {
+      "type": "paragraph",
+      "text": "｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+      "sourcePage": 70,
+      "sourceIndex": 1958
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 70,
+      "sourceIndex": 1959
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 完形搭配要整块记。",
+      "sourcePage": 70,
+      "sourceIndex": 1960
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 70,
+      "sourceIndex": 1962
+    },
+    {
+      "type": "paragraph",
+      "text": "1. depend ___",
+      "sourcePage": 70,
+      "sourceIndex": 1963
+    },
+    {
+      "type": "paragraph",
+      "text": "2. prevent sb ___ doing",
+      "sourcePage": 70,
+      "sourceIndex": 1964
+    },
+    {
+      "type": "paragraph",
+      "text": "3. be proud ___",
+      "sourcePage": 70,
+      "sourceIndex": 1965
+    },
+    {
+      "type": "paragraph",
+      "text": "4. contribute ___",
+      "sourcePage": 70,
+      "sourceIndex": 1966
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 搭配题只背中文够吗？",
+      "sourcePage": 70,
+      "sourceIndex": 1967
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. on；2. from；3. of；4. to；5. 不够，要记整块语块。",
+      "sourcePage": 71,
+      "sourceIndex": 1968
+    },
+    {
+      "type": "paragraph",
+      "text": "— C5 本题型到这里。下次卡住直接 Ctrl+F 搜“C5”或题型关键词。—",
+      "sourcePage": 71,
+      "sourceIndex": 1969
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-C5-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "四个词单独都认识，但只有一个与前后词形成自然 搭配。",
+          "sourcePage": 69,
+          "sourceIndex": 1926
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Collocation：英语中习惯一起出现的词。",
+          "sourcePage": 69,
+          "sourceIndex": 1929
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“不要一个词一个词翻译，把前后2-4个词当一整块。”",
+          "sourcePage": 69,
+          "sourceIndex": 1930
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "完形常考真实用法，如 take responsibility, pay attention to, come to a decision。",
+          "sourcePage": 69,
+          "sourceIndex": 1931
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 把空与前后词连成短语。",
+          "sourcePage": 69,
+          "sourceIndex": 1934
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 回忆是否见过固定搭配。",
+          "sourcePage": 69,
+          "sourceIndex": 1935
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 若不确定，用语义和介词搭配排除。",
+          "sourcePage": 69,
+          "sourceIndex": 1936
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 记错题时记整个语块，不只记答案单词。",
+          "sourcePage": 69,
+          "sourceIndex": 1937
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如 worried→help→relieved；难空先打 ? 继续。",
+          "sourcePage": 70,
+          "sourceIndex": 1938
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· make progress",
+          "sourcePage": 70,
+          "sourceIndex": 1941
+        },
+        {
+          "type": "paragraph",
+          "text": "· take part in",
+          "sourcePage": 70,
+          "sourceIndex": 1942
+        },
+        {
+          "type": "paragraph",
+          "text": "· be aware of",
+          "sourcePage": 70,
+          "sourceIndex": 1943
+        },
+        {
+          "type": "paragraph",
+          "text": "· have access to",
+          "sourcePage": 70,
+          "sourceIndex": 1944
+        },
+        {
+          "type": "paragraph",
+          "text": "· play a role in",
+          "sourcePage": 70,
+          "sourceIndex": 1945
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "整块表达自然且符合上下文。",
+          "sourcePage": 70,
+          "sourceIndex": 1946
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "两个都能搭配时，比较语义：例如 make a decision 与 reach a decision 都 可，但句法环境不同。",
+          "sourcePage": 70,
+          "sourceIndex": 1947
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The program gives students access ___ free online courses. 固定结构是 access to。",
+          "sourcePage": 70,
+          "sourceIndex": 1950
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只背单词中文。",
+          "sourcePage": 70,
+          "sourceIndex": 1952
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略介词。",
+          "sourcePage": 70,
+          "sourceIndex": 1953
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把整块读一遍自然吗？",
+          "sourcePage": 70,
+          "sourceIndex": 1955
+        },
+        {
+          "type": "paragraph",
+          "text": "· 是否是常见语块？",
+          "sourcePage": 70,
+          "sourceIndex": 1956
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现 ｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+          "sourcePage": 70,
+          "sourceIndex": 1957
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 70,
+          "sourceIndex": 1959
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "完形搭配要整块记。",
+          "sourcePage": 70,
+          "sourceIndex": 1960
+        }
+      ]
+    },
+    {
+      "id": "EN-C5-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. depend ___",
+          "sourcePage": 70,
+          "sourceIndex": 1963
+        },
+        {
+          "type": "paragraph",
+          "text": "2. prevent sb ___ doing",
+          "sourcePage": 70,
+          "sourceIndex": 1964
+        },
+        {
+          "type": "paragraph",
+          "text": "3. be proud ___",
+          "sourcePage": 70,
+          "sourceIndex": 1965
+        },
+        {
+          "type": "paragraph",
+          "text": "4. contribute ___",
+          "sourcePage": 70,
+          "sourceIndex": 1966
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 搭配题只背中文够吗？",
+          "sourcePage": 70,
+          "sourceIndex": 1967
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. on；2. from；3. of；4. to；5. 不够，要记整块语块。",
+          "sourcePage": 71,
+          "sourceIndex": 1968
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 69,
+    "endPage": 71
+  }
+}

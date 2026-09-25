@@ -1,0 +1,226 @@
+{
+  "id": "EN-12-0",
+  "code": "12.0",
+  "title": "第三入口：只记得题目怎么问？直接搜关键词",
+  "subject_id": "english",
+  "chapter_id": "en-rescue",
+  "chapter": "急救与索引",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "12.0",
+    "第三入口：只记得题目怎么问？直接搜关键词",
+    "急救与索引",
+    "Ctrl",
+    "infer",
+    "imply",
+    "suggest",
+    "conclude",
+    "according",
+    "paragraph",
+    "when",
+    "where",
+    "Why",
+    "does",
+    "the",
+    "author",
+    "mention",
+    "mainly",
+    "about",
+    "main",
+    "idea",
+    "best",
+    "title",
+    "refer",
+    "underlined",
+    "word",
+    "means",
+    "NOT",
+    "EXCEPT",
+    "incorrect",
+    "which",
+    "that",
+    "whose",
+    "what",
+    "whether",
+    "how",
+    "why",
+    "develop",
+    "build",
+    "given",
+    "verb",
+    "than",
+    "most",
+    "much",
+    "Comparison",
+    "Dear",
+    "write",
+    "email",
+    "invite",
+    "advise",
+    "Practical",
+    "Writing",
+    "task",
+    "bank",
+    "Paragraph",
+    "openings",
+    "timetable",
+    "chart",
+    "map",
+    "notice",
+    "rules"
+  ],
+  "brain_first": "按原文查阅 第三入口：只记得题目怎么问？直接搜关键词",
+  "sort_order": 1113,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Ctrl+F关键词 / 题干",
+          "直接去哪里"
+        ],
+        [
+          "infer / imply / suggest /\nconclude",
+          "R6 推理判断"
+        ],
+        [
+          "according to / paragraph\n2 / when / where",
+          "R1-R3 细节定位"
+        ],
+        [
+          "Why does the author\nmention...",
+          "R5 目的/例子作用"
+        ],
+        [
+          "mainly about / main idea",
+          "R10 主旨"
+        ],
+        [
+          "best title",
+          "R11 标题"
+        ],
+        [
+          "refer to / underlined\nword / means",
+          "R8-R9 猜词/指代"
+        ],
+        [
+          "NOT / EXCEPT / incorrect",
+          "R16 反向题"
+        ],
+        [
+          "where / which / that /\nwhose",
+          "GF9 + 8.8 定语从句"
+        ],
+        [
+          "what / that / whether /\nhow / why",
+          "GF9 + 8.9 名词性从句"
+        ],
+        [
+          "develop / build / given\nverb",
+          "GF2 动词：谓语还是非谓语"
+        ],
+        [
+          "than / the most / much\n+ ...",
+          "GF4 + Comparison"
+        ],
+        [
+          "Dear... / write an email /\ninvite / advise",
+          "PW1 + Practical Writing task bank"
+        ],
+        [
+          "Paragraph 1 / Paragraph 2\ngiven openings",
+          "CW1 续写路线"
+        ],
+        [
+          "timetable / chart / map /\nnotice / rules",
+          "R18 非连续性语篇"
+        ]
+      ],
+      "text": "Ctrl+F关键词 / 题干 | 直接去哪里\ninfer / imply / suggest /\nconclude | R6 推理判断\naccording to / paragraph\n2 / when / where | R1-R3 细节定位\nWhy does the author\nmention... | R5 目的/例子作用\nmainly about / main idea | R10 主旨\nbest title | R11 标题\nrefer to / underlined\nword / means | R8-R9 猜词/指代\nNOT / EXCEPT / incorrect | R16 反向题\nwhere / which / that /\nwhose | GF9 + 8.8 定语从句\nwhat / that / whether /\nhow / why | GF9 + 8.9 名词性从句\ndevelop / build / given\nverb | GF2 动词：谓语还是非谓语\nthan / the most / much\n+ ... | GF4 + Comparison\nDear... / write an email /\ninvite / advise | PW1 + Practical Writing task bank\nParagraph 1 / Paragraph 2\ngiven openings | CW1 续写路线\ntimetable / chart / map /\nnotice / rules | R18 非连续性语篇",
+      "sourcePage": 127,
+      "sourceIndex": 3030
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-12-0-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Ctrl+F关键词 / 题干",
+              "直接去哪里"
+            ],
+            [
+              "infer / imply / suggest /\nconclude",
+              "R6 推理判断"
+            ],
+            [
+              "according to / paragraph\n2 / when / where",
+              "R1-R3 细节定位"
+            ],
+            [
+              "Why does the author\nmention...",
+              "R5 目的/例子作用"
+            ],
+            [
+              "mainly about / main idea",
+              "R10 主旨"
+            ],
+            [
+              "best title",
+              "R11 标题"
+            ],
+            [
+              "refer to / underlined\nword / means",
+              "R8-R9 猜词/指代"
+            ],
+            [
+              "NOT / EXCEPT / incorrect",
+              "R16 反向题"
+            ],
+            [
+              "where / which / that /\nwhose",
+              "GF9 + 8.8 定语从句"
+            ],
+            [
+              "what / that / whether /\nhow / why",
+              "GF9 + 8.9 名词性从句"
+            ],
+            [
+              "develop / build / given\nverb",
+              "GF2 动词：谓语还是非谓语"
+            ],
+            [
+              "than / the most / much\n+ ...",
+              "GF4 + Comparison"
+            ],
+            [
+              "Dear... / write an email /\ninvite / advise",
+              "PW1 + Practical Writing task bank"
+            ],
+            [
+              "Paragraph 1 / Paragraph 2\ngiven openings",
+              "CW1 续写路线"
+            ],
+            [
+              "timetable / chart / map /\nnotice / rules",
+              "R18 非连续性语篇"
+            ]
+          ],
+          "text": "Ctrl+F关键词 / 题干 | 直接去哪里\ninfer / imply / suggest /\nconclude | R6 推理判断\naccording to / paragraph\n2 / when / where | R1-R3 细节定位\nWhy does the author\nmention... | R5 目的/例子作用\nmainly about / main idea | R10 主旨\nbest title | R11 标题\nrefer to / underlined\nword / means | R8-R9 猜词/指代\nNOT / EXCEPT / incorrect | R16 反向题\nwhere / which / that /\nwhose | GF9 + 8.8 定语从句\nwhat / that / whether /\nhow / why | GF9 + 8.9 名词性从句\ndevelop / build / given\nverb | GF2 动词：谓语还是非谓语\nthan / the most / much\n+ ... | GF4 + Comparison\nDear... / write an email /\ninvite / advise | PW1 + Practical Writing task bank\nParagraph 1 / Paragraph 2\ngiven openings | CW1 续写路线\ntimetable / chart / map /\nnotice / rules | R18 非连续性语篇",
+          "sourcePage": 127,
+          "sourceIndex": 3030
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 127,
+    "endPage": 127
+  }
+}

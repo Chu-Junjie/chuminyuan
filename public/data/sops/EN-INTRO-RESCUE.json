@@ -1,0 +1,58 @@
+{
+  "id": "EN-INTRO-RESCUE",
+  "code": "INTRO-RESCUE",
+  "title": "急救与索引 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-rescue",
+  "chapter": "急救与索引",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-RESCUE",
+    "急救与索引 · 总览",
+    "急救与索引",
+    "Part",
+    "XII",
+    "Quick",
+    "Rescue",
+    "Double",
+    "Index",
+    "Final",
+    "Checklists"
+  ],
+  "brain_first": "按原文查阅 急救与索引 · 总览",
+  "sort_order": 1112,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part XII - Quick Rescue, Double Index & Final",
+      "sourcePage": 127,
+      "sourceIndex": 3027
+    },
+    {
+      "type": "paragraph",
+      "text": "Checklists",
+      "sourcePage": 127,
+      "sourceIndex": 3028
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-RESCUE-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part XII - Quick Rescue, Double Index & Final Checklists",
+          "sourcePage": 127,
+          "sourceIndex": 3027
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 127,
+    "endPage": 127
+  }
+}

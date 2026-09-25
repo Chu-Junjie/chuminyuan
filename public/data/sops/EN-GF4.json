@@ -1,0 +1,606 @@
+{
+  "id": "EN-GF4",
+  "code": "GF4",
+  "title": "给形容词 / 副词：词性、比较级、最高级",
+  "subject_id": "english",
+  "chapter_id": "en-grammar-filling",
+  "chapter": "语法填空",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "GF4",
+    "给形容词 / 副词：词性、比较级、最高级",
+    "语法填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "quick",
+    "careful",
+    "significant",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Adjective",
+    "adverb",
+    "comparative/",
+    "superlative",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "be/seem/become/feel",
+    "than",
+    "among",
+    "all",
+    "much",
+    "even",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "comparative",
+    "in/of",
+    "significantly",
+    "cheaper",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "er/-est",
+    "more/most",
+    "EXAMPLE",
+    "Worked",
+    "Prices",
+    "were",
+    "cheap",
+    "those",
+    "supermarkets",
+    "TRAPS",
+    "Common",
+    "traps",
+    "much/even",
+    "CHECK",
+    "Final",
+    "check",
+    "than/",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "one",
+    "buildings",
+    "tall",
+    "easy",
+    "quickly",
+    "tallest",
+    "easier",
+    "Ctrl"
+  ],
+  "brain_first": "“看它修饰谁：名词要形容词，动词/形容词/整句常要副词；再看 有没有比较。”",
+  "sort_order": 1052,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 80,
+      "sourceIndex": 2205
+    },
+    {
+      "type": "paragraph",
+      "text": "括号给 quick, careful, significant 等。",
+      "sourcePage": 80,
+      "sourceIndex": 2206
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 80,
+      "sourceIndex": 2207
+    },
+    {
+      "type": "paragraph",
+      "text": "Adjective vs adverb + comparative/",
+      "sourcePage": 80,
+      "sourceIndex": 2208
+    },
+    {
+      "type": "paragraph",
+      "text": "superlative。",
+      "sourcePage": 80,
+      "sourceIndex": 2209
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “看它修饰谁：名词要形容词，动词/形容词/整句常要副词；再看",
+      "sourcePage": 80,
+      "sourceIndex": 2210
+    },
+    {
+      "type": "paragraph",
+      "text": "有没有比较。”",
+      "sourcePage": 80,
+      "sourceIndex": 2211
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 这是最容易通过位置判断拿分的一类。",
+      "sourcePage": 80,
+      "sourceIndex": 2212
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 80,
+      "sourceIndex": 2213
+    },
+    {
+      "type": "paragraph",
+      "text": "1 空后直接是名词 → 优先形容词。",
+      "sourcePage": 80,
+      "sourceIndex": 2214
+    },
+    {
+      "type": "paragraph",
+      "text": "2 空修饰动词/形容词/另一副词 → 优先副词。",
+      "sourcePage": 80,
+      "sourceIndex": 2215
+    },
+    {
+      "type": "paragraph",
+      "text": "3 be/seem/become/feel 后常接形容词作表语。",
+      "sourcePage": 80,
+      "sourceIndex": 2216
+    },
+    {
+      "type": "paragraph",
+      "text": "4 出现 than / among / of all / much / even 时检查比较级或最高级。",
+      "sourcePage": 80,
+      "sourceIndex": 2217
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 80,
+      "sourceIndex": 2218
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 80,
+      "sourceIndex": 2219
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 80,
+      "sourceIndex": 2220
+    },
+    {
+      "type": "paragraph",
+      "text": "· than → 常提示 comparative",
+      "sourcePage": 80,
+      "sourceIndex": 2221
+    },
+    {
+      "type": "paragraph",
+      "text": "· the + ___ + in/of → 常提示 superlative",
+      "sourcePage": 80,
+      "sourceIndex": 2222
+    },
+    {
+      "type": "paragraph",
+      "text": "· significantly cheaper = 副词修饰比较级",
+      "sourcePage": 80,
+      "sourceIndex": 2223
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 修饰对象和比较关系都正确。",
+      "sourcePage": 80,
+      "sourceIndex": 2224
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 如果不知道词形，先写词根再套高频后缀：-ly, -er/-est, more/most。",
+      "sourcePage": 80,
+      "sourceIndex": 2225
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 80,
+      "sourceIndex": 2226
+    },
+    {
+      "type": "paragraph",
+      "text": "Prices were significantly ___ (cheap) than those in supermarkets. than → comparative → cheaper。",
+      "sourcePage": 80,
+      "sourceIndex": 2227
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 80,
+      "sourceIndex": 2228
+    },
+    {
+      "type": "paragraph",
+      "text": "· 看到形容词原形就原样抄。",
+      "sourcePage": 80,
+      "sourceIndex": 2229
+    },
+    {
+      "type": "paragraph",
+      "text": "· 比较级前忘记much/even可以修饰。",
+      "sourcePage": 80,
+      "sourceIndex": 2230
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 81,
+      "sourceIndex": 2231
+    },
+    {
+      "type": "paragraph",
+      "text": "· 修饰谁？",
+      "sourcePage": 81,
+      "sourceIndex": 2232
+    },
+    {
+      "type": "paragraph",
+      "text": "· 有than/范围吗？",
+      "sourcePage": 81,
+      "sourceIndex": 2233
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 81,
+      "sourceIndex": 2234
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 81,
+      "sourceIndex": 2235
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 81,
+      "sourceIndex": 2236
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 形副词：先看修饰谁，再看比较。",
+      "sourcePage": 81,
+      "sourceIndex": 2237
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 81,
+      "sourceIndex": 2239
+    },
+    {
+      "type": "paragraph",
+      "text": "1. quick修饰动词需要？",
+      "sourcePage": 81,
+      "sourceIndex": 2240
+    },
+    {
+      "type": "paragraph",
+      "text": "2. than出现通常警觉？",
+      "sourcePage": 81,
+      "sourceIndex": 2241
+    },
+    {
+      "type": "paragraph",
+      "text": "3. one of the ___ buildings (tall)",
+      "sourcePage": 81,
+      "sourceIndex": 2242
+    },
+    {
+      "type": "paragraph",
+      "text": "4. much + 比较级，如 much ___ (easy)",
+      "sourcePage": 81,
+      "sourceIndex": 2243
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 形容词修饰名词、副词修饰动作，这条能否绝对覆盖？",
+      "sourcePage": 81,
+      "sourceIndex": 2244
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. quickly；2. 比较级；3. tallest；4. easier；5. 不是全部，但可作第一筛选。",
+      "sourcePage": 81,
+      "sourceIndex": 2245
+    },
+    {
+      "type": "paragraph",
+      "text": "— GF4 本题型到这里。下次卡住直接 Ctrl+F 搜“GF4”或题型关键词。—",
+      "sourcePage": 81,
+      "sourceIndex": 2246
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-GF4-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "括号给 quick, careful, significant 等。",
+          "sourcePage": 80,
+          "sourceIndex": 2206
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Adjective vs adverb + comparative/ superlative。",
+          "sourcePage": 80,
+          "sourceIndex": 2208
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“看它修饰谁：名词要形容词，动词/形容词/整句常要副词；再看 有没有比较。”",
+          "sourcePage": 80,
+          "sourceIndex": 2210
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这是最容易通过位置判断拿分的一类。",
+          "sourcePage": 80,
+          "sourceIndex": 2212
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 空后直接是名词 → 优先形容词。",
+          "sourcePage": 80,
+          "sourceIndex": 2214
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 空修饰动词/形容词/另一副词 → 优先副词。",
+          "sourcePage": 80,
+          "sourceIndex": 2215
+        },
+        {
+          "type": "paragraph",
+          "text": "3. be/seem/become/feel 后常接形容词作表语。",
+          "sourcePage": 80,
+          "sourceIndex": 2216
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 出现 than / among / of all / much / even 时检查比较级或最高级。",
+          "sourcePage": 80,
+          "sourceIndex": 2217
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 80,
+          "sourceIndex": 2218
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· than → 常提示 comparative",
+          "sourcePage": 80,
+          "sourceIndex": 2221
+        },
+        {
+          "type": "paragraph",
+          "text": "· the + ___ + in/of → 常提示 superlative",
+          "sourcePage": 80,
+          "sourceIndex": 2222
+        },
+        {
+          "type": "paragraph",
+          "text": "· significantly cheaper = 副词修饰比较级",
+          "sourcePage": 80,
+          "sourceIndex": 2223
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "修饰对象和比较关系都正确。",
+          "sourcePage": 80,
+          "sourceIndex": 2224
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果不知道词形，先写词根再套高频后缀：-ly, -er/-est, more/most。",
+          "sourcePage": 80,
+          "sourceIndex": 2225
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Prices were significantly ___ (cheap) than those in supermarkets. than → comparative → cheaper。",
+          "sourcePage": 80,
+          "sourceIndex": 2227
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 看到形容词原形就原样抄。",
+          "sourcePage": 80,
+          "sourceIndex": 2229
+        },
+        {
+          "type": "paragraph",
+          "text": "· 比较级前忘记much/even可以修饰。",
+          "sourcePage": 80,
+          "sourceIndex": 2230
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 修饰谁？",
+          "sourcePage": 81,
+          "sourceIndex": 2232
+        },
+        {
+          "type": "paragraph",
+          "text": "· 有than/范围吗？",
+          "sourcePage": 81,
+          "sourceIndex": 2233
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 81,
+          "sourceIndex": 2234
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 81,
+          "sourceIndex": 2236
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "形副词：先看修饰谁，再看比较。",
+          "sourcePage": 81,
+          "sourceIndex": 2237
+        }
+      ]
+    },
+    {
+      "id": "EN-GF4-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. quick修饰动词需要？",
+          "sourcePage": 81,
+          "sourceIndex": 2240
+        },
+        {
+          "type": "paragraph",
+          "text": "2. than出现通常警觉？",
+          "sourcePage": 81,
+          "sourceIndex": 2241
+        },
+        {
+          "type": "paragraph",
+          "text": "3. one of the ___ buildings (tall)",
+          "sourcePage": 81,
+          "sourceIndex": 2242
+        },
+        {
+          "type": "paragraph",
+          "text": "4. much + 比较级，如 much ___ (easy)",
+          "sourcePage": 81,
+          "sourceIndex": 2243
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 形容词修饰名词、副词修饰动作，这条能否绝对覆盖？",
+          "sourcePage": 81,
+          "sourceIndex": 2244
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. quickly；2. 比较级；3. tallest；4. easier；5. 不是全部，但可作第一筛选。",
+          "sourcePage": 81,
+          "sourceIndex": 2245
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 80,
+    "endPage": 81
+  }
+}

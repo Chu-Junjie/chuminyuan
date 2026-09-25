@@ -1,0 +1,648 @@
+{
+  "id": "EN-CW2",
+  "code": "CW2",
+  "title": "动作链：把“发生了什么”写清楚",
+  "subject_id": "english",
+  "chapter_id": "en-continuation",
+  "chapter": "读后续写",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "CW2",
+    "动作链：把“发生了什么”写清楚",
+    "读后续写",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Action",
+    "chain",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "V/N/Adj/Adv",
+    "worried",
+    "help",
+    "relieved",
+    "IF/THEN",
+    "then",
+    "notice",
+    "approach",
+    "reach",
+    "out",
+    "hear",
+    "turn",
+    "run",
+    "find",
+    "pause",
+    "think",
+    "decide",
+    "act",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "look",
+    "walk",
+    "hold",
+    "nod",
+    "smile",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "heard",
+    "weak",
+    "cry",
+    "behind",
+    "fence",
+    "stopped",
+    "turned",
+    "back",
+    "and",
+    "walked",
+    "toward",
+    "sound",
+    "small",
+    "dog",
+    "was",
+    "trapped",
+    "between",
+    "two",
+    "boards",
+    "knelt",
+    "down",
+    "carefully",
+    "pulled",
+    "them",
+    "apart",
+    "TRAPS",
+    "Common",
+    "traps",
+    "Then",
+    "helped",
+    "him",
+    "CHECK",
+    "Final",
+    "check",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP"
+  ],
+  "brain_first": "“一个关键事件拆成2-4个动作：看见→走近→做→反应。”",
+  "sort_order": 1065,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 98,
+      "sourceIndex": 2626
+    },
+    {
+      "type": "paragraph",
+      "text": "故事需要连续动作，但学生容易只写情绪或一句带",
+      "sourcePage": 98,
+      "sourceIndex": 2627
+    },
+    {
+      "type": "paragraph",
+      "text": "过。",
+      "sourcePage": 98,
+      "sourceIndex": 2628
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 98,
+      "sourceIndex": 2629
+    },
+    {
+      "type": "paragraph",
+      "text": "Action chain：用连续可观察动作推进故事。",
+      "sourcePage": 98,
+      "sourceIndex": 2630
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “一个关键事件拆成2-4个动作：看见→走近→做→反应。”",
+      "sourcePage": 98,
+      "sourceIndex": 2631
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 动作比堆形容词更容易让情节清楚。",
+      "sourcePage": 98,
+      "sourceIndex": 2632
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 98,
+      "sourceIndex": 2633
+    },
+    {
+      "type": "paragraph",
+      "text": "1 确定这一小段的目标动作。",
+      "sourcePage": 98,
+      "sourceIndex": 2634
+    },
+    {
+      "type": "paragraph",
+      "text": "2 写触发：人物看到/听到什么。",
+      "sourcePage": 99,
+      "sourceIndex": 2635
+    },
+    {
+      "type": "paragraph",
+      "text": "3 写核心动作。",
+      "sourcePage": 99,
+      "sourceIndex": 2636
+    },
+    {
+      "type": "paragraph",
+      "text": "4 写对方或环境反应。",
+      "sourcePage": 99,
+      "sourceIndex": 2637
+    },
+    {
+      "type": "paragraph",
+      "text": "5 必要时再加一句情绪。",
+      "sourcePage": 99,
+      "sourceIndex": 2638
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如",
+      "sourcePage": 99,
+      "sourceIndex": 2639
+    },
+    {
+      "type": "paragraph",
+      "text": "worried→help→relieved；难空先打 ? 继续。",
+      "sourcePage": 99,
+      "sourceIndex": 2640
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 99,
+      "sourceIndex": 2641
+    },
+    {
+      "type": "paragraph",
+      "text": "· notice → approach → reach out → help",
+      "sourcePage": 99,
+      "sourceIndex": 2642
+    },
+    {
+      "type": "paragraph",
+      "text": "· hear → turn → run → find",
+      "sourcePage": 99,
+      "sourceIndex": 2643
+    },
+    {
+      "type": "paragraph",
+      "text": "· pause → think → decide → act",
+      "sourcePage": 99,
+      "sourceIndex": 2644
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 每个动作都推动故事，不重复同一意思。",
+      "sourcePage": 99,
+      "sourceIndex": 2645
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 想不到高级词就用 look, walk, run, reach, hold, turn, nod, smile，写准确比",
+      "sourcePage": 99,
+      "sourceIndex": 2646
+    },
+    {
+      "type": "paragraph",
+      "text": "夸张更重要。",
+      "sourcePage": 99,
+      "sourceIndex": 2647
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 99,
+      "sourceIndex": 2648
+    },
+    {
+      "type": "paragraph",
+      "text": "I heard a weak cry behind the fence. I stopped, turned back and walked toward the sound. A small",
+      "sourcePage": 99,
+      "sourceIndex": 2649
+    },
+    {
+      "type": "paragraph",
+      "text": "dog was trapped between two boards. I knelt down and carefully pulled them apart.",
+      "sourcePage": 99,
+      "sourceIndex": 2650
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 99,
+      "sourceIndex": 2651
+    },
+    {
+      "type": "paragraph",
+      "text": "· 一句“Then I helped him”跳过全部过程。",
+      "sourcePage": 99,
+      "sourceIndex": 2652
+    },
+    {
+      "type": "paragraph",
+      "text": "· 动作太多但没有因果。",
+      "sourcePage": 99,
+      "sourceIndex": 2653
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 99,
+      "sourceIndex": 2654
+    },
+    {
+      "type": "paragraph",
+      "text": "· 动作顺序能真实发生吗？",
+      "sourcePage": 99,
+      "sourceIndex": 2655
+    },
+    {
+      "type": "paragraph",
+      "text": "· 每句都推进了吗？",
+      "sourcePage": 99,
+      "sourceIndex": 2656
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现",
+      "sourcePage": 99,
+      "sourceIndex": 2657
+    },
+    {
+      "type": "paragraph",
+      "text": "｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+      "sourcePage": 99,
+      "sourceIndex": 2658
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 99,
+      "sourceIndex": 2659
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 动作链：看到/听到 → 接近 → 行动 → 反应。",
+      "sourcePage": 99,
+      "sourceIndex": 2660
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 99,
+      "sourceIndex": 2662
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 动作链“看到→走近→伸手→帮助”比一句“helped him”好在哪？",
+      "sourcePage": 99,
+      "sourceIndex": 2663
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 动作之间需要什么？",
+      "sourcePage": 100,
+      "sourceIndex": 2664
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 人物突然从房间到街上却无移动描写，问题？",
+      "sourcePage": 100,
+      "sourceIndex": 2665
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 基础续写优先高级动词还是准确动作？",
+      "sourcePage": 100,
+      "sourceIndex": 2666
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 一段连续5句都用He said，怎么改善？",
+      "sourcePage": 100,
+      "sourceIndex": 2667
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 因果和画面更清楚。；2. 时间/因果连接。；3. 动作链断裂。；4. 准确动作。；5. 加入动作/反应，减",
+      "sourcePage": 100,
+      "sourceIndex": 2668
+    },
+    {
+      "type": "paragraph",
+      "text": "少无效对话。",
+      "sourcePage": 100,
+      "sourceIndex": 2669
+    },
+    {
+      "type": "paragraph",
+      "text": "— CW2 本题型到这里。下次卡住直接 Ctrl+F 搜“CW2”或题型关键词。—",
+      "sourcePage": 100,
+      "sourceIndex": 2670
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-CW2-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "故事需要连续动作，但学生容易只写情绪或一句带 过。",
+          "sourcePage": 98,
+          "sourceIndex": 2627
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Action chain：用连续可观察动作推进故事。",
+          "sourcePage": 98,
+          "sourceIndex": 2630
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“一个关键事件拆成2-4个动作：看见→走近→做→反应。”",
+          "sourcePage": 98,
+          "sourceIndex": 2631
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "动作比堆形容词更容易让情节清楚。",
+          "sourcePage": 98,
+          "sourceIndex": 2632
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 确定这一小段的目标动作。",
+          "sourcePage": 98,
+          "sourceIndex": 2634
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 写触发：人物看到/听到什么。",
+          "sourcePage": 99,
+          "sourceIndex": 2635
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 写核心动作。",
+          "sourcePage": 99,
+          "sourceIndex": 2636
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 写对方或环境反应。",
+          "sourcePage": 99,
+          "sourceIndex": 2637
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 必要时再加一句情绪。",
+          "sourcePage": 99,
+          "sourceIndex": 2638
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如 worried→help→relieved；难空先打 ? 继续。",
+          "sourcePage": 99,
+          "sourceIndex": 2639
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· notice → approach → reach out → help",
+          "sourcePage": 99,
+          "sourceIndex": 2642
+        },
+        {
+          "type": "paragraph",
+          "text": "· hear → turn → run → find",
+          "sourcePage": 99,
+          "sourceIndex": 2643
+        },
+        {
+          "type": "paragraph",
+          "text": "· pause → think → decide → act",
+          "sourcePage": 99,
+          "sourceIndex": 2644
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "每个动作都推动故事，不重复同一意思。",
+          "sourcePage": 99,
+          "sourceIndex": 2645
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "想不到高级词就用 look, walk, run, reach, hold, turn, nod, smile，写准确比 夸张更重要。",
+          "sourcePage": 99,
+          "sourceIndex": 2646
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I heard a weak cry behind the fence. I stopped, turned back and walked toward the sound. A small dog was trapped between two boards. I knelt down and carefully pulled them apart.",
+          "sourcePage": 99,
+          "sourceIndex": 2649
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 一句“Then I helped him”跳过全部过程。",
+          "sourcePage": 99,
+          "sourceIndex": 2652
+        },
+        {
+          "type": "paragraph",
+          "text": "· 动作太多但没有因果。",
+          "sourcePage": 99,
+          "sourceIndex": 2653
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 动作顺序能真实发生吗？",
+          "sourcePage": 99,
+          "sourceIndex": 2655
+        },
+        {
+          "type": "paragraph",
+          "text": "· 每句都推进了吗？",
+          "sourcePage": 99,
+          "sourceIndex": 2656
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现 ｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+          "sourcePage": 99,
+          "sourceIndex": 2657
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 99,
+          "sourceIndex": 2659
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "动作链：看到/听到 → 接近 → 行动 → 反应。",
+          "sourcePage": 99,
+          "sourceIndex": 2660
+        }
+      ]
+    },
+    {
+      "id": "EN-CW2-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 动作链“看到→走近→伸手→帮助”比一句“helped him”好在哪？",
+          "sourcePage": 99,
+          "sourceIndex": 2663
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 动作之间需要什么？",
+          "sourcePage": 100,
+          "sourceIndex": 2664
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 人物突然从房间到街上却无移动描写，问题？",
+          "sourcePage": 100,
+          "sourceIndex": 2665
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 基础续写优先高级动词还是准确动作？",
+          "sourcePage": 100,
+          "sourceIndex": 2666
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 一段连续5句都用He said，怎么改善？",
+          "sourcePage": 100,
+          "sourceIndex": 2667
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 因果和画面更清楚。；2. 时间/因果连接。；3. 动作链断裂。；4. 准确动作。；5. 加入动作/反应，减 少无效对话。",
+          "sourcePage": 100,
+          "sourceIndex": 2668
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 98,
+    "endPage": 100
+  }
+}

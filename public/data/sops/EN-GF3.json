@@ -1,0 +1,635 @@
+{
+  "id": "EN-GF3",
+  "code": "GF3",
+  "title": "给名词：单复数、所有格、词性转换",
+  "subject_id": "english",
+  "chapter_id": "en-grammar-filling",
+  "chapter": "语法填空",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "GF3",
+    "给名词：单复数、所有格、词性转换",
+    "语法填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "noun",
+    "necessity",
+    "success",
+    "child",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "plural",
+    "possessive",
+    "adjective/adverb",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "many",
+    "several",
+    "one",
+    "variety",
+    "students",
+    "projects",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "many/several",
+    "much/little",
+    "uncountable",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "Families",
+    "came",
+    "buy",
+    "daily",
+    "necessities",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "two",
+    "decision",
+    "company",
+    "children",
+    "successful",
+    "Ctrl"
+  ],
+  "brain_first": "“先问这里真的需要名词吗；需要的话再看一个还是多个、要不 要所有格。”",
+  "sort_order": 1051,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 78,
+      "sourceIndex": 2158
+    },
+    {
+      "type": "paragraph",
+      "text": "括号给 noun，如 necessity, success, child。",
+      "sourcePage": 78,
+      "sourceIndex": 2159
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 78,
+      "sourceIndex": 2160
+    },
+    {
+      "type": "paragraph",
+      "text": "名词变化包括 plural, possessive，以及 noun →",
+      "sourcePage": 78,
+      "sourceIndex": 2161
+    },
+    {
+      "type": "paragraph",
+      "text": "adjective/adverb 等派生。",
+      "sourcePage": 78,
+      "sourceIndex": 2162
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先问这里真的需要名词吗；需要的话再看一个还是多个、要不",
+      "sourcePage": 78,
+      "sourceIndex": 2163
+    },
+    {
+      "type": "paragraph",
+      "text": "要所有格。”",
+      "sourcePage": 78,
+      "sourceIndex": 2164
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 名词空常被数量词、冠词、形容词和谓语一致提示。",
+      "sourcePage": 78,
+      "sourceIndex": 2165
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 78,
+      "sourceIndex": 2166
+    },
+    {
+      "type": "paragraph",
+      "text": "1 看空位前后，判断句子需要名词还是别的词性。",
+      "sourcePage": 78,
+      "sourceIndex": 2167
+    },
+    {
+      "type": "paragraph",
+      "text": "2 若是名词，看可数/不可数。",
+      "sourcePage": 78,
+      "sourceIndex": 2168
+    },
+    {
+      "type": "paragraph",
+      "text": "3 看数量提示：many, several, one of, a variety of。",
+      "sourcePage": 78,
+      "sourceIndex": 2169
+    },
+    {
+      "type": "paragraph",
+      "text": "4 看是否表示所属：the students' projects。",
+      "sourcePage": 78,
+      "sourceIndex": 2170
+    },
+    {
+      "type": "paragraph",
+      "text": "5 若空修饰名词或动词，考虑词性转换。",
+      "sourcePage": 78,
+      "sourceIndex": 2171
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 78,
+      "sourceIndex": 2172
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 78,
+      "sourceIndex": 2173
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 78,
+      "sourceIndex": 2174
+    },
+    {
+      "type": "paragraph",
+      "text": "· many/several + plural",
+      "sourcePage": 78,
+      "sourceIndex": 2175
+    },
+    {
+      "type": "paragraph",
+      "text": "· one of + plural noun",
+      "sourcePage": 79,
+      "sourceIndex": 2176
+    },
+    {
+      "type": "paragraph",
+      "text": "· much/little + uncountable",
+      "sourcePage": 79,
+      "sourceIndex": 2177
+    },
+    {
+      "type": "paragraph",
+      "text": "· 名词修饰名词不等于总要变形容词，需按固定用法",
+      "sourcePage": 79,
+      "sourceIndex": 2178
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 词性和数都与上下文一致。",
+      "sourcePage": 79,
+      "sourceIndex": 2179
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 不知道可数性时，查限定词和谓语是否提供线索。",
+      "sourcePage": 79,
+      "sourceIndex": 2180
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 79,
+      "sourceIndex": 2181
+    },
+    {
+      "type": "paragraph",
+      "text": "Families came to buy daily ___ (necessity). daily necessities 表示多种日用品，复数。",
+      "sourcePage": 79,
+      "sourceIndex": 2182
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 79,
+      "sourceIndex": 2183
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只因为前面有the就用单数。",
+      "sourcePage": 79,
+      "sourceIndex": 2184
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略one of后复数。",
+      "sourcePage": 79,
+      "sourceIndex": 2185
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 79,
+      "sourceIndex": 2186
+    },
+    {
+      "type": "paragraph",
+      "text": "· 词性对吗？",
+      "sourcePage": 79,
+      "sourceIndex": 2187
+    },
+    {
+      "type": "paragraph",
+      "text": "· 可数吗？",
+      "sourcePage": 79,
+      "sourceIndex": 2188
+    },
+    {
+      "type": "paragraph",
+      "text": "· 单复数有线索吗？",
+      "sourcePage": 79,
+      "sourceIndex": 2189
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 79,
+      "sourceIndex": 2190
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 79,
+      "sourceIndex": 2191
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 79,
+      "sourceIndex": 2192
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 给名词：先词性，再数。",
+      "sourcePage": 79,
+      "sourceIndex": 2193
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 79,
+      "sourceIndex": 2195
+    },
+    {
+      "type": "paragraph",
+      "text": "1. two ___ (child)",
+      "sourcePage": 79,
+      "sourceIndex": 2196
+    },
+    {
+      "type": "paragraph",
+      "text": "2. the ___ decision (company)",
+      "sourcePage": 79,
+      "sourceIndex": 2197
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 名词提示词前有many，通常？",
+      "sourcePage": 79,
+      "sourceIndex": 2198
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 名词位置却句子需要形容词，怎么办？",
+      "sourcePage": 79,
+      "sourceIndex": 2199
+    },
+    {
+      "type": "paragraph",
+      "text": "5. success→形容词？",
+      "sourcePage": 79,
+      "sourceIndex": 2200
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. children；2. company’s / company decision 视语境；3. 复数；4. 词性转换。；5. successful",
+      "sourcePage": 79,
+      "sourceIndex": 2201
+    },
+    {
+      "type": "paragraph",
+      "text": "— GF3 本题型到这里。下次卡住直接 Ctrl+F 搜“GF3”或题型关键词。—",
+      "sourcePage": 79,
+      "sourceIndex": 2202
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-GF3-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "括号给 noun，如 necessity, success, child。",
+          "sourcePage": 78,
+          "sourceIndex": 2159
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "名词变化包括 plural, possessive，以及 noun → adjective/adverb 等派生。",
+          "sourcePage": 78,
+          "sourceIndex": 2161
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先问这里真的需要名词吗；需要的话再看一个还是多个、要不 要所有格。”",
+          "sourcePage": 78,
+          "sourceIndex": 2163
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "名词空常被数量词、冠词、形容词和谓语一致提示。",
+          "sourcePage": 78,
+          "sourceIndex": 2165
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 看空位前后，判断句子需要名词还是别的词性。",
+          "sourcePage": 78,
+          "sourceIndex": 2167
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 若是名词，看可数/不可数。",
+          "sourcePage": 78,
+          "sourceIndex": 2168
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 看数量提示：many, several, one of, a variety of。",
+          "sourcePage": 78,
+          "sourceIndex": 2169
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 看是否表示所属：the students' projects。",
+          "sourcePage": 78,
+          "sourceIndex": 2170
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 若空修饰名词或动词，考虑词性转换。",
+          "sourcePage": 78,
+          "sourceIndex": 2171
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 78,
+          "sourceIndex": 2172
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· many/several + plural",
+          "sourcePage": 78,
+          "sourceIndex": 2175
+        },
+        {
+          "type": "paragraph",
+          "text": "· one of + plural noun",
+          "sourcePage": 79,
+          "sourceIndex": 2176
+        },
+        {
+          "type": "paragraph",
+          "text": "· much/little + uncountable",
+          "sourcePage": 79,
+          "sourceIndex": 2177
+        },
+        {
+          "type": "paragraph",
+          "text": "· 名词修饰名词不等于总要变形容词，需按固定用法",
+          "sourcePage": 79,
+          "sourceIndex": 2178
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "词性和数都与上下文一致。",
+          "sourcePage": 79,
+          "sourceIndex": 2179
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "不知道可数性时，查限定词和谓语是否提供线索。",
+          "sourcePage": 79,
+          "sourceIndex": 2180
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Families came to buy daily ___ (necessity). daily necessities 表示多种日用品，复数。",
+          "sourcePage": 79,
+          "sourceIndex": 2182
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只因为前面有the就用单数。",
+          "sourcePage": 79,
+          "sourceIndex": 2184
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略one of后复数。",
+          "sourcePage": 79,
+          "sourceIndex": 2185
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 词性对吗？",
+          "sourcePage": 79,
+          "sourceIndex": 2187
+        },
+        {
+          "type": "paragraph",
+          "text": "· 可数吗？",
+          "sourcePage": 79,
+          "sourceIndex": 2188
+        },
+        {
+          "type": "paragraph",
+          "text": "· 单复数有线索吗？",
+          "sourcePage": 79,
+          "sourceIndex": 2189
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 79,
+          "sourceIndex": 2190
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 79,
+          "sourceIndex": 2192
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "给名词：先词性，再数。",
+          "sourcePage": 79,
+          "sourceIndex": 2193
+        }
+      ]
+    },
+    {
+      "id": "EN-GF3-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. two ___ (child)",
+          "sourcePage": 79,
+          "sourceIndex": 2196
+        },
+        {
+          "type": "paragraph",
+          "text": "2. the ___ decision (company)",
+          "sourcePage": 79,
+          "sourceIndex": 2197
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 名词提示词前有many，通常？",
+          "sourcePage": 79,
+          "sourceIndex": 2198
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 名词位置却句子需要形容词，怎么办？",
+          "sourcePage": 79,
+          "sourceIndex": 2199
+        },
+        {
+          "type": "paragraph",
+          "text": "5. success→形容词？",
+          "sourcePage": 79,
+          "sourceIndex": 2200
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. children；2. company’s / company decision 视语境；3. 复数；4. 词性转换。；5. successful",
+          "sourcePage": 79,
+          "sourceIndex": 2201
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 78,
+    "endPage": 79
+  }
+}

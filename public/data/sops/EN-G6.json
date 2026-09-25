@@ -1,0 +1,587 @@
+{
+  "id": "EN-G6",
+  "code": "G6",
+  "title": "两个多余选项怎么排",
+  "subject_id": "english",
+  "chapter_id": "en-gap",
+  "chapter": "七选五",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "G6",
+    "两个多余选项怎么排",
+    "七选五",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "These",
+    "habits",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Ctrl"
+  ],
+  "brain_first": "“不要比较哪句更好听；用硬条件排：主语、代词、逻辑、位 置、重复。”",
+  "sort_order": 1039,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 61,
+      "sourceIndex": 1695
+    },
+    {
+      "type": "paragraph",
+      "text": "最后剩两个或三个选项都“有点像”。",
+      "sourcePage": 61,
+      "sourceIndex": 1696
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 61,
+      "sourceIndex": 1697
+    },
+    {
+      "type": "paragraph",
+      "text": "多余项通常故意在主题上相关，但衔接条件不成",
+      "sourcePage": 61,
+      "sourceIndex": 1698
+    },
+    {
+      "type": "paragraph",
+      "text": "立。",
+      "sourcePage": 61,
+      "sourceIndex": 1699
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “不要比较哪句更好听；用硬条件排：主语、代词、逻辑、位",
+      "sourcePage": 61,
+      "sourceIndex": 1700
+    },
+    {
+      "type": "paragraph",
+      "text": "置、重复。”",
+      "sourcePage": 61,
+      "sourceIndex": 1701
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 七选五的干扰项经常“内容相关但位置不对”。",
+      "sourcePage": 61,
+      "sourceIndex": 1702
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 61,
+      "sourceIndex": 1703
+    },
+    {
+      "type": "paragraph",
+      "text": "1 检查代词是否有指代。",
+      "sourcePage": 61,
+      "sourceIndex": 1704
+    },
+    {
+      "type": "paragraph",
+      "text": "2 检查主语是否突然换人/换对象。",
+      "sourcePage": 61,
+      "sourceIndex": 1705
+    },
+    {
+      "type": "paragraph",
+      "text": "3 检查逻辑连接词是否有前提。",
+      "sourcePage": 61,
+      "sourceIndex": 1706
+    },
+    {
+      "type": "paragraph",
+      "text": "4 检查内容是否重复已经说过的话。",
+      "sourcePage": 61,
+      "sourceIndex": 1707
+    },
+    {
+      "type": "paragraph",
+      "text": "5 检查放在当前位置是否引入新主题过早。",
+      "sourcePage": 61,
+      "sourceIndex": 1708
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 61,
+      "sourceIndex": 1709
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 61,
+      "sourceIndex": 1710
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 61,
+      "sourceIndex": 1711
+    },
+    {
+      "type": "paragraph",
+      "text": "· 内容相关但代词无指代 → 删",
+      "sourcePage": 61,
+      "sourceIndex": 1712
+    },
+    {
+      "type": "paragraph",
+      "text": "· 句子本身正确但段尾引入新主题 → 删",
+      "sourcePage": 61,
+      "sourceIndex": 1713
+    },
+    {
+      "type": "paragraph",
+      "text": "· 与前句几乎完全重复、没有推进 → 高风险",
+      "sourcePage": 61,
+      "sourceIndex": 1714
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 每个最终选项都有至少两个衔接证据。",
+      "sourcePage": 61,
+      "sourceIndex": 1715
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 纠结时优先用“代词+逻辑”而不是语感。",
+      "sourcePage": 61,
+      "sourceIndex": 1716
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 62,
+      "sourceIndex": 1717
+    },
+    {
+      "type": "paragraph",
+      "text": "候选A和B都讲睡眠，但A开头 These habits，前面没有复数习惯；B无代词且承接原因，因此B更合理。",
+      "sourcePage": 62,
+      "sourceIndex": 1718
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 62,
+      "sourceIndex": 1719
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只凭“读着顺”。",
+      "sourcePage": 62,
+      "sourceIndex": 1720
+    },
+    {
+      "type": "paragraph",
+      "text": "· 不管代词和连接词。",
+      "sourcePage": 62,
+      "sourceIndex": 1721
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 62,
+      "sourceIndex": 1722
+    },
+    {
+      "type": "paragraph",
+      "text": "· 至少有两个证据吗？",
+      "sourcePage": 62,
+      "sourceIndex": 1723
+    },
+    {
+      "type": "paragraph",
+      "text": "· 多余项错在哪里能说清吗？",
+      "sourcePage": 62,
+      "sourceIndex": 1724
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 62,
+      "sourceIndex": 1725
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 62,
+      "sourceIndex": 1726
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 62,
+      "sourceIndex": 1727
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 两项纠结：先代词，再逻辑，再位置。",
+      "sourcePage": 62,
+      "sourceIndex": 1728
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 62,
+      "sourceIndex": 1730
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 选项代词无指代对象，应？",
+      "sourcePage": 62,
+      "sourceIndex": 1731
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 选项与前文内容完全重复，应？",
+      "sourcePage": 62,
+      "sourceIndex": 1732
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 主语突然换且无过渡，应？",
+      "sourcePage": 62,
+      "sourceIndex": 1733
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 逻辑词方向相反，应？",
+      "sourcePage": 62,
+      "sourceIndex": 1734
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 两个选项都通顺，最后比什么？",
+      "sourcePage": 62,
+      "sourceIndex": 1735
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 排除；2. 排除/降级；3. 可疑；4. 排除；5. 指代+逻辑+主题链+位置功能。",
+      "sourcePage": 62,
+      "sourceIndex": 1736
+    },
+    {
+      "type": "paragraph",
+      "text": "— G6 本题型到这里。下次卡住直接 Ctrl+F 搜“G6”或题型关键词。—",
+      "sourcePage": 62,
+      "sourceIndex": 1737
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-G6-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "最后剩两个或三个选项都“有点像”。",
+          "sourcePage": 61,
+          "sourceIndex": 1696
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "多余项通常故意在主题上相关，但衔接条件不成 立。",
+          "sourcePage": 61,
+          "sourceIndex": 1698
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“不要比较哪句更好听；用硬条件排：主语、代词、逻辑、位 置、重复。”",
+          "sourcePage": 61,
+          "sourceIndex": 1700
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "七选五的干扰项经常“内容相关但位置不对”。",
+          "sourcePage": 61,
+          "sourceIndex": 1702
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 检查代词是否有指代。",
+          "sourcePage": 61,
+          "sourceIndex": 1704
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 检查主语是否突然换人/换对象。",
+          "sourcePage": 61,
+          "sourceIndex": 1705
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 检查逻辑连接词是否有前提。",
+          "sourcePage": 61,
+          "sourceIndex": 1706
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 检查内容是否重复已经说过的话。",
+          "sourcePage": 61,
+          "sourceIndex": 1707
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 检查放在当前位置是否引入新主题过早。",
+          "sourcePage": 61,
+          "sourceIndex": 1708
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 61,
+          "sourceIndex": 1709
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 内容相关但代词无指代 → 删",
+          "sourcePage": 61,
+          "sourceIndex": 1712
+        },
+        {
+          "type": "paragraph",
+          "text": "· 句子本身正确但段尾引入新主题 → 删",
+          "sourcePage": 61,
+          "sourceIndex": 1713
+        },
+        {
+          "type": "paragraph",
+          "text": "· 与前句几乎完全重复、没有推进 → 高风险",
+          "sourcePage": 61,
+          "sourceIndex": 1714
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "每个最终选项都有至少两个衔接证据。",
+          "sourcePage": 61,
+          "sourceIndex": 1715
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "纠结时优先用“代词+逻辑”而不是语感。",
+          "sourcePage": 61,
+          "sourceIndex": 1716
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "候选A和B都讲睡眠，但A开头 These habits，前面没有复数习惯；B无代词且承接原因，因此B更合理。",
+          "sourcePage": 62,
+          "sourceIndex": 1718
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只凭“读着顺”。",
+          "sourcePage": 62,
+          "sourceIndex": 1720
+        },
+        {
+          "type": "paragraph",
+          "text": "· 不管代词和连接词。",
+          "sourcePage": 62,
+          "sourceIndex": 1721
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 至少有两个证据吗？",
+          "sourcePage": 62,
+          "sourceIndex": 1723
+        },
+        {
+          "type": "paragraph",
+          "text": "· 多余项错在哪里能说清吗？",
+          "sourcePage": 62,
+          "sourceIndex": 1724
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 62,
+          "sourceIndex": 1725
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 62,
+          "sourceIndex": 1727
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "两项纠结：先代词，再逻辑，再位置。",
+          "sourcePage": 62,
+          "sourceIndex": 1728
+        }
+      ]
+    },
+    {
+      "id": "EN-G6-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 选项代词无指代对象，应？",
+          "sourcePage": 62,
+          "sourceIndex": 1731
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 选项与前文内容完全重复，应？",
+          "sourcePage": 62,
+          "sourceIndex": 1732
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 主语突然换且无过渡，应？",
+          "sourcePage": 62,
+          "sourceIndex": 1733
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 逻辑词方向相反，应？",
+          "sourcePage": 62,
+          "sourceIndex": 1734
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 两个选项都通顺，最后比什么？",
+          "sourcePage": 62,
+          "sourceIndex": 1735
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 排除；2. 排除/降级；3. 可疑；4. 排除；5. 指代+逻辑+主题链+位置功能。",
+          "sourcePage": 62,
+          "sourceIndex": 1736
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 61,
+    "endPage": 62
+  }
+}

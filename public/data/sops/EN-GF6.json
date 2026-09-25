@@ -1,0 +1,609 @@
+{
+  "id": "EN-GF6",
+  "code": "GF6",
+  "title": "词性转换：构词法",
+  "subject_id": "english",
+  "chapter_id": "en-grammar-filling",
+  "chapter": "语法填空",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "GF6",
+    "词性转换：构词法",
+    "语法填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "success",
+    "successful",
+    "successfully",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Word",
+    "formation",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "noun/adjective/adverb",
+    "STEPS",
+    "Follow",
+    "route",
+    "un-/in-/im-/dis-",
+    "happy",
+    "happiness",
+    "possible",
+    "possibility",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "tion/-ment/-ness/-ity",
+    "ful/-less/-ive/-al/-ous",
+    "friendly/lovely",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "Her",
+    "explanation",
+    "was",
+    "clear",
+    "and",
+    "effect",
+    "adjective",
+    "effective",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "develop",
+    "careful",
+    "agree",
+    "true",
+    "development",
+    "carefully",
+    "disagree",
+    "truly",
+    "Ctrl"
+  ],
+  "brain_first": "“不要先想后缀，先确定空位必须是什么词性。”",
+  "sort_order": 1054,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 83,
+      "sourceIndex": 2293
+    },
+    {
+      "type": "paragraph",
+      "text": "括号给一个词根，句子需要另一词性，如 success",
+      "sourcePage": 83,
+      "sourceIndex": 2294
+    },
+    {
+      "type": "paragraph",
+      "text": "→ successful → successfully。",
+      "sourcePage": 83,
+      "sourceIndex": 2295
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 83,
+      "sourceIndex": 2296
+    },
+    {
+      "type": "paragraph",
+      "text": "Word formation：通过前后缀改变词性或意义。",
+      "sourcePage": 83,
+      "sourceIndex": 2297
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “不要先想后缀，先确定空位必须是什么词性。”",
+      "sourcePage": 83,
+      "sourceIndex": 2298
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 高频考法稳定，尤其 noun/adjective/adverb 互转。",
+      "sourcePage": 83,
+      "sourceIndex": 2299
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 83,
+      "sourceIndex": 2300
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先用句子位置判断目标词性。",
+      "sourcePage": 83,
+      "sourceIndex": 2301
+    },
+    {
+      "type": "paragraph",
+      "text": "2 再从词根生成目标形式。",
+      "sourcePage": 83,
+      "sourceIndex": 2302
+    },
+    {
+      "type": "paragraph",
+      "text": "3 检查是否需要否定前缀 un-/in-/im-/dis-。",
+      "sourcePage": 83,
+      "sourceIndex": 2303
+    },
+    {
+      "type": "paragraph",
+      "text": "4 检查拼写变化：happy→happiness，possible→possibility。",
+      "sourcePage": 83,
+      "sourceIndex": 2304
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 83,
+      "sourceIndex": 2305
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 83,
+      "sourceIndex": 2306
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 83,
+      "sourceIndex": 2307
+    },
+    {
+      "type": "paragraph",
+      "text": "· -tion/-ment/-ness/-ity → 常名词",
+      "sourcePage": 83,
+      "sourceIndex": 2308
+    },
+    {
+      "type": "paragraph",
+      "text": "· -ful/-less/-ive/-al/-ous → 常形容词",
+      "sourcePage": 83,
+      "sourceIndex": 2309
+    },
+    {
+      "type": "paragraph",
+      "text": "· -ly → 常副词，但 friendly/lovely 是形容词",
+      "sourcePage": 83,
+      "sourceIndex": 2310
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 目标词性、词义方向和拼写都正确。",
+      "sourcePage": 83,
+      "sourceIndex": 2311
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 想不起词形时先读整句判断“需要一个什么概念”，再回忆最常见派生。",
+      "sourcePage": 83,
+      "sourceIndex": 2312
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 83,
+      "sourceIndex": 2313
+    },
+    {
+      "type": "paragraph",
+      "text": "Her explanation was clear and ___ (effect). be + adjective → effective。",
+      "sourcePage": 83,
+      "sourceIndex": 2314
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 84,
+      "sourceIndex": 2315
+    },
+    {
+      "type": "paragraph",
+      "text": "· 盲目加 -ly。",
+      "sourcePage": 84,
+      "sourceIndex": 2316
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忘记否定含义。",
+      "sourcePage": 84,
+      "sourceIndex": 2317
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 84,
+      "sourceIndex": 2318
+    },
+    {
+      "type": "paragraph",
+      "text": "· 词性对？",
+      "sourcePage": 84,
+      "sourceIndex": 2319
+    },
+    {
+      "type": "paragraph",
+      "text": "· 正负意义对？",
+      "sourcePage": 84,
+      "sourceIndex": 2320
+    },
+    {
+      "type": "paragraph",
+      "text": "· 拼写变化对？",
+      "sourcePage": 84,
+      "sourceIndex": 2321
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 84,
+      "sourceIndex": 2322
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 84,
+      "sourceIndex": 2323
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 84,
+      "sourceIndex": 2324
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 构词先定词性，后找后缀。",
+      "sourcePage": 84,
+      "sourceIndex": 2325
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 84,
+      "sourceIndex": 2327
+    },
+    {
+      "type": "paragraph",
+      "text": "1. develop→名词",
+      "sourcePage": 84,
+      "sourceIndex": 2328
+    },
+    {
+      "type": "paragraph",
+      "text": "2. possible→名词",
+      "sourcePage": 84,
+      "sourceIndex": 2329
+    },
+    {
+      "type": "paragraph",
+      "text": "3. careful→副词",
+      "sourcePage": 84,
+      "sourceIndex": 2330
+    },
+    {
+      "type": "paragraph",
+      "text": "4. agree→否定",
+      "sourcePage": 84,
+      "sourceIndex": 2331
+    },
+    {
+      "type": "paragraph",
+      "text": "5. true→副词",
+      "sourcePage": 84,
+      "sourceIndex": 2332
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. development；2. possibility；3. carefully；4. disagree；5. truly",
+      "sourcePage": 84,
+      "sourceIndex": 2333
+    },
+    {
+      "type": "paragraph",
+      "text": "— GF6 本题型到这里。下次卡住直接 Ctrl+F 搜“GF6”或题型关键词。—",
+      "sourcePage": 84,
+      "sourceIndex": 2334
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-GF6-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "括号给一个词根，句子需要另一词性，如 success → successful → successfully。",
+          "sourcePage": 83,
+          "sourceIndex": 2294
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Word formation：通过前后缀改变词性或意义。",
+          "sourcePage": 83,
+          "sourceIndex": 2297
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“不要先想后缀，先确定空位必须是什么词性。”",
+          "sourcePage": 83,
+          "sourceIndex": 2298
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "高频考法稳定，尤其 noun/adjective/adverb 互转。",
+          "sourcePage": 83,
+          "sourceIndex": 2299
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先用句子位置判断目标词性。",
+          "sourcePage": 83,
+          "sourceIndex": 2301
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 再从词根生成目标形式。",
+          "sourcePage": 83,
+          "sourceIndex": 2302
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 检查是否需要否定前缀 un-/in-/im-/dis-。",
+          "sourcePage": 83,
+          "sourceIndex": 2303
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 检查拼写变化：happy→happiness，possible→possibility。",
+          "sourcePage": 83,
+          "sourceIndex": 2304
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 83,
+          "sourceIndex": 2305
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· -tion/-ment/-ness/-ity → 常名词",
+          "sourcePage": 83,
+          "sourceIndex": 2308
+        },
+        {
+          "type": "paragraph",
+          "text": "· -ful/-less/-ive/-al/-ous → 常形容词",
+          "sourcePage": 83,
+          "sourceIndex": 2309
+        },
+        {
+          "type": "paragraph",
+          "text": "· -ly → 常副词，但 friendly/lovely 是形容词",
+          "sourcePage": 83,
+          "sourceIndex": 2310
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "目标词性、词义方向和拼写都正确。",
+          "sourcePage": 83,
+          "sourceIndex": 2311
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "想不起词形时先读整句判断“需要一个什么概念”，再回忆最常见派生。",
+          "sourcePage": 83,
+          "sourceIndex": 2312
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Her explanation was clear and ___ (effect). be + adjective → effective。",
+          "sourcePage": 83,
+          "sourceIndex": 2314
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 盲目加 -ly。",
+          "sourcePage": 84,
+          "sourceIndex": 2316
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忘记否定含义。",
+          "sourcePage": 84,
+          "sourceIndex": 2317
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 词性对？",
+          "sourcePage": 84,
+          "sourceIndex": 2319
+        },
+        {
+          "type": "paragraph",
+          "text": "· 正负意义对？",
+          "sourcePage": 84,
+          "sourceIndex": 2320
+        },
+        {
+          "type": "paragraph",
+          "text": "· 拼写变化对？",
+          "sourcePage": 84,
+          "sourceIndex": 2321
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 84,
+          "sourceIndex": 2322
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 84,
+          "sourceIndex": 2324
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "构词先定词性，后找后缀。",
+          "sourcePage": 84,
+          "sourceIndex": 2325
+        }
+      ]
+    },
+    {
+      "id": "EN-GF6-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. develop→名词",
+          "sourcePage": 84,
+          "sourceIndex": 2328
+        },
+        {
+          "type": "paragraph",
+          "text": "2. possible→名词",
+          "sourcePage": 84,
+          "sourceIndex": 2329
+        },
+        {
+          "type": "paragraph",
+          "text": "3. careful→副词",
+          "sourcePage": 84,
+          "sourceIndex": 2330
+        },
+        {
+          "type": "paragraph",
+          "text": "4. agree→否定",
+          "sourcePage": 84,
+          "sourceIndex": 2331
+        },
+        {
+          "type": "paragraph",
+          "text": "5. true→副词",
+          "sourcePage": 84,
+          "sourceIndex": 2332
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. development；2. possibility；3. carefully；4. disagree；5. truly",
+          "sourcePage": 84,
+          "sourceIndex": 2333
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 83,
+    "endPage": 84
+  }
+}

@@ -8,6 +8,8 @@ import { useData, PageTitle, Empty } from "@/components/ui";
 import { PrivateImage } from "@/components/images";
 import {
   subjects,
+  sopSubject,
+  englishErrorTags,
   errorTags,
   statusLabels,
   filterMistakes,
@@ -24,7 +26,11 @@ export default function Page() {
     [message, setMessage] = useState("");
   useEffect(() => {
     const p = new URLSearchParams(location.search);
-    setFilter({ tag: p.get("tag") || "", sopId: p.get("sop") || "" });
+    setFilter({
+      subject: p.get("subject") || "",
+      tag: p.get("tag") || "",
+      sopId: p.get("sop") || "",
+    });
   }, []);
   const items = filterMistakes(mistakes, filter, sops ?? []).sort((a, b) =>
     b.updatedAt.localeCompare(a.updatedAt),
@@ -92,15 +98,19 @@ export default function Page() {
             <select
               value={filter.chapter || ""}
               onChange={(e) =>
-                setFilter({ ...filter, chapter: e.target.value })
+                setFilter({ ...filter, chapter: e.target.value, sopId: "" })
               }
             >
               <option value="">全部章节</option>
-              {chapters?.map((c) => (
-                <option key={c.id} value={c.id}>
-                  {c.title}
-                </option>
-              ))}
+              {chapters
+                ?.filter(
+                  (c) => !filter.subject || c.subject_id === filter.subject,
+                )
+                .map((c) => (
+                  <option key={c.id} value={c.id}>
+                    {c.title}
+                  </option>
+                ))}
             </select>
           </label>
           <label>
@@ -110,11 +120,17 @@ export default function Page() {
               onChange={(e) => setFilter({ ...filter, sopId: e.target.value })}
             >
               <option value="">全部 SOP</option>
-              {sops?.map((s) => (
-                <option key={s.id} value={s.id}>
-                  {s.code} {s.title}
-                </option>
-              ))}
+              {sops
+                ?.filter(
+                  (s) =>
+                    (!filter.subject || sopSubject(s) === filter.subject) &&
+                    (!filter.chapter || s.chapter_id === filter.chapter),
+                )
+                .map((s) => (
+                  <option key={s.id} value={s.id}>
+                    {s.code} {s.title}
+                  </option>
+                ))}
             </select>
           </label>
           <label>
@@ -124,7 +140,7 @@ export default function Page() {
               onChange={(e) => setFilter({ ...filter, tag: e.target.value })}
             >
               <option value="">所有错因</option>
-              {errorTags.map((t) => (
+              {[...errorTags, ...englishErrorTags].map((t) => (
                 <option key={t}>{t}</option>
               ))}
             </select>

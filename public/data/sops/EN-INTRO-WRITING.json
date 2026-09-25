@@ -1,0 +1,47 @@
+{
+  "id": "EN-INTRO-WRITING",
+  "code": "INTRO-WRITING",
+  "title": "写作工具箱 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-writing",
+  "chapter": "写作工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-WRITING",
+    "写作工具箱 · 总览",
+    "写作工具箱",
+    "Part",
+    "Writing",
+    "Toolbox"
+  ],
+  "brain_first": "按原文查阅 写作工具箱 · 总览",
+  "sort_order": 1101,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part X - Writing Toolbox 写作工具箱",
+      "sourcePage": 122,
+      "sourceIndex": 2984
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-WRITING-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part X - Writing Toolbox 写作工具箱",
+          "sourcePage": 122,
+          "sourceIndex": 2984
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 122,
+    "endPage": 122
+  }
+}

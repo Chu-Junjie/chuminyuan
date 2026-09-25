@@ -1,0 +1,147 @@
+{
+  "id": "EN-8-15",
+  "code": "8.15",
+  "title": "Conjunctions & Coordination 并列连词",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.15",
+    "Conjunctions & Coordination 并列连词",
+    "语法工具箱",
+    "Relation",
+    "Conjunctions",
+    "Addition",
+    "and",
+    "both",
+    "not",
+    "only",
+    "but",
+    "also",
+    "Choice",
+    "either",
+    "Contrast",
+    "yet",
+    "while",
+    "Negative",
+    "pair",
+    "neither",
+    "nor",
+    "Result",
+    "Reason",
+    "coordinating",
+    "sense",
+    "for",
+    "less",
+    "common",
+    "basic",
+    "writing",
+    "read",
+    "discuss",
+    "write",
+    "discussing"
+  ],
+  "brain_first": "按原文查阅 Conjunctions & Coordination 并列连词",
+  "sort_order": 1086,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Relation",
+          "Conjunctions"
+        ],
+        [
+          "Addition",
+          "and, both...and, not only...but also"
+        ],
+        [
+          "Choice",
+          "or, either...or"
+        ],
+        [
+          "Contrast",
+          "but, yet, while"
+        ],
+        [
+          "Negative pair",
+          "neither...nor"
+        ],
+        [
+          "Result",
+          "so"
+        ],
+        [
+          "Reason (coordinating sense)",
+          "for (less common in basic writing)"
+        ]
+      ],
+      "text": "Relation | Conjunctions\nAddition | and, both...and, not only...but also\nChoice | or, either...or\nContrast | but, yet, while\nNegative pair | neither...nor\nResult | so\nReason (coordinating sense) | for (less common in basic writing)",
+      "sourcePage": 113,
+      "sourceIndex": 2899
+    },
+    {
+      "type": "paragraph",
+      "text": "并列结构要平行：to read, to discuss and to write；不要混成 to read, discussing and write。",
+      "sourcePage": 113,
+      "sourceIndex": 2900
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-15-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Relation",
+              "Conjunctions"
+            ],
+            [
+              "Addition",
+              "and, both...and, not only...but also"
+            ],
+            [
+              "Choice",
+              "or, either...or"
+            ],
+            [
+              "Contrast",
+              "but, yet, while"
+            ],
+            [
+              "Negative pair",
+              "neither...nor"
+            ],
+            [
+              "Result",
+              "so"
+            ],
+            [
+              "Reason (coordinating sense)",
+              "for (less common in basic writing)"
+            ]
+          ],
+          "text": "Relation | Conjunctions\nAddition | and, both...and, not only...but also\nChoice | or, either...or\nContrast | but, yet, while\nNegative pair | neither...nor\nResult | so\nReason (coordinating sense) | for (less common in basic writing)",
+          "sourcePage": 113,
+          "sourceIndex": 2899
+        },
+        {
+          "type": "paragraph",
+          "text": "并列结构要平行：to read, to discuss and to write；不要混成 to read, discussing and write。",
+          "sourcePage": 113,
+          "sourceIndex": 2900
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 113,
+    "endPage": 113
+  }
+}

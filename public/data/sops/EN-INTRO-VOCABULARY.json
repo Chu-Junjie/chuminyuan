@@ -1,0 +1,60 @@
+{
+  "id": "EN-INTRO-VOCABULARY",
+  "code": "INTRO-VOCABULARY",
+  "title": "词汇工具箱 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-vocabulary",
+  "chapter": "词汇工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-VOCABULARY",
+    "词汇工具箱 · 总览",
+    "词汇工具箱",
+    "Part",
+    "Vocabulary",
+    "Toolbox",
+    "A-Z"
+  ],
+  "brain_first": "按原文查阅 词汇工具箱 · 总览",
+  "sort_order": 1091,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part IX - Vocabulary Toolbox 词汇工具箱",
+      "sourcePage": 115,
+      "sourceIndex": 2935
+    },
+    {
+      "type": "paragraph",
+      "text": "词汇不按A-Z机械堆。这里按“做题用途”整理：构词、同义替换、固定搭配、逻辑词、熟词生义和写作常用表",
+      "sourcePage": 115,
+      "sourceIndex": 2936
+    },
+    {
+      "type": "paragraph",
+      "text": "达。",
+      "sourcePage": 115,
+      "sourceIndex": 2937
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-VOCABULARY-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part IX - Vocabulary Toolbox 词汇工具箱 词汇不按A-Z机械堆。这里按“做题用途”整理：构词、同义替换、固定搭配、逻辑词、熟词生义和写作常用表 达。",
+          "sourcePage": 115,
+          "sourceIndex": 2935
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 115,
+    "endPage": 115
+  }
+}

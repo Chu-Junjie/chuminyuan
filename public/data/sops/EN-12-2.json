@@ -1,0 +1,159 @@
+{
+  "id": "EN-12-2",
+  "code": "12.2",
+  "title": "按知识点快速索引",
+  "subject_id": "english",
+  "chapter_id": "en-rescue",
+  "chapter": "急救与索引",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "12.2",
+    "按知识点快速索引",
+    "急救与索引",
+    "Problem",
+    "where",
+    "which",
+    "Relative",
+    "Clauses",
+    "what",
+    "that",
+    "Noun",
+    "than",
+    "Comparison",
+    "a/an/the",
+    "Articles",
+    "Prepositions",
+    "Collocations",
+    "Distractor",
+    "Checklist",
+    "Sentence",
+    "Upgrade",
+    "Ladder",
+    "Route",
+    "from",
+    "Given",
+    "Openings"
+  ],
+  "brain_first": "按原文查阅 按知识点快速索引",
+  "sort_order": 1117,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Problem",
+          "Go to"
+        ],
+        [
+          "不知道动词填什么",
+          "GF2 + 8.2/8.3/8.7"
+        ],
+        [
+          "where / which 不会选",
+          "8.8 Relative Clauses"
+        ],
+        [
+          "what / that 不会选",
+          "8.9 Noun Clauses"
+        ],
+        [
+          "than附近不会填",
+          "GF4 + 8.14 Comparison"
+        ],
+        [
+          "a/an/the不确定",
+          "GF7 + 8.11 Articles"
+        ],
+        [
+          "介词不会",
+          "GF8 + 8.12 Prepositions + 9.2 Collocations"
+        ],
+        [
+          "完形两个词都认识",
+          "C1-C7，根据词性和故事线"
+        ],
+        [
+          "阅读两个选项都像",
+          "R17 Distractor Checklist"
+        ],
+        [
+          "作文不会高级句",
+          "10.2 Sentence Upgrade Ladder"
+        ],
+        [
+          "续写情节写飞",
+          "CW1 Route from Given Openings"
+        ]
+      ],
+      "text": "Problem | Go to\n不知道动词填什么 | GF2 + 8.2/8.3/8.7\nwhere / which 不会选 | 8.8 Relative Clauses\nwhat / that 不会选 | 8.9 Noun Clauses\nthan附近不会填 | GF4 + 8.14 Comparison\na/an/the不确定 | GF7 + 8.11 Articles\n介词不会 | GF8 + 8.12 Prepositions + 9.2 Collocations\n完形两个词都认识 | C1-C7，根据词性和故事线\n阅读两个选项都像 | R17 Distractor Checklist\n作文不会高级句 | 10.2 Sentence Upgrade Ladder\n续写情节写飞 | CW1 Route from Given Openings",
+      "sourcePage": 129,
+      "sourceIndex": 3041
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-12-2-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Problem",
+              "Go to"
+            ],
+            [
+              "不知道动词填什么",
+              "GF2 + 8.2/8.3/8.7"
+            ],
+            [
+              "where / which 不会选",
+              "8.8 Relative Clauses"
+            ],
+            [
+              "what / that 不会选",
+              "8.9 Noun Clauses"
+            ],
+            [
+              "than附近不会填",
+              "GF4 + 8.14 Comparison"
+            ],
+            [
+              "a/an/the不确定",
+              "GF7 + 8.11 Articles"
+            ],
+            [
+              "介词不会",
+              "GF8 + 8.12 Prepositions + 9.2 Collocations"
+            ],
+            [
+              "完形两个词都认识",
+              "C1-C7，根据词性和故事线"
+            ],
+            [
+              "阅读两个选项都像",
+              "R17 Distractor Checklist"
+            ],
+            [
+              "作文不会高级句",
+              "10.2 Sentence Upgrade Ladder"
+            ],
+            [
+              "续写情节写飞",
+              "CW1 Route from Given Openings"
+            ]
+          ],
+          "text": "Problem | Go to\n不知道动词填什么 | GF2 + 8.2/8.3/8.7\nwhere / which 不会选 | 8.8 Relative Clauses\nwhat / that 不会选 | 8.9 Noun Clauses\nthan附近不会填 | GF4 + 8.14 Comparison\na/an/the不确定 | GF7 + 8.11 Articles\n介词不会 | GF8 + 8.12 Prepositions + 9.2 Collocations\n完形两个词都认识 | C1-C7，根据词性和故事线\n阅读两个选项都像 | R17 Distractor Checklist\n作文不会高级句 | 10.2 Sentence Upgrade Ladder\n续写情节写飞 | CW1 Route from Given Openings",
+          "sourcePage": 129,
+          "sourceIndex": 3041
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 129,
+    "endPage": 129
+  }
+}

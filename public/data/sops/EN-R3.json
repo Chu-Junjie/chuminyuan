@@ -1,0 +1,581 @@
+{
+  "id": "EN-R3",
+  "code": "R3",
+  "title": "数字、时间、地点、人物信息题",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "R3",
+    "数字、时间、地点、人物信息题",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "student",
+    "Saturday",
+    "after",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "under",
+    "and",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "AND",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "Students",
+    "weekends",
+    "TRAPS",
+    "Common",
+    "traps",
+    "inclusive",
+    "exclusive",
+    "CHECK",
+    "Final",
+    "check",
+    "only",
+    "before",
+    "except",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "who",
+    "paid",
+    "destination",
+    "Ctrl"
+  ],
+  "brain_first": "“把表格/段落当搜索页面，不要全文精读。”",
+  "sort_order": 1017,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 27,
+      "sourceIndex": 730
+    },
+    {
+      "type": "paragraph",
+      "text": "题干锁定具体数字/时间/地点/人物，常见于应用",
+      "sourcePage": 27,
+      "sourceIndex": 731
+    },
+    {
+      "type": "paragraph",
+      "text": "文、活动信息、说明文。",
+      "sourcePage": 27,
+      "sourceIndex": 732
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 27,
+      "sourceIndex": 733
+    },
+    {
+      "type": "paragraph",
+      "text": "属于细节题的快速定位版本。",
+      "sourcePage": 27,
+      "sourceIndex": 734
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “把表格/段落当搜索页面，不要全文精读。”",
+      "sourcePage": 27,
+      "sourceIndex": 735
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 这类题的难点常是条件组合：日期+对象+价格，而非英语难度。",
+      "sourcePage": 27,
+      "sourceIndex": 736
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 27,
+      "sourceIndex": 737
+    },
+    {
+      "type": "paragraph",
+      "text": "1 圈题干所有条件，例如 student + Saturday + after 6 p.m. 。",
+      "sourcePage": 27,
+      "sourceIndex": 738
+    },
+    {
+      "type": "paragraph",
+      "text": "2 在文章中先找最稀有条件（专有名词/日期）。",
+      "sourcePage": 27,
+      "sourceIndex": 739
+    },
+    {
+      "type": "paragraph",
+      "text": "3 找到候选信息后，逐个核对剩余条件。",
+      "sourcePage": 27,
+      "sourceIndex": 740
+    },
+    {
+      "type": "paragraph",
+      "text": "4 有计算时只做题目需要的最小计算。",
+      "sourcePage": 27,
+      "sourceIndex": 741
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 27,
+      "sourceIndex": 742
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 27,
+      "sourceIndex": 743
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 27,
+      "sourceIndex": 744
+    },
+    {
+      "type": "paragraph",
+      "text": "· 表格/广告 → 优先看小标题、粗体、价格栏",
+      "sourcePage": 27,
+      "sourceIndex": 745
+    },
+    {
+      "type": "paragraph",
+      "text": "· “under 18” ≠ “18 and under”",
+      "sourcePage": 27,
+      "sourceIndex": 746
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 所有条件同时满足。",
+      "sourcePage": 28,
+      "sourceIndex": 747
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 不要因为一个条件匹配就选；用“AND”思维：A且B且C都对。",
+      "sourcePage": 28,
+      "sourceIndex": 748
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 28,
+      "sourceIndex": 749
+    },
+    {
+      "type": "paragraph",
+      "text": "题目问18岁学生周日票价；文章写 Students 16-18: $8 on weekends，则只要身份和日期都符合即可。",
+      "sourcePage": 28,
+      "sourceIndex": 750
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 28,
+      "sourceIndex": 751
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只核对一个条件。",
+      "sourcePage": 28,
+      "sourceIndex": 752
+    },
+    {
+      "type": "paragraph",
+      "text": "· 看错 inclusive / exclusive 边界。",
+      "sourcePage": 28,
+      "sourceIndex": 753
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 28,
+      "sourceIndex": 754
+    },
+    {
+      "type": "paragraph",
+      "text": "· 每个条件都打勾了吗？",
+      "sourcePage": 28,
+      "sourceIndex": 755
+    },
+    {
+      "type": "paragraph",
+      "text": "· 有没有隐藏限制词 only / before / after / except？",
+      "sourcePage": 28,
+      "sourceIndex": 756
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 28,
+      "sourceIndex": 757
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 28,
+      "sourceIndex": 758
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 28,
+      "sourceIndex": 759
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 具体信息题 = 条件全部对上。",
+      "sourcePage": 28,
+      "sourceIndex": 760
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 28,
+      "sourceIndex": 762
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 题问“when”，优先圈什么？",
+      "sourcePage": 28,
+      "sourceIndex": 763
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 题问“who”，原文有两个人名，怎么做？",
+      "sourcePage": 28,
+      "sourceIndex": 764
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 数字题出现原价和折后价，问paid应取？",
+      "sourcePage": 28,
+      "sourceIndex": 765
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 地点题出现起点和目的地，问destination应取？",
+      "sourcePage": 28,
+      "sourceIndex": 766
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 信息题最常见低级错？",
+      "sourcePage": 28,
+      "sourceIndex": 767
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 时间/日期定位词。；2. 找到与题干事件对应的人，不只看最近人名。；3. 实际支付价。；4. 目的",
+      "sourcePage": 28,
+      "sourceIndex": 768
+    },
+    {
+      "type": "paragraph",
+      "text": "地。；5. 把相邻但不属于题干对象的信息搬过去。",
+      "sourcePage": 28,
+      "sourceIndex": 769
+    },
+    {
+      "type": "paragraph",
+      "text": "— R3 本题型到这里。下次卡住直接 Ctrl+F 搜“R3”或题型关键词。—",
+      "sourcePage": 28,
+      "sourceIndex": 770
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R3-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "题干锁定具体数字/时间/地点/人物，常见于应用 文、活动信息、说明文。",
+          "sourcePage": 27,
+          "sourceIndex": 731
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "属于细节题的快速定位版本。",
+          "sourcePage": 27,
+          "sourceIndex": 734
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“把表格/段落当搜索页面，不要全文精读。”",
+          "sourcePage": 27,
+          "sourceIndex": 735
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这类题的难点常是条件组合：日期+对象+价格，而非英语难度。",
+          "sourcePage": 27,
+          "sourceIndex": 736
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 圈题干所有条件，例如 student + Saturday + after 6 p.m. 。",
+          "sourcePage": 27,
+          "sourceIndex": 738
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 在文章中先找最稀有条件（专有名词/日期）。",
+          "sourcePage": 27,
+          "sourceIndex": 739
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 找到候选信息后，逐个核对剩余条件。",
+          "sourcePage": 27,
+          "sourceIndex": 740
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 有计算时只做题目需要的最小计算。",
+          "sourcePage": 27,
+          "sourceIndex": 741
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 27,
+          "sourceIndex": 742
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 表格/广告 → 优先看小标题、粗体、价格栏",
+          "sourcePage": 27,
+          "sourceIndex": 745
+        },
+        {
+          "type": "paragraph",
+          "text": "· “under 18” ≠ “18 and under”",
+          "sourcePage": 27,
+          "sourceIndex": 746
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "所有条件同时满足。",
+          "sourcePage": 28,
+          "sourceIndex": 747
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "不要因为一个条件匹配就选；用“AND”思维：A且B且C都对。",
+          "sourcePage": 28,
+          "sourceIndex": 748
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "题目问18岁学生周日票价；文章写 Students 16-18: $8 on weekends，则只要身份和日期都符合即可。",
+          "sourcePage": 28,
+          "sourceIndex": 750
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只核对一个条件。",
+          "sourcePage": 28,
+          "sourceIndex": 752
+        },
+        {
+          "type": "paragraph",
+          "text": "· 看错 inclusive / exclusive 边界。",
+          "sourcePage": 28,
+          "sourceIndex": 753
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 每个条件都打勾了吗？",
+          "sourcePage": 28,
+          "sourceIndex": 755
+        },
+        {
+          "type": "paragraph",
+          "text": "· 有没有隐藏限制词 only / before / after / except？",
+          "sourcePage": 28,
+          "sourceIndex": 756
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 28,
+          "sourceIndex": 757
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 28,
+          "sourceIndex": 759
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "具体信息题 = 条件全部对上。",
+          "sourcePage": 28,
+          "sourceIndex": 760
+        }
+      ]
+    },
+    {
+      "id": "EN-R3-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 题问“when”，优先圈什么？",
+          "sourcePage": 28,
+          "sourceIndex": 763
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 题问“who”，原文有两个人名，怎么做？",
+          "sourcePage": 28,
+          "sourceIndex": 764
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 数字题出现原价和折后价，问paid应取？",
+          "sourcePage": 28,
+          "sourceIndex": 765
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 地点题出现起点和目的地，问destination应取？",
+          "sourcePage": 28,
+          "sourceIndex": 766
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 信息题最常见低级错？",
+          "sourcePage": 28,
+          "sourceIndex": 767
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 时间/日期定位词。；2. 找到与题干事件对应的人，不只看最近人名。；3. 实际支付价。；4. 目的 地。；5. 把相邻但不属于题干对象的信息搬过去。",
+          "sourcePage": 28,
+          "sourceIndex": 768
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 27,
+    "endPage": 28
+  }
+}

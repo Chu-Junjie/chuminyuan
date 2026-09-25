@@ -1,0 +1,182 @@
+{
+  "id": "EN-8-1C",
+  "code": "8.1C",
+  "title": "Basic Sentence Patterns 基本句型：判断“句子完整了吗”",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.1C",
+    "Basic Sentence Patterns 基本句型：判断“句子完整了吗”",
+    "语法工具箱",
+    "Pattern",
+    "Example",
+    "Birds",
+    "fly",
+    "She",
+    "looks",
+    "tired",
+    "SVO",
+    "enjoy",
+    "music",
+    "SVOO",
+    "gave",
+    "book",
+    "SVOC",
+    "They",
+    "made",
+    "happy",
+    "SVA",
+    "lives",
+    "Xuzhou",
+    "SVOA",
+    "put",
+    "the",
+    "desk"
+  ],
+  "brain_first": "按原文查阅 Basic Sentence Patterns 基本句型：判断“句子完整了吗”",
+  "sort_order": 1072,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "考试时不需要背缩写本身，但必须能看出一句话还缺主语、谓语、宾语、补语还是状语。这个能力直接服务语",
+      "sourcePage": 106,
+      "sourceIndex": 2837
+    },
+    {
+      "type": "paragraph",
+      "text": "法填空、从句和长难句。",
+      "sourcePage": 106,
+      "sourceIndex": 2838
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Pattern",
+          "白话",
+          "Example"
+        ],
+        [
+          "SV",
+          "谁 + 做什么",
+          "Birds fly."
+        ],
+        [
+          "SP",
+          "谁 + 是/变得 + 什么状态",
+          "She looks tired."
+        ],
+        [
+          "SVO",
+          "谁 + 做 + 什么",
+          "I enjoy music."
+        ],
+        [
+          "SVOO",
+          "谁 + 给/告诉 + 谁 + 什么",
+          "He gave me a book."
+        ],
+        [
+          "SVOC",
+          "谁 + 做 + 宾语 + 让宾语怎样",
+          "They made me happy."
+        ],
+        [
+          "SVA",
+          "谁 + 做/存在 + 在哪/何时",
+          "He lives in Xuzhou."
+        ],
+        [
+          "SVOA",
+          "谁 + 做 + 什么 + 到哪/怎样",
+          "She put the book on the desk."
+        ]
+      ],
+      "text": "Pattern | 白话 | Example\nSV | 谁 + 做什么 | Birds fly.\nSP | 谁 + 是/变得 + 什么状态 | She looks tired.\nSVO | 谁 + 做 + 什么 | I enjoy music.\nSVOO | 谁 + 给/告诉 + 谁 + 什么 | He gave me a book.\nSVOC | 谁 + 做 + 宾语 + 让宾语怎样 | They made me happy.\nSVA | 谁 + 做/存在 + 在哪/何时 | He lives in Xuzhou.\nSVOA | 谁 + 做 + 什么 + 到哪/怎样 | She put the book on the desk.",
+      "sourcePage": 106,
+      "sourceIndex": 2839
+    },
+    {
+      "type": "paragraph",
+      "text": "脑内第一句话：先找真正谓语；谓语决定后面“必须有谁/什么”才能完整。",
+      "sourcePage": 106,
+      "sourceIndex": 2840
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-1C-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "考试时不需要背缩写本身，但必须能看出一句话还缺主语、谓语、宾语、补语还是状语。这个能力直接服务语 法填空、从句和长难句。",
+          "sourcePage": 106,
+          "sourceIndex": 2837
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pattern",
+              "白话",
+              "Example"
+            ],
+            [
+              "SV",
+              "谁 + 做什么",
+              "Birds fly."
+            ],
+            [
+              "SP",
+              "谁 + 是/变得 + 什么状态",
+              "She looks tired."
+            ],
+            [
+              "SVO",
+              "谁 + 做 + 什么",
+              "I enjoy music."
+            ],
+            [
+              "SVOO",
+              "谁 + 给/告诉 + 谁 + 什么",
+              "He gave me a book."
+            ],
+            [
+              "SVOC",
+              "谁 + 做 + 宾语 + 让宾语怎样",
+              "They made me happy."
+            ],
+            [
+              "SVA",
+              "谁 + 做/存在 + 在哪/何时",
+              "He lives in Xuzhou."
+            ],
+            [
+              "SVOA",
+              "谁 + 做 + 什么 + 到哪/怎样",
+              "She put the book on the desk."
+            ]
+          ],
+          "text": "Pattern | 白话 | Example\nSV | 谁 + 做什么 | Birds fly.\nSP | 谁 + 是/变得 + 什么状态 | She looks tired.\nSVO | 谁 + 做 + 什么 | I enjoy music.\nSVOO | 谁 + 给/告诉 + 谁 + 什么 | He gave me a book.\nSVOC | 谁 + 做 + 宾语 + 让宾语怎样 | They made me happy.\nSVA | 谁 + 做/存在 + 在哪/何时 | He lives in Xuzhou.\nSVOA | 谁 + 做 + 什么 + 到哪/怎样 | She put the book on the desk.",
+          "sourcePage": 106,
+          "sourceIndex": 2839
+        },
+        {
+          "type": "paragraph",
+          "text": "脑内第一句话：先找真正谓语；谓语决定后面“必须有谁/什么”才能完整。",
+          "sourcePage": 106,
+          "sourceIndex": 2840
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 106,
+    "endPage": 106
+  }
+}

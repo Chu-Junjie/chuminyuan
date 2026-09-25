@@ -1,0 +1,75 @@
+{
+  "id": "EN-12-1B",
+  "code": "12.1B",
+  "title": "Multiple-Choice Myths 选择题“字母规律”禁止使用",
+  "subject_id": "english",
+  "chapter_id": "en-rescue",
+  "chapter": "急救与索引",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "12.1B",
+    "Multiple-Choice Myths 选择题“字母规律”禁止使用",
+    "急救与索引",
+    "SOP"
+  ],
+  "brain_first": "按原文查阅 Multiple-Choice Myths 选择题“字母规律”禁止使用",
+  "sort_order": 1116,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "没有可靠依据：“前面A太多所以下一题不会A”“不可能连续三个C”“最后一题一般选B”。这些不是\n语言证据，不能作为SOP。"
+        ]
+      ],
+      "text": " | 没有可靠依据：“前面A太多所以下一题不会A”“不可能连续三个C”“最后一题一般选B”。这些不是\n语言证据，不能作为SOP。",
+      "sourcePage": 128,
+      "sourceIndex": 3037
+    },
+    {
+      "type": "paragraph",
+      "text": "真正可以用的排除依据只有：原文定位、同义替换、主语/时间/因果、词性、语法结构、代词指代、逻辑关系、",
+      "sourcePage": 129,
+      "sourceIndex": 3038
+    },
+    {
+      "type": "paragraph",
+      "text": "情感方向、范围和程度。",
+      "sourcePage": 129,
+      "sourceIndex": 3039
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-12-1B-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "没有可靠依据：“前面A太多所以下一题不会A”“不可能连续三个C”“最后一题一般选B”。这些不是\n语言证据，不能作为SOP。"
+            ]
+          ],
+          "text": " | 没有可靠依据：“前面A太多所以下一题不会A”“不可能连续三个C”“最后一题一般选B”。这些不是\n语言证据，不能作为SOP。",
+          "sourcePage": 128,
+          "sourceIndex": 3037
+        },
+        {
+          "type": "paragraph",
+          "text": "真正可以用的排除依据只有：原文定位、同义替换、主语/时间/因果、词性、语法结构、代词指代、逻辑关系、 情感方向、范围和程度。",
+          "sourcePage": 129,
+          "sourceIndex": 3038
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 128,
+    "endPage": 129
+  }
+}

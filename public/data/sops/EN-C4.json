@@ -1,0 +1,601 @@
+{
+  "id": "EN-C4",
+  "code": "C4",
+  "title": "逻辑连接词题",
+  "subject_id": "english",
+  "chapter_id": "en-cloze",
+  "chapter": "完形填空",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "C4",
+    "逻辑连接词题",
+    "完形填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "however",
+    "therefore",
+    "instead",
+    "besides",
+    "otherwise",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "V/N/Adj/Adv",
+    "worried",
+    "help",
+    "relieved",
+    "IF/THEN",
+    "then",
+    "therefore/thus",
+    "however/yet",
+    "besides/moreover",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "although/but",
+    "therefore/so",
+    "because/since",
+    "Ctrl"
+  ],
+  "brain_first": "“先把前后两句翻成最简单意思，再判断它们是什么关系。”",
+  "sort_order": 1044,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 68,
+      "sourceIndex": 1880
+    },
+    {
+      "type": "paragraph",
+      "text": "选项为 however, therefore, instead, besides,",
+      "sourcePage": 68,
+      "sourceIndex": 1881
+    },
+    {
+      "type": "paragraph",
+      "text": "otherwise 等。",
+      "sourcePage": 68,
+      "sourceIndex": 1882
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 68,
+      "sourceIndex": 1883
+    },
+    {
+      "type": "paragraph",
+      "text": "连接词表达因果、转折、递进、替代、条件结果",
+      "sourcePage": 68,
+      "sourceIndex": 1884
+    },
+    {
+      "type": "paragraph",
+      "text": "等。",
+      "sourcePage": 68,
+      "sourceIndex": 1885
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先把前后两句翻成最简单意思，再判断它们是什么关系。”",
+      "sourcePage": 68,
+      "sourceIndex": 1886
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 只背中文意思不够，必须看两边逻辑。",
+      "sourcePage": 68,
+      "sourceIndex": 1887
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 68,
+      "sourceIndex": 1888
+    },
+    {
+      "type": "paragraph",
+      "text": "1 读空前完整意思。",
+      "sourcePage": 68,
+      "sourceIndex": 1889
+    },
+    {
+      "type": "paragraph",
+      "text": "2 读空后完整意思。",
+      "sourcePage": 68,
+      "sourceIndex": 1890
+    },
+    {
+      "type": "paragraph",
+      "text": "3 判断同向/反向/因果/补充/替代。",
+      "sourcePage": 68,
+      "sourceIndex": 1891
+    },
+    {
+      "type": "paragraph",
+      "text": "4 再选对应连接词。",
+      "sourcePage": 68,
+      "sourceIndex": 1892
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如",
+      "sourcePage": 68,
+      "sourceIndex": 1893
+    },
+    {
+      "type": "paragraph",
+      "text": "worried→help→relieved；难空先打 ? 继续。",
+      "sourcePage": 68,
+      "sourceIndex": 1894
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 68,
+      "sourceIndex": 1895
+    },
+    {
+      "type": "paragraph",
+      "text": "· 原因→结果：therefore/thus",
+      "sourcePage": 68,
+      "sourceIndex": 1896
+    },
+    {
+      "type": "paragraph",
+      "text": "· 前后反差：however/yet",
+      "sourcePage": 68,
+      "sourceIndex": 1897
+    },
+    {
+      "type": "paragraph",
+      "text": "· 不用A而用B：instead",
+      "sourcePage": 68,
+      "sourceIndex": 1898
+    },
+    {
+      "type": "paragraph",
+      "text": "· 再补一个理由：besides/moreover",
+      "sourcePage": 68,
+      "sourceIndex": 1899
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 连接词能准确描述两边关系。",
+      "sourcePage": 68,
+      "sourceIndex": 1900
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 如果不认识连接词，先按句意方向排掉与逻辑明显相反的选项。",
+      "sourcePage": 68,
+      "sourceIndex": 1901
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 68,
+      "sourceIndex": 1902
+    },
+    {
+      "type": "paragraph",
+      "text": "前句说路线更长，后句说更安全。关系是转折，因此 however/yet 一类合适。",
+      "sourcePage": 68,
+      "sourceIndex": 1903
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 68,
+      "sourceIndex": 1904
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把“前后都是真的”误当并列。",
+      "sourcePage": 68,
+      "sourceIndex": 1905
+    },
+    {
+      "type": "paragraph",
+      "text": "· 不看标点。",
+      "sourcePage": 68,
+      "sourceIndex": 1906
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 69,
+      "sourceIndex": 1907
+    },
+    {
+      "type": "paragraph",
+      "text": "· 关系是什么？",
+      "sourcePage": 69,
+      "sourceIndex": 1908
+    },
+    {
+      "type": "paragraph",
+      "text": "· 连接词位置和标点合适吗？",
+      "sourcePage": 69,
+      "sourceIndex": 1909
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现",
+      "sourcePage": 69,
+      "sourceIndex": 1910
+    },
+    {
+      "type": "paragraph",
+      "text": "｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+      "sourcePage": 69,
+      "sourceIndex": 1911
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 69,
+      "sourceIndex": 1912
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 连接词先判关系，后选词。",
+      "sourcePage": 69,
+      "sourceIndex": 1913
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 69,
+      "sourceIndex": 1915
+    },
+    {
+      "type": "paragraph",
+      "text": "1. although/but 表？",
+      "sourcePage": 69,
+      "sourceIndex": 1916
+    },
+    {
+      "type": "paragraph",
+      "text": "2. therefore/so 表？",
+      "sourcePage": 69,
+      "sourceIndex": 1917
+    },
+    {
+      "type": "paragraph",
+      "text": "3. besides/moreover 表？",
+      "sourcePage": 69,
+      "sourceIndex": 1918
+    },
+    {
+      "type": "paragraph",
+      "text": "4. because/since 表？",
+      "sourcePage": 69,
+      "sourceIndex": 1919
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 逻辑词题要同时看？",
+      "sourcePage": 69,
+      "sourceIndex": 1920
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 转折/让步；2. 结果；3. 补充递进；4. 原因；5. 前句关系+后句关系。",
+      "sourcePage": 69,
+      "sourceIndex": 1921
+    },
+    {
+      "type": "paragraph",
+      "text": "— C4 本题型到这里。下次卡住直接 Ctrl+F 搜“C4”或题型关键词。—",
+      "sourcePage": 69,
+      "sourceIndex": 1922
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-C4-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "选项为 however, therefore, instead, besides, otherwise 等。",
+          "sourcePage": 68,
+          "sourceIndex": 1881
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "连接词表达因果、转折、递进、替代、条件结果 等。",
+          "sourcePage": 68,
+          "sourceIndex": 1884
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先把前后两句翻成最简单意思，再判断它们是什么关系。”",
+          "sourcePage": 68,
+          "sourceIndex": 1886
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "只背中文意思不够，必须看两边逻辑。",
+          "sourcePage": 68,
+          "sourceIndex": 1887
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 读空前完整意思。",
+          "sourcePage": 68,
+          "sourceIndex": 1889
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 读空后完整意思。",
+          "sourcePage": 68,
+          "sourceIndex": 1890
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 判断同向/反向/因果/补充/替代。",
+          "sourcePage": 68,
+          "sourceIndex": 1891
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 再选对应连接词。",
+          "sourcePage": 68,
+          "sourceIndex": 1892
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如 worried→help→relieved；难空先打 ? 继续。",
+          "sourcePage": 68,
+          "sourceIndex": 1893
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 原因→结果：therefore/thus",
+          "sourcePage": 68,
+          "sourceIndex": 1896
+        },
+        {
+          "type": "paragraph",
+          "text": "· 前后反差：however/yet",
+          "sourcePage": 68,
+          "sourceIndex": 1897
+        },
+        {
+          "type": "paragraph",
+          "text": "· 不用A而用B：instead",
+          "sourcePage": 68,
+          "sourceIndex": 1898
+        },
+        {
+          "type": "paragraph",
+          "text": "· 再补一个理由：besides/moreover",
+          "sourcePage": 68,
+          "sourceIndex": 1899
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "连接词能准确描述两边关系。",
+          "sourcePage": 68,
+          "sourceIndex": 1900
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果不认识连接词，先按句意方向排掉与逻辑明显相反的选项。",
+          "sourcePage": 68,
+          "sourceIndex": 1901
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "前句说路线更长，后句说更安全。关系是转折，因此 however/yet 一类合适。",
+          "sourcePage": 68,
+          "sourceIndex": 1903
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把“前后都是真的”误当并列。",
+          "sourcePage": 68,
+          "sourceIndex": 1905
+        },
+        {
+          "type": "paragraph",
+          "text": "· 不看标点。",
+          "sourcePage": 68,
+          "sourceIndex": 1906
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 关系是什么？",
+          "sourcePage": 69,
+          "sourceIndex": 1908
+        },
+        {
+          "type": "paragraph",
+          "text": "· 连接词位置和标点合适吗？",
+          "sourcePage": 69,
+          "sourceIndex": 1909
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现 ｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+          "sourcePage": 69,
+          "sourceIndex": 1910
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 69,
+          "sourceIndex": 1912
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "连接词先判关系，后选词。",
+          "sourcePage": 69,
+          "sourceIndex": 1913
+        }
+      ]
+    },
+    {
+      "id": "EN-C4-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. although/but 表？",
+          "sourcePage": 69,
+          "sourceIndex": 1916
+        },
+        {
+          "type": "paragraph",
+          "text": "2. therefore/so 表？",
+          "sourcePage": 69,
+          "sourceIndex": 1917
+        },
+        {
+          "type": "paragraph",
+          "text": "3. besides/moreover 表？",
+          "sourcePage": 69,
+          "sourceIndex": 1918
+        },
+        {
+          "type": "paragraph",
+          "text": "4. because/since 表？",
+          "sourcePage": 69,
+          "sourceIndex": 1919
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 逻辑词题要同时看？",
+          "sourcePage": 69,
+          "sourceIndex": 1920
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 转折/让步；2. 结果；3. 补充递进；4. 原因；5. 前句关系+后句关系。",
+          "sourcePage": 69,
+          "sourceIndex": 1921
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 68,
+    "endPage": 69
+  }
+}

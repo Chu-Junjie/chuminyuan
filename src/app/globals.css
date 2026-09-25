@@ -2304,3 +2304,14 @@ main {
     animation: none !important;
   }
 }
+
+/* English curriculum: reuse the shared reading and chapter surfaces. */
+.english-overview { display: flex; gap: 24px; flex-wrap: wrap; align-items: center; }
+.english-overview > div { display: flex; flex-direction: column; min-width: 100px; }
+.english-overview strong { font-size: 1.8rem; color: var(--accent); }
+.english-overview p { flex: 1; min-width: 220px; margin: 0; }
+.english-filters { margin: 20px 0; align-items: end; }
+.english-filters label { min-width: 180px; }
+button.chapter-card { width: 100%; text-align: left; color: inherit; font: inherit; }
+.source-table td { white-space: pre-line; }
+.reading-section details > summary { cursor: pointer; font-weight: 600; }

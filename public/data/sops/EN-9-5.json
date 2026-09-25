@@ -1,0 +1,166 @@
+{
+  "id": "EN-9-5",
+  "code": "9.5",
+  "title": "Logical Signal Words 逻辑信号词",
+  "subject_id": "english",
+  "chapter_id": "en-vocabulary",
+  "chapter": "词汇工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "9.5",
+    "Logical Signal Words 逻辑信号词",
+    "词汇工具箱",
+    "Relation",
+    "Signals",
+    "Contrast",
+    "but",
+    "however",
+    "yet",
+    "instead",
+    "rather",
+    "nevertheless",
+    "while",
+    "Cause",
+    "because",
+    "since",
+    "due",
+    "Result",
+    "therefore",
+    "thus",
+    "result",
+    "consequently",
+    "Addition",
+    "also",
+    "moreover",
+    "besides",
+    "addition",
+    "furthermore",
+    "Example",
+    "for",
+    "example",
+    "instance",
+    "such",
+    "Explanation",
+    "that",
+    "other",
+    "words",
+    "Sequence",
+    "first",
+    "then",
+    "later",
+    "eventually",
+    "finally",
+    "Concession",
+    "although",
+    "though",
+    "even",
+    "despite",
+    "spite"
+  ],
+  "brain_first": "按原文查阅 Logical Signal Words 逻辑信号词",
+  "sort_order": 1097,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Relation",
+          "Signals"
+        ],
+        [
+          "Contrast",
+          "but, however, yet, instead, rather, nevertheless, while"
+        ],
+        [
+          "Cause",
+          "because, since, as, due to, because of"
+        ],
+        [
+          "Result",
+          "therefore, thus, so, as a result, consequently"
+        ],
+        [
+          "Addition",
+          "also, moreover, besides, in addition, furthermore"
+        ],
+        [
+          "Example",
+          "for example, for instance, such as"
+        ],
+        [
+          "Explanation",
+          "that is, in other words"
+        ],
+        [
+          "Sequence",
+          "first, then, later, eventually, finally"
+        ],
+        [
+          "Concession",
+          "although, though, even though, despite, in spite of"
+        ]
+      ],
+      "text": "Relation | Signals\nContrast | but, however, yet, instead, rather, nevertheless, while\nCause | because, since, as, due to, because of\nResult | therefore, thus, so, as a result, consequently\nAddition | also, moreover, besides, in addition, furthermore\nExample | for example, for instance, such as\nExplanation | that is, in other words\nSequence | first, then, later, eventually, finally\nConcession | although, though, even though, despite, in spite of",
+      "sourcePage": 119,
+      "sourceIndex": 2973
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-9-5-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Relation",
+              "Signals"
+            ],
+            [
+              "Contrast",
+              "but, however, yet, instead, rather, nevertheless, while"
+            ],
+            [
+              "Cause",
+              "because, since, as, due to, because of"
+            ],
+            [
+              "Result",
+              "therefore, thus, so, as a result, consequently"
+            ],
+            [
+              "Addition",
+              "also, moreover, besides, in addition, furthermore"
+            ],
+            [
+              "Example",
+              "for example, for instance, such as"
+            ],
+            [
+              "Explanation",
+              "that is, in other words"
+            ],
+            [
+              "Sequence",
+              "first, then, later, eventually, finally"
+            ],
+            [
+              "Concession",
+              "although, though, even though, despite, in spite of"
+            ]
+          ],
+          "text": "Relation | Signals\nContrast | but, however, yet, instead, rather, nevertheless, while\nCause | because, since, as, due to, because of\nResult | therefore, thus, so, as a result, consequently\nAddition | also, moreover, besides, in addition, furthermore\nExample | for example, for instance, such as\nExplanation | that is, in other words\nSequence | first, then, later, eventually, finally\nConcession | although, though, even though, despite, in spite of",
+          "sourcePage": 119,
+          "sourceIndex": 2973
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 119,
+    "endPage": 119
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "EN-INTRO-YILIN",
+  "code": "INTRO-YILIN",
+  "title": "译林版教材对接 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-yilin",
+  "chapter": "译林版教材对接",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-YILIN",
+    "译林版教材对接 · 总览",
+    "译林版教材对接",
+    "Part",
+    "Yilin",
+    "Press",
+    "Alignment",
+    "Welcome",
+    "the",
+    "unit",
+    "Reading",
+    "Grammar",
+    "and",
+    "usage",
+    "Integrated",
+    "skills",
+    "Extended",
+    "reading",
+    "Project",
+    "SOP"
+  ],
+  "brain_first": "按原文查阅 译林版教材对接 · 总览",
+  "sort_order": 1107,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part XI - Yilin Press Alignment 译林版教材对",
+      "sourcePage": 124,
+      "sourceIndex": 3002
+    },
+    {
+      "type": "paragraph",
+      "text": "接",
+      "sourcePage": 124,
+      "sourceIndex": 3003
+    },
+    {
+      "type": "paragraph",
+      "text": "译林教育网当前高中英语资源目录显示教材系列包括：必修第一册、必修第二册、必修第三册、选择性必修一",
+      "sourcePage": 124,
+      "sourceIndex": 3004
+    },
+    {
+      "type": "paragraph",
+      "text": "至四；每个单元通常含 Welcome to the unit、Reading、Grammar and usage、Integrated skills、Extended",
+      "sourcePage": 124,
+      "sourceIndex": 3005
+    },
+    {
+      "type": "paragraph",
+      "text": "reading、Project 等学习板块。",
+      "sourcePage": 124,
+      "sourceIndex": 3006
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "正确用法：教材决定你平时学什么、按什么顺序接触主题和语法；高考SOP决定你考试遇到问题时怎么调\n用这些知识。两者不是一回事。"
+        ]
+      ],
+      "text": " | 正确用法：教材决定你平时学什么、按什么顺序接触主题和语法；高考SOP决定你考试遇到问题时怎么调\n用这些知识。两者不是一回事。",
+      "sourcePage": 124,
+      "sourceIndex": 3007
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-YILIN-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part XI - Yilin Press Alignment 译林版教材对 接 译林教育网当前高中英语资源目录显示教材系列包括：必修第一册、必修第二册、必修第三册、选择性必修一 至四；每个单元通常含 Welcome to the unit、Reading、Grammar and usage、Integrated skills、Extended reading、Project 等学习板块。",
+          "sourcePage": 124,
+          "sourceIndex": 3002
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "正确用法：教材决定你平时学什么、按什么顺序接触主题和语法；高考SOP决定你考试遇到问题时怎么调\n用这些知识。两者不是一回事。"
+            ]
+          ],
+          "text": " | 正确用法：教材决定你平时学什么、按什么顺序接触主题和语法；高考SOP决定你考试遇到问题时怎么调\n用这些知识。两者不是一回事。",
+          "sourcePage": 124,
+          "sourceIndex": 3007
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 124,
+    "endPage": 124
+  }
+}

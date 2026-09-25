@@ -1,0 +1,84 @@
+{
+  "id": "EN-10-4",
+  "code": "10.4",
+  "title": "写作标点和句界",
+  "subject_id": "english",
+  "chapter_id": "en-writing",
+  "chapter": "写作工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "10.4",
+    "写作标点和句界",
+    "写作工具箱",
+    "was",
+    "tired",
+    "went",
+    "home"
+  ],
+  "brain_first": "按原文查阅 写作标点和句界",
+  "sort_order": 1105,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "· 不要用逗号直接连接两个完整主句：I was tired, I went home. → I was tired, so I went home.",
+      "sourcePage": 123,
+      "sourceIndex": 2994
+    },
+    {
+      "type": "paragraph",
+      "text": "· 直接引语用引号；但不会复杂标点时，少用长对话。",
+      "sourcePage": 123,
+      "sourceIndex": 2995
+    },
+    {
+      "type": "paragraph",
+      "text": "· 每段围绕一个任务功能，不要一句一段。",
+      "sourcePage": 123,
+      "sourceIndex": 2996
+    },
+    {
+      "type": "paragraph",
+      "text": "· 写完检查首字母和句号，尤其语法填空/应用文中小错误很容易丢分。",
+      "sourcePage": 123,
+      "sourceIndex": 2997
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-10-4-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 不要用逗号直接连接两个完整主句：I was tired, I went home. → I was tired, so I went home.",
+          "sourcePage": 123,
+          "sourceIndex": 2994
+        },
+        {
+          "type": "paragraph",
+          "text": "· 直接引语用引号；但不会复杂标点时，少用长对话。",
+          "sourcePage": 123,
+          "sourceIndex": 2995
+        },
+        {
+          "type": "paragraph",
+          "text": "· 每段围绕一个任务功能，不要一句一段。",
+          "sourcePage": 123,
+          "sourceIndex": 2996
+        },
+        {
+          "type": "paragraph",
+          "text": "· 写完检查首字母和句号，尤其语法填空/应用文中小错误很容易丢分。",
+          "sourcePage": 123,
+          "sourceIndex": 2997
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 123,
+    "endPage": 123
+  }
+}

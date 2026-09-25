@@ -1,0 +1,192 @@
+{
+  "id": "EN-APP-B",
+  "code": "APP-B",
+  "title": "白话语法术语表",
+  "subject_id": "english",
+  "chapter_id": "en-appendix",
+  "chapter": "巩固与附录",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "APP-B",
+    "白话语法术语表",
+    "巩固与附录",
+    "Appendix",
+    "Plain-Language",
+    "Grammar",
+    "Glossary",
+    "Term",
+    "Plain-language",
+    "meaning",
+    "predicate",
+    "non-finite",
+    "verb",
+    "doing/done/to",
+    "subject",
+    "object",
+    "relative",
+    "clause",
+    "antecedent",
+    "noun",
+    "adverbial",
+    "paraphrase",
+    "collocation",
+    "inference",
+    "cohesion"
+  ],
+  "brain_first": "按原文查阅 白话语法术语表",
+  "sort_order": 1125,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Appendix B - Plain-Language Grammar",
+      "sourcePage": 134,
+      "sourceIndex": 3138
+    },
+    {
+      "type": "paragraph",
+      "text": "Glossary 白话术语表",
+      "sourcePage": 134,
+      "sourceIndex": 3139
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Term",
+          "Plain-language meaning"
+        ],
+        [
+          "predicate 谓语",
+          "句子里真正带时态的“做什么/是什么”核心。"
+        ],
+        [
+          "non-finite verb 非谓语",
+          "动词变成 doing/done/to do 等形式，不独立承担主句时态。"
+        ],
+        [
+          "subject 主语",
+          "谁/什么在做动作或处于状态。"
+        ],
+        [
+          "object 宾语",
+          "动作作用到谁/什么。"
+        ],
+        [
+          "relative clause 定语从句",
+          "后面补一句话说明前面的某个人/东西。"
+        ],
+        [
+          "antecedent 先行词",
+          "关系词前面那个“被进一步说明的人或东西”。"
+        ],
+        [
+          "noun clause 名词性从句",
+          "一整句在大句里当成一个“东西”。"
+        ],
+        [
+          "adverbial clause 状语从句",
+          "一整句告诉你什么时候、为什么、什么条件、虽然怎样等。"
+        ],
+        [
+          "paraphrase 同义改写",
+          "不用原词，但意思相同或非常接近。"
+        ],
+        [
+          "collocation 固定搭配/语块",
+          "英语里习惯一起出现的一组词。"
+        ],
+        [
+          "inference 推断",
+          "原文没直接写答案，但证据能推出一小步。"
+        ],
+        [
+          "cohesion 衔接",
+          "句子靠代词、连接词、同义词等连成一篇文章。"
+        ]
+      ],
+      "text": "Term | Plain-language meaning\npredicate 谓语 | 句子里真正带时态的“做什么/是什么”核心。\nnon-finite verb 非谓语 | 动词变成 doing/done/to do 等形式，不独立承担主句时态。\nsubject 主语 | 谁/什么在做动作或处于状态。\nobject 宾语 | 动作作用到谁/什么。\nrelative clause 定语从句 | 后面补一句话说明前面的某个人/东西。\nantecedent 先行词 | 关系词前面那个“被进一步说明的人或东西”。\nnoun clause 名词性从句 | 一整句在大句里当成一个“东西”。\nadverbial clause 状语从句 | 一整句告诉你什么时候、为什么、什么条件、虽然怎样等。\nparaphrase 同义改写 | 不用原词，但意思相同或非常接近。\ncollocation 固定搭配/语块 | 英语里习惯一起出现的一组词。\ninference 推断 | 原文没直接写答案，但证据能推出一小步。\ncohesion 衔接 | 句子靠代词、连接词、同义词等连成一篇文章。",
+      "sourcePage": 134,
+      "sourceIndex": 3140
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-APP-B-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Appendix B - Plain-Language Grammar Glossary 白话术语表",
+          "sourcePage": 134,
+          "sourceIndex": 3138
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Term",
+              "Plain-language meaning"
+            ],
+            [
+              "predicate 谓语",
+              "句子里真正带时态的“做什么/是什么”核心。"
+            ],
+            [
+              "non-finite verb 非谓语",
+              "动词变成 doing/done/to do 等形式，不独立承担主句时态。"
+            ],
+            [
+              "subject 主语",
+              "谁/什么在做动作或处于状态。"
+            ],
+            [
+              "object 宾语",
+              "动作作用到谁/什么。"
+            ],
+            [
+              "relative clause 定语从句",
+              "后面补一句话说明前面的某个人/东西。"
+            ],
+            [
+              "antecedent 先行词",
+              "关系词前面那个“被进一步说明的人或东西”。"
+            ],
+            [
+              "noun clause 名词性从句",
+              "一整句在大句里当成一个“东西”。"
+            ],
+            [
+              "adverbial clause 状语从句",
+              "一整句告诉你什么时候、为什么、什么条件、虽然怎样等。"
+            ],
+            [
+              "paraphrase 同义改写",
+              "不用原词，但意思相同或非常接近。"
+            ],
+            [
+              "collocation 固定搭配/语块",
+              "英语里习惯一起出现的一组词。"
+            ],
+            [
+              "inference 推断",
+              "原文没直接写答案，但证据能推出一小步。"
+            ],
+            [
+              "cohesion 衔接",
+              "句子靠代词、连接词、同义词等连成一篇文章。"
+            ]
+          ],
+          "text": "Term | Plain-language meaning\npredicate 谓语 | 句子里真正带时态的“做什么/是什么”核心。\nnon-finite verb 非谓语 | 动词变成 doing/done/to do 等形式，不独立承担主句时态。\nsubject 主语 | 谁/什么在做动作或处于状态。\nobject 宾语 | 动作作用到谁/什么。\nrelative clause 定语从句 | 后面补一句话说明前面的某个人/东西。\nantecedent 先行词 | 关系词前面那个“被进一步说明的人或东西”。\nnoun clause 名词性从句 | 一整句在大句里当成一个“东西”。\nadverbial clause 状语从句 | 一整句告诉你什么时候、为什么、什么条件、虽然怎样等。\nparaphrase 同义改写 | 不用原词，但意思相同或非常接近。\ncollocation 固定搭配/语块 | 英语里习惯一起出现的一组词。\ninference 推断 | 原文没直接写答案，但证据能推出一小步。\ncohesion 衔接 | 句子靠代词、连接词、同义词等连成一篇文章。",
+          "sourcePage": 134,
+          "sourceIndex": 3140
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 134,
+    "endPage": 134
+  }
+}

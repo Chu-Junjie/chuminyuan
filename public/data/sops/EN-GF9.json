@@ -1,0 +1,628 @@
+{
+  "id": "EN-GF9",
+  "code": "GF9",
+  "title": "无提示词：连词与三大从句关系词",
+  "subject_id": "english",
+  "chapter_id": "en-grammar-filling",
+  "chapter": "语法填空",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "GF9",
+    "无提示词：连词与三大从句关系词",
+    "语法填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "and/but/",
+    "who/which/that/what/when/",
+    "where/because/although",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "and/but/or/so",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "what",
+    "that",
+    "because/if/although/when",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "The",
+    "stands",
+    "sell",
+    "dumplings",
+    "were",
+    "crowded",
+    "that/which",
+    "TRAPS",
+    "Common",
+    "traps",
+    "where",
+    "what/that",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "city",
+    "visited",
+    "which",
+    "lived",
+    "know",
+    "needs",
+    "right",
+    "although",
+    "which/that",
+    "Ctrl"
+  ],
+  "brain_first": "“先看空后是不是一个句子；再看这个句子缺不缺成分、与前面 什么关系。”",
+  "sort_order": 1057,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 88,
+      "sourceIndex": 2429
+    },
+    {
+      "type": "paragraph",
+      "text": "空连接两个成分或引导从句；可能是 and/but/",
+      "sourcePage": 88,
+      "sourceIndex": 2430
+    },
+    {
+      "type": "paragraph",
+      "text": "or，也可能是 who/which/that/what/when/",
+      "sourcePage": 88,
+      "sourceIndex": 2431
+    },
+    {
+      "type": "paragraph",
+      "text": "where/because/although 等。",
+      "sourcePage": 88,
+      "sourceIndex": 2432
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 88,
+      "sourceIndex": 2433
+    },
+    {
+      "type": "paragraph",
+      "text": "连接词选择同时取决于句子结构和语义关系。",
+      "sourcePage": 88,
+      "sourceIndex": 2434
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先看空后是不是一个句子；再看这个句子缺不缺成分、与前面",
+      "sourcePage": 88,
+      "sourceIndex": 2435
+    },
+    {
+      "type": "paragraph",
+      "text": "什么关系。”",
+      "sourcePage": 88,
+      "sourceIndex": 2436
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 这是无提示词最核心的判断。",
+      "sourcePage": 88,
+      "sourceIndex": 2437
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 88,
+      "sourceIndex": 2438
+    },
+    {
+      "type": "paragraph",
+      "text": "1 看空后有没有主语+谓语。",
+      "sourcePage": 88,
+      "sourceIndex": 2439
+    },
+    {
+      "type": "paragraph",
+      "text": "2 如果在修饰前面名词 → 考虑定语从句。",
+      "sourcePage": 88,
+      "sourceIndex": 2440
+    },
+    {
+      "type": "paragraph",
+      "text": "3 如果整个从句在大句中当“一个东西” → 名词性从句。",
+      "sourcePage": 88,
+      "sourceIndex": 2441
+    },
+    {
+      "type": "paragraph",
+      "text": "4 如果表示时间/原因/条件/让步等关系 → 状语从句。",
+      "sourcePage": 88,
+      "sourceIndex": 2442
+    },
+    {
+      "type": "paragraph",
+      "text": "5 若只是连接两个并列成分 → and/but/or/so。",
+      "sourcePage": 88,
+      "sourceIndex": 2443
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 88,
+      "sourceIndex": 2444
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 88,
+      "sourceIndex": 2445
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 88,
+      "sourceIndex": 2446
+    },
+    {
+      "type": "paragraph",
+      "text": "· 定语从句：先看先行词，再看从句缺成分否",
+      "sourcePage": 88,
+      "sourceIndex": 2447
+    },
+    {
+      "type": "paragraph",
+      "text": "· 名词性从句：what在从句中充成分，that通常不充成分",
+      "sourcePage": 88,
+      "sourceIndex": 2448
+    },
+    {
+      "type": "paragraph",
+      "text": "· 状语从句：按语义关系选 because/if/although/when 等",
+      "sourcePage": 88,
+      "sourceIndex": 2449
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 结构和语义同时满足。",
+      "sourcePage": 88,
+      "sourceIndex": 2450
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 看不出从句类型时先把从句用括号框起来，问它在大句中“修饰名词、当东",
+      "sourcePage": 88,
+      "sourceIndex": 2451
+    },
+    {
+      "type": "paragraph",
+      "text": "西、还是表示关系”。",
+      "sourcePage": 88,
+      "sourceIndex": 2452
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 88,
+      "sourceIndex": 2453
+    },
+    {
+      "type": "paragraph",
+      "text": "The stands ___ sell dumplings were crowded. 修饰stands，从句缺主语 → that/which。",
+      "sourcePage": 88,
+      "sourceIndex": 2454
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 88,
+      "sourceIndex": 2455
+    },
+    {
+      "type": "paragraph",
+      "text": "· 看见地点名词就选where。",
+      "sourcePage": 88,
+      "sourceIndex": 2456
+    },
+    {
+      "type": "paragraph",
+      "text": "· what/that只按中文翻译选。",
+      "sourcePage": 89,
+      "sourceIndex": 2457
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 89,
+      "sourceIndex": 2458
+    },
+    {
+      "type": "paragraph",
+      "text": "· 空后句子完整吗？",
+      "sourcePage": 89,
+      "sourceIndex": 2459
+    },
+    {
+      "type": "paragraph",
+      "text": "· 修饰谁/当什么/表示什么关系？",
+      "sourcePage": 89,
+      "sourceIndex": 2460
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 89,
+      "sourceIndex": 2461
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 89,
+      "sourceIndex": 2462
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 89,
+      "sourceIndex": 2463
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 无词连句：先结构，后关系。",
+      "sourcePage": 89,
+      "sourceIndex": 2464
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 89,
+      "sourceIndex": 2466
+    },
+    {
+      "type": "paragraph",
+      "text": "1. city ___ I visited：which还是where？",
+      "sourcePage": 89,
+      "sourceIndex": 2467
+    },
+    {
+      "type": "paragraph",
+      "text": "2. city ___ I lived：",
+      "sourcePage": 89,
+      "sourceIndex": 2468
+    },
+    {
+      "type": "paragraph",
+      "text": "3. I know ___ he needs：",
+      "sourcePage": 89,
+      "sourceIndex": 2469
+    },
+    {
+      "type": "paragraph",
+      "text": "4. I know ___ he is right：",
+      "sourcePage": 89,
+      "sourceIndex": 2470
+    },
+    {
+      "type": "paragraph",
+      "text": "5. although连接的关系？",
+      "sourcePage": 89,
+      "sourceIndex": 2471
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. which/that，visited缺宾语。；2. where，lived结构完整，需地点状语。；3. what，needs缺宾",
+      "sourcePage": 89,
+      "sourceIndex": 2472
+    },
+    {
+      "type": "paragraph",
+      "text": "语。；4. that，从句完整。；5. 让步。",
+      "sourcePage": 89,
+      "sourceIndex": 2473
+    },
+    {
+      "type": "paragraph",
+      "text": "— GF9 本题型到这里。下次卡住直接 Ctrl+F 搜“GF9”或题型关键词。—",
+      "sourcePage": 89,
+      "sourceIndex": 2474
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-GF9-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "空连接两个成分或引导从句；可能是 and/but/ or，也可能是 who/which/that/what/when/ where/because/although 等。",
+          "sourcePage": 88,
+          "sourceIndex": 2430
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "连接词选择同时取决于句子结构和语义关系。",
+          "sourcePage": 88,
+          "sourceIndex": 2434
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先看空后是不是一个句子；再看这个句子缺不缺成分、与前面 什么关系。”",
+          "sourcePage": 88,
+          "sourceIndex": 2435
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这是无提示词最核心的判断。",
+          "sourcePage": 88,
+          "sourceIndex": 2437
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 看空后有没有主语+谓语。",
+          "sourcePage": 88,
+          "sourceIndex": 2439
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 如果在修饰前面名词 → 考虑定语从句。",
+          "sourcePage": 88,
+          "sourceIndex": 2440
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 如果整个从句在大句中当“一个东西” → 名词性从句。",
+          "sourcePage": 88,
+          "sourceIndex": 2441
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 如果表示时间/原因/条件/让步等关系 → 状语从句。",
+          "sourcePage": 88,
+          "sourceIndex": 2442
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 若只是连接两个并列成分 → and/but/or/so。",
+          "sourcePage": 88,
+          "sourceIndex": 2443
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 88,
+          "sourceIndex": 2444
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 定语从句：先看先行词，再看从句缺成分否",
+          "sourcePage": 88,
+          "sourceIndex": 2447
+        },
+        {
+          "type": "paragraph",
+          "text": "· 名词性从句：what在从句中充成分，that通常不充成分",
+          "sourcePage": 88,
+          "sourceIndex": 2448
+        },
+        {
+          "type": "paragraph",
+          "text": "· 状语从句：按语义关系选 because/if/although/when 等",
+          "sourcePage": 88,
+          "sourceIndex": 2449
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "结构和语义同时满足。",
+          "sourcePage": 88,
+          "sourceIndex": 2450
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "看不出从句类型时先把从句用括号框起来，问它在大句中“修饰名词、当东 西、还是表示关系”。",
+          "sourcePage": 88,
+          "sourceIndex": 2451
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The stands ___ sell dumplings were crowded. 修饰stands，从句缺主语 → that/which。",
+          "sourcePage": 88,
+          "sourceIndex": 2454
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 看见地点名词就选where。",
+          "sourcePage": 88,
+          "sourceIndex": 2456
+        },
+        {
+          "type": "paragraph",
+          "text": "· what/that只按中文翻译选。",
+          "sourcePage": 89,
+          "sourceIndex": 2457
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 空后句子完整吗？",
+          "sourcePage": 89,
+          "sourceIndex": 2459
+        },
+        {
+          "type": "paragraph",
+          "text": "· 修饰谁/当什么/表示什么关系？",
+          "sourcePage": 89,
+          "sourceIndex": 2460
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 89,
+          "sourceIndex": 2461
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 89,
+          "sourceIndex": 2463
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "无词连句：先结构，后关系。",
+          "sourcePage": 89,
+          "sourceIndex": 2464
+        }
+      ]
+    },
+    {
+      "id": "EN-GF9-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. city ___ I visited：which还是where？",
+          "sourcePage": 89,
+          "sourceIndex": 2467
+        },
+        {
+          "type": "paragraph",
+          "text": "2. city ___ I lived：",
+          "sourcePage": 89,
+          "sourceIndex": 2468
+        },
+        {
+          "type": "paragraph",
+          "text": "3. I know ___ he needs：",
+          "sourcePage": 89,
+          "sourceIndex": 2469
+        },
+        {
+          "type": "paragraph",
+          "text": "4. I know ___ he is right：",
+          "sourcePage": 89,
+          "sourceIndex": 2470
+        },
+        {
+          "type": "paragraph",
+          "text": "5. although连接的关系？",
+          "sourcePage": 89,
+          "sourceIndex": 2471
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. which/that，visited缺宾语。；2. where，lived结构完整，需地点状语。；3. what，needs缺宾 语。；4. that，从句完整。；5. 让步。",
+          "sourcePage": 89,
+          "sourceIndex": 2472
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 88,
+    "endPage": 89
+  }
+}

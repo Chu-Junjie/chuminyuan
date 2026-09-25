@@ -1,0 +1,627 @@
+{
+  "id": "EN-GF2",
+  "code": "GF2",
+  "title": "给动词：谓语还是非谓语？",
+  "subject_id": "english",
+  "chapter_id": "en-grammar-filling",
+  "chapter": "语法填空",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "GF2",
+    "给动词：谓语还是非谓语？",
+    "语法填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "verb",
+    "develop",
+    "build",
+    "attract",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Finite",
+    "non-finite",
+    "doing/done/to",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "and/but/or",
+    "ing",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "The",
+    "market",
+    "attracts",
+    "thousands",
+    "visitors",
+    "built",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "bridge",
+    "last",
+    "year",
+    "Students",
+    "outside",
+    "waiting",
+    "wait",
+    "was",
+    "help",
+    "Ctrl"
+  ],
+  "brain_first": "“第一问：这句话已经有谓语了吗？”",
+  "sort_order": 1050,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 76,
+      "sourceIndex": 2112
+    },
+    {
+      "type": "paragraph",
+      "text": "括号给 verb，如 develop, build, attract。",
+      "sourcePage": 76,
+      "sourceIndex": 2113
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 76,
+      "sourceIndex": 2114
+    },
+    {
+      "type": "paragraph",
+      "text": "Finite verb = 真正承担句子时态/人称的谓语；",
+      "sourcePage": 76,
+      "sourceIndex": 2115
+    },
+    {
+      "type": "paragraph",
+      "text": "non-finite = doing/done/to do 等非谓语形式。",
+      "sourcePage": 76,
+      "sourceIndex": 2116
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “第一问：这句话已经有谓语了吗？”",
+      "sourcePage": 76,
+      "sourceIndex": 2117
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 这是语法填空最关键的分流。",
+      "sourcePage": 77,
+      "sourceIndex": 2118
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 77,
+      "sourceIndex": 2119
+    },
+    {
+      "type": "paragraph",
+      "text": "1 找句子主干，圈已有谓语动词。",
+      "sourcePage": 77,
+      "sourceIndex": 2120
+    },
+    {
+      "type": "paragraph",
+      "text": "2 若没有谓语：判断时间 → 主动/被动 → 主谓一致。",
+      "sourcePage": 77,
+      "sourceIndex": 2121
+    },
+    {
+      "type": "paragraph",
+      "text": "3 若已有谓语且无并列连词：大概率考虑非谓语。",
+      "sourcePage": 77,
+      "sourceIndex": 2122
+    },
+    {
+      "type": "paragraph",
+      "text": "4 非谓语再判断逻辑主语与动作关系、时间/目的和固定结构。",
+      "sourcePage": 77,
+      "sourceIndex": 2123
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 77,
+      "sourceIndex": 2124
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 77,
+      "sourceIndex": 2125
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 77,
+      "sourceIndex": 2126
+    },
+    {
+      "type": "paragraph",
+      "text": "· 有 and/but/or 连接两个谓语 → 第二个仍可能是谓语",
+      "sourcePage": 77,
+      "sourceIndex": 2127
+    },
+    {
+      "type": "paragraph",
+      "text": "· 逗号不能单独连接两个完整主句 → 后一动词常需非谓语/从句",
+      "sourcePage": 77,
+      "sourceIndex": 2128
+    },
+    {
+      "type": "paragraph",
+      "text": "· 介词后动词通常用 -ing",
+      "sourcePage": 77,
+      "sourceIndex": 2129
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 句子主干完整，且动词形式与时间/语态/结构一致。",
+      "sourcePage": 77,
+      "sourceIndex": 2130
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 找不到谓语时先删掉从句和介词短语，只看主句“谁做什么”。",
+      "sourcePage": 77,
+      "sourceIndex": 2131
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 77,
+      "sourceIndex": 2132
+    },
+    {
+      "type": "paragraph",
+      "text": "The market, ___ (build) in the 1990s, attracts thousands of visitors.",
+      "sourcePage": 77,
+      "sourceIndex": 2133
+    },
+    {
+      "type": "paragraph",
+      "text": "主句谓语是 attracts；market 与 build 是被动关系，因此 built。",
+      "sourcePage": 77,
+      "sourceIndex": 2134
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 77,
+      "sourceIndex": 2135
+    },
+    {
+      "type": "paragraph",
+      "text": "· 看到过去时间就把所有动词变过去式。",
+      "sourcePage": 77,
+      "sourceIndex": 2136
+    },
+    {
+      "type": "paragraph",
+      "text": "· 句子已有谓语还再放一个谓语。",
+      "sourcePage": 77,
+      "sourceIndex": 2137
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 77,
+      "sourceIndex": 2138
+    },
+    {
+      "type": "paragraph",
+      "text": "· 已有谓语吗？",
+      "sourcePage": 77,
+      "sourceIndex": 2139
+    },
+    {
+      "type": "paragraph",
+      "text": "· 谁做动作？",
+      "sourcePage": 77,
+      "sourceIndex": 2140
+    },
+    {
+      "type": "paragraph",
+      "text": "· 主动/被动？",
+      "sourcePage": 77,
+      "sourceIndex": 2141
+    },
+    {
+      "type": "paragraph",
+      "text": "· 时间关系？",
+      "sourcePage": 77,
+      "sourceIndex": 2142
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 77,
+      "sourceIndex": 2143
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 77,
+      "sourceIndex": 2144
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 77,
+      "sourceIndex": 2145
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 动词：谓语先分流，再看时间/主动被动。",
+      "sourcePage": 78,
+      "sourceIndex": 2146
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 78,
+      "sourceIndex": 2148
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 句子已有谓语，又给动词，优先考虑？",
+      "sourcePage": 78,
+      "sourceIndex": 2149
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 无谓语动词空顺序？",
+      "sourcePage": 78,
+      "sourceIndex": 2150
+    },
+    {
+      "type": "paragraph",
+      "text": "3. The bridge ___ last year (build).",
+      "sourcePage": 78,
+      "sourceIndex": 2151
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Students ___ outside are waiting. (wait)",
+      "sourcePage": 78,
+      "sourceIndex": 2152
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 目的“去那儿帮助”用？",
+      "sourcePage": 78,
+      "sourceIndex": 2153
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 非谓语/并列结构等。；2. 时间→主动被动→主谓一致。；3. was built；4. waiting；5. to help",
+      "sourcePage": 78,
+      "sourceIndex": 2154
+    },
+    {
+      "type": "paragraph",
+      "text": "— GF2 本题型到这里。下次卡住直接 Ctrl+F 搜“GF2”或题型关键词。—",
+      "sourcePage": 78,
+      "sourceIndex": 2155
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-GF2-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "括号给 verb，如 develop, build, attract。",
+          "sourcePage": 76,
+          "sourceIndex": 2113
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Finite verb = 真正承担句子时态/人称的谓语；",
+          "sourcePage": 76,
+          "sourceIndex": 2115
+        },
+        {
+          "type": "paragraph",
+          "text": "non-finite = doing/done/to do 等非谓语形式。",
+          "sourcePage": 76,
+          "sourceIndex": 2116
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“第一问：这句话已经有谓语了吗？”",
+          "sourcePage": 76,
+          "sourceIndex": 2117
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这是语法填空最关键的分流。",
+          "sourcePage": 77,
+          "sourceIndex": 2118
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 找句子主干，圈已有谓语动词。",
+          "sourcePage": 77,
+          "sourceIndex": 2120
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 若没有谓语：判断时间 → 主动/被动 → 主谓一致。",
+          "sourcePage": 77,
+          "sourceIndex": 2121
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 若已有谓语且无并列连词：大概率考虑非谓语。",
+          "sourcePage": 77,
+          "sourceIndex": 2122
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 非谓语再判断逻辑主语与动作关系、时间/目的和固定结构。",
+          "sourcePage": 77,
+          "sourceIndex": 2123
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 77,
+          "sourceIndex": 2124
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 有 and/but/or 连接两个谓语 → 第二个仍可能是谓语",
+          "sourcePage": 77,
+          "sourceIndex": 2127
+        },
+        {
+          "type": "paragraph",
+          "text": "· 逗号不能单独连接两个完整主句 → 后一动词常需非谓语/从句",
+          "sourcePage": 77,
+          "sourceIndex": 2128
+        },
+        {
+          "type": "paragraph",
+          "text": "· 介词后动词通常用 -ing",
+          "sourcePage": 77,
+          "sourceIndex": 2129
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "句子主干完整，且动词形式与时间/语态/结构一致。",
+          "sourcePage": 77,
+          "sourceIndex": 2130
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "找不到谓语时先删掉从句和介词短语，只看主句“谁做什么”。",
+          "sourcePage": 77,
+          "sourceIndex": 2131
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The market, ___ (build) in the 1990s, attracts thousands of visitors. 主句谓语是 attracts；market 与 build 是被动关系，因此 built。",
+          "sourcePage": 77,
+          "sourceIndex": 2133
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 看到过去时间就把所有动词变过去式。",
+          "sourcePage": 77,
+          "sourceIndex": 2136
+        },
+        {
+          "type": "paragraph",
+          "text": "· 句子已有谓语还再放一个谓语。",
+          "sourcePage": 77,
+          "sourceIndex": 2137
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 已有谓语吗？",
+          "sourcePage": 77,
+          "sourceIndex": 2139
+        },
+        {
+          "type": "paragraph",
+          "text": "· 谁做动作？",
+          "sourcePage": 77,
+          "sourceIndex": 2140
+        },
+        {
+          "type": "paragraph",
+          "text": "· 主动/被动？",
+          "sourcePage": 77,
+          "sourceIndex": 2141
+        },
+        {
+          "type": "paragraph",
+          "text": "· 时间关系？",
+          "sourcePage": 77,
+          "sourceIndex": 2142
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 77,
+          "sourceIndex": 2143
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 77,
+          "sourceIndex": 2145
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "动词：谓语先分流，再看时间/主动被动。",
+          "sourcePage": 78,
+          "sourceIndex": 2146
+        }
+      ]
+    },
+    {
+      "id": "EN-GF2-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 句子已有谓语，又给动词，优先考虑？",
+          "sourcePage": 78,
+          "sourceIndex": 2149
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 无谓语动词空顺序？",
+          "sourcePage": 78,
+          "sourceIndex": 2150
+        },
+        {
+          "type": "paragraph",
+          "text": "3. The bridge ___ last year (build).",
+          "sourcePage": 78,
+          "sourceIndex": 2151
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Students ___ outside are waiting. (wait)",
+          "sourcePage": 78,
+          "sourceIndex": 2152
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 目的“去那儿帮助”用？",
+          "sourcePage": 78,
+          "sourceIndex": 2153
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 非谓语/并列结构等。；2. 时间→主动被动→主谓一致。；3. was built；4. waiting；5. to help",
+          "sourcePage": 78,
+          "sourceIndex": 2154
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 76,
+    "endPage": 78
+  }
+}

@@ -1,0 +1,633 @@
+{
+  "id": "EN-L5",
+  "code": "L5",
+  "title": "原因与目的题",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "L5",
+    "原因与目的题",
+    "听力",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "Why",
+    "What",
+    "the",
+    "purpose",
+    "call/visit",
+    "TERM",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "this",
+    "works",
+    "because",
+    "since",
+    "order",
+    "STEPS",
+    "Follow",
+    "route",
+    "did",
+    "old",
+    "new",
+    "drive",
+    "sleep",
+    "IF/THEN",
+    "then",
+    "call",
+    "late",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "calling",
+    "tomorrow",
+    "meeting",
+    "conflicts",
+    "with",
+    "medical",
+    "appointment",
+    "Could",
+    "move",
+    "Friday",
+    "postpone/reschedule",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "L-K",
+    "L-C",
+    "L-P",
+    "L-I",
+    "L-A",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "change",
+    "reservation",
+    "She",
+    "was",
+    "bus",
+    "broke",
+    "down",
+    "leave",
+    "early",
+    "felt",
+    "sick",
+    "change/reschedule",
+    "Ctrl"
+  ],
+  "brain_first": "“先找发生了什么，再找为什么；原因可能在前，也可能在 后。”",
+  "sort_order": 1008,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 13,
+      "sourceIndex": 355
+    },
+    {
+      "type": "paragraph",
+      "text": "Why...? / What is the purpose of the call/visit?",
+      "sourcePage": 13,
+      "sourceIndex": 356
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 13,
+      "sourceIndex": 357
+    },
+    {
+      "type": "paragraph",
+      "text": "原因题要找因果链，目的题要找人物想达成的结",
+      "sourcePage": 13,
+      "sourceIndex": 358
+    },
+    {
+      "type": "paragraph",
+      "text": "果。",
+      "sourcePage": 13,
+      "sourceIndex": 359
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先找发生了什么，再找为什么；原因可能在前，也可能在",
+      "sourcePage": 13,
+      "sourceIndex": 360
+    },
+    {
+      "type": "paragraph",
+      "text": "后。”",
+      "sourcePage": 13,
+      "sourceIndex": 361
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 录音中 because, since, so, to, in order to 是明确信号，但也可能不出现连接",
+      "sourcePage": 13,
+      "sourceIndex": 362
+    },
+    {
+      "type": "paragraph",
+      "text": "词。",
+      "sourcePage": 13,
+      "sourceIndex": 363
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 13,
+      "sourceIndex": 364
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先把题干主语圈出来，确定“谁的原因”。",
+      "sourcePage": 13,
+      "sourceIndex": 365
+    },
+    {
+      "type": "paragraph",
+      "text": "2 听动作/事件：打电话、迟到、取消、抱怨、请求。",
+      "sourcePage": 13,
+      "sourceIndex": 366
+    },
+    {
+      "type": "paragraph",
+      "text": "3 找到解释该动作的直接原因，不要选更远的背景。",
+      "sourcePage": 13,
+      "sourceIndex": 367
+    },
+    {
+      "type": "paragraph",
+      "text": "4 目的题把答案改写成“X did this in order to ___”检查是否自然。",
+      "sourcePage": 13,
+      "sourceIndex": 368
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计",
+      "sourcePage": 14,
+      "sourceIndex": 369
+    },
+    {
+      "type": "paragraph",
+      "text": "划写成“drive→sleep”；不要抄完整句。",
+      "sourcePage": 14,
+      "sourceIndex": 370
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 14,
+      "sourceIndex": 371
+    },
+    {
+      "type": "paragraph",
+      "text": "· Why call? → 通常答案是电话要解决的事情",
+      "sourcePage": 14,
+      "sourceIndex": 372
+    },
+    {
+      "type": "paragraph",
+      "text": "· Why late? → 找导致迟到的直接事件",
+      "sourcePage": 14,
+      "sourceIndex": 373
+    },
+    {
+      "type": "paragraph",
+      "text": "· 目的 ≠ 结果；“想做什么”与“最后发生什么”可能不同",
+      "sourcePage": 14,
+      "sourceIndex": 374
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 一个选项能完整解释题干动作，而且没有额外脑补。",
+      "sourcePage": 14,
+      "sourceIndex": 375
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 如果听到多个原因，优先找与题干动作直接相连的那一个。",
+      "sourcePage": 14,
+      "sourceIndex": 376
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 14,
+      "sourceIndex": 377
+    },
+    {
+      "type": "paragraph",
+      "text": "I'm calling because tomorrow's meeting conflicts with a medical appointment. Could we move it to",
+      "sourcePage": 14,
+      "sourceIndex": 378
+    },
+    {
+      "type": "paragraph",
+      "text": "Friday?",
+      "sourcePage": 14,
+      "sourceIndex": 379
+    },
+    {
+      "type": "paragraph",
+      "text": "目的：postpone/reschedule the meeting；不是“看医生”本身。",
+      "sourcePage": 14,
+      "sourceIndex": 380
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 14,
+      "sourceIndex": 381
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把背景信息当直接原因。",
+      "sourcePage": 14,
+      "sourceIndex": 382
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把结果当目的。",
+      "sourcePage": 14,
+      "sourceIndex": 383
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 14,
+      "sourceIndex": 384
+    },
+    {
+      "type": "paragraph",
+      "text": "· 答案能放进 “because...” 吗？",
+      "sourcePage": 14,
+      "sourceIndex": 385
+    },
+    {
+      "type": "paragraph",
+      "text": "· 是否回答了题干那个具体动作？",
+      "sourcePage": 14,
+      "sourceIndex": 386
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同",
+      "sourcePage": 14,
+      "sourceIndex": 387
+    },
+    {
+      "type": "paragraph",
+      "text": "义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+      "sourcePage": 14,
+      "sourceIndex": 388
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 14,
+      "sourceIndex": 389
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 原因找直接链，目的看想达成什么。",
+      "sourcePage": 14,
+      "sourceIndex": 390
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 14,
+      "sourceIndex": 392
+    },
+    {
+      "type": "paragraph",
+      "text": "1. “I’m calling to change my reservation.”电话目的？",
+      "sourcePage": 14,
+      "sourceIndex": 393
+    },
+    {
+      "type": "paragraph",
+      "text": "2. “She was late because the bus broke down.”直接原因？",
+      "sourcePage": 14,
+      "sourceIndex": 394
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 目的题“去医院”与“打电话改会议”同时出现，题问call purpose应选？",
+      "sourcePage": 14,
+      "sourceIndex": 395
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Why did he leave early? 文章说he felt sick. 答案？",
+      "sourcePage": 14,
+      "sourceIndex": 396
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 原因题若有背景原因和直接原因，优先哪一个？",
+      "sourcePage": 14,
+      "sourceIndex": 397
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. change/reschedule the reservation；2. bus broke down；3. 改会议。；4. because he felt sick；",
+      "sourcePage": 15,
+      "sourceIndex": 398
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 与题干动作直接相连的原因。",
+      "sourcePage": 15,
+      "sourceIndex": 399
+    },
+    {
+      "type": "paragraph",
+      "text": "— L5 本题型到这里。下次卡住直接 Ctrl+F 搜“L5”或题型关键词。—",
+      "sourcePage": 15,
+      "sourceIndex": 400
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-L5-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Why...? / What is the purpose of the call/visit?",
+          "sourcePage": 13,
+          "sourceIndex": 356
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "原因题要找因果链，目的题要找人物想达成的结 果。",
+          "sourcePage": 13,
+          "sourceIndex": 358
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先找发生了什么，再找为什么；原因可能在前，也可能在 后。”",
+          "sourcePage": 13,
+          "sourceIndex": 360
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "录音中 because, since, so, to, in order to 是明确信号，但也可能不出现连接 词。",
+          "sourcePage": 13,
+          "sourceIndex": 362
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先把题干主语圈出来，确定“谁的原因”。",
+          "sourcePage": 13,
+          "sourceIndex": 365
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 听动作/事件：打电话、迟到、取消、抱怨、请求。",
+          "sourcePage": 13,
+          "sourceIndex": 366
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 找到解释该动作的直接原因，不要选更远的背景。",
+          "sourcePage": 13,
+          "sourceIndex": 367
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 目的题把答案改写成“X did this in order to ___”检查是否自然。",
+          "sourcePage": 13,
+          "sourceIndex": 368
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计 划写成“drive→sleep”；不要抄完整句。",
+          "sourcePage": 14,
+          "sourceIndex": 369
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· Why call? → 通常答案是电话要解决的事情",
+          "sourcePage": 14,
+          "sourceIndex": 372
+        },
+        {
+          "type": "paragraph",
+          "text": "· Why late? → 找导致迟到的直接事件",
+          "sourcePage": 14,
+          "sourceIndex": 373
+        },
+        {
+          "type": "paragraph",
+          "text": "· 目的 ≠ 结果；“想做什么”与“最后发生什么”可能不同",
+          "sourcePage": 14,
+          "sourceIndex": 374
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "一个选项能完整解释题干动作，而且没有额外脑补。",
+          "sourcePage": 14,
+          "sourceIndex": 375
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果听到多个原因，优先找与题干动作直接相连的那一个。",
+          "sourcePage": 14,
+          "sourceIndex": 376
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I'm calling because tomorrow's meeting conflicts with a medical appointment. Could we move it to Friday? 目的：postpone/reschedule the meeting；不是“看医生”本身。",
+          "sourcePage": 14,
+          "sourceIndex": 378
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把背景信息当直接原因。",
+          "sourcePage": 14,
+          "sourceIndex": 382
+        },
+        {
+          "type": "paragraph",
+          "text": "· 把结果当目的。",
+          "sourcePage": 14,
+          "sourceIndex": 383
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 答案能放进 “because...” 吗？",
+          "sourcePage": 14,
+          "sourceIndex": 385
+        },
+        {
+          "type": "paragraph",
+          "text": "· 是否回答了题干那个具体动作？",
+          "sourcePage": 14,
+          "sourceIndex": 386
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同 义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+          "sourcePage": 14,
+          "sourceIndex": 387
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 14,
+          "sourceIndex": 389
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "原因找直接链，目的看想达成什么。",
+          "sourcePage": 14,
+          "sourceIndex": 390
+        }
+      ]
+    },
+    {
+      "id": "EN-L5-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. “I’m calling to change my reservation.”电话目的？",
+          "sourcePage": 14,
+          "sourceIndex": 393
+        },
+        {
+          "type": "paragraph",
+          "text": "2. “She was late because the bus broke down.”直接原因？",
+          "sourcePage": 14,
+          "sourceIndex": 394
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 目的题“去医院”与“打电话改会议”同时出现，题问call purpose应选？",
+          "sourcePage": 14,
+          "sourceIndex": 395
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Why did he leave early? 文章说he felt sick. 答案？",
+          "sourcePage": 14,
+          "sourceIndex": 396
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 原因题若有背景原因和直接原因，优先哪一个？",
+          "sourcePage": 14,
+          "sourceIndex": 397
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. change/reschedule the reservation；2. bus broke down；3. 改会议。；4. because he felt sick； 5. 与题干动作直接相连的原因。",
+          "sourcePage": 15,
+          "sourceIndex": 398
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 13,
+    "endPage": 15
+  }
+}

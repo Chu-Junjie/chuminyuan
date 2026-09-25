@@ -1,0 +1,168 @@
+{
+  "id": "EN-12-0B",
+  "code": "12.0B",
+  "title": "错误档案代码：错题只记“为什么错”",
+  "subject_id": "english",
+  "chapter_id": "en-rescue",
+  "chapter": "急救与索引",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "12.0B",
+    "错误档案代码：错题只记“为什么错”",
+    "急救与索引",
+    "Area",
+    "Codes",
+    "Reading",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "R-M",
+    "choose",
+    "Cloze",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "Grammar",
+    "G-P",
+    "G-T",
+    "G-V",
+    "G-N",
+    "G-W",
+    "G-C",
+    "G-F",
+    "Writing",
+    "W-M",
+    "W-R",
+    "W-T",
+    "W-V",
+    "W-S",
+    "W-O",
+    "Continuation",
+    "CW-L",
+    "CW-C",
+    "CW-E",
+    "CW-A",
+    "CW-T",
+    "CW-M",
+    "SOP",
+    "must/always"
+  ],
+  "brain_first": "按原文查阅 错误档案代码：错题只记“为什么错”",
+  "sort_order": 1114,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Area",
+          "Codes"
+        ],
+        [
+          "Reading",
+          "R-L定位｜R-P同义替换｜R-I过度推断｜R-S范围/程度｜R-N反向词漏看｜R-M主旨范围"
+        ],
+        [
+          "7 choose 5",
+          "7-P指代｜7-L逻辑｜7-T主题链｜7-O位置｜7-R重复"
+        ],
+        [
+          "Cloze",
+          "C-P词性｜C-X搭配｜C-R复现｜C-E情绪｜C-S故事逻辑"
+        ],
+        [
+          "Grammar",
+          "G-P谓语｜G-T时态｜G-V语态｜G-N单复数/一致｜G-W词形｜G-C从句｜G-F搭配"
+        ],
+        [
+          "Writing",
+          "W-M漏点｜W-R语域｜W-T时态｜W-V动词｜W-S拼写｜W-O组织"
+        ],
+        [
+          "Continuation",
+          "CW-L衔接｜CW-C事实冲突｜CW-E情绪｜CW-A动作｜CW-T时态｜CW-M模板化"
+        ]
+      ],
+      "text": "Area | Codes\nReading | R-L定位｜R-P同义替换｜R-I过度推断｜R-S范围/程度｜R-N反向词漏看｜R-M主旨范围\n7 choose 5 | 7-P指代｜7-L逻辑｜7-T主题链｜7-O位置｜7-R重复\nCloze | C-P词性｜C-X搭配｜C-R复现｜C-E情绪｜C-S故事逻辑\nGrammar | G-P谓语｜G-T时态｜G-V语态｜G-N单复数/一致｜G-W词形｜G-C从句｜G-F搭配\nWriting | W-M漏点｜W-R语域｜W-T时态｜W-V动词｜W-S拼写｜W-O组织\nContinuation | CW-L衔接｜CW-C事实冲突｜CW-E情绪｜CW-A动作｜CW-T时态｜CW-M模板化",
+      "sourcePage": 128,
+      "sourceIndex": 3032
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "错题存档最小记录：题号 + SOP编号 + 错误代码 + 1句改法。例：2024 N1 R6 / R-I：我把“可能”推成“肯\n定”，以后圈 must/always。"
+        ]
+      ],
+      "text": " | 错题存档最小记录：题号 + SOP编号 + 错误代码 + 1句改法。例：2024 N1 R6 / R-I：我把“可能”推成“肯\n定”，以后圈 must/always。",
+      "sourcePage": 128,
+      "sourceIndex": 3033
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-12-0B-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Area",
+              "Codes"
+            ],
+            [
+              "Reading",
+              "R-L定位｜R-P同义替换｜R-I过度推断｜R-S范围/程度｜R-N反向词漏看｜R-M主旨范围"
+            ],
+            [
+              "7 choose 5",
+              "7-P指代｜7-L逻辑｜7-T主题链｜7-O位置｜7-R重复"
+            ],
+            [
+              "Cloze",
+              "C-P词性｜C-X搭配｜C-R复现｜C-E情绪｜C-S故事逻辑"
+            ],
+            [
+              "Grammar",
+              "G-P谓语｜G-T时态｜G-V语态｜G-N单复数/一致｜G-W词形｜G-C从句｜G-F搭配"
+            ],
+            [
+              "Writing",
+              "W-M漏点｜W-R语域｜W-T时态｜W-V动词｜W-S拼写｜W-O组织"
+            ],
+            [
+              "Continuation",
+              "CW-L衔接｜CW-C事实冲突｜CW-E情绪｜CW-A动作｜CW-T时态｜CW-M模板化"
+            ]
+          ],
+          "text": "Area | Codes\nReading | R-L定位｜R-P同义替换｜R-I过度推断｜R-S范围/程度｜R-N反向词漏看｜R-M主旨范围\n7 choose 5 | 7-P指代｜7-L逻辑｜7-T主题链｜7-O位置｜7-R重复\nCloze | C-P词性｜C-X搭配｜C-R复现｜C-E情绪｜C-S故事逻辑\nGrammar | G-P谓语｜G-T时态｜G-V语态｜G-N单复数/一致｜G-W词形｜G-C从句｜G-F搭配\nWriting | W-M漏点｜W-R语域｜W-T时态｜W-V动词｜W-S拼写｜W-O组织\nContinuation | CW-L衔接｜CW-C事实冲突｜CW-E情绪｜CW-A动作｜CW-T时态｜CW-M模板化",
+          "sourcePage": 128,
+          "sourceIndex": 3032
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "错题存档最小记录：题号 + SOP编号 + 错误代码 + 1句改法。例：2024 N1 R6 / R-I：我把“可能”推成“肯\n定”，以后圈 must/always。"
+            ]
+          ],
+          "text": " | 错题存档最小记录：题号 + SOP编号 + 错误代码 + 1句改法。例：2024 N1 R6 / R-I：我把“可能”推成“肯\n定”，以后圈 must/always。",
+          "sourcePage": 128,
+          "sourceIndex": 3033
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 128,
+    "endPage": 128
+  }
+}

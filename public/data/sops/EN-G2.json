@@ -1,0 +1,591 @@
+{
+  "id": "EN-G2",
+  "code": "G2",
+  "title": "代词与指代链",
+  "subject_id": "english",
+  "chapter_id": "en-gap",
+  "chapter": "七选五",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "G2",
+    "代词与指代链",
+    "七选五",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "this",
+    "these",
+    "they",
+    "such",
+    "those",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Reference",
+    "chain",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "These",
+    "methods",
+    "This",
+    "problem",
+    "They",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "makes",
+    "process",
+    "faster",
+    "three",
+    "apps",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "change",
+    "change/",
+    "Ctrl"
+  ],
+  "brain_first": "“出现代词先别看意思，先问它到底指谁。”",
+  "sort_order": 1035,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 54,
+      "sourceIndex": 1516
+    },
+    {
+      "type": "paragraph",
+      "text": "候选句含 this, these, they, it, such, those。",
+      "sourcePage": 54,
+      "sourceIndex": 1517
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 54,
+      "sourceIndex": 1518
+    },
+    {
+      "type": "paragraph",
+      "text": "Reference chain：代词必须有清晰前项。",
+      "sourcePage": 54,
+      "sourceIndex": 1519
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “出现代词先别看意思，先问它到底指谁。”",
+      "sourcePage": 54,
+      "sourceIndex": 1520
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 代词是七选五最硬的证据之一。",
+      "sourcePage": 55,
+      "sourceIndex": 1521
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 55,
+      "sourceIndex": 1522
+    },
+    {
+      "type": "paragraph",
+      "text": "1 圈候选句所有代词。",
+      "sourcePage": 55,
+      "sourceIndex": 1523
+    },
+    {
+      "type": "paragraph",
+      "text": "2 在空前寻找能匹配的人/物/事件。",
+      "sourcePage": 55,
+      "sourceIndex": 1524
+    },
+    {
+      "type": "paragraph",
+      "text": "3 检查单复数和类别。",
+      "sourcePage": 55,
+      "sourceIndex": 1525
+    },
+    {
+      "type": "paragraph",
+      "text": "4 再看空后是否继续用同一对象。",
+      "sourcePage": 55,
+      "sourceIndex": 1526
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 55,
+      "sourceIndex": 1527
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 55,
+      "sourceIndex": 1528
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 55,
+      "sourceIndex": 1529
+    },
+    {
+      "type": "paragraph",
+      "text": "· These methods → 前面应有复数“方法”",
+      "sourcePage": 55,
+      "sourceIndex": 1530
+    },
+    {
+      "type": "paragraph",
+      "text": "· This problem → 前面应出现一个问题/现象",
+      "sourcePage": 55,
+      "sourceIndex": 1531
+    },
+    {
+      "type": "paragraph",
+      "text": "· They → 前面需有合理复数人物/事物",
+      "sourcePage": 55,
+      "sourceIndex": 1532
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 每个代词都有明确、自然、最近合理的指代。",
+      "sourcePage": 55,
+      "sourceIndex": 1533
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 没有指代对象的选项，即使内容很相关，也优先排除。",
+      "sourcePage": 55,
+      "sourceIndex": 1534
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 55,
+      "sourceIndex": 1535
+    },
+    {
+      "type": "paragraph",
+      "text": "候选句 This makes the process faster. 前面若只是列“three apps”，而没有一个动作/机",
+      "sourcePage": 55,
+      "sourceIndex": 1536
+    },
+    {
+      "type": "paragraph",
+      "text": "制，“This”就缺清晰指代。",
+      "sourcePage": 55,
+      "sourceIndex": 1537
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 55,
+      "sourceIndex": 1538
+    },
+    {
+      "type": "paragraph",
+      "text": "· 看到关键词相同就忽略代词。",
+      "sourcePage": 55,
+      "sourceIndex": 1539
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把复数they指向单数名词。",
+      "sourcePage": 55,
+      "sourceIndex": 1540
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 55,
+      "sourceIndex": 1541
+    },
+    {
+      "type": "paragraph",
+      "text": "· 每个代词指谁？",
+      "sourcePage": 55,
+      "sourceIndex": 1542
+    },
+    {
+      "type": "paragraph",
+      "text": "· 数量一致吗？",
+      "sourcePage": 55,
+      "sourceIndex": 1543
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 55,
+      "sourceIndex": 1544
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 55,
+      "sourceIndex": 1545
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 55,
+      "sourceIndex": 1546
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 七选五代词必须“有家可回”。",
+      "sourcePage": 55,
+      "sourceIndex": 1547
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 56,
+      "sourceIndex": 1549
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 选项以This开头，必须检查？",
+      "sourcePage": 56,
+      "sourceIndex": 1550
+    },
+    {
+      "type": "paragraph",
+      "text": "2. They 前面没有复数对象，选项？",
+      "sourcePage": 56,
+      "sourceIndex": 1551
+    },
+    {
+      "type": "paragraph",
+      "text": "3. such a change 中such需要？",
+      "sourcePage": 56,
+      "sourceIndex": 1552
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 代词线索比主题相近更硬吗？",
+      "sourcePage": 56,
+      "sourceIndex": 1553
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 两个选项纠结时先查？",
+      "sourcePage": 56,
+      "sourceIndex": 1554
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. This具体指什么。；2. 高度可疑。；3. 前文已有某种change/情况。；4. 通常更硬。；5. 代词指代对",
+      "sourcePage": 56,
+      "sourceIndex": 1555
+    },
+    {
+      "type": "paragraph",
+      "text": "象。",
+      "sourcePage": 56,
+      "sourceIndex": 1556
+    },
+    {
+      "type": "paragraph",
+      "text": "— G2 本题型到这里。下次卡住直接 Ctrl+F 搜“G2”或题型关键词。—",
+      "sourcePage": 56,
+      "sourceIndex": 1557
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-G2-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "候选句含 this, these, they, it, such, those。",
+          "sourcePage": 54,
+          "sourceIndex": 1517
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Reference chain：代词必须有清晰前项。",
+          "sourcePage": 54,
+          "sourceIndex": 1519
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“出现代词先别看意思，先问它到底指谁。”",
+          "sourcePage": 54,
+          "sourceIndex": 1520
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "代词是七选五最硬的证据之一。",
+          "sourcePage": 55,
+          "sourceIndex": 1521
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 圈候选句所有代词。",
+          "sourcePage": 55,
+          "sourceIndex": 1523
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 在空前寻找能匹配的人/物/事件。",
+          "sourcePage": 55,
+          "sourceIndex": 1524
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 检查单复数和类别。",
+          "sourcePage": 55,
+          "sourceIndex": 1525
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 再看空后是否继续用同一对象。",
+          "sourcePage": 55,
+          "sourceIndex": 1526
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 55,
+          "sourceIndex": 1527
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· These methods → 前面应有复数“方法”",
+          "sourcePage": 55,
+          "sourceIndex": 1530
+        },
+        {
+          "type": "paragraph",
+          "text": "· This problem → 前面应出现一个问题/现象",
+          "sourcePage": 55,
+          "sourceIndex": 1531
+        },
+        {
+          "type": "paragraph",
+          "text": "· They → 前面需有合理复数人物/事物",
+          "sourcePage": 55,
+          "sourceIndex": 1532
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "每个代词都有明确、自然、最近合理的指代。",
+          "sourcePage": 55,
+          "sourceIndex": 1533
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "没有指代对象的选项，即使内容很相关，也优先排除。",
+          "sourcePage": 55,
+          "sourceIndex": 1534
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "候选句 This makes the process faster. 前面若只是列“three apps”，而没有一个动作/机 制，“This”就缺清晰指代。",
+          "sourcePage": 55,
+          "sourceIndex": 1536
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 看到关键词相同就忽略代词。",
+          "sourcePage": 55,
+          "sourceIndex": 1539
+        },
+        {
+          "type": "paragraph",
+          "text": "· 把复数they指向单数名词。",
+          "sourcePage": 55,
+          "sourceIndex": 1540
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 每个代词指谁？",
+          "sourcePage": 55,
+          "sourceIndex": 1542
+        },
+        {
+          "type": "paragraph",
+          "text": "· 数量一致吗？",
+          "sourcePage": 55,
+          "sourceIndex": 1543
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 55,
+          "sourceIndex": 1544
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 55,
+          "sourceIndex": 1546
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "七选五代词必须“有家可回”。",
+          "sourcePage": 55,
+          "sourceIndex": 1547
+        }
+      ]
+    },
+    {
+      "id": "EN-G2-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 选项以This开头，必须检查？",
+          "sourcePage": 56,
+          "sourceIndex": 1550
+        },
+        {
+          "type": "paragraph",
+          "text": "2. They 前面没有复数对象，选项？",
+          "sourcePage": 56,
+          "sourceIndex": 1551
+        },
+        {
+          "type": "paragraph",
+          "text": "3. such a change 中such需要？",
+          "sourcePage": 56,
+          "sourceIndex": 1552
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 代词线索比主题相近更硬吗？",
+          "sourcePage": 56,
+          "sourceIndex": 1553
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 两个选项纠结时先查？",
+          "sourcePage": 56,
+          "sourceIndex": 1554
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. This具体指什么。；2. 高度可疑。；3. 前文已有某种change/情况。；4. 通常更硬。；5. 代词指代对 象。",
+          "sourcePage": 56,
+          "sourceIndex": 1555
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 54,
+    "endPage": 56
+  }
+}

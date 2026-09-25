@@ -1,0 +1,657 @@
+{
+  "id": "EN-R2",
+  "code": "R2",
+  "title": "同义替换型细节题",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "R2",
+    "同义替换型细节题",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Paraphrase",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "help",
+    "support",
+    "enable",
+    "make",
+    "easier",
+    "cheap",
+    "inexpensive",
+    "affordable",
+    "cause",
+    "lead",
+    "result",
+    "refuse",
+    "turn",
+    "down",
+    "decide",
+    "not",
+    "accept",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "The",
+    "new",
+    "cuts",
+    "travel",
+    "time",
+    "nearly",
+    "half",
+    "makes",
+    "journey",
+    "much",
+    "faster",
+    "TRAPS",
+    "Common",
+    "traps",
+    "may",
+    "must",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "decline",
+    "offer",
+    "likely",
+    "faster/shorter",
+    "down/refuse",
+    "probably/may",
+    "well",
+    "Ctrl"
+  ],
+  "brain_first": "“不要找一样的英语，找一样的意思。”",
+  "sort_order": 1016,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 25,
+      "sourceIndex": 681
+    },
+    {
+      "type": "paragraph",
+      "text": "题目和选项不会照抄原句；常把动词、形容词、因",
+      "sourcePage": 25,
+      "sourceIndex": 682
+    },
+    {
+      "type": "paragraph",
+      "text": "果表达换成近义结构。",
+      "sourcePage": 25,
+      "sourceIndex": 683
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 25,
+      "sourceIndex": 684
+    },
+    {
+      "type": "paragraph",
+      "text": "Paraphrase / 同义改写：用不同词表达同一个信",
+      "sourcePage": 25,
+      "sourceIndex": 685
+    },
+    {
+      "type": "paragraph",
+      "text": "息。",
+      "sourcePage": 25,
+      "sourceIndex": 686
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “不要找一样的英语，找一样的意思。”",
+      "sourcePage": 25,
+      "sourceIndex": 687
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 这是高考阅读最稳定的命题方式之一。",
+      "sourcePage": 26,
+      "sourceIndex": 688
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 26,
+      "sourceIndex": 689
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先把题干和选项用最简单意思概括。",
+      "sourcePage": 26,
+      "sourceIndex": 690
+    },
+    {
+      "type": "paragraph",
+      "text": "2 回原文定位后，找“意思对应”，不是“单词对应”。",
+      "sourcePage": 26,
+      "sourceIndex": 691
+    },
+    {
+      "type": "paragraph",
+      "text": "3 检查方向：肯定/否定、可能/一定、部分/全部。",
+      "sourcePage": 26,
+      "sourceIndex": 692
+    },
+    {
+      "type": "paragraph",
+      "text": "4 确认程度没有被放大。",
+      "sourcePage": 26,
+      "sourceIndex": 693
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 26,
+      "sourceIndex": 694
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 26,
+      "sourceIndex": 695
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 26,
+      "sourceIndex": 696
+    },
+    {
+      "type": "paragraph",
+      "text": "· help → support / enable / make it easier",
+      "sourcePage": 26,
+      "sourceIndex": 697
+    },
+    {
+      "type": "paragraph",
+      "text": "· cheap → inexpensive / affordable",
+      "sourcePage": 26,
+      "sourceIndex": 698
+    },
+    {
+      "type": "paragraph",
+      "text": "· cause → lead to / result in",
+      "sourcePage": 26,
+      "sourceIndex": 699
+    },
+    {
+      "type": "paragraph",
+      "text": "· refuse → turn down / decide not to accept",
+      "sourcePage": 26,
+      "sourceIndex": 700
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 语义、主语、范围和强度全部匹配。",
+      "sourcePage": 26,
+      "sourceIndex": 701
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 不认识某个选项词时，可先用其余三个确定哪一个与原文结构最接近，再结合",
+      "sourcePage": 26,
+      "sourceIndex": 702
+    },
+    {
+      "type": "paragraph",
+      "text": "词根/上下文猜。",
+      "sourcePage": 26,
+      "sourceIndex": 703
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 26,
+      "sourceIndex": 704
+    },
+    {
+      "type": "paragraph",
+      "text": "原文：The new route cuts travel time by nearly half.",
+      "sourcePage": 26,
+      "sourceIndex": 705
+    },
+    {
+      "type": "paragraph",
+      "text": "正确改写可为：The route makes the journey much faster.",
+      "sourcePage": 26,
+      "sourceIndex": 706
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 26,
+      "sourceIndex": 707
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把“同词复现”当正确证据。",
+      "sourcePage": 26,
+      "sourceIndex": 708
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略程度：may → must。",
+      "sourcePage": 26,
+      "sourceIndex": 709
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 26,
+      "sourceIndex": 710
+    },
+    {
+      "type": "paragraph",
+      "text": "· 意思同吗？",
+      "sourcePage": 26,
+      "sourceIndex": 711
+    },
+    {
+      "type": "paragraph",
+      "text": "· 范围同吗？",
+      "sourcePage": 26,
+      "sourceIndex": 712
+    },
+    {
+      "type": "paragraph",
+      "text": "· 强度同吗？",
+      "sourcePage": 26,
+      "sourceIndex": 713
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 26,
+      "sourceIndex": 714
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 26,
+      "sourceIndex": 715
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 26,
+      "sourceIndex": 716
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 阅读找同义，不找复制。",
+      "sourcePage": 27,
+      "sourceIndex": 717
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 27,
+      "sourceIndex": 719
+    },
+    {
+      "type": "paragraph",
+      "text": "1. “cuts travel time by half”可改写为？",
+      "sourcePage": 27,
+      "sourceIndex": 720
+    },
+    {
+      "type": "paragraph",
+      "text": "2. may → must 属于同义改写吗？",
+      "sourcePage": 27,
+      "sourceIndex": 721
+    },
+    {
+      "type": "paragraph",
+      "text": "3. decline an offer ↔ ?",
+      "sourcePage": 27,
+      "sourceIndex": 722
+    },
+    {
+      "type": "paragraph",
+      "text": "4. be likely to ↔ ?",
+      "sourcePage": 27,
+      "sourceIndex": 723
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 同义替换最重要检查4项？",
+      "sourcePage": 27,
+      "sourceIndex": 724
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. makes the journey much faster/shorter；2. 不是，程度被放大。；3. turn down/refuse an offer；",
+      "sourcePage": 27,
+      "sourceIndex": 725
+    },
+    {
+      "type": "paragraph",
+      "text": "4. probably/may well；5. 语义、主语、范围、强度/方向。",
+      "sourcePage": 27,
+      "sourceIndex": 726
+    },
+    {
+      "type": "paragraph",
+      "text": "— R2 本题型到这里。下次卡住直接 Ctrl+F 搜“R2”或题型关键词。—",
+      "sourcePage": 27,
+      "sourceIndex": 727
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R2-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "题目和选项不会照抄原句；常把动词、形容词、因 果表达换成近义结构。",
+          "sourcePage": 25,
+          "sourceIndex": 682
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Paraphrase / 同义改写：用不同词表达同一个信 息。",
+          "sourcePage": 25,
+          "sourceIndex": 685
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“不要找一样的英语，找一样的意思。”",
+          "sourcePage": 25,
+          "sourceIndex": 687
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这是高考阅读最稳定的命题方式之一。",
+          "sourcePage": 26,
+          "sourceIndex": 688
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先把题干和选项用最简单意思概括。",
+          "sourcePage": 26,
+          "sourceIndex": 690
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 回原文定位后，找“意思对应”，不是“单词对应”。",
+          "sourcePage": 26,
+          "sourceIndex": 691
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 检查方向：肯定/否定、可能/一定、部分/全部。",
+          "sourcePage": 26,
+          "sourceIndex": 692
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 确认程度没有被放大。",
+          "sourcePage": 26,
+          "sourceIndex": 693
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 26,
+          "sourceIndex": 694
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· help → support / enable / make it easier",
+          "sourcePage": 26,
+          "sourceIndex": 697
+        },
+        {
+          "type": "paragraph",
+          "text": "· cheap → inexpensive / affordable",
+          "sourcePage": 26,
+          "sourceIndex": 698
+        },
+        {
+          "type": "paragraph",
+          "text": "· cause → lead to / result in",
+          "sourcePage": 26,
+          "sourceIndex": 699
+        },
+        {
+          "type": "paragraph",
+          "text": "· refuse → turn down / decide not to accept",
+          "sourcePage": 26,
+          "sourceIndex": 700
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "语义、主语、范围和强度全部匹配。",
+          "sourcePage": 26,
+          "sourceIndex": 701
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "不认识某个选项词时，可先用其余三个确定哪一个与原文结构最接近，再结合 词根/上下文猜。",
+          "sourcePage": 26,
+          "sourceIndex": 702
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "原文：The new route cuts travel time by nearly half. 正确改写可为：The route makes the journey much faster.",
+          "sourcePage": 26,
+          "sourceIndex": 705
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把“同词复现”当正确证据。",
+          "sourcePage": 26,
+          "sourceIndex": 708
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略程度：may → must。",
+          "sourcePage": 26,
+          "sourceIndex": 709
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 意思同吗？",
+          "sourcePage": 26,
+          "sourceIndex": 711
+        },
+        {
+          "type": "paragraph",
+          "text": "· 范围同吗？",
+          "sourcePage": 26,
+          "sourceIndex": 712
+        },
+        {
+          "type": "paragraph",
+          "text": "· 强度同吗？",
+          "sourcePage": 26,
+          "sourceIndex": 713
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 26,
+          "sourceIndex": 714
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 26,
+          "sourceIndex": 716
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "阅读找同义，不找复制。",
+          "sourcePage": 27,
+          "sourceIndex": 717
+        }
+      ]
+    },
+    {
+      "id": "EN-R2-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. “cuts travel time by half”可改写为？",
+          "sourcePage": 27,
+          "sourceIndex": 720
+        },
+        {
+          "type": "paragraph",
+          "text": "2. may → must 属于同义改写吗？",
+          "sourcePage": 27,
+          "sourceIndex": 721
+        },
+        {
+          "type": "paragraph",
+          "text": "3. decline an offer ↔ ?",
+          "sourcePage": 27,
+          "sourceIndex": 722
+        },
+        {
+          "type": "paragraph",
+          "text": "4. be likely to ↔ ?",
+          "sourcePage": 27,
+          "sourceIndex": 723
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 同义替换最重要检查4项？",
+          "sourcePage": 27,
+          "sourceIndex": 724
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. makes the journey much faster/shorter；2. 不是，程度被放大。；3. turn down/refuse an offer； 4. probably/may well；5. 语义、主语、范围、强度/方向。",
+          "sourcePage": 27,
+          "sourceIndex": 725
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 25,
+    "endPage": 27
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "id": "EN-8-7",
+  "code": "8.7",
+  "title": "Non-finite Verbs 非谓语",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.7",
+    "Non-finite Verbs 非谓语",
+    "语法工具箱",
+    "Form",
+    "First",
+    "clue",
+    "Common",
+    "jobs",
+    "Example",
+    "doing",
+    "Students",
+    "waiting",
+    "outside",
+    "done",
+    "The",
+    "books",
+    "written",
+    "came",
+    "help",
+    "Pattern",
+    "enjoy/avoid/finish/consider",
+    "She",
+    "enjoys",
+    "reading",
+    "want/hope/plan/decide",
+    "They",
+    "decided",
+    "leave",
+    "make/let",
+    "object",
+    "joke",
+    "made",
+    "laugh",
+    "see/hear",
+    "do/doing",
+    "saw",
+    "him",
+    "cross",
+    "crossing",
+    "the",
+    "road",
+    "have/get",
+    "had",
+    "phone",
+    "repaired",
+    "Before",
+    "leaving",
+    "check",
+    "door",
+    "used",
+    "getting",
+    "early",
+    "live",
+    "there"
+  ],
+  "brain_first": "按原文查阅 Non-finite Verbs 非谓语",
+  "sort_order": 1078,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "第一问：句子已经有谓语了吗？如果有，再问这个动作和逻辑主语是主动还是被动，以及它在句子里做什\n么。"
+        ]
+      ],
+      "text": " | 第一问：句子已经有谓语了吗？如果有，再问这个动作和逻辑主语是主动还是被动，以及它在句子里做什\n么。",
+      "sourcePage": 109,
+      "sourceIndex": 2862
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Form",
+          "First clue",
+          "Common jobs",
+          "Example"
+        ],
+        [
+          "doing",
+          "逻辑主语主动进行/一般动作",
+          "主语、宾语、定语、状语、宾补",
+          "Students waiting outside..."
+        ],
+        [
+          "done",
+          "逻辑主语被动/完成",
+          "定语、状语、宾补",
+          "The books written by..."
+        ],
+        [
+          "to do",
+          "目的、将来、某些固定结构",
+          "主语、宾语、定语、状语、宾补",
+          "I came to help."
+        ]
+      ],
+      "text": "Form | First clue | Common jobs | Example\ndoing | 逻辑主语主动进行/一般动作 | 主语、宾语、定语、状语、宾补 | Students waiting outside...\ndone | 逻辑主语被动/完成 | 定语、状语、宾补 | The books written by...\nto do | 目的、将来、某些固定结构 | 主语、宾语、定语、状语、宾补 | I came to help.",
+      "sourcePage": 109,
+      "sourceIndex": 2863
+    },
+    {
+      "type": "paragraph",
+      "text": "高频固定结构",
+      "sourcePage": 109,
+      "sourceIndex": 2864
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Pattern",
+          "Example"
+        ],
+        [
+          "enjoy/avoid/finish/consider + doing",
+          "She enjoys reading."
+        ],
+        [
+          "want/hope/plan/decide + to do",
+          "They decided to leave."
+        ],
+        [
+          "make/let + object + do",
+          "The joke made us laugh."
+        ],
+        [
+          "see/hear + object + do/doing",
+          "I saw him cross / crossing the road."
+        ],
+        [
+          "have/get + object + done",
+          "I had my phone repaired."
+        ],
+        [
+          "介词 + doing",
+          "Before leaving, check the door."
+        ],
+        [
+          "be used to doing",
+          "I am used to getting up early."
+        ],
+        [
+          "used to do",
+          "I used to live there."
+        ]
+      ],
+      "text": "Pattern | Example\nenjoy/avoid/finish/consider + doing | She enjoys reading.\nwant/hope/plan/decide + to do | They decided to leave.\nmake/let + object + do | The joke made us laugh.\nsee/hear + object + do/doing | I saw him cross / crossing the road.\nhave/get + object + done | I had my phone repaired.\n介词 + doing | Before leaving, check the door.\nbe used to doing | I am used to getting up early.\nused to do | I used to live there.",
+      "sourcePage": 109,
+      "sourceIndex": 2865
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "不要绝对化：“主动=doing、被动=done、将来=to do”只是第一层提示，最终还要看结构和固定搭配。"
+        ]
+      ],
+      "text": " | 不要绝对化：“主动=doing、被动=done、将来=to do”只是第一层提示，最终还要看结构和固定搭配。",
+      "sourcePage": 110,
+      "sourceIndex": 2866
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-7-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "第一问：句子已经有谓语了吗？如果有，再问这个动作和逻辑主语是主动还是被动，以及它在句子里做什\n么。"
+            ]
+          ],
+          "text": " | 第一问：句子已经有谓语了吗？如果有，再问这个动作和逻辑主语是主动还是被动，以及它在句子里做什\n么。",
+          "sourcePage": 109,
+          "sourceIndex": 2862
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Form",
+              "First clue",
+              "Common jobs",
+              "Example"
+            ],
+            [
+              "doing",
+              "逻辑主语主动进行/一般动作",
+              "主语、宾语、定语、状语、宾补",
+              "Students waiting outside..."
+            ],
+            [
+              "done",
+              "逻辑主语被动/完成",
+              "定语、状语、宾补",
+              "The books written by..."
+            ],
+            [
+              "to do",
+              "目的、将来、某些固定结构",
+              "主语、宾语、定语、状语、宾补",
+              "I came to help."
+            ]
+          ],
+          "text": "Form | First clue | Common jobs | Example\ndoing | 逻辑主语主动进行/一般动作 | 主语、宾语、定语、状语、宾补 | Students waiting outside...\ndone | 逻辑主语被动/完成 | 定语、状语、宾补 | The books written by...\nto do | 目的、将来、某些固定结构 | 主语、宾语、定语、状语、宾补 | I came to help.",
+          "sourcePage": 109,
+          "sourceIndex": 2863
+        },
+        {
+          "type": "paragraph",
+          "text": "高频固定结构",
+          "sourcePage": 109,
+          "sourceIndex": 2864
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pattern",
+              "Example"
+            ],
+            [
+              "enjoy/avoid/finish/consider + doing",
+              "She enjoys reading."
+            ],
+            [
+              "want/hope/plan/decide + to do",
+              "They decided to leave."
+            ],
+            [
+              "make/let + object + do",
+              "The joke made us laugh."
+            ],
+            [
+              "see/hear + object + do/doing",
+              "I saw him cross / crossing the road."
+            ],
+            [
+              "have/get + object + done",
+              "I had my phone repaired."
+            ],
+            [
+              "介词 + doing",
+              "Before leaving, check the door."
+            ],
+            [
+              "be used to doing",
+              "I am used to getting up early."
+            ],
+            [
+              "used to do",
+              "I used to live there."
+            ]
+          ],
+          "text": "Pattern | Example\nenjoy/avoid/finish/consider + doing | She enjoys reading.\nwant/hope/plan/decide + to do | They decided to leave.\nmake/let + object + do | The joke made us laugh.\nsee/hear + object + do/doing | I saw him cross / crossing the road.\nhave/get + object + done | I had my phone repaired.\n介词 + doing | Before leaving, check the door.\nbe used to doing | I am used to getting up early.\nused to do | I used to live there.",
+          "sourcePage": 109,
+          "sourceIndex": 2865
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "不要绝对化：“主动=doing、被动=done、将来=to do”只是第一层提示，最终还要看结构和固定搭配。"
+            ]
+          ],
+          "text": " | 不要绝对化：“主动=doing、被动=done、将来=to do”只是第一层提示，最终还要看结构和固定搭配。",
+          "sourcePage": 110,
+          "sourceIndex": 2866
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 109,
+    "endPage": 110
+  }
+}

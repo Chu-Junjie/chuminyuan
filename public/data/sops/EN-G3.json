@@ -1,0 +1,615 @@
+{
+  "id": "EN-G3",
+  "code": "G3",
+  "title": "逻辑关系：因果、转折、递进、并列",
+  "subject_id": "english",
+  "chapter_id": "en-gap",
+  "chapter": "七选五",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "G3",
+    "逻辑关系：因果、转折、递进、并列",
+    "七选五",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "because",
+    "therefore",
+    "however",
+    "instead",
+    "moreover",
+    "also",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Logical",
+    "relation",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "however/yet",
+    "therefore/as",
+    "result",
+    "for",
+    "addition/moreover",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "For",
+    "ten-minute",
+    "walk",
+    "can",
+    "improve",
+    "concentration",
+    "small",
+    "amounts",
+    "movement",
+    "help",
+    "brain",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Ctrl"
+  ],
+  "brain_first": "“先说清前后是什么关系，再选句子。”",
+  "sort_order": 1036,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 56,
+      "sourceIndex": 1560
+    },
+    {
+      "type": "paragraph",
+      "text": "前后出现 because, therefore, however, instead,",
+      "sourcePage": 56,
+      "sourceIndex": 1561
+    },
+    {
+      "type": "paragraph",
+      "text": "moreover, also 或隐含逻辑。",
+      "sourcePage": 56,
+      "sourceIndex": 1562
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 56,
+      "sourceIndex": 1563
+    },
+    {
+      "type": "paragraph",
+      "text": "Logical relation：句子之间的因果、转折、递进等",
+      "sourcePage": 56,
+      "sourceIndex": 1564
+    },
+    {
+      "type": "paragraph",
+      "text": "关系。",
+      "sourcePage": 56,
+      "sourceIndex": 1565
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先说清前后是什么关系，再选句子。”",
+      "sourcePage": 56,
+      "sourceIndex": 1566
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 七选五很多正确答案不是靠词汇，而是靠逻辑方向。",
+      "sourcePage": 56,
+      "sourceIndex": 1567
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 56,
+      "sourceIndex": 1568
+    },
+    {
+      "type": "paragraph",
+      "text": "1 给空前一句贴标签：观点/原因/问题/例子。",
+      "sourcePage": 56,
+      "sourceIndex": 1569
+    },
+    {
+      "type": "paragraph",
+      "text": "2 给空后一句贴标签。",
+      "sourcePage": 56,
+      "sourceIndex": 1570
+    },
+    {
+      "type": "paragraph",
+      "text": "3 判断两者关系：同向补充、相反、原因→结果、概括→例子。",
+      "sourcePage": 56,
+      "sourceIndex": 1571
+    },
+    {
+      "type": "paragraph",
+      "text": "4 选能承担桥梁关系的句子。",
+      "sourcePage": 56,
+      "sourceIndex": 1572
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 56,
+      "sourceIndex": 1573
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 56,
+      "sourceIndex": 1574
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 56,
+      "sourceIndex": 1575
+    },
+    {
+      "type": "paragraph",
+      "text": "· however/yet → 前后方向应有反差",
+      "sourcePage": 56,
+      "sourceIndex": 1576
+    },
+    {
+      "type": "paragraph",
+      "text": "· therefore/as a result → 前面应提供原因",
+      "sourcePage": 56,
+      "sourceIndex": 1577
+    },
+    {
+      "type": "paragraph",
+      "text": "· for example → 前面应有概括",
+      "sourcePage": 56,
+      "sourceIndex": 1578
+    },
+    {
+      "type": "paragraph",
+      "text": "· in addition/moreover → 前面已存在同方向信息",
+      "sourcePage": 56,
+      "sourceIndex": 1579
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 连接词的逻辑与上下文方向一致。",
+      "sourcePage": 57,
+      "sourceIndex": 1580
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 没有显性连接词时，用“为什么下一句会接着说这个？”判断隐含逻辑。",
+      "sourcePage": 57,
+      "sourceIndex": 1581
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 57,
+      "sourceIndex": 1582
+    },
+    {
+      "type": "paragraph",
+      "text": "空后：For example, a ten-minute walk can improve concentration. 空前应先提出“small amounts of",
+      "sourcePage": 57,
+      "sourceIndex": 1583
+    },
+    {
+      "type": "paragraph",
+      "text": "movement can help the brain”这类概括。",
+      "sourcePage": 57,
+      "sourceIndex": 1584
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 57,
+      "sourceIndex": 1585
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只按关键词匹配，不管转折方向。",
+      "sourcePage": 57,
+      "sourceIndex": 1586
+    },
+    {
+      "type": "paragraph",
+      "text": "· however 前后却是完全同义重复。",
+      "sourcePage": 57,
+      "sourceIndex": 1587
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 57,
+      "sourceIndex": 1588
+    },
+    {
+      "type": "paragraph",
+      "text": "· 逻辑方向对吗？",
+      "sourcePage": 57,
+      "sourceIndex": 1589
+    },
+    {
+      "type": "paragraph",
+      "text": "· 连接词有前提吗？",
+      "sourcePage": 57,
+      "sourceIndex": 1590
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 57,
+      "sourceIndex": 1591
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 57,
+      "sourceIndex": 1592
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 57,
+      "sourceIndex": 1593
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 先定逻辑，再选句。",
+      "sourcePage": 57,
+      "sourceIndex": 1594
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 57,
+      "sourceIndex": 1596
+    },
+    {
+      "type": "paragraph",
+      "text": "1. however 表？",
+      "sourcePage": 57,
+      "sourceIndex": 1597
+    },
+    {
+      "type": "paragraph",
+      "text": "2. therefore 表？",
+      "sourcePage": 57,
+      "sourceIndex": 1598
+    },
+    {
+      "type": "paragraph",
+      "text": "3. moreover 表？",
+      "sourcePage": 57,
+      "sourceIndex": 1599
+    },
+    {
+      "type": "paragraph",
+      "text": "4. for example 表？",
+      "sourcePage": 57,
+      "sourceIndex": 1600
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 连接词逻辑和前后句不匹配，选项能留吗？",
+      "sourcePage": 57,
+      "sourceIndex": 1601
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 转折；2. 因果/结果；3. 递进补充；4. 举例；5. 不能。",
+      "sourcePage": 57,
+      "sourceIndex": 1602
+    },
+    {
+      "type": "paragraph",
+      "text": "— G3 本题型到这里。下次卡住直接 Ctrl+F 搜“G3”或题型关键词。—",
+      "sourcePage": 57,
+      "sourceIndex": 1603
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-G3-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "前后出现 because, therefore, however, instead, moreover, also 或隐含逻辑。",
+          "sourcePage": 56,
+          "sourceIndex": 1561
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Logical relation：句子之间的因果、转折、递进等 关系。",
+          "sourcePage": 56,
+          "sourceIndex": 1564
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先说清前后是什么关系，再选句子。”",
+          "sourcePage": 56,
+          "sourceIndex": 1566
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "七选五很多正确答案不是靠词汇，而是靠逻辑方向。",
+          "sourcePage": 56,
+          "sourceIndex": 1567
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 给空前一句贴标签：观点/原因/问题/例子。",
+          "sourcePage": 56,
+          "sourceIndex": 1569
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 给空后一句贴标签。",
+          "sourcePage": 56,
+          "sourceIndex": 1570
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 判断两者关系：同向补充、相反、原因→结果、概括→例子。",
+          "sourcePage": 56,
+          "sourceIndex": 1571
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 选能承担桥梁关系的句子。",
+          "sourcePage": 56,
+          "sourceIndex": 1572
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 56,
+          "sourceIndex": 1573
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· however/yet → 前后方向应有反差",
+          "sourcePage": 56,
+          "sourceIndex": 1576
+        },
+        {
+          "type": "paragraph",
+          "text": "· therefore/as a result → 前面应提供原因",
+          "sourcePage": 56,
+          "sourceIndex": 1577
+        },
+        {
+          "type": "paragraph",
+          "text": "· for example → 前面应有概括",
+          "sourcePage": 56,
+          "sourceIndex": 1578
+        },
+        {
+          "type": "paragraph",
+          "text": "· in addition/moreover → 前面已存在同方向信息",
+          "sourcePage": 56,
+          "sourceIndex": 1579
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "连接词的逻辑与上下文方向一致。",
+          "sourcePage": 57,
+          "sourceIndex": 1580
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "没有显性连接词时，用“为什么下一句会接着说这个？”判断隐含逻辑。",
+          "sourcePage": 57,
+          "sourceIndex": 1581
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "空后：For example, a ten-minute walk can improve concentration. 空前应先提出“small amounts of movement can help the brain”这类概括。",
+          "sourcePage": 57,
+          "sourceIndex": 1583
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只按关键词匹配，不管转折方向。",
+          "sourcePage": 57,
+          "sourceIndex": 1586
+        },
+        {
+          "type": "paragraph",
+          "text": "· however 前后却是完全同义重复。",
+          "sourcePage": 57,
+          "sourceIndex": 1587
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 逻辑方向对吗？",
+          "sourcePage": 57,
+          "sourceIndex": 1589
+        },
+        {
+          "type": "paragraph",
+          "text": "· 连接词有前提吗？",
+          "sourcePage": 57,
+          "sourceIndex": 1590
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 57,
+          "sourceIndex": 1591
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 57,
+          "sourceIndex": 1593
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "先定逻辑，再选句。",
+          "sourcePage": 57,
+          "sourceIndex": 1594
+        }
+      ]
+    },
+    {
+      "id": "EN-G3-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. however 表？",
+          "sourcePage": 57,
+          "sourceIndex": 1597
+        },
+        {
+          "type": "paragraph",
+          "text": "2. therefore 表？",
+          "sourcePage": 57,
+          "sourceIndex": 1598
+        },
+        {
+          "type": "paragraph",
+          "text": "3. moreover 表？",
+          "sourcePage": 57,
+          "sourceIndex": 1599
+        },
+        {
+          "type": "paragraph",
+          "text": "4. for example 表？",
+          "sourcePage": 57,
+          "sourceIndex": 1600
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 连接词逻辑和前后句不匹配，选项能留吗？",
+          "sourcePage": 57,
+          "sourceIndex": 1601
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 转折；2. 因果/结果；3. 递进补充；4. 举例；5. 不能。",
+          "sourcePage": 57,
+          "sourceIndex": 1602
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 56,
+    "endPage": 57
+  }
+}

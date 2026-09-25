@@ -1,0 +1,610 @@
+{
+  "id": "EN-L8",
+  "code": "L8",
+  "title": "推断题",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "L8",
+    "推断题",
+    "听力",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "What",
+    "can",
+    "infer",
+    "does",
+    "the",
+    "man",
+    "imply",
+    "TERM",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "old",
+    "new",
+    "drive",
+    "sleep",
+    "IF/THEN",
+    "then",
+    "wish",
+    "had",
+    "Another",
+    "ten",
+    "minutes",
+    "and",
+    "miss",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "love",
+    "join",
+    "but",
+    "report",
+    "due",
+    "first",
+    "thing",
+    "tomorrow",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "L-K",
+    "L-C",
+    "L-P",
+    "L-I",
+    "L-A",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "speaker",
+    "booked",
+    "earlier",
+    "probably",
+    "cannot/will",
+    "not",
+    "Ctrl"
+  ],
+  "brain_first": "“只从听到的事实多走半步；不能用自己的生活经验补剧情。”",
+  "sort_order": 1011,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 18,
+      "sourceIndex": 492
+    },
+    {
+      "type": "paragraph",
+      "text": "What can we infer? / What does the man",
+      "sourcePage": 18,
+      "sourceIndex": 493
+    },
+    {
+      "type": "paragraph",
+      "text": "imply?",
+      "sourcePage": 18,
+      "sourceIndex": 494
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 18,
+      "sourceIndex": 495
+    },
+    {
+      "type": "paragraph",
+      "text": "推断不是原句照抄，但必须有证据。",
+      "sourcePage": 18,
+      "sourceIndex": 496
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “只从听到的事实多走半步；不能用自己的生活经验补剧情。”",
+      "sourcePage": 18,
+      "sourceIndex": 497
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 正确选项通常是对说话人意图、下一步或隐藏含义的合理改写。",
+      "sourcePage": 18,
+      "sourceIndex": 498
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 18,
+      "sourceIndex": 499
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先记明确事实。",
+      "sourcePage": 18,
+      "sourceIndex": 500
+    },
+    {
+      "type": "paragraph",
+      "text": "2 找语气和上下句关系。",
+      "sourcePage": 18,
+      "sourceIndex": 501
+    },
+    {
+      "type": "paragraph",
+      "text": "3 把选项分成“文本能推出”和“现实可能但没证据”。",
+      "sourcePage": 18,
+      "sourceIndex": 502
+    },
+    {
+      "type": "paragraph",
+      "text": "4 选择需要最少额外假设的答案。",
+      "sourcePage": 18,
+      "sourceIndex": 503
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计",
+      "sourcePage": 18,
+      "sourceIndex": 504
+    },
+    {
+      "type": "paragraph",
+      "text": "划写成“drive→sleep”；不要抄完整句。",
+      "sourcePage": 18,
+      "sourceIndex": 505
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 18,
+      "sourceIndex": 506
+    },
+    {
+      "type": "paragraph",
+      "text": "· “I wish I had...” → 暗示现在没有/之前没做",
+      "sourcePage": 18,
+      "sourceIndex": 507
+    },
+    {
+      "type": "paragraph",
+      "text": "· “Another ten minutes and I'll miss...” → 暗示时间紧",
+      "sourcePage": 18,
+      "sourceIndex": 508
+    },
+    {
+      "type": "paragraph",
+      "text": "· 反问常表达否定或质疑",
+      "sourcePage": 18,
+      "sourceIndex": 509
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 答案只需要一个小推理就成立。",
+      "sourcePage": 19,
+      "sourceIndex": 510
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 若某选项需要你想象人物过去经历、性格或未来长期结果，通常过度推断。",
+      "sourcePage": 19,
+      "sourceIndex": 511
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 19,
+      "sourceIndex": 512
+    },
+    {
+      "type": "paragraph",
+      "text": "I'd love to join you, but my report is due first thing tomorrow.",
+      "sourcePage": 19,
+      "sourceIndex": 513
+    },
+    {
+      "type": "paragraph",
+      "text": "可以推断：他大概率不会参加；不能推断：他讨厌这项活动。",
+      "sourcePage": 19,
+      "sourceIndex": 514
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 19,
+      "sourceIndex": 515
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把常识当录音证据。",
+      "sourcePage": 19,
+      "sourceIndex": 516
+    },
+    {
+      "type": "paragraph",
+      "text": "· 推断过远。",
+      "sourcePage": 19,
+      "sourceIndex": 517
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 19,
+      "sourceIndex": 518
+    },
+    {
+      "type": "paragraph",
+      "text": "· 证据是哪一句？",
+      "sourcePage": 19,
+      "sourceIndex": 519
+    },
+    {
+      "type": "paragraph",
+      "text": "· 我有没有偷偷加一个录音没说的前提？",
+      "sourcePage": 19,
+      "sourceIndex": 520
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同",
+      "sourcePage": 19,
+      "sourceIndex": 521
+    },
+    {
+      "type": "paragraph",
+      "text": "义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+      "sourcePage": 19,
+      "sourceIndex": 522
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 19,
+      "sourceIndex": 523
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 推断只走半步。",
+      "sourcePage": 19,
+      "sourceIndex": 524
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 19,
+      "sourceIndex": 526
+    },
+    {
+      "type": "paragraph",
+      "text": "1. “I’d love to go, but my report is due tomorrow.”可推断？",
+      "sourcePage": 19,
+      "sourceIndex": 527
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 能否推断speaker讨厌活动？",
+      "sourcePage": 19,
+      "sourceIndex": 528
+    },
+    {
+      "type": "paragraph",
+      "text": "3. “I wish I had booked earlier.”暗示？",
+      "sourcePage": 19,
+      "sourceIndex": 529
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 推断选项需要额外编人物性格，是否稳？",
+      "sourcePage": 19,
+      "sourceIndex": 530
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 推断首要依据？",
+      "sourcePage": 19,
+      "sourceIndex": 531
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. speaker probably cannot/will not go；2. 不能。；3. 没有早点预订/现在后悔。；4. 不稳，通常过度",
+      "sourcePage": 19,
+      "sourceIndex": 532
+    },
+    {
+      "type": "paragraph",
+      "text": "推断。；5. 录音明确事实+一小步逻辑。",
+      "sourcePage": 19,
+      "sourceIndex": 533
+    },
+    {
+      "type": "paragraph",
+      "text": "— L8 本题型到这里。下次卡住直接 Ctrl+F 搜“L8”或题型关键词。—",
+      "sourcePage": 19,
+      "sourceIndex": 534
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-L8-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What can we infer? / What does the man imply?",
+          "sourcePage": 18,
+          "sourceIndex": 493
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "推断不是原句照抄，但必须有证据。",
+          "sourcePage": 18,
+          "sourceIndex": 496
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“只从听到的事实多走半步；不能用自己的生活经验补剧情。”",
+          "sourcePage": 18,
+          "sourceIndex": 497
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "正确选项通常是对说话人意图、下一步或隐藏含义的合理改写。",
+          "sourcePage": 18,
+          "sourceIndex": 498
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先记明确事实。",
+          "sourcePage": 18,
+          "sourceIndex": 500
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 找语气和上下句关系。",
+          "sourcePage": 18,
+          "sourceIndex": 501
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 把选项分成“文本能推出”和“现实可能但没证据”。",
+          "sourcePage": 18,
+          "sourceIndex": 502
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 选择需要最少额外假设的答案。",
+          "sourcePage": 18,
+          "sourceIndex": 503
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计 划写成“drive→sleep”；不要抄完整句。",
+          "sourcePage": 18,
+          "sourceIndex": 504
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· “I wish I had...” → 暗示现在没有/之前没做",
+          "sourcePage": 18,
+          "sourceIndex": 507
+        },
+        {
+          "type": "paragraph",
+          "text": "· “Another ten minutes and I'll miss...” → 暗示时间紧",
+          "sourcePage": 18,
+          "sourceIndex": 508
+        },
+        {
+          "type": "paragraph",
+          "text": "· 反问常表达否定或质疑",
+          "sourcePage": 18,
+          "sourceIndex": 509
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "答案只需要一个小推理就成立。",
+          "sourcePage": 19,
+          "sourceIndex": 510
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "若某选项需要你想象人物过去经历、性格或未来长期结果，通常过度推断。",
+          "sourcePage": 19,
+          "sourceIndex": 511
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I'd love to join you, but my report is due first thing tomorrow. 可以推断：他大概率不会参加；不能推断：他讨厌这项活动。",
+          "sourcePage": 19,
+          "sourceIndex": 513
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把常识当录音证据。",
+          "sourcePage": 19,
+          "sourceIndex": 516
+        },
+        {
+          "type": "paragraph",
+          "text": "· 推断过远。",
+          "sourcePage": 19,
+          "sourceIndex": 517
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 证据是哪一句？",
+          "sourcePage": 19,
+          "sourceIndex": 519
+        },
+        {
+          "type": "paragraph",
+          "text": "· 我有没有偷偷加一个录音没说的前提？",
+          "sourcePage": 19,
+          "sourceIndex": 520
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同 义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+          "sourcePage": 19,
+          "sourceIndex": 521
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 19,
+          "sourceIndex": 523
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "推断只走半步。",
+          "sourcePage": 19,
+          "sourceIndex": 524
+        }
+      ]
+    },
+    {
+      "id": "EN-L8-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. “I’d love to go, but my report is due tomorrow.”可推断？",
+          "sourcePage": 19,
+          "sourceIndex": 527
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 能否推断speaker讨厌活动？",
+          "sourcePage": 19,
+          "sourceIndex": 528
+        },
+        {
+          "type": "paragraph",
+          "text": "3. “I wish I had booked earlier.”暗示？",
+          "sourcePage": 19,
+          "sourceIndex": 529
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 推断选项需要额外编人物性格，是否稳？",
+          "sourcePage": 19,
+          "sourceIndex": 530
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 推断首要依据？",
+          "sourcePage": 19,
+          "sourceIndex": 531
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. speaker probably cannot/will not go；2. 不能。；3. 没有早点预订/现在后悔。；4. 不稳，通常过度 推断。；5. 录音明确事实+一小步逻辑。",
+          "sourcePage": 19,
+          "sourceIndex": 532
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 18,
+    "endPage": 19
+  }
+}

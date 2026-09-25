@@ -1,0 +1,614 @@
+{
+  "id": "EN-C6",
+  "code": "C6",
+  "title": "上下文复现：同义、反义、指代",
+  "subject_id": "english",
+  "chapter_id": "en-cloze",
+  "chapter": "完形填空",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "C6",
+    "上下文复现：同义、反义、指代",
+    "完形填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Lexical",
+    "recurrence",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "V/N/Adj/Adv",
+    "worried",
+    "help",
+    "relieved",
+    "IF/THEN",
+    "then",
+    "problem",
+    "difficulty",
+    "happy",
+    "delighted",
+    "failed",
+    "succeeded",
+    "device",
+    "machine",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "hesitated",
+    "finally",
+    "agreed",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "dog",
+    "animal",
+    "sad",
+    "same",
+    "word",
+    "Ctrl"
+  ],
+  "brain_first": "“别只盯这个空，前后文可能已经把答案说过一遍。”",
+  "sort_order": 1046,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 71,
+      "sourceIndex": 1972
+    },
+    {
+      "type": "paragraph",
+      "text": "前文或后文已经出现相关词、同义词或相反信息。",
+      "sourcePage": 71,
+      "sourceIndex": 1973
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 71,
+      "sourceIndex": 1974
+    },
+    {
+      "type": "paragraph",
+      "text": "Lexical recurrence：语篇会通过重复、同义和反",
+      "sourcePage": 71,
+      "sourceIndex": 1975
+    },
+    {
+      "type": "paragraph",
+      "text": "义维持连贯。",
+      "sourcePage": 71,
+      "sourceIndex": 1976
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “别只盯这个空，前后文可能已经把答案说过一遍。”",
+      "sourcePage": 71,
+      "sourceIndex": 1977
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 这是完形最可靠的证据之一。",
+      "sourcePage": 71,
+      "sourceIndex": 1978
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 71,
+      "sourceIndex": 1979
+    },
+    {
+      "type": "paragraph",
+      "text": "1 遇到难空先画圈，不死磕。",
+      "sourcePage": 71,
+      "sourceIndex": 1980
+    },
+    {
+      "type": "paragraph",
+      "text": "2 继续读后面两三句，找相同人物/物品/情绪。",
+      "sourcePage": 71,
+      "sourceIndex": 1981
+    },
+    {
+      "type": "paragraph",
+      "text": "3 圈同义词、反义词和代词。",
+      "sourcePage": 71,
+      "sourceIndex": 1982
+    },
+    {
+      "type": "paragraph",
+      "text": "4 回填后整段顺读。",
+      "sourcePage": 71,
+      "sourceIndex": 1983
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如",
+      "sourcePage": 71,
+      "sourceIndex": 1984
+    },
+    {
+      "type": "paragraph",
+      "text": "worried→help→relieved；难空先打 ? 继续。",
+      "sourcePage": 71,
+      "sourceIndex": 1985
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 71,
+      "sourceIndex": 1986
+    },
+    {
+      "type": "paragraph",
+      "text": "· problem ↔ difficulty",
+      "sourcePage": 71,
+      "sourceIndex": 1987
+    },
+    {
+      "type": "paragraph",
+      "text": "· happy ↔ delighted",
+      "sourcePage": 71,
+      "sourceIndex": 1988
+    },
+    {
+      "type": "paragraph",
+      "text": "· failed ↔ succeeded（反义转折）",
+      "sourcePage": 71,
+      "sourceIndex": 1989
+    },
+    {
+      "type": "paragraph",
+      "text": "· the device ↔ it / the machine",
+      "sourcePage": 71,
+      "sourceIndex": 1990
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 答案与上下文形成清晰语义链。",
+      "sourcePage": 71,
+      "sourceIndex": 1991
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 第一遍完全没线索就先跳，后文常会给“答案回声”。",
+      "sourcePage": 71,
+      "sourceIndex": 1992
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 71,
+      "sourceIndex": 1993
+    },
+    {
+      "type": "paragraph",
+      "text": "前文说老人起初 hesitated，后文写在鼓励后“finally agreed”。中间空若考态度变化，可用这组反向线",
+      "sourcePage": 71,
+      "sourceIndex": 1994
+    },
+    {
+      "type": "paragraph",
+      "text": "索判断。",
+      "sourcePage": 71,
+      "sourceIndex": 1995
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 72,
+      "sourceIndex": 1996
+    },
+    {
+      "type": "paragraph",
+      "text": "· 认为每个空必须当场解决。",
+      "sourcePage": 72,
+      "sourceIndex": 1997
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只看前文不看后文。",
+      "sourcePage": 72,
+      "sourceIndex": 1998
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 72,
+      "sourceIndex": 1999
+    },
+    {
+      "type": "paragraph",
+      "text": "· 前后有没有同义/反义复现？",
+      "sourcePage": 72,
+      "sourceIndex": 2000
+    },
+    {
+      "type": "paragraph",
+      "text": "· 回填后故事连贯吗？",
+      "sourcePage": 72,
+      "sourceIndex": 2001
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现",
+      "sourcePage": 72,
+      "sourceIndex": 2002
+    },
+    {
+      "type": "paragraph",
+      "text": "｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+      "sourcePage": 72,
+      "sourceIndex": 2003
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 72,
+      "sourceIndex": 2004
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 难空先留，后文可能会告诉你。",
+      "sourcePage": 72,
+      "sourceIndex": 2005
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 72,
+      "sourceIndex": 2007
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 前文“dog”，后文“animal”属于？",
+      "sourcePage": 72,
+      "sourceIndex": 2008
+    },
+    {
+      "type": "paragraph",
+      "text": "2. happy vs sad 可形成？",
+      "sourcePage": 72,
+      "sourceIndex": 2009
+    },
+    {
+      "type": "paragraph",
+      "text": "3. same word 出现就一定填它吗？",
+      "sourcePage": 72,
+      "sourceIndex": 2010
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 复现线索可能在空后吗？",
+      "sourcePage": 72,
+      "sourceIndex": 2011
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 难空先留的原因？",
+      "sourcePage": 72,
+      "sourceIndex": 2012
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 上下位复现；2. 反义/情绪对照；3. 不一定，要看句法和语义。；4. 可以。；5. 后文可能提供复现/解",
+      "sourcePage": 72,
+      "sourceIndex": 2013
+    },
+    {
+      "type": "paragraph",
+      "text": "释。",
+      "sourcePage": 72,
+      "sourceIndex": 2014
+    },
+    {
+      "type": "paragraph",
+      "text": "— C6 本题型到这里。下次卡住直接 Ctrl+F 搜“C6”或题型关键词。—",
+      "sourcePage": 72,
+      "sourceIndex": 2015
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-C6-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "前文或后文已经出现相关词、同义词或相反信息。",
+          "sourcePage": 71,
+          "sourceIndex": 1973
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lexical recurrence：语篇会通过重复、同义和反 义维持连贯。",
+          "sourcePage": 71,
+          "sourceIndex": 1975
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“别只盯这个空，前后文可能已经把答案说过一遍。”",
+          "sourcePage": 71,
+          "sourceIndex": 1977
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这是完形最可靠的证据之一。",
+          "sourcePage": 71,
+          "sourceIndex": 1978
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 遇到难空先画圈，不死磕。",
+          "sourcePage": 71,
+          "sourceIndex": 1980
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 继续读后面两三句，找相同人物/物品/情绪。",
+          "sourcePage": 71,
+          "sourceIndex": 1981
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 圈同义词、反义词和代词。",
+          "sourcePage": 71,
+          "sourceIndex": 1982
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 回填后整段顺读。",
+          "sourcePage": 71,
+          "sourceIndex": 1983
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如 worried→help→relieved；难空先打 ? 继续。",
+          "sourcePage": 71,
+          "sourceIndex": 1984
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· problem ↔ difficulty",
+          "sourcePage": 71,
+          "sourceIndex": 1987
+        },
+        {
+          "type": "paragraph",
+          "text": "· happy ↔ delighted",
+          "sourcePage": 71,
+          "sourceIndex": 1988
+        },
+        {
+          "type": "paragraph",
+          "text": "· failed ↔ succeeded（反义转折）",
+          "sourcePage": 71,
+          "sourceIndex": 1989
+        },
+        {
+          "type": "paragraph",
+          "text": "· the device ↔ it / the machine",
+          "sourcePage": 71,
+          "sourceIndex": 1990
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "答案与上下文形成清晰语义链。",
+          "sourcePage": 71,
+          "sourceIndex": 1991
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "第一遍完全没线索就先跳，后文常会给“答案回声”。",
+          "sourcePage": 71,
+          "sourceIndex": 1992
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "前文说老人起初 hesitated，后文写在鼓励后“finally agreed”。中间空若考态度变化，可用这组反向线 索判断。",
+          "sourcePage": 71,
+          "sourceIndex": 1994
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 认为每个空必须当场解决。",
+          "sourcePage": 72,
+          "sourceIndex": 1997
+        },
+        {
+          "type": "paragraph",
+          "text": "· 只看前文不看后文。",
+          "sourcePage": 72,
+          "sourceIndex": 1998
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 前后有没有同义/反义复现？",
+          "sourcePage": 72,
+          "sourceIndex": 2000
+        },
+        {
+          "type": "paragraph",
+          "text": "· 回填后故事连贯吗？",
+          "sourcePage": 72,
+          "sourceIndex": 2001
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现 ｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+          "sourcePage": 72,
+          "sourceIndex": 2002
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 72,
+          "sourceIndex": 2004
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "难空先留，后文可能会告诉你。",
+          "sourcePage": 72,
+          "sourceIndex": 2005
+        }
+      ]
+    },
+    {
+      "id": "EN-C6-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 前文“dog”，后文“animal”属于？",
+          "sourcePage": 72,
+          "sourceIndex": 2008
+        },
+        {
+          "type": "paragraph",
+          "text": "2. happy vs sad 可形成？",
+          "sourcePage": 72,
+          "sourceIndex": 2009
+        },
+        {
+          "type": "paragraph",
+          "text": "3. same word 出现就一定填它吗？",
+          "sourcePage": 72,
+          "sourceIndex": 2010
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 复现线索可能在空后吗？",
+          "sourcePage": 72,
+          "sourceIndex": 2011
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 难空先留的原因？",
+          "sourcePage": 72,
+          "sourceIndex": 2012
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 上下位复现；2. 反义/情绪对照；3. 不一定，要看句法和语义。；4. 可以。；5. 后文可能提供复现/解 释。",
+          "sourcePage": 72,
+          "sourceIndex": 2013
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 71,
+    "endPage": 72
+  }
+}

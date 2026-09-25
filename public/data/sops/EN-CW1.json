@@ -1,0 +1,605 @@
+{
+  "id": "EN-CW1",
+  "code": "CW1",
+  "title": "两段首句倒推路线",
+  "subject_id": "english",
+  "chapter_id": "en-continuation",
+  "chapter": "读后续写",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "CW1",
+    "两段首句倒推路线",
+    "读后续写",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Given",
+    "opening",
+    "sentences",
+    "are",
+    "hard",
+    "constraints",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "V/N/Adj/Adv",
+    "worried",
+    "help",
+    "relieved",
+    "IF/THEN",
+    "then",
+    "Three",
+    "days",
+    "later",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "When",
+    "she",
+    "opened",
+    "door",
+    "everyone",
+    "began",
+    "clap",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Ctrl"
+  ],
+  "brain_first": "“先看第二段首句，再决定第一段必须走到哪里。”",
+  "sort_order": 1064,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 97,
+      "sourceIndex": 2580
+    },
+    {
+      "type": "paragraph",
+      "text": "给一段原文和两个续写段落首句。",
+      "sourcePage": 97,
+      "sourceIndex": 2581
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 97,
+      "sourceIndex": 2582
+    },
+    {
+      "type": "paragraph",
+      "text": "Given opening sentences are hard constraints，",
+      "sourcePage": 97,
+      "sourceIndex": 2583
+    },
+    {
+      "type": "paragraph",
+      "text": "限制故事路线。",
+      "sourcePage": 97,
+      "sourceIndex": 2584
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先看第二段首句，再决定第一段必须走到哪里。”",
+      "sourcePage": 97,
+      "sourceIndex": 2585
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 很多续写跑题不是英语问题，而是没有先做“桥接”。",
+      "sourcePage": 97,
+      "sourceIndex": 2586
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 97,
+      "sourceIndex": 2587
+    },
+    {
+      "type": "paragraph",
+      "text": "1 列人物和当前问题。",
+      "sourcePage": 97,
+      "sourceIndex": 2588
+    },
+    {
+      "type": "paragraph",
+      "text": "2 读第一段首句，确定第一段从哪里开始。",
+      "sourcePage": 97,
+      "sourceIndex": 2589
+    },
+    {
+      "type": "paragraph",
+      "text": "3 读第二段首句，确定第一段必须以什么状态结束。",
+      "sourcePage": 97,
+      "sourceIndex": 2590
+    },
+    {
+      "type": "paragraph",
+      "text": "4 在两端之间只安排2-4个必要事件。",
+      "sourcePage": 97,
+      "sourceIndex": 2591
+    },
+    {
+      "type": "paragraph",
+      "text": "5 第二段解决主问题并收束情绪。",
+      "sourcePage": 97,
+      "sourceIndex": 2592
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如",
+      "sourcePage": 97,
+      "sourceIndex": 2593
+    },
+    {
+      "type": "paragraph",
+      "text": "worried→help→relieved；难空先打 ? 继续。",
+      "sourcePage": 97,
+      "sourceIndex": 2594
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 97,
+      "sourceIndex": 2595
+    },
+    {
+      "type": "paragraph",
+      "text": "· 第二段首句出现“Three days later...” → 第一段不能把三天后的事情提前写完",
+      "sourcePage": 97,
+      "sourceIndex": 2596
+    },
+    {
+      "type": "paragraph",
+      "text": "· 第二段首句人物拿着某物 → 第一段必须解释物品如何到手",
+      "sourcePage": 97,
+      "sourceIndex": 2597
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 第一段最后一句能自然接第二段首句，不需要解释跳跃。",
+      "sourcePage": 97,
+      "sourceIndex": 2598
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 写不出情节时，不要发明新人物/新事故；先用原文已有的人、物、目标解",
+      "sourcePage": 97,
+      "sourceIndex": 2599
+    },
+    {
+      "type": "paragraph",
+      "text": "决。",
+      "sourcePage": 97,
+      "sourceIndex": 2600
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 97,
+      "sourceIndex": 2601
+    },
+    {
+      "type": "paragraph",
+      "text": "第二段首句是 When she opened the door, everyone began to clap. 第一段就必须把人物带到“到达/开",
+      "sourcePage": 97,
+      "sourceIndex": 2602
+    },
+    {
+      "type": "paragraph",
+      "text": "门前”的状态，而不能提前写完庆祝。",
+      "sourcePage": 97,
+      "sourceIndex": 2603
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 98,
+      "sourceIndex": 2604
+    },
+    {
+      "type": "paragraph",
+      "text": "· 第一段把问题全部解决，第二段无事可写。",
+      "sourcePage": 98,
+      "sourceIndex": 2605
+    },
+    {
+      "type": "paragraph",
+      "text": "· 突然加入原文没有铺垫的大事故。",
+      "sourcePage": 98,
+      "sourceIndex": 2606
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 98,
+      "sourceIndex": 2607
+    },
+    {
+      "type": "paragraph",
+      "text": "· 第一段结尾能接第二段吗？",
+      "sourcePage": 98,
+      "sourceIndex": 2608
+    },
+    {
+      "type": "paragraph",
+      "text": "· 第二段是否解决原问题？",
+      "sourcePage": 98,
+      "sourceIndex": 2609
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现",
+      "sourcePage": 98,
+      "sourceIndex": 2610
+    },
+    {
+      "type": "paragraph",
+      "text": "｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+      "sourcePage": 98,
+      "sourceIndex": 2611
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 98,
+      "sourceIndex": 2612
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 续写先看两段首句，倒推第一段终点。",
+      "sourcePage": 98,
+      "sourceIndex": 2613
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 98,
+      "sourceIndex": 2615
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 续写先看什么？",
+      "sourcePage": 98,
+      "sourceIndex": 2616
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 第二段首句已回到家，第一段结尾必须？",
+      "sourcePage": 98,
+      "sourceIndex": 2617
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 能否第一段写到完全无关的新人物？",
+      "sourcePage": 98,
+      "sourceIndex": 2618
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 倒推的目标？",
+      "sourcePage": 98,
+      "sourceIndex": 2619
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 路线草稿最少含？",
+      "sourcePage": 98,
+      "sourceIndex": 2620
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 两个给定段首句。；2. 产生“回家/在回家途中”的连接。；3. 一般不要，除非原文有伏笔。；4. 让",
+      "sourcePage": 98,
+      "sourceIndex": 2621
+    },
+    {
+      "type": "paragraph",
+      "text": "P1结尾自然接P2首句。；5. 人物+问题+P1终点+P2解决。",
+      "sourcePage": 98,
+      "sourceIndex": 2622
+    },
+    {
+      "type": "paragraph",
+      "text": "— CW1 本题型到这里。下次卡住直接 Ctrl+F 搜“CW1”或题型关键词。—",
+      "sourcePage": 98,
+      "sourceIndex": 2623
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-CW1-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "给一段原文和两个续写段落首句。",
+          "sourcePage": 97,
+          "sourceIndex": 2581
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Given opening sentences are hard constraints， 限制故事路线。",
+          "sourcePage": 97,
+          "sourceIndex": 2583
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先看第二段首句，再决定第一段必须走到哪里。”",
+          "sourcePage": 97,
+          "sourceIndex": 2585
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "很多续写跑题不是英语问题，而是没有先做“桥接”。",
+          "sourcePage": 97,
+          "sourceIndex": 2586
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 列人物和当前问题。",
+          "sourcePage": 97,
+          "sourceIndex": 2588
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 读第一段首句，确定第一段从哪里开始。",
+          "sourcePage": 97,
+          "sourceIndex": 2589
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 读第二段首句，确定第一段必须以什么状态结束。",
+          "sourcePage": 97,
+          "sourceIndex": 2590
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 在两端之间只安排2-4个必要事件。",
+          "sourcePage": 97,
+          "sourceIndex": 2591
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 第二段解决主问题并收束情绪。",
+          "sourcePage": 97,
+          "sourceIndex": 2592
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如 worried→help→relieved；难空先打 ? 继续。",
+          "sourcePage": 97,
+          "sourceIndex": 2593
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 第二段首句出现“Three days later...” → 第一段不能把三天后的事情提前写完",
+          "sourcePage": 97,
+          "sourceIndex": 2596
+        },
+        {
+          "type": "paragraph",
+          "text": "· 第二段首句人物拿着某物 → 第一段必须解释物品如何到手",
+          "sourcePage": 97,
+          "sourceIndex": 2597
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "第一段最后一句能自然接第二段首句，不需要解释跳跃。",
+          "sourcePage": 97,
+          "sourceIndex": 2598
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "写不出情节时，不要发明新人物/新事故；先用原文已有的人、物、目标解 决。",
+          "sourcePage": 97,
+          "sourceIndex": 2599
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "第二段首句是 When she opened the door, everyone began to clap. 第一段就必须把人物带到“到达/开 门前”的状态，而不能提前写完庆祝。",
+          "sourcePage": 97,
+          "sourceIndex": 2602
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 第一段把问题全部解决，第二段无事可写。",
+          "sourcePage": 98,
+          "sourceIndex": 2605
+        },
+        {
+          "type": "paragraph",
+          "text": "· 突然加入原文没有铺垫的大事故。",
+          "sourcePage": 98,
+          "sourceIndex": 2606
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 第一段结尾能接第二段吗？",
+          "sourcePage": 98,
+          "sourceIndex": 2608
+        },
+        {
+          "type": "paragraph",
+          "text": "· 第二段是否解决原问题？",
+          "sourcePage": 98,
+          "sourceIndex": 2609
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现 ｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+          "sourcePage": 98,
+          "sourceIndex": 2610
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 98,
+          "sourceIndex": 2612
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "续写先看两段首句，倒推第一段终点。",
+          "sourcePage": 98,
+          "sourceIndex": 2613
+        }
+      ]
+    },
+    {
+      "id": "EN-CW1-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 续写先看什么？",
+          "sourcePage": 98,
+          "sourceIndex": 2616
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 第二段首句已回到家，第一段结尾必须？",
+          "sourcePage": 98,
+          "sourceIndex": 2617
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 能否第一段写到完全无关的新人物？",
+          "sourcePage": 98,
+          "sourceIndex": 2618
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 倒推的目标？",
+          "sourcePage": 98,
+          "sourceIndex": 2619
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 路线草稿最少含？",
+          "sourcePage": 98,
+          "sourceIndex": 2620
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 两个给定段首句。；2. 产生“回家/在回家途中”的连接。；3. 一般不要，除非原文有伏笔。；4. 让 P1结尾自然接P2首句。；5. 人物+问题+P1终点+P2解决。",
+          "sourcePage": 98,
+          "sourceIndex": 2621
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 97,
+    "endPage": 98
+  }
+}

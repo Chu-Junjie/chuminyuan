@@ -1,0 +1,633 @@
+{
+  "id": "EN-R6",
+  "code": "R6",
+  "title": "推理判断题",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "R6",
+    "推理判断题",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "infer",
+    "imply",
+    "suggest",
+    "conclude",
+    "probably",
+    "likely",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Inference",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "always",
+    "never",
+    "must",
+    "completely",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "results",
+    "were",
+    "promising",
+    "but",
+    "sample",
+    "was",
+    "small",
+    "TRAPS",
+    "Common",
+    "traps",
+    "may",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "dark",
+    "clouds",
+    "took",
+    "umbrella",
+    "must/always",
+    "expected",
+    "rain",
+    "Ctrl"
+  ],
+  "brain_first": "“证据先写清，只允许往前走半步。”",
+  "sort_order": 1020,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 32,
+      "sourceIndex": 866
+    },
+    {
+      "type": "paragraph",
+      "text": "infer, imply, suggest, conclude, probably,",
+      "sourcePage": 32,
+      "sourceIndex": 867
+    },
+    {
+      "type": "paragraph",
+      "text": "likely。",
+      "sourcePage": 32,
+      "sourceIndex": 868
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 32,
+      "sourceIndex": 869
+    },
+    {
+      "type": "paragraph",
+      "text": "Inference：答案不一定原句出现，但必须由文本",
+      "sourcePage": 32,
+      "sourceIndex": 870
+    },
+    {
+      "type": "paragraph",
+      "text": "支持。",
+      "sourcePage": 32,
+      "sourceIndex": 871
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “证据先写清，只允许往前走半步。”",
+      "sourcePage": 32,
+      "sourceIndex": 872
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 这类题区分“合理推断”和“自己编故事”。",
+      "sourcePage": 32,
+      "sourceIndex": 873
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 32,
+      "sourceIndex": 874
+    },
+    {
+      "type": "paragraph",
+      "text": "1 定位题目对应段落/人物。",
+      "sourcePage": 32,
+      "sourceIndex": 875
+    },
+    {
+      "type": "paragraph",
+      "text": "2 列出原文明示的1-2个事实。",
+      "sourcePage": 32,
+      "sourceIndex": 876
+    },
+    {
+      "type": "paragraph",
+      "text": "3 检查每个选项需要添加多少额外假设。",
+      "sourcePage": 32,
+      "sourceIndex": 877
+    },
+    {
+      "type": "paragraph",
+      "text": "4 选“最少脑补、最贴证据”的。",
+      "sourcePage": 32,
+      "sourceIndex": 878
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 32,
+      "sourceIndex": 879
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 32,
+      "sourceIndex": 880
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 32,
+      "sourceIndex": 881
+    },
+    {
+      "type": "paragraph",
+      "text": "· 人物行为推断 → 用行为+语气，不猜性格标签过度",
+      "sourcePage": 32,
+      "sourceIndex": 882
+    },
+    {
+      "type": "paragraph",
+      "text": "· 未来行为 → 只根据明确计划/趋势",
+      "sourcePage": 32,
+      "sourceIndex": 883
+    },
+    {
+      "type": "paragraph",
+      "text": "· 作者暗示 → 结合转折、比较和评价词",
+      "sourcePage": 32,
+      "sourceIndex": 884
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 答案只比原文明说多一小步。",
+      "sourcePage": 32,
+      "sourceIndex": 885
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 把选项中的绝对词先圈起来：always, never, must, completely。若原文没有",
+      "sourcePage": 32,
+      "sourceIndex": 886
+    },
+    {
+      "type": "paragraph",
+      "text": "这么强，优先排除。",
+      "sourcePage": 32,
+      "sourceIndex": 887
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 33,
+      "sourceIndex": 888
+    },
+    {
+      "type": "paragraph",
+      "text": "原文说某研究“results were promising, but the sample was small”。可推断作者认为结果值得关注但",
+      "sourcePage": 33,
+      "sourceIndex": 889
+    },
+    {
+      "type": "paragraph",
+      "text": "仍需验证；不能推断研究已被证明正确。",
+      "sourcePage": 33,
+      "sourceIndex": 890
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 33,
+      "sourceIndex": 891
+    },
+    {
+      "type": "paragraph",
+      "text": "· 常识替代证据。",
+      "sourcePage": 33,
+      "sourceIndex": 892
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把 may 推成 must。",
+      "sourcePage": 33,
+      "sourceIndex": 893
+    },
+    {
+      "type": "paragraph",
+      "text": "· 推断人物长期性格。",
+      "sourcePage": 33,
+      "sourceIndex": 894
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 33,
+      "sourceIndex": 895
+    },
+    {
+      "type": "paragraph",
+      "text": "· 证据是什么？",
+      "sourcePage": 33,
+      "sourceIndex": 896
+    },
+    {
+      "type": "paragraph",
+      "text": "· 有没有扩大范围/强度？",
+      "sourcePage": 33,
+      "sourceIndex": 897
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 33,
+      "sourceIndex": 898
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 33,
+      "sourceIndex": 899
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 33,
+      "sourceIndex": 900
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 只能多走半步。",
+      "sourcePage": 33,
+      "sourceIndex": 901
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 33,
+      "sourceIndex": 903
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 推断题允许走几步？",
+      "sourcePage": 33,
+      "sourceIndex": 904
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 原文“dark clouds; took umbrella”可推？",
+      "sourcePage": 33,
+      "sourceIndex": 905
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 能否推“他以前经历暴风雨”？",
+      "sourcePage": 33,
+      "sourceIndex": 906
+    },
+    {
+      "type": "paragraph",
+      "text": "4. must/always 在推断选项中为何危险？",
+      "sourcePage": 33,
+      "sourceIndex": 907
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 两个选项都合理时选哪类？",
+      "sourcePage": 33,
+      "sourceIndex": 908
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 半步/最少必要推理。；2. expected rain；3. 不能。；4. 往往把可能性放大为绝对。；5. 需要额外假",
+      "sourcePage": 33,
+      "sourceIndex": 909
+    },
+    {
+      "type": "paragraph",
+      "text": "设更少、证据更直接的。",
+      "sourcePage": 33,
+      "sourceIndex": 910
+    },
+    {
+      "type": "paragraph",
+      "text": "— R6 本题型到这里。下次卡住直接 Ctrl+F 搜“R6”或题型关键词。—",
+      "sourcePage": 33,
+      "sourceIndex": 911
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R6-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "infer, imply, suggest, conclude, probably, likely。",
+          "sourcePage": 32,
+          "sourceIndex": 867
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Inference：答案不一定原句出现，但必须由文本 支持。",
+          "sourcePage": 32,
+          "sourceIndex": 870
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“证据先写清，只允许往前走半步。”",
+          "sourcePage": 32,
+          "sourceIndex": 872
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这类题区分“合理推断”和“自己编故事”。",
+          "sourcePage": 32,
+          "sourceIndex": 873
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 定位题目对应段落/人物。",
+          "sourcePage": 32,
+          "sourceIndex": 875
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 列出原文明示的1-2个事实。",
+          "sourcePage": 32,
+          "sourceIndex": 876
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 检查每个选项需要添加多少额外假设。",
+          "sourcePage": 32,
+          "sourceIndex": 877
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 选“最少脑补、最贴证据”的。",
+          "sourcePage": 32,
+          "sourceIndex": 878
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 32,
+          "sourceIndex": 879
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 人物行为推断 → 用行为+语气，不猜性格标签过度",
+          "sourcePage": 32,
+          "sourceIndex": 882
+        },
+        {
+          "type": "paragraph",
+          "text": "· 未来行为 → 只根据明确计划/趋势",
+          "sourcePage": 32,
+          "sourceIndex": 883
+        },
+        {
+          "type": "paragraph",
+          "text": "· 作者暗示 → 结合转折、比较和评价词",
+          "sourcePage": 32,
+          "sourceIndex": 884
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "答案只比原文明说多一小步。",
+          "sourcePage": 32,
+          "sourceIndex": 885
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "把选项中的绝对词先圈起来：always, never, must, completely。若原文没有 这么强，优先排除。",
+          "sourcePage": 32,
+          "sourceIndex": 886
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "原文说某研究“results were promising, but the sample was small”。可推断作者认为结果值得关注但 仍需验证；不能推断研究已被证明正确。",
+          "sourcePage": 33,
+          "sourceIndex": 889
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 常识替代证据。",
+          "sourcePage": 33,
+          "sourceIndex": 892
+        },
+        {
+          "type": "paragraph",
+          "text": "· 把 may 推成 must。",
+          "sourcePage": 33,
+          "sourceIndex": 893
+        },
+        {
+          "type": "paragraph",
+          "text": "· 推断人物长期性格。",
+          "sourcePage": 33,
+          "sourceIndex": 894
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 证据是什么？",
+          "sourcePage": 33,
+          "sourceIndex": 896
+        },
+        {
+          "type": "paragraph",
+          "text": "· 有没有扩大范围/强度？",
+          "sourcePage": 33,
+          "sourceIndex": 897
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 33,
+          "sourceIndex": 898
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 33,
+          "sourceIndex": 900
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "只能多走半步。",
+          "sourcePage": 33,
+          "sourceIndex": 901
+        }
+      ]
+    },
+    {
+      "id": "EN-R6-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 推断题允许走几步？",
+          "sourcePage": 33,
+          "sourceIndex": 904
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 原文“dark clouds; took umbrella”可推？",
+          "sourcePage": 33,
+          "sourceIndex": 905
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 能否推“他以前经历暴风雨”？",
+          "sourcePage": 33,
+          "sourceIndex": 906
+        },
+        {
+          "type": "paragraph",
+          "text": "4. must/always 在推断选项中为何危险？",
+          "sourcePage": 33,
+          "sourceIndex": 907
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 两个选项都合理时选哪类？",
+          "sourcePage": 33,
+          "sourceIndex": 908
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 半步/最少必要推理。；2. expected rain；3. 不能。；4. 往往把可能性放大为绝对。；5. 需要额外假 设更少、证据更直接的。",
+          "sourcePage": 33,
+          "sourceIndex": 909
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 32,
+    "endPage": 33
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "EN-12-3",
+  "code": "12.3",
+  "title": "阅读干扰项最终清单",
+  "subject_id": "english",
+  "chapter_id": "en-rescue",
+  "chapter": "急救与索引",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "12.3",
+    "阅读干扰项最终清单",
+    "急救与索引",
+    "some",
+    "all",
+    "may",
+    "must",
+    "helpful",
+    "essential"
+  ],
+  "brain_first": "按原文查阅 阅读干扰项最终清单",
+  "sort_order": 1118,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "· 偷换主语？",
+      "sourcePage": 129,
+      "sourceIndex": 3043
+    },
+    {
+      "type": "paragraph",
+      "text": "· 偷换时间？",
+      "sourcePage": 129,
+      "sourceIndex": 3044
+    },
+    {
+      "type": "paragraph",
+      "text": "· 偷换因果？",
+      "sourcePage": 129,
+      "sourceIndex": 3045
+    },
+    {
+      "type": "paragraph",
+      "text": "· some → all？",
+      "sourcePage": 129,
+      "sourceIndex": 3046
+    },
+    {
+      "type": "paragraph",
+      "text": "· may → must？",
+      "sourcePage": 129,
+      "sourceIndex": 3047
+    },
+    {
+      "type": "paragraph",
+      "text": "· helpful → essential？",
+      "sourcePage": 129,
+      "sourceIndex": 3048
+    },
+    {
+      "type": "paragraph",
+      "text": "· 无中生有？",
+      "sourcePage": 129,
+      "sourceIndex": 3049
+    },
+    {
+      "type": "paragraph",
+      "text": "· 半对半错？",
+      "sourcePage": 129,
+      "sourceIndex": 3050
+    },
+    {
+      "type": "paragraph",
+      "text": "· 原文有同词但答非所问？",
+      "sourcePage": 129,
+      "sourceIndex": 3051
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把例子当结论？",
+      "sourcePage": 129,
+      "sourceIndex": 3052
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把别人观点当作者观点？",
+      "sourcePage": 129,
+      "sourceIndex": 3053
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-12-3-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 偷换主语？",
+          "sourcePage": 129,
+          "sourceIndex": 3043
+        },
+        {
+          "type": "paragraph",
+          "text": "· 偷换时间？",
+          "sourcePage": 129,
+          "sourceIndex": 3044
+        },
+        {
+          "type": "paragraph",
+          "text": "· 偷换因果？",
+          "sourcePage": 129,
+          "sourceIndex": 3045
+        },
+        {
+          "type": "paragraph",
+          "text": "· some → all？",
+          "sourcePage": 129,
+          "sourceIndex": 3046
+        },
+        {
+          "type": "paragraph",
+          "text": "· may → must？",
+          "sourcePage": 129,
+          "sourceIndex": 3047
+        },
+        {
+          "type": "paragraph",
+          "text": "· helpful → essential？",
+          "sourcePage": 129,
+          "sourceIndex": 3048
+        },
+        {
+          "type": "paragraph",
+          "text": "· 无中生有？",
+          "sourcePage": 129,
+          "sourceIndex": 3049
+        },
+        {
+          "type": "paragraph",
+          "text": "· 半对半错？",
+          "sourcePage": 129,
+          "sourceIndex": 3050
+        },
+        {
+          "type": "paragraph",
+          "text": "· 原文有同词但答非所问？",
+          "sourcePage": 129,
+          "sourceIndex": 3051
+        },
+        {
+          "type": "paragraph",
+          "text": "· 把例子当结论？",
+          "sourcePage": 129,
+          "sourceIndex": 3052
+        },
+        {
+          "type": "paragraph",
+          "text": "· 把别人观点当作者观点？",
+          "sourcePage": 129,
+          "sourceIndex": 3053
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 129,
+    "endPage": 129
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "id": "EN-10-5",
+  "code": "10.5",
+  "title": "Scene Description 场景描写：只写会影响故事的环境",
+  "subject_id": "english",
+  "chapter_id": "en-writing",
+  "chapter": "写作工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "10.5",
+    "Scene Description 场景描写：只写会影响故事的环境",
+    "写作工具箱",
+    "Need",
+    "Safe",
+    "pattern",
+    "Example",
+    "Weather",
+    "affects",
+    "action",
+    "The",
+    "rain/wind",
+    "made",
+    "difficult",
+    "heavy",
+    "rain",
+    "the",
+    "road",
+    "hard",
+    "see",
+    "Light/time",
+    "creates",
+    "mood",
+    "street",
+    "was",
+    "already",
+    "dark/",
+    "quiet",
+    "almost",
+    "empty",
+    "then",
+    "Sound",
+    "triggers",
+    "sound/voice",
+    "came",
+    "from",
+    "weak",
+    "cry",
+    "behind",
+    "fence",
+    "Place",
+    "gives",
+    "obstacle",
+    "path/door/gate",
+    "narrow",
+    "path",
+    "blocked",
+    "fallen",
+    "branch"
+  ],
+  "brain_first": "按原文查阅 Scene Description 场景描写：只写会影响故事的环境",
+  "sort_order": 1106,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "续写中的环境不是为了堆形容词，而是服务动作和情绪。基础学生每次写1-2个有用细节就够。",
+      "sourcePage": 123,
+      "sourceIndex": 2999
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Need",
+          "Safe pattern",
+          "Example"
+        ],
+        [
+          "Weather affects action",
+          "The rain/wind made it difficult to...",
+          "The heavy rain made the road hard to see."
+        ],
+        [
+          "Light/time creates\nmood",
+          "The street was already dark/\nquiet...",
+          "The street was almost empty by then."
+        ],
+        [
+          "Sound triggers action",
+          "A sound/voice came from...",
+          "A weak cry came from behind the fence."
+        ],
+        [
+          "Place gives obstacle",
+          "The path/door/gate was...",
+          "The narrow path was blocked by a fallen\nbranch."
+        ]
+      ],
+      "text": "Need | Safe pattern | Example\nWeather affects action | The rain/wind made it difficult to... | The heavy rain made the road hard to see.\nLight/time creates\nmood | The street was already dark/\nquiet... | The street was almost empty by then.\nSound triggers action | A sound/voice came from... | A weak cry came from behind the fence.\nPlace gives obstacle | The path/door/gate was... | The narrow path was blocked by a fallen\nbranch.",
+      "sourcePage": 123,
+      "sourceIndex": 3000
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "规则：如果删掉这句环境描写，人物行动和情绪完全不受影响，那么它可能只是凑字数。"
+        ]
+      ],
+      "text": " | 规则：如果删掉这句环境描写，人物行动和情绪完全不受影响，那么它可能只是凑字数。",
+      "sourcePage": 123,
+      "sourceIndex": 3001
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-10-5-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "续写中的环境不是为了堆形容词，而是服务动作和情绪。基础学生每次写1-2个有用细节就够。",
+          "sourcePage": 123,
+          "sourceIndex": 2999
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Need",
+              "Safe pattern",
+              "Example"
+            ],
+            [
+              "Weather affects action",
+              "The rain/wind made it difficult to...",
+              "The heavy rain made the road hard to see."
+            ],
+            [
+              "Light/time creates\nmood",
+              "The street was already dark/\nquiet...",
+              "The street was almost empty by then."
+            ],
+            [
+              "Sound triggers action",
+              "A sound/voice came from...",
+              "A weak cry came from behind the fence."
+            ],
+            [
+              "Place gives obstacle",
+              "The path/door/gate was...",
+              "The narrow path was blocked by a fallen\nbranch."
+            ]
+          ],
+          "text": "Need | Safe pattern | Example\nWeather affects action | The rain/wind made it difficult to... | The heavy rain made the road hard to see.\nLight/time creates\nmood | The street was already dark/\nquiet... | The street was almost empty by then.\nSound triggers action | A sound/voice came from... | A weak cry came from behind the fence.\nPlace gives obstacle | The path/door/gate was... | The narrow path was blocked by a fallen\nbranch.",
+          "sourcePage": 123,
+          "sourceIndex": 3000
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "规则：如果删掉这句环境描写，人物行动和情绪完全不受影响，那么它可能只是凑字数。"
+            ]
+          ],
+          "text": " | 规则：如果删掉这句环境描写，人物行动和情绪完全不受影响，那么它可能只是凑字数。",
+          "sourcePage": 123,
+          "sourceIndex": 3001
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 123,
+    "endPage": 123
+  }
+}

@@ -1,0 +1,634 @@
+{
+  "id": "EN-R7",
+  "code": "R7",
+  "title": "作者态度题",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "R7",
+    "作者态度题",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "attitude",
+    "tone",
+    "view",
+    "opinion",
+    "positive",
+    "critical",
+    "cautious",
+    "doubtful",
+    "objective",
+    "concerned",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "author",
+    "researcher",
+    "residents",
+    "writer",
+    "furious",
+    "completely",
+    "opposed",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "negative",
+    "oppose",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "The",
+    "idea",
+    "attractive",
+    "but",
+    "evidence",
+    "still",
+    "limited",
+    "supportive/",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "researchers",
+    "support",
+    "says",
+    "more",
+    "needed",
+    "cautious/doubtful",
+    "Ctrl"
+  ],
+  "brain_first": "“先确认是谁的态度，再看方向，再看强度。”",
+  "sort_order": 1021,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 33,
+      "sourceIndex": 914
+    },
+    {
+      "type": "paragraph",
+      "text": "attitude, tone, view, opinion；选项可能 positive,",
+      "sourcePage": 33,
+      "sourceIndex": 915
+    },
+    {
+      "type": "paragraph",
+      "text": "critical, cautious, doubtful, objective,",
+      "sourcePage": 33,
+      "sourceIndex": 916
+    },
+    {
+      "type": "paragraph",
+      "text": "concerned。",
+      "sourcePage": 33,
+      "sourceIndex": 917
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 33,
+      "sourceIndex": 918
+    },
+    {
+      "type": "paragraph",
+      "text": "作者态度 ≠ 文中人物/研究者态度。",
+      "sourcePage": 33,
+      "sourceIndex": 919
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先确认是谁的态度，再看方向，再看强度。”",
+      "sourcePage": 34,
+      "sourceIndex": 920
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 文章会引用他人观点，命题人常利用这一点偷换主体。",
+      "sourcePage": 34,
+      "sourceIndex": 921
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 34,
+      "sourceIndex": 922
+    },
+    {
+      "type": "paragraph",
+      "text": "1 圈题干对象：author / researcher / residents / writer。",
+      "sourcePage": 34,
+      "sourceIndex": 923
+    },
+    {
+      "type": "paragraph",
+      "text": "2 定位评价性词、转折和结尾判断。",
+      "sourcePage": 34,
+      "sourceIndex": 924
+    },
+    {
+      "type": "paragraph",
+      "text": "3 先分正/负/中，再区分细强度。",
+      "sourcePage": 34,
+      "sourceIndex": 925
+    },
+    {
+      "type": "paragraph",
+      "text": "4 排除过强词：furious, completely opposed 等，除非文本证据很强。",
+      "sourcePage": 34,
+      "sourceIndex": 926
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 34,
+      "sourceIndex": 927
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 34,
+      "sourceIndex": 928
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 34,
+      "sourceIndex": 929
+    },
+    {
+      "type": "paragraph",
+      "text": "· cautious = 有保留，不等于 negative",
+      "sourcePage": 34,
+      "sourceIndex": 930
+    },
+    {
+      "type": "paragraph",
+      "text": "· concerned = 担忧某问题，不等于 oppose",
+      "sourcePage": 34,
+      "sourceIndex": 931
+    },
+    {
+      "type": "paragraph",
+      "text": "· objective = 主要陈述证据，明显少评价",
+      "sourcePage": 34,
+      "sourceIndex": 932
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 主体、方向、强度都对。",
+      "sourcePage": 34,
+      "sourceIndex": 933
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 两个态度词接近时，回到作者自己的评价句，而不是引用内容。",
+      "sourcePage": 34,
+      "sourceIndex": 934
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 34,
+      "sourceIndex": 935
+    },
+    {
+      "type": "paragraph",
+      "text": "作者写：The idea is attractive, but evidence is still limited. 更接近 cautious，而非 supportive/",
+      "sourcePage": 34,
+      "sourceIndex": 936
+    },
+    {
+      "type": "paragraph",
+      "text": "critical。",
+      "sourcePage": 34,
+      "sourceIndex": 937
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 34,
+      "sourceIndex": 938
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把“被引用专家”的态度当作者态度。",
+      "sourcePage": 34,
+      "sourceIndex": 939
+    },
+    {
+      "type": "paragraph",
+      "text": "· 情绪强度过度。",
+      "sourcePage": 34,
+      "sourceIndex": 940
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 34,
+      "sourceIndex": 941
+    },
+    {
+      "type": "paragraph",
+      "text": "· 谁在说？",
+      "sourcePage": 34,
+      "sourceIndex": 942
+    },
+    {
+      "type": "paragraph",
+      "text": "· 正负中？",
+      "sourcePage": 34,
+      "sourceIndex": 943
+    },
+    {
+      "type": "paragraph",
+      "text": "· 强度合适？",
+      "sourcePage": 34,
+      "sourceIndex": 944
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 35,
+      "sourceIndex": 945
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 35,
+      "sourceIndex": 946
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 35,
+      "sourceIndex": 947
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 态度题三问：谁、方向、强度。",
+      "sourcePage": 35,
+      "sourceIndex": 948
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 35,
+      "sourceIndex": 950
+    },
+    {
+      "type": "paragraph",
+      "text": "1. researchers support，author says more evidence needed。作者态度？",
+      "sourcePage": 35,
+      "sourceIndex": 951
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 作者态度和文中人物态度可以混吗？",
+      "sourcePage": 35,
+      "sourceIndex": 952
+    },
+    {
+      "type": "paragraph",
+      "text": "3. concerned 属于纯negative吗？",
+      "sourcePage": 35,
+      "sourceIndex": 953
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 态度题只数正负词够吗？",
+      "sourcePage": 35,
+      "sourceIndex": 954
+    },
+    {
+      "type": "paragraph",
+      "text": "5. “objective”通常意味着？",
+      "sourcePage": 35,
+      "sourceIndex": 955
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. cautious/doubtful；2. 不可以。；3. 通常是担忧/谨慎，强度不同于critical。；4. 不够，要看谁说、",
+      "sourcePage": 35,
+      "sourceIndex": 956
+    },
+    {
+      "type": "paragraph",
+      "text": "对什么对象。；5. 以事实/中性说明为主，无明显褒贬。",
+      "sourcePage": 35,
+      "sourceIndex": 957
+    },
+    {
+      "type": "paragraph",
+      "text": "— R7 本题型到这里。下次卡住直接 Ctrl+F 搜“R7”或题型关键词。—",
+      "sourcePage": 35,
+      "sourceIndex": 958
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R7-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "attitude, tone, view, opinion；选项可能 positive, critical, cautious, doubtful, objective, concerned。",
+          "sourcePage": 33,
+          "sourceIndex": 915
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "作者态度 ≠ 文中人物/研究者态度。",
+          "sourcePage": 33,
+          "sourceIndex": 919
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先确认是谁的态度，再看方向，再看强度。”",
+          "sourcePage": 34,
+          "sourceIndex": 920
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "文章会引用他人观点，命题人常利用这一点偷换主体。",
+          "sourcePage": 34,
+          "sourceIndex": 921
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 圈题干对象：author / researcher / residents / writer。",
+          "sourcePage": 34,
+          "sourceIndex": 923
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 定位评价性词、转折和结尾判断。",
+          "sourcePage": 34,
+          "sourceIndex": 924
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 先分正/负/中，再区分细强度。",
+          "sourcePage": 34,
+          "sourceIndex": 925
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 排除过强词：furious, completely opposed 等，除非文本证据很强。",
+          "sourcePage": 34,
+          "sourceIndex": 926
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 34,
+          "sourceIndex": 927
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· cautious = 有保留，不等于 negative",
+          "sourcePage": 34,
+          "sourceIndex": 930
+        },
+        {
+          "type": "paragraph",
+          "text": "· concerned = 担忧某问题，不等于 oppose",
+          "sourcePage": 34,
+          "sourceIndex": 931
+        },
+        {
+          "type": "paragraph",
+          "text": "· objective = 主要陈述证据，明显少评价",
+          "sourcePage": 34,
+          "sourceIndex": 932
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "主体、方向、强度都对。",
+          "sourcePage": 34,
+          "sourceIndex": 933
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "两个态度词接近时，回到作者自己的评价句，而不是引用内容。",
+          "sourcePage": 34,
+          "sourceIndex": 934
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "作者写：The idea is attractive, but evidence is still limited. 更接近 cautious，而非 supportive/ critical。",
+          "sourcePage": 34,
+          "sourceIndex": 936
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把“被引用专家”的态度当作者态度。",
+          "sourcePage": 34,
+          "sourceIndex": 939
+        },
+        {
+          "type": "paragraph",
+          "text": "· 情绪强度过度。",
+          "sourcePage": 34,
+          "sourceIndex": 940
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 谁在说？",
+          "sourcePage": 34,
+          "sourceIndex": 942
+        },
+        {
+          "type": "paragraph",
+          "text": "· 正负中？",
+          "sourcePage": 34,
+          "sourceIndex": 943
+        },
+        {
+          "type": "paragraph",
+          "text": "· 强度合适？",
+          "sourcePage": 34,
+          "sourceIndex": 944
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 35,
+          "sourceIndex": 945
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 35,
+          "sourceIndex": 947
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "态度题三问：谁、方向、强度。",
+          "sourcePage": 35,
+          "sourceIndex": 948
+        }
+      ]
+    },
+    {
+      "id": "EN-R7-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. researchers support，author says more evidence needed。作者态度？",
+          "sourcePage": 35,
+          "sourceIndex": 951
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 作者态度和文中人物态度可以混吗？",
+          "sourcePage": 35,
+          "sourceIndex": 952
+        },
+        {
+          "type": "paragraph",
+          "text": "3. concerned 属于纯negative吗？",
+          "sourcePage": 35,
+          "sourceIndex": 953
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 态度题只数正负词够吗？",
+          "sourcePage": 35,
+          "sourceIndex": 954
+        },
+        {
+          "type": "paragraph",
+          "text": "5. “objective”通常意味着？",
+          "sourcePage": 35,
+          "sourceIndex": 955
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. cautious/doubtful；2. 不可以。；3. 通常是担忧/谨慎，强度不同于critical。；4. 不够，要看谁说、 对什么对象。；5. 以事实/中性说明为主，无明显褒贬。",
+          "sourcePage": 35,
+          "sourceIndex": 956
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 33,
+    "endPage": 35
+  }
+}

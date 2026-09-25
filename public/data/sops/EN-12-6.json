@@ -1,0 +1,128 @@
+{
+  "id": "EN-12-6",
+  "code": "12.6",
+  "title": "读后续写最终清单",
+  "subject_id": "english",
+  "chapter_id": "en-rescue",
+  "chapter": "急救与索引",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "12.6",
+    "读后续写最终清单",
+    "急救与索引"
+  ],
+  "brain_first": "按原文查阅 读后续写最终清单",
+  "sort_order": 1121,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "1. 人物没有突然增加或性格突变",
+      "sourcePage": 130,
+      "sourceIndex": 3078
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 第一段结尾能接第二段首句",
+      "sourcePage": 130,
+      "sourceIndex": 3079
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 第二段解决原文主要问题",
+      "sourcePage": 130,
+      "sourceIndex": 3080
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 动作有因果",
+      "sourcePage": 130,
+      "sourceIndex": 3081
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 情绪由事件触发",
+      "sourcePage": 130,
+      "sourceIndex": 3082
+    },
+    {
+      "type": "paragraph",
+      "text": "6. 时态基本统一",
+      "sourcePage": 130,
+      "sourceIndex": 3083
+    },
+    {
+      "type": "paragraph",
+      "text": "7. 没有大量模板化哲理句",
+      "sourcePage": 130,
+      "sourceIndex": 3084
+    },
+    {
+      "type": "paragraph",
+      "text": "8. 字数约150词（以当年试卷要求为准）",
+      "sourcePage": 130,
+      "sourceIndex": 3085
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-12-6-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 人物没有突然增加或性格突变",
+          "sourcePage": 130,
+          "sourceIndex": 3078
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 第一段结尾能接第二段首句",
+          "sourcePage": 130,
+          "sourceIndex": 3079
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 第二段解决原文主要问题",
+          "sourcePage": 130,
+          "sourceIndex": 3080
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 动作有因果",
+          "sourcePage": 130,
+          "sourceIndex": 3081
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 情绪由事件触发",
+          "sourcePage": 130,
+          "sourceIndex": 3082
+        },
+        {
+          "type": "paragraph",
+          "text": "6. 时态基本统一",
+          "sourcePage": 130,
+          "sourceIndex": 3083
+        },
+        {
+          "type": "paragraph",
+          "text": "7. 没有大量模板化哲理句",
+          "sourcePage": 130,
+          "sourceIndex": 3084
+        },
+        {
+          "type": "paragraph",
+          "text": "8. 字数约150词（以当年试卷要求为准）",
+          "sourcePage": 130,
+          "sourceIndex": 3085
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 130,
+    "endPage": 130
+  }
+}

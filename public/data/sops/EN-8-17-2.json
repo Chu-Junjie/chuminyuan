@@ -1,0 +1,126 @@
+{
+  "id": "EN-8-17-2",
+  "code": "8.17",
+  "title": "Discourse & Genre 语篇类型：先判断“这篇文章在干什么”",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.17",
+    "Discourse & Genre 语篇类型：先判断“这篇文章在干什么”",
+    "语法工具箱",
+    "Type",
+    "Narrative",
+    "Expository",
+    "Argumentative",
+    "News",
+    "Practical/Web"
+  ],
+  "brain_first": "按原文查阅 Discourse & Genre 语篇类型：先判断“这篇文章在干什么”",
+  "sort_order": 1089,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Type",
+          "常见结构",
+          "考试时先抓"
+        ],
+        [
+          "Narrative 记叙",
+          "人物→问题→行动→转折→结果",
+          "时间线、人物动机、情绪变化"
+        ],
+        [
+          "Expository 说明",
+          "对象→特征/原因/过程→例子",
+          "主题句、分类、因果"
+        ],
+        [
+          "Argumentative 议论",
+          "观点→理由→证据/例子→结论",
+          "作者立场、论据服务哪个观点"
+        ],
+        [
+          "News 新闻",
+          "核心事件→关键事实→背景/影响",
+          "谁、什么、何时、何地、为什么重要"
+        ],
+        [
+          "Practical/Web 实用/网页",
+          "栏目、卡片、表格、规则",
+          "题干条件→对应栏，不顺序通读"
+        ]
+      ],
+      "text": "Type | 常见结构 | 考试时先抓\nNarrative 记叙 | 人物→问题→行动→转折→结果 | 时间线、人物动机、情绪变化\nExpository 说明 | 对象→特征/原因/过程→例子 | 主题句、分类、因果\nArgumentative 议论 | 观点→理由→证据/例子→结论 | 作者立场、论据服务哪个观点\nNews 新闻 | 核心事件→关键事实→背景/影响 | 谁、什么、何时、何地、为什么重要\nPractical/Web 实用/网页 | 栏目、卡片、表格、规则 | 题干条件→对应栏，不顺序通读",
+      "sourcePage": 114,
+      "sourceIndex": 2930
+    },
+    {
+      "type": "paragraph",
+      "text": "脑内第一句话：先给每段贴“功能标签”，再处理细节；结构看懂后，主旨、目的、七选五都会更稳。",
+      "sourcePage": 114,
+      "sourceIndex": 2931
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-17-2-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Type",
+              "常见结构",
+              "考试时先抓"
+            ],
+            [
+              "Narrative 记叙",
+              "人物→问题→行动→转折→结果",
+              "时间线、人物动机、情绪变化"
+            ],
+            [
+              "Expository 说明",
+              "对象→特征/原因/过程→例子",
+              "主题句、分类、因果"
+            ],
+            [
+              "Argumentative 议论",
+              "观点→理由→证据/例子→结论",
+              "作者立场、论据服务哪个观点"
+            ],
+            [
+              "News 新闻",
+              "核心事件→关键事实→背景/影响",
+              "谁、什么、何时、何地、为什么重要"
+            ],
+            [
+              "Practical/Web 实用/网页",
+              "栏目、卡片、表格、规则",
+              "题干条件→对应栏，不顺序通读"
+            ]
+          ],
+          "text": "Type | 常见结构 | 考试时先抓\nNarrative 记叙 | 人物→问题→行动→转折→结果 | 时间线、人物动机、情绪变化\nExpository 说明 | 对象→特征/原因/过程→例子 | 主题句、分类、因果\nArgumentative 议论 | 观点→理由→证据/例子→结论 | 作者立场、论据服务哪个观点\nNews 新闻 | 核心事件→关键事实→背景/影响 | 谁、什么、何时、何地、为什么重要\nPractical/Web 实用/网页 | 栏目、卡片、表格、规则 | 题干条件→对应栏，不顺序通读",
+          "sourcePage": 114,
+          "sourceIndex": 2930
+        },
+        {
+          "type": "paragraph",
+          "text": "脑内第一句话：先给每段贴“功能标签”，再处理细节；结构看懂后，主旨、目的、七选五都会更稳。",
+          "sourcePage": 114,
+          "sourceIndex": 2931
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 114,
+    "endPage": 114
+  }
+}

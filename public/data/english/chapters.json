@@ -1,0 +1,86 @@
+[
+  {
+    "id": "en-overview",
+    "subject_id": "english",
+    "title": "使用说明与范围",
+    "sort_order": 0
+  },
+  {
+    "id": "en-listening",
+    "subject_id": "english",
+    "title": "听力",
+    "sort_order": 1
+  },
+  {
+    "id": "en-reading",
+    "subject_id": "english",
+    "title": "阅读理解",
+    "sort_order": 2
+  },
+  {
+    "id": "en-gap",
+    "subject_id": "english",
+    "title": "七选五",
+    "sort_order": 3
+  },
+  {
+    "id": "en-cloze",
+    "subject_id": "english",
+    "title": "完形填空",
+    "sort_order": 4
+  },
+  {
+    "id": "en-grammar-filling",
+    "subject_id": "english",
+    "title": "语法填空",
+    "sort_order": 5
+  },
+  {
+    "id": "en-practical",
+    "subject_id": "english",
+    "title": "应用文写作",
+    "sort_order": 6
+  },
+  {
+    "id": "en-continuation",
+    "subject_id": "english",
+    "title": "读后续写",
+    "sort_order": 7
+  },
+  {
+    "id": "en-grammar",
+    "subject_id": "english",
+    "title": "语法工具箱",
+    "sort_order": 8
+  },
+  {
+    "id": "en-vocabulary",
+    "subject_id": "english",
+    "title": "词汇工具箱",
+    "sort_order": 9
+  },
+  {
+    "id": "en-writing",
+    "subject_id": "english",
+    "title": "写作工具箱",
+    "sort_order": 10
+  },
+  {
+    "id": "en-yilin",
+    "subject_id": "english",
+    "title": "译林版教材对接",
+    "sort_order": 11
+  },
+  {
+    "id": "en-rescue",
+    "subject_id": "english",
+    "title": "急救与索引",
+    "sort_order": 12
+  },
+  {
+    "id": "en-appendix",
+    "subject_id": "english",
+    "title": "巩固与附录",
+    "sort_order": 13
+  }
+]

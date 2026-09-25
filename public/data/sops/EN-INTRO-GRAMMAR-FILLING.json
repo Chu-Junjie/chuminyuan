@@ -1,0 +1,77 @@
+{
+  "id": "EN-INTRO-GRAMMAR-FILLING",
+  "code": "INTRO-GRAMMAR-FILLING",
+  "title": "语法填空 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-grammar-filling",
+  "chapter": "语法填空",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-GRAMMAR-FILLING",
+    "语法填空 · 总览",
+    "语法填空",
+    "Part",
+    "Grammar",
+    "Filling"
+  ],
+  "brain_first": "按原文查阅 语法填空 · 总览",
+  "sort_order": 1048,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part V - Grammar Filling 语法填空",
+      "sourcePage": 75,
+      "sourceIndex": 2061
+    },
+    {
+      "type": "paragraph",
+      "text": "语法填空第一反应不是“这是什么语法”，而是：这个空有没有给提示词？ 这一步能把十几种可能迅速分成两",
+      "sourcePage": 75,
+      "sourceIndex": 2062
+    },
+    {
+      "type": "paragraph",
+      "text": "大类。",
+      "sourcePage": 75,
+      "sourceIndex": 2063
+    },
+    {
+      "type": "paragraph",
+      "text": "总决策树：给词 → 判断词性和句中任务；不给词 → 判断空位需要“小词”还是“连接词”。动词题永远",
+      "sourcePage": 75,
+      "sourceIndex": 2064
+    },
+    {
+      "type": "paragraph",
+      "text": "先看“句子已经有谓语了吗？”",
+      "sourcePage": 75,
+      "sourceIndex": 2065
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-GRAMMAR-FILLING-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part V - Grammar Filling 语法填空 语法填空第一反应不是“这是什么语法”，而是：这个空有没有给提示词？ 这一步能把十几种可能迅速分成两 大类。",
+          "sourcePage": 75,
+          "sourceIndex": 2061
+        },
+        {
+          "type": "paragraph",
+          "text": "总决策树：给词 → 判断词性和句中任务；不给词 → 判断空位需要“小词”还是“连接词”。动词题永远 先看“句子已经有谓语了吗？”",
+          "sourcePage": 75,
+          "sourceIndex": 2064
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 75,
+    "endPage": 75
+  }
+}

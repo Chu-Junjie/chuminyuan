@@ -1,0 +1,92 @@
+{
+  "id": "EN-8-17",
+  "code": "8.17",
+  "title": "Negation & Scope 否定和范围",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.17",
+    "Negation & Scope 否定和范围",
+    "语法工具箱",
+    "not",
+    "all",
+    "none",
+    "hardly",
+    "rarely",
+    "seldom",
+    "without",
+    "fail",
+    "refuse",
+    "always",
+    "completely",
+    "never"
+  ],
+  "brain_first": "按原文查阅 Negation & Scope 否定和范围",
+  "sort_order": 1088,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "· not all = 并非全部，不等于 none。",
+      "sourcePage": 114,
+      "sourceIndex": 2925
+    },
+    {
+      "type": "paragraph",
+      "text": "· hardly / rarely / seldom 本身带否定倾向。",
+      "sourcePage": 114,
+      "sourceIndex": 2926
+    },
+    {
+      "type": "paragraph",
+      "text": "· without / fail to / refuse to 可表达否定意义。",
+      "sourcePage": 114,
+      "sourceIndex": 2927
+    },
+    {
+      "type": "paragraph",
+      "text": "· 阅读选项里 always / completely / never 常比原文更强，要检查证据。",
+      "sourcePage": 114,
+      "sourceIndex": 2928
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-17-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· not all = 并非全部，不等于 none。",
+          "sourcePage": 114,
+          "sourceIndex": 2925
+        },
+        {
+          "type": "paragraph",
+          "text": "· hardly / rarely / seldom 本身带否定倾向。",
+          "sourcePage": 114,
+          "sourceIndex": 2926
+        },
+        {
+          "type": "paragraph",
+          "text": "· without / fail to / refuse to 可表达否定意义。",
+          "sourcePage": 114,
+          "sourceIndex": 2927
+        },
+        {
+          "type": "paragraph",
+          "text": "· 阅读选项里 always / completely / never 常比原文更强，要检查证据。",
+          "sourcePage": 114,
+          "sourceIndex": 2928
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 114,
+    "endPage": 114
+  }
+}

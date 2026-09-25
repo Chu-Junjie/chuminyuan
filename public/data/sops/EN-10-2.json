@@ -1,0 +1,139 @@
+{
+  "id": "EN-10-2",
+  "code": "10.2",
+  "title": "句子升级阶梯",
+  "subject_id": "english",
+  "chapter_id": "en-writing",
+  "chapter": "写作工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "10.2",
+    "句子升级阶梯",
+    "写作工具箱",
+    "Level",
+    "Move",
+    "Example",
+    "Correct",
+    "The",
+    "club",
+    "meets",
+    "every",
+    "Friday",
+    "Specific",
+    "after",
+    "school",
+    "Reason",
+    "because/so",
+    "recommend",
+    "because",
+    "members",
+    "practise",
+    "speaking",
+    "Natural",
+    "combination",
+    "giving",
+    "regular",
+    "practice",
+    "Optional",
+    "advanced",
+    "What",
+    "value",
+    "most",
+    "the",
+    "chance"
+  ],
+  "brain_first": "按原文查阅 句子升级阶梯",
+  "sort_order": 1103,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Level",
+          "Move",
+          "Example"
+        ],
+        [
+          "1 Correct",
+          "先写正确简单句",
+          "The club meets every Friday."
+        ],
+        [
+          "2 Specific",
+          "加具体信息",
+          "The club meets every Friday after school."
+        ],
+        [
+          "3 Reason",
+          "加because/so",
+          "I recommend it because members practise speaking."
+        ],
+        [
+          "4 Natural\ncombination",
+          "合并两个关系清楚的句\n子",
+          "The club meets every Friday, giving members regular\npractice."
+        ],
+        [
+          "5 Optional advanced",
+          "你能控制才用",
+          "What I value most is the chance to..."
+        ]
+      ],
+      "text": "Level | Move | Example\n1 Correct | 先写正确简单句 | The club meets every Friday.\n2 Specific | 加具体信息 | The club meets every Friday after school.\n3 Reason | 加because/so | I recommend it because members practise speaking.\n4 Natural\ncombination | 合并两个关系清楚的句\n子 | The club meets every Friday, giving members regular\npractice.\n5 Optional advanced | 你能控制才用 | What I value most is the chance to...",
+      "sourcePage": 122,
+      "sourceIndex": 2989
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-10-2-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Level",
+              "Move",
+              "Example"
+            ],
+            [
+              "1 Correct",
+              "先写正确简单句",
+              "The club meets every Friday."
+            ],
+            [
+              "2 Specific",
+              "加具体信息",
+              "The club meets every Friday after school."
+            ],
+            [
+              "3 Reason",
+              "加because/so",
+              "I recommend it because members practise speaking."
+            ],
+            [
+              "4 Natural\ncombination",
+              "合并两个关系清楚的句\n子",
+              "The club meets every Friday, giving members regular\npractice."
+            ],
+            [
+              "5 Optional advanced",
+              "你能控制才用",
+              "What I value most is the chance to..."
+            ]
+          ],
+          "text": "Level | Move | Example\n1 Correct | 先写正确简单句 | The club meets every Friday.\n2 Specific | 加具体信息 | The club meets every Friday after school.\n3 Reason | 加because/so | I recommend it because members practise speaking.\n4 Natural\ncombination | 合并两个关系清楚的句\n子 | The club meets every Friday, giving members regular\npractice.\n5 Optional advanced | 你能控制才用 | What I value most is the chance to...",
+          "sourcePage": 122,
+          "sourceIndex": 2989
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 122,
+    "endPage": 122
+  }
+}

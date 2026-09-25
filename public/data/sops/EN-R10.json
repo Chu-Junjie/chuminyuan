@@ -1,0 +1,587 @@
+{
+  "id": "EN-R10",
+  "code": "R10",
+  "title": "主旨大意题",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "R10",
+    "主旨大意题",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "main",
+    "idea",
+    "mainly",
+    "about",
+    "best",
+    "summary",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Main",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "education",
+    "human",
+    "history",
+    "Ctrl"
+  ],
+  "brain_first": "“找每段共同围绕的核心，不要被某个精彩细节吸走。”",
+  "sort_order": 1024,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 38,
+      "sourceIndex": 1052
+    },
+    {
+      "type": "paragraph",
+      "text": "main idea / mainly about / best summary。",
+      "sourcePage": 38,
+      "sourceIndex": 1053
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 38,
+      "sourceIndex": 1054
+    },
+    {
+      "type": "paragraph",
+      "text": "Main idea：整篇或一段最核心的信息。",
+      "sourcePage": 38,
+      "sourceIndex": 1055
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “找每段共同围绕的核心，不要被某个精彩细节吸走。”",
+      "sourcePage": 38,
+      "sourceIndex": 1056
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 主旨题考信息层级：细节 < 分论点 < 总主题。",
+      "sourcePage": 38,
+      "sourceIndex": 1057
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 38,
+      "sourceIndex": 1058
+    },
+    {
+      "type": "paragraph",
+      "text": "1 快速看首段主题入口。",
+      "sourcePage": 38,
+      "sourceIndex": 1059
+    },
+    {
+      "type": "paragraph",
+      "text": "2 给每段用3-6个字写“小标签”。",
+      "sourcePage": 38,
+      "sourceIndex": 1060
+    },
+    {
+      "type": "paragraph",
+      "text": "3 找这些标签共同指向什么。",
+      "sourcePage": 38,
+      "sourceIndex": 1061
+    },
+    {
+      "type": "paragraph",
+      "text": "4 比较选项范围：太窄、太大、跑题都删。",
+      "sourcePage": 38,
+      "sourceIndex": 1062
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 39,
+      "sourceIndex": 1063
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 39,
+      "sourceIndex": 1064
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 39,
+      "sourceIndex": 1065
+    },
+    {
+      "type": "paragraph",
+      "text": "· 故事类 → 主旨常是人物经历/变化，不是单一事件",
+      "sourcePage": 39,
+      "sourceIndex": 1066
+    },
+    {
+      "type": "paragraph",
+      "text": "· 说明文 → 看解释对象+核心发现/作用",
+      "sourcePage": 39,
+      "sourceIndex": 1067
+    },
+    {
+      "type": "paragraph",
+      "text": "· 议论/观点文 → 看中心主张+主要理由",
+      "sourcePage": 39,
+      "sourceIndex": 1068
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 选项能覆盖多数段落，又不无限泛化。",
+      "sourcePage": 39,
+      "sourceIndex": 1069
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 如果不会概括全文，先回答“作者为什么要把这几段放在一起？”",
+      "sourcePage": 39,
+      "sourceIndex": 1070
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 39,
+      "sourceIndex": 1071
+    },
+    {
+      "type": "paragraph",
+      "text": "四段分别写社区花园的建立、参与、健康效果和扩展计划。主旨应是社区花园及其影响，而不是“健康饮",
+      "sourcePage": 39,
+      "sourceIndex": 1072
+    },
+    {
+      "type": "paragraph",
+      "text": "食”一个细节。",
+      "sourcePage": 39,
+      "sourceIndex": 1073
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 39,
+      "sourceIndex": 1074
+    },
+    {
+      "type": "paragraph",
+      "text": "· 选择最有哲理的选项。",
+      "sourcePage": 39,
+      "sourceIndex": 1075
+    },
+    {
+      "type": "paragraph",
+      "text": "· 范围太窄/太大。",
+      "sourcePage": 39,
+      "sourceIndex": 1076
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 39,
+      "sourceIndex": 1077
+    },
+    {
+      "type": "paragraph",
+      "text": "· 能覆盖每段吗？",
+      "sourcePage": 39,
+      "sourceIndex": 1078
+    },
+    {
+      "type": "paragraph",
+      "text": "· 有没有超出文章范围？",
+      "sourcePage": 39,
+      "sourceIndex": 1079
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 39,
+      "sourceIndex": 1080
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 39,
+      "sourceIndex": 1081
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 39,
+      "sourceIndex": 1082
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 主旨 = 每段共同围着转的东西。",
+      "sourcePage": 39,
+      "sourceIndex": 1083
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 39,
+      "sourceIndex": 1085
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 主旨题最怕什么？",
+      "sourcePage": 39,
+      "sourceIndex": 1086
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 给每段贴1-3词标签的作用？",
+      "sourcePage": 39,
+      "sourceIndex": 1087
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 选项只覆盖一段通常？",
+      "sourcePage": 39,
+      "sourceIndex": 1088
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 选项“education in human history”而文章只讲一所学校改革，问题？",
+      "sourcePage": 39,
+      "sourceIndex": 1089
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 主旨正确答案应覆盖？",
+      "sourcePage": 39,
+      "sourceIndex": 1090
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 被某个具体细节吸走。；2. 找共同核心。；3. 太窄。；4. 范围过大。；5. 文章大部分段落和作者核心",
+      "sourcePage": 40,
+      "sourceIndex": 1091
+    },
+    {
+      "type": "paragraph",
+      "text": "话题。",
+      "sourcePage": 40,
+      "sourceIndex": 1092
+    },
+    {
+      "type": "paragraph",
+      "text": "— R10 本题型到这里。下次卡住直接 Ctrl+F 搜“R10”或题型关键词。—",
+      "sourcePage": 40,
+      "sourceIndex": 1093
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R10-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "main idea / mainly about / best summary。",
+          "sourcePage": 38,
+          "sourceIndex": 1053
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Main idea：整篇或一段最核心的信息。",
+          "sourcePage": 38,
+          "sourceIndex": 1055
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“找每段共同围绕的核心，不要被某个精彩细节吸走。”",
+          "sourcePage": 38,
+          "sourceIndex": 1056
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "主旨题考信息层级：细节 < 分论点 < 总主题。",
+          "sourcePage": 38,
+          "sourceIndex": 1057
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 快速看首段主题入口。",
+          "sourcePage": 38,
+          "sourceIndex": 1059
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 给每段用3-6个字写“小标签”。",
+          "sourcePage": 38,
+          "sourceIndex": 1060
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 找这些标签共同指向什么。",
+          "sourcePage": 38,
+          "sourceIndex": 1061
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 比较选项范围：太窄、太大、跑题都删。",
+          "sourcePage": 38,
+          "sourceIndex": 1062
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 39,
+          "sourceIndex": 1063
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 故事类 → 主旨常是人物经历/变化，不是单一事件",
+          "sourcePage": 39,
+          "sourceIndex": 1066
+        },
+        {
+          "type": "paragraph",
+          "text": "· 说明文 → 看解释对象+核心发现/作用",
+          "sourcePage": 39,
+          "sourceIndex": 1067
+        },
+        {
+          "type": "paragraph",
+          "text": "· 议论/观点文 → 看中心主张+主要理由",
+          "sourcePage": 39,
+          "sourceIndex": 1068
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "选项能覆盖多数段落，又不无限泛化。",
+          "sourcePage": 39,
+          "sourceIndex": 1069
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果不会概括全文，先回答“作者为什么要把这几段放在一起？”",
+          "sourcePage": 39,
+          "sourceIndex": 1070
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "四段分别写社区花园的建立、参与、健康效果和扩展计划。主旨应是社区花园及其影响，而不是“健康饮 食”一个细节。",
+          "sourcePage": 39,
+          "sourceIndex": 1072
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 选择最有哲理的选项。",
+          "sourcePage": 39,
+          "sourceIndex": 1075
+        },
+        {
+          "type": "paragraph",
+          "text": "· 范围太窄/太大。",
+          "sourcePage": 39,
+          "sourceIndex": 1076
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 能覆盖每段吗？",
+          "sourcePage": 39,
+          "sourceIndex": 1078
+        },
+        {
+          "type": "paragraph",
+          "text": "· 有没有超出文章范围？",
+          "sourcePage": 39,
+          "sourceIndex": 1079
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 39,
+          "sourceIndex": 1080
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 39,
+          "sourceIndex": 1082
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "主旨 = 每段共同围着转的东西。",
+          "sourcePage": 39,
+          "sourceIndex": 1083
+        }
+      ]
+    },
+    {
+      "id": "EN-R10-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 主旨题最怕什么？",
+          "sourcePage": 39,
+          "sourceIndex": 1086
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 给每段贴1-3词标签的作用？",
+          "sourcePage": 39,
+          "sourceIndex": 1087
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 选项只覆盖一段通常？",
+          "sourcePage": 39,
+          "sourceIndex": 1088
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 选项“education in human history”而文章只讲一所学校改革，问题？",
+          "sourcePage": 39,
+          "sourceIndex": 1089
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 主旨正确答案应覆盖？",
+          "sourcePage": 39,
+          "sourceIndex": 1090
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 被某个具体细节吸走。；2. 找共同核心。；3. 太窄。；4. 范围过大。；5. 文章大部分段落和作者核心 话题。",
+          "sourcePage": 40,
+          "sourceIndex": 1091
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 38,
+    "endPage": 40
+  }
+}

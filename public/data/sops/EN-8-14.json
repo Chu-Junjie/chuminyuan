@@ -1,0 +1,167 @@
+{
+  "id": "EN-8-14",
+  "code": "8.14",
+  "title": "Adjectives, Adverbs & Comparison 形容词副词与比较",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.14",
+    "Adjectives, Adverbs & Comparison 形容词副词与比较",
+    "语法工具箱",
+    "Pattern",
+    "Example",
+    "comparative",
+    "than",
+    "faster",
+    "much/even/far",
+    "much",
+    "better",
+    "the",
+    "superlative",
+    "range",
+    "most",
+    "useful",
+    "three",
+    "adj/adv",
+    "carefully",
+    "not",
+    "as/so",
+    "expensive",
+    "more",
+    "The",
+    "you",
+    "practise",
+    "easier",
+    "becomes",
+    "one",
+    "plural",
+    "noun",
+    "methods",
+    "in/of",
+    "all/the"
+  ],
+  "brain_first": "按原文查阅 Adjectives, Adverbs & Comparison 形容词副词与比较",
+  "sort_order": 1085,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Pattern",
+          "Example"
+        ],
+        [
+          "comparative + than",
+          "faster than"
+        ],
+        [
+          "much/even/far + comparative",
+          "much better"
+        ],
+        [
+          "the + superlative + range",
+          "the most useful of the three"
+        ],
+        [
+          "as + adj/adv + as",
+          "as carefully as"
+        ],
+        [
+          "not as/so...as",
+          "not as expensive as"
+        ],
+        [
+          "the more..., the more...",
+          "The more you practise, the easier it becomes."
+        ],
+        [
+          "one of the + superlative + plural noun",
+          "one of the most useful methods"
+        ]
+      ],
+      "text": "Pattern | Example\ncomparative + than | faster than\nmuch/even/far + comparative | much better\nthe + superlative + range | the most useful of the three\nas + adj/adv + as | as carefully as\nnot as/so...as | not as expensive as\nthe more..., the more... | The more you practise, the easier it becomes.\none of the + superlative + plural noun | one of the most useful methods",
+      "sourcePage": 112,
+      "sourceIndex": 2896
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "语法填空看到 than：立刻检查比较级；看到范围 in/of all/the three，检查最高级。"
+        ]
+      ],
+      "text": " | 语法填空看到 than：立刻检查比较级；看到范围 in/of all/the three，检查最高级。",
+      "sourcePage": 113,
+      "sourceIndex": 2897
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-14-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pattern",
+              "Example"
+            ],
+            [
+              "comparative + than",
+              "faster than"
+            ],
+            [
+              "much/even/far + comparative",
+              "much better"
+            ],
+            [
+              "the + superlative + range",
+              "the most useful of the three"
+            ],
+            [
+              "as + adj/adv + as",
+              "as carefully as"
+            ],
+            [
+              "not as/so...as",
+              "not as expensive as"
+            ],
+            [
+              "the more..., the more...",
+              "The more you practise, the easier it becomes."
+            ],
+            [
+              "one of the + superlative + plural noun",
+              "one of the most useful methods"
+            ]
+          ],
+          "text": "Pattern | Example\ncomparative + than | faster than\nmuch/even/far + comparative | much better\nthe + superlative + range | the most useful of the three\nas + adj/adv + as | as carefully as\nnot as/so...as | not as expensive as\nthe more..., the more... | The more you practise, the easier it becomes.\none of the + superlative + plural noun | one of the most useful methods",
+          "sourcePage": 112,
+          "sourceIndex": 2896
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "语法填空看到 than：立刻检查比较级；看到范围 in/of all/the three，检查最高级。"
+            ]
+          ],
+          "text": " | 语法填空看到 than：立刻检查比较级；看到范围 in/of all/the three，检查最高级。",
+          "sourcePage": 113,
+          "sourceIndex": 2897
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 112,
+    "endPage": 113
+  }
+}

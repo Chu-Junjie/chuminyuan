@@ -1,0 +1,178 @@
+{
+  "id": "EN-PW2",
+  "code": "PW2",
+  "title": "应用文句子升级：只升你能控制的部分",
+  "subject_id": "english",
+  "chapter_id": "en-practical",
+  "chapter": "应用文写作",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "PW2",
+    "应用文句子升级：只升你能控制的部分",
+    "应用文写作",
+    "Level",
+    "Example",
+    "Why",
+    "better",
+    "Basic",
+    "The",
+    "activity",
+    "useful",
+    "Correct",
+    "but",
+    "vague",
+    "Clear",
+    "because",
+    "students",
+    "can",
+    "practise",
+    "speaking",
+    "with",
+    "real",
+    "visitors",
+    "Adds",
+    "reason",
+    "Natural",
+    "gives",
+    "chance",
+    "More",
+    "natural",
+    "verb",
+    "specific",
+    "content",
+    "not",
+    "force",
+    "Not",
+    "only",
+    "the",
+    "also",
+    "you",
+    "cannot",
+    "control",
+    "structure",
+    "advanced",
+    "worth",
+    "grammar",
+    "error"
+  ],
+  "brain_first": "按原文查阅 应用文句子升级：只升你能控制的部分",
+  "sort_order": 1062,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "基础句没有错就不要强行“炫技”。升级优先从连接和具体化开始。",
+      "sourcePage": 96,
+      "sourceIndex": 2573
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Level",
+          "Example",
+          "Why it is better"
+        ],
+        [
+          "Basic",
+          "The activity is useful.",
+          "Correct but vague."
+        ],
+        [
+          "Clear",
+          "The activity is useful because students can practise\nspeaking with real visitors.",
+          "Adds a reason."
+        ],
+        [
+          "Natural",
+          "The activity gives students a real chance to practise\nspeaking with visitors.",
+          "More natural verb + specific content."
+        ],
+        [
+          "Do not\nforce",
+          "Not only can the activity... but also... (if you cannot\ncontrol the structure).",
+          "An advanced structure is not worth a\ngrammar error."
+        ]
+      ],
+      "text": "Level | Example | Why it is better\nBasic | The activity is useful. | Correct but vague.\nClear | The activity is useful because students can practise\nspeaking with real visitors. | Adds a reason.\nNatural | The activity gives students a real chance to practise\nspeaking with visitors. | More natural verb + specific content.\nDo not\nforce | Not only can the activity... but also... (if you cannot\ncontrol the structure). | An advanced structure is not worth a\ngrammar error.",
+      "sourcePage": 96,
+      "sourceIndex": 2574
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "应用文最后检查顺序：信息点 → 人称 → 时态 → 主谓一致 → 单复数 → 动词形式 → 拼写 → 标点 → 字\n数。"
+        ]
+      ],
+      "text": " | 应用文最后检查顺序：信息点 → 人称 → 时态 → 主谓一致 → 单复数 → 动词形式 → 拼写 → 标点 → 字\n数。",
+      "sourcePage": 96,
+      "sourceIndex": 2575
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-PW2-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "基础句没有错就不要强行“炫技”。升级优先从连接和具体化开始。",
+          "sourcePage": 96,
+          "sourceIndex": 2573
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Level",
+              "Example",
+              "Why it is better"
+            ],
+            [
+              "Basic",
+              "The activity is useful.",
+              "Correct but vague."
+            ],
+            [
+              "Clear",
+              "The activity is useful because students can practise\nspeaking with real visitors.",
+              "Adds a reason."
+            ],
+            [
+              "Natural",
+              "The activity gives students a real chance to practise\nspeaking with visitors.",
+              "More natural verb + specific content."
+            ],
+            [
+              "Do not\nforce",
+              "Not only can the activity... but also... (if you cannot\ncontrol the structure).",
+              "An advanced structure is not worth a\ngrammar error."
+            ]
+          ],
+          "text": "Level | Example | Why it is better\nBasic | The activity is useful. | Correct but vague.\nClear | The activity is useful because students can practise\nspeaking with real visitors. | Adds a reason.\nNatural | The activity gives students a real chance to practise\nspeaking with visitors. | More natural verb + specific content.\nDo not\nforce | Not only can the activity... but also... (if you cannot\ncontrol the structure). | An advanced structure is not worth a\ngrammar error.",
+          "sourcePage": 96,
+          "sourceIndex": 2574
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "应用文最后检查顺序：信息点 → 人称 → 时态 → 主谓一致 → 单复数 → 动词形式 → 拼写 → 标点 → 字\n数。"
+            ]
+          ],
+          "text": " | 应用文最后检查顺序：信息点 → 人称 → 时态 → 主谓一致 → 单复数 → 动词形式 → 拼写 → 标点 → 字\n数。",
+          "sourcePage": 96,
+          "sourceIndex": 2575
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 96,
+    "endPage": 96
+  }
+}

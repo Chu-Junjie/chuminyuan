@@ -1,0 +1,149 @@
+{
+  "id": "EN-8-11",
+  "code": "8.11",
+  "title": "Articles 冠词",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.11",
+    "Articles 冠词",
+    "语法工具箱",
+    "Use",
+    "a/an",
+    "the",
+    "zero",
+    "article",
+    "Core",
+    "Examples",
+    "student",
+    "hour",
+    "met",
+    "sun",
+    "Students",
+    "need",
+    "sleep",
+    "school",
+    "university",
+    "same/only"
+  ],
+  "brain_first": "按原文查阅 Articles 冠词",
+  "sort_order": 1082,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Use",
+          "a/an",
+          "the",
+          "zero article"
+        ],
+        [
+          "Core",
+          "一个/某个，首次非特指",
+          "那个/这些人都知道的、已特指",
+          "泛指复数/不可数、部分固定结构"
+        ],
+        [
+          "Examples",
+          "a student, an hour",
+          "the student we met, the sun",
+          "Students need sleep. / go to school"
+        ]
+      ],
+      "text": "Use | a/an | the | zero article\nCore | 一个/某个，首次非特指 | 那个/这些人都知道的、已特指 | 泛指复数/不可数、部分固定结构\nExamples | a student, an hour | the student we met, the sun | Students need sleep. / go to school",
+      "sourcePage": 111,
+      "sourceIndex": 2881
+    },
+    {
+      "type": "paragraph",
+      "text": "· a/an 看发音：an hour, a university。",
+      "sourcePage": 111,
+      "sourceIndex": 2882
+    },
+    {
+      "type": "paragraph",
+      "text": "· 最高级、序数词、same/only 前常见 the。",
+      "sourcePage": 111,
+      "sourceIndex": 2883
+    },
+    {
+      "type": "paragraph",
+      "text": "· 第一次 a/an，第二次再次指同一个通常 the。",
+      "sourcePage": 111,
+      "sourceIndex": 2884
+    },
+    {
+      "type": "paragraph",
+      "text": "· 固定搭配必须整块记，不要机械套“特指”。",
+      "sourcePage": 111,
+      "sourceIndex": 2885
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-11-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Use",
+              "a/an",
+              "the",
+              "zero article"
+            ],
+            [
+              "Core",
+              "一个/某个，首次非特指",
+              "那个/这些人都知道的、已特指",
+              "泛指复数/不可数、部分固定结构"
+            ],
+            [
+              "Examples",
+              "a student, an hour",
+              "the student we met, the sun",
+              "Students need sleep. / go to school"
+            ]
+          ],
+          "text": "Use | a/an | the | zero article\nCore | 一个/某个，首次非特指 | 那个/这些人都知道的、已特指 | 泛指复数/不可数、部分固定结构\nExamples | a student, an hour | the student we met, the sun | Students need sleep. / go to school",
+          "sourcePage": 111,
+          "sourceIndex": 2881
+        },
+        {
+          "type": "paragraph",
+          "text": "· a/an 看发音：an hour, a university。",
+          "sourcePage": 111,
+          "sourceIndex": 2882
+        },
+        {
+          "type": "paragraph",
+          "text": "· 最高级、序数词、same/only 前常见 the。",
+          "sourcePage": 111,
+          "sourceIndex": 2883
+        },
+        {
+          "type": "paragraph",
+          "text": "· 第一次 a/an，第二次再次指同一个通常 the。",
+          "sourcePage": 111,
+          "sourceIndex": 2884
+        },
+        {
+          "type": "paragraph",
+          "text": "· 固定搭配必须整块记，不要机械套“特指”。",
+          "sourcePage": 111,
+          "sourceIndex": 2885
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 111,
+    "endPage": 111
+  }
+}

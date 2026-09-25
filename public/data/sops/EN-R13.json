@@ -1,0 +1,640 @@
+{
+  "id": "EN-R13",
+  "code": "R13",
+  "title": "写作目的题",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "R13",
+    "写作目的题",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "What",
+    "the",
+    "author",
+    "purpose",
+    "writing",
+    "text",
+    "TERM",
+    "term",
+    "really",
+    "means",
+    "inform",
+    "explain",
+    "introduce",
+    "report",
+    "persuade",
+    "recommend",
+    "entertain",
+    "raise",
+    "awareness",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "explain/inform",
+    "narrate/entertain/reflect",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "advise/recommend",
+    "ways",
+    "about",
+    "waste",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Book",
+    "now",
+    "main",
+    "idea",
+    "persuade/recommend",
+    "readers",
+    "act/buy/book",
+    "inform/recommend",
+    "Ctrl"
+  ],
+  "brain_first": "“问作者想让读者得到什么：知道、理解、相信、行动，还是享 受故事？”",
+  "sort_order": 1027,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 43,
+      "sourceIndex": 1187
+    },
+    {
+      "type": "paragraph",
+      "text": "What is the author's purpose in writing the",
+      "sourcePage": 43,
+      "sourceIndex": 1188
+    },
+    {
+      "type": "paragraph",
+      "text": "text?",
+      "sourcePage": 43,
+      "sourceIndex": 1189
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 43,
+      "sourceIndex": 1190
+    },
+    {
+      "type": "paragraph",
+      "text": "常见 purpose：inform, explain, introduce,",
+      "sourcePage": 43,
+      "sourceIndex": 1191
+    },
+    {
+      "type": "paragraph",
+      "text": "report, persuade, recommend, entertain, raise",
+      "sourcePage": 43,
+      "sourceIndex": 1192
+    },
+    {
+      "type": "paragraph",
+      "text": "awareness。",
+      "sourcePage": 43,
+      "sourceIndex": 1193
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “问作者想让读者得到什么：知道、理解、相信、行动，还是享",
+      "sourcePage": 43,
+      "sourceIndex": 1194
+    },
+    {
+      "type": "paragraph",
+      "text": "受故事？”",
+      "sourcePage": 43,
+      "sourceIndex": 1195
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 不同文体的目的可从内容组织和语言风格判断。",
+      "sourcePage": 43,
+      "sourceIndex": 1196
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 43,
+      "sourceIndex": 1197
+    },
+    {
+      "type": "paragraph",
+      "text": "1 看文章主要是事实说明、观点论证还是故事叙述。",
+      "sourcePage": 43,
+      "sourceIndex": 1198
+    },
+    {
+      "type": "paragraph",
+      "text": "2 看是否出现行动号召/推荐。",
+      "sourcePage": 43,
+      "sourceIndex": 1199
+    },
+    {
+      "type": "paragraph",
+      "text": "3 看结尾：总结事实、呼吁行动、还是反思经历？",
+      "sourcePage": 43,
+      "sourceIndex": 1200
+    },
+    {
+      "type": "paragraph",
+      "text": "4 选最贴整篇而非单段的目的。",
+      "sourcePage": 43,
+      "sourceIndex": 1201
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 43,
+      "sourceIndex": 1202
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 43,
+      "sourceIndex": 1203
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 43,
+      "sourceIndex": 1204
+    },
+    {
+      "type": "paragraph",
+      "text": "· 大量客观事实 + 解释机制 → explain/inform",
+      "sourcePage": 43,
+      "sourceIndex": 1205
+    },
+    {
+      "type": "paragraph",
+      "text": "· 比较优缺点并建议选择 → recommend",
+      "sourcePage": 43,
+      "sourceIndex": 1206
+    },
+    {
+      "type": "paragraph",
+      "text": "· 强论点+理由 → persuade",
+      "sourcePage": 43,
+      "sourceIndex": 1207
+    },
+    {
+      "type": "paragraph",
+      "text": "· 叙事为主+人物变化 → narrate/entertain/reflect",
+      "sourcePage": 43,
+      "sourceIndex": 1208
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 目的能解释文章总体组织。",
+      "sourcePage": 44,
+      "sourceIndex": 1209
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 两个目的都可能时，问“哪个是主目的，哪个只是附带效果？”",
+      "sourcePage": 44,
+      "sourceIndex": 1210
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 44,
+      "sourceIndex": 1211
+    },
+    {
+      "type": "paragraph",
+      "text": "一篇文章介绍三种减少食物浪费的方法并给执行步骤，目的更接近 advise/recommend ways，而不仅是",
+      "sourcePage": 44,
+      "sourceIndex": 1212
+    },
+    {
+      "type": "paragraph",
+      "text": "inform about waste。",
+      "sourcePage": 44,
+      "sourceIndex": 1213
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 44,
+      "sourceIndex": 1214
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把“主题”当“目的”。",
+      "sourcePage": 44,
+      "sourceIndex": 1215
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把一个段落功能当整篇目的。",
+      "sourcePage": 44,
+      "sourceIndex": 1216
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 44,
+      "sourceIndex": 1217
+    },
+    {
+      "type": "paragraph",
+      "text": "· 作者希望读者知道还是行动？",
+      "sourcePage": 44,
+      "sourceIndex": 1218
+    },
+    {
+      "type": "paragraph",
+      "text": "· 有无明显说服/推荐语言？",
+      "sourcePage": 44,
+      "sourceIndex": 1219
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 44,
+      "sourceIndex": 1220
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 44,
+      "sourceIndex": 1221
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 44,
+      "sourceIndex": 1222
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 目的题问：作者写完想让你得到什么。",
+      "sourcePage": 44,
+      "sourceIndex": 1223
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 44,
+      "sourceIndex": 1225
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 广告中出现Book now，主要目的可能？",
+      "sourcePage": 44,
+      "sourceIndex": 1226
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 科普文解释机制，目的？",
+      "sourcePage": 44,
+      "sourceIndex": 1227
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 旅游指南给景点信息，目的？",
+      "sourcePage": 44,
+      "sourceIndex": 1228
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 作者目的能否只由主题决定？",
+      "sourcePage": 44,
+      "sourceIndex": 1229
+    },
+    {
+      "type": "paragraph",
+      "text": "5. purpose 与 main idea 区别？",
+      "sourcePage": 44,
+      "sourceIndex": 1230
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. persuade/recommend readers to act/buy/book；2. explain/inform；3. inform/recommend；4.",
+      "sourcePage": 44,
+      "sourceIndex": 1231
+    },
+    {
+      "type": "paragraph",
+      "text": "不能，看写法和读者行动。；5. main idea=讲什么；purpose=为什么这样写。",
+      "sourcePage": 44,
+      "sourceIndex": 1232
+    },
+    {
+      "type": "paragraph",
+      "text": "— R13 本题型到这里。下次卡住直接 Ctrl+F 搜“R13”或题型关键词。—",
+      "sourcePage": 44,
+      "sourceIndex": 1233
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R13-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What is the author's purpose in writing the text?",
+          "sourcePage": 43,
+          "sourceIndex": 1188
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "常见 purpose：inform, explain, introduce, report, persuade, recommend, entertain, raise awareness。",
+          "sourcePage": 43,
+          "sourceIndex": 1191
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“问作者想让读者得到什么：知道、理解、相信、行动，还是享 受故事？”",
+          "sourcePage": 43,
+          "sourceIndex": 1194
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "不同文体的目的可从内容组织和语言风格判断。",
+          "sourcePage": 43,
+          "sourceIndex": 1196
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 看文章主要是事实说明、观点论证还是故事叙述。",
+          "sourcePage": 43,
+          "sourceIndex": 1198
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 看是否出现行动号召/推荐。",
+          "sourcePage": 43,
+          "sourceIndex": 1199
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 看结尾：总结事实、呼吁行动、还是反思经历？",
+          "sourcePage": 43,
+          "sourceIndex": 1200
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 选最贴整篇而非单段的目的。",
+          "sourcePage": 43,
+          "sourceIndex": 1201
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 43,
+          "sourceIndex": 1202
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 大量客观事实 + 解释机制 → explain/inform",
+          "sourcePage": 43,
+          "sourceIndex": 1205
+        },
+        {
+          "type": "paragraph",
+          "text": "· 比较优缺点并建议选择 → recommend",
+          "sourcePage": 43,
+          "sourceIndex": 1206
+        },
+        {
+          "type": "paragraph",
+          "text": "· 强论点+理由 → persuade",
+          "sourcePage": 43,
+          "sourceIndex": 1207
+        },
+        {
+          "type": "paragraph",
+          "text": "· 叙事为主+人物变化 → narrate/entertain/reflect",
+          "sourcePage": 43,
+          "sourceIndex": 1208
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "目的能解释文章总体组织。",
+          "sourcePage": 44,
+          "sourceIndex": 1209
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "两个目的都可能时，问“哪个是主目的，哪个只是附带效果？”",
+          "sourcePage": 44,
+          "sourceIndex": 1210
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "一篇文章介绍三种减少食物浪费的方法并给执行步骤，目的更接近 advise/recommend ways，而不仅是 inform about waste。",
+          "sourcePage": 44,
+          "sourceIndex": 1212
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把“主题”当“目的”。",
+          "sourcePage": 44,
+          "sourceIndex": 1215
+        },
+        {
+          "type": "paragraph",
+          "text": "· 把一个段落功能当整篇目的。",
+          "sourcePage": 44,
+          "sourceIndex": 1216
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 作者希望读者知道还是行动？",
+          "sourcePage": 44,
+          "sourceIndex": 1218
+        },
+        {
+          "type": "paragraph",
+          "text": "· 有无明显说服/推荐语言？",
+          "sourcePage": 44,
+          "sourceIndex": 1219
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 44,
+          "sourceIndex": 1220
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 44,
+          "sourceIndex": 1222
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "目的题问：作者写完想让你得到什么。",
+          "sourcePage": 44,
+          "sourceIndex": 1223
+        }
+      ]
+    },
+    {
+      "id": "EN-R13-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 广告中出现Book now，主要目的可能？",
+          "sourcePage": 44,
+          "sourceIndex": 1226
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 科普文解释机制，目的？",
+          "sourcePage": 44,
+          "sourceIndex": 1227
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 旅游指南给景点信息，目的？",
+          "sourcePage": 44,
+          "sourceIndex": 1228
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 作者目的能否只由主题决定？",
+          "sourcePage": 44,
+          "sourceIndex": 1229
+        },
+        {
+          "type": "paragraph",
+          "text": "5. purpose 与 main idea 区别？",
+          "sourcePage": 44,
+          "sourceIndex": 1230
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. persuade/recommend readers to act/buy/book；2. explain/inform；3. inform/recommend；4. 不能，看写法和读者行动。；5. main idea=讲什么；purpose=为什么这样写。",
+          "sourcePage": 44,
+          "sourceIndex": 1231
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 43,
+    "endPage": 44
+  }
+}

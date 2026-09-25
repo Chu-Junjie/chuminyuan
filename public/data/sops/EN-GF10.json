@@ -1,0 +1,602 @@
+{
+  "id": "EN-GF10",
+  "code": "GF10",
+  "title": "无提示词：代词、助动词/情态、小词",
+  "subject_id": "english",
+  "chapter_id": "en-grammar-filling",
+  "chapter": "语法填空",
+  "kind": "sop",
+  "frequency": 3,
+  "keywords": [
+    "GF10",
+    "无提示词：代词、助动词/情态、小词",
+    "语法填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Function",
+    "words",
+    "be/do/have",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "be/have",
+    "that",
+    "too",
+    "either",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "adj",
+    "There",
+    "is/are",
+    "do/does/did",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "important",
+    "check",
+    "source",
+    "before",
+    "sharing",
+    "news",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "raining",
+    "two",
+    "reasons",
+    "not",
+    "only",
+    "also",
+    "but",
+    "Ctrl"
+  ],
+  "brain_first": "“句子主干如果像少了一个‘它/自己/助动词’，再考虑这一 类。”",
+  "sort_order": 1058,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 89,
+      "sourceIndex": 2477
+    },
+    {
+      "type": "paragraph",
+      "text": "少数空不是冠词/介词/连词，而是代词、助动词、",
+      "sourcePage": 89,
+      "sourceIndex": 2478
+    },
+    {
+      "type": "paragraph",
+      "text": "强调/固定结构小词。",
+      "sourcePage": 89,
+      "sourceIndex": 2479
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 89,
+      "sourceIndex": 2480
+    },
+    {
+      "type": "paragraph",
+      "text": "Function words 包括代词、be/do/have、情态和",
+      "sourcePage": 89,
+      "sourceIndex": 2481
+    },
+    {
+      "type": "paragraph",
+      "text": "固定结构词。",
+      "sourcePage": 89,
+      "sourceIndex": 2482
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “句子主干如果像少了一个‘它/自己/助动词’，再考虑这一",
+      "sourcePage": 89,
+      "sourceIndex": 2483
+    },
+    {
+      "type": "paragraph",
+      "text": "类。”",
+      "sourcePage": 89,
+      "sourceIndex": 2484
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 这类频率低于核心几类，但不能完全漏。",
+      "sourcePage": 89,
+      "sourceIndex": 2485
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 89,
+      "sourceIndex": 2486
+    },
+    {
+      "type": "paragraph",
+      "text": "1 检查主语/宾语是否缺代词。",
+      "sourcePage": 89,
+      "sourceIndex": 2487
+    },
+    {
+      "type": "paragraph",
+      "text": "2 检查被动/进行/完成结构是否缺 be/have。",
+      "sourcePage": 89,
+      "sourceIndex": 2488
+    },
+    {
+      "type": "paragraph",
+      "text": "3 检查强调/形式主语：it。",
+      "sourcePage": 90,
+      "sourceIndex": 2489
+    },
+    {
+      "type": "paragraph",
+      "text": "4 检查固定结构：so...that, too...to, either...or 等。",
+      "sourcePage": 90,
+      "sourceIndex": 2490
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 90,
+      "sourceIndex": 2491
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 90,
+      "sourceIndex": 2492
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 90,
+      "sourceIndex": 2493
+    },
+    {
+      "type": "paragraph",
+      "text": "· It is + adj + to do / that...",
+      "sourcePage": 90,
+      "sourceIndex": 2494
+    },
+    {
+      "type": "paragraph",
+      "text": "· There is/are...",
+      "sourcePage": 90,
+      "sourceIndex": 2495
+    },
+    {
+      "type": "paragraph",
+      "text": "· do/does/did 可用于强调谓语，但语法填空较低频",
+      "sourcePage": 90,
+      "sourceIndex": 2496
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 填入后主干结构完整且语义自然。",
+      "sourcePage": 90,
+      "sourceIndex": 2497
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 只有在冠词/介词/连词都不成立后再检查这一类，避免过度复杂化。",
+      "sourcePage": 90,
+      "sourceIndex": 2498
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 90,
+      "sourceIndex": 2499
+    },
+    {
+      "type": "paragraph",
+      "text": "___ is important to check the source before sharing news. 形式主语 → It。",
+      "sourcePage": 90,
+      "sourceIndex": 2500
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 90,
+      "sourceIndex": 2501
+    },
+    {
+      "type": "paragraph",
+      "text": "· 一上来就猜情态动词。",
+      "sourcePage": 90,
+      "sourceIndex": 2502
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略固定结构。",
+      "sourcePage": 90,
+      "sourceIndex": 2503
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 90,
+      "sourceIndex": 2504
+    },
+    {
+      "type": "paragraph",
+      "text": "· 句子主干完整了吗？",
+      "sourcePage": 90,
+      "sourceIndex": 2505
+    },
+    {
+      "type": "paragraph",
+      "text": "· 是不是固定结构的一部分？",
+      "sourcePage": 90,
+      "sourceIndex": 2506
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 90,
+      "sourceIndex": 2507
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 90,
+      "sourceIndex": 2508
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 90,
+      "sourceIndex": 2509
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 小词最后查：代词、助动、固定结构。",
+      "sourcePage": 90,
+      "sourceIndex": 2510
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 90,
+      "sourceIndex": 2512
+    },
+    {
+      "type": "paragraph",
+      "text": "1. It is raining, ___? 需要助动词结构时先看？",
+      "sourcePage": 90,
+      "sourceIndex": 2513
+    },
+    {
+      "type": "paragraph",
+      "text": "2. ___ are two reasons.",
+      "sourcePage": 90,
+      "sourceIndex": 2514
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 固定结构“not only... ___ also...”",
+      "sourcePage": 90,
+      "sourceIndex": 2515
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 代词空先检查？",
+      "sourcePage": 90,
+      "sourceIndex": 2516
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 情态动词后动词形式？",
+      "sourcePage": 90,
+      "sourceIndex": 2517
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 主句谓语/时态和句型。；2. There；3. but；4. 指代对象+格/数。；5. 原形。",
+      "sourcePage": 91,
+      "sourceIndex": 2518
+    },
+    {
+      "type": "paragraph",
+      "text": "— GF10 本题型到这里。下次卡住直接 Ctrl+F 搜“GF10”或题型关键词。—",
+      "sourcePage": 91,
+      "sourceIndex": 2519
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-GF10-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "少数空不是冠词/介词/连词，而是代词、助动词、 强调/固定结构小词。",
+          "sourcePage": 89,
+          "sourceIndex": 2478
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Function words 包括代词、be/do/have、情态和 固定结构词。",
+          "sourcePage": 89,
+          "sourceIndex": 2481
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“句子主干如果像少了一个‘它/自己/助动词’，再考虑这一 类。”",
+          "sourcePage": 89,
+          "sourceIndex": 2483
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这类频率低于核心几类，但不能完全漏。",
+          "sourcePage": 89,
+          "sourceIndex": 2485
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 检查主语/宾语是否缺代词。",
+          "sourcePage": 89,
+          "sourceIndex": 2487
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 检查被动/进行/完成结构是否缺 be/have。",
+          "sourcePage": 89,
+          "sourceIndex": 2488
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 检查强调/形式主语：it。",
+          "sourcePage": 90,
+          "sourceIndex": 2489
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 检查固定结构：so...that, too...to, either...or 等。",
+          "sourcePage": 90,
+          "sourceIndex": 2490
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 90,
+          "sourceIndex": 2491
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· It is + adj + to do / that...",
+          "sourcePage": 90,
+          "sourceIndex": 2494
+        },
+        {
+          "type": "paragraph",
+          "text": "· There is/are...",
+          "sourcePage": 90,
+          "sourceIndex": 2495
+        },
+        {
+          "type": "paragraph",
+          "text": "· do/does/did 可用于强调谓语，但语法填空较低频",
+          "sourcePage": 90,
+          "sourceIndex": 2496
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "填入后主干结构完整且语义自然。",
+          "sourcePage": 90,
+          "sourceIndex": 2497
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "只有在冠词/介词/连词都不成立后再检查这一类，避免过度复杂化。",
+          "sourcePage": 90,
+          "sourceIndex": 2498
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "___ is important to check the source before sharing news. 形式主语 → It。",
+          "sourcePage": 90,
+          "sourceIndex": 2500
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 一上来就猜情态动词。",
+          "sourcePage": 90,
+          "sourceIndex": 2502
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略固定结构。",
+          "sourcePage": 90,
+          "sourceIndex": 2503
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 句子主干完整了吗？",
+          "sourcePage": 90,
+          "sourceIndex": 2505
+        },
+        {
+          "type": "paragraph",
+          "text": "· 是不是固定结构的一部分？",
+          "sourcePage": 90,
+          "sourceIndex": 2506
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 90,
+          "sourceIndex": 2507
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 90,
+          "sourceIndex": 2509
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "小词最后查：代词、助动、固定结构。",
+          "sourcePage": 90,
+          "sourceIndex": 2510
+        }
+      ]
+    },
+    {
+      "id": "EN-GF10-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. It is raining, ___? 需要助动词结构时先看？",
+          "sourcePage": 90,
+          "sourceIndex": 2513
+        },
+        {
+          "type": "paragraph",
+          "text": "2. ___ are two reasons.",
+          "sourcePage": 90,
+          "sourceIndex": 2514
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 固定结构“not only... ___ also...”",
+          "sourcePage": 90,
+          "sourceIndex": 2515
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 代词空先检查？",
+          "sourcePage": 90,
+          "sourceIndex": 2516
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 情态动词后动词形式？",
+          "sourcePage": 90,
+          "sourceIndex": 2517
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 主句谓语/时态和句型。；2. There；3. but；4. 指代对象+格/数。；5. 原形。",
+          "sourcePage": 91,
+          "sourceIndex": 2518
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 89,
+    "endPage": 91
+  }
+}

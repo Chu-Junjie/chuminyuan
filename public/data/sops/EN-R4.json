@@ -1,0 +1,588 @@
+{
+  "id": "EN-R4",
+  "code": "R4",
+  "title": "原因题",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "R4",
+    "原因题",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "Why",
+    "did",
+    "What",
+    "caused",
+    "was",
+    "the",
+    "reason",
+    "for",
+    "TERM",
+    "term",
+    "really",
+    "means",
+    "cause-effect",
+    "chain",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "because",
+    "since",
+    "due",
+    "therefore",
+    "happened",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "why",
+    "mention",
+    "main",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "leads",
+    "because/since/as",
+    "Ctrl"
+  ],
+  "brain_first": "“先找到动作/结果，再向附近找直接原因。”",
+  "sort_order": 1018,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 29,
+      "sourceIndex": 773
+    },
+    {
+      "type": "paragraph",
+      "text": "Why did... / What caused... / What was the",
+      "sourcePage": 29,
+      "sourceIndex": 774
+    },
+    {
+      "type": "paragraph",
+      "text": "reason for...?",
+      "sourcePage": 29,
+      "sourceIndex": 775
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 29,
+      "sourceIndex": 776
+    },
+    {
+      "type": "paragraph",
+      "text": "原因题找 cause-effect chain。",
+      "sourcePage": 29,
+      "sourceIndex": 777
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先找到动作/结果，再向附近找直接原因。”",
+      "sourcePage": 29,
+      "sourceIndex": 778
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 文章可能给远背景、近原因和结果；正确答案通常回答题干那一步的直接原因。",
+      "sourcePage": 29,
+      "sourceIndex": 779
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 29,
+      "sourceIndex": 780
+    },
+    {
+      "type": "paragraph",
+      "text": "1 定位题干事件。",
+      "sourcePage": 29,
+      "sourceIndex": 781
+    },
+    {
+      "type": "paragraph",
+      "text": "2 向前后找 because / since / due to / so / therefore 或隐含因果。",
+      "sourcePage": 29,
+      "sourceIndex": 782
+    },
+    {
+      "type": "paragraph",
+      "text": "3 区分“背景条件”和“直接触发”。",
+      "sourcePage": 29,
+      "sourceIndex": 783
+    },
+    {
+      "type": "paragraph",
+      "text": "4 把选项改写成“X happened because ___”检查。",
+      "sourcePage": 29,
+      "sourceIndex": 784
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 29,
+      "sourceIndex": 785
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 29,
+      "sourceIndex": 786
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 29,
+      "sourceIndex": 787
+    },
+    {
+      "type": "paragraph",
+      "text": "· 题干问“why mention” → 不是普通原因题，转到目的/例子作用",
+      "sourcePage": 29,
+      "sourceIndex": 788
+    },
+    {
+      "type": "paragraph",
+      "text": "· 多个原因并列 → 看题干是否问 main reason",
+      "sourcePage": 29,
+      "sourceIndex": 789
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 原因能直接解释题干事件。",
+      "sourcePage": 29,
+      "sourceIndex": 790
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 若两个都是真实信息，选与题干动作距离更近、因果更直接的。",
+      "sourcePage": 29,
+      "sourceIndex": 791
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 29,
+      "sourceIndex": 792
+    },
+    {
+      "type": "paragraph",
+      "text": "文章：天气变冷只是背景，活动取消是因为安全部门发布警报。问取消原因，应选警报而非“冬天到",
+      "sourcePage": 29,
+      "sourceIndex": 793
+    },
+    {
+      "type": "paragraph",
+      "text": "了”。",
+      "sourcePage": 29,
+      "sourceIndex": 794
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 29,
+      "sourceIndex": 795
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把时间先后当因果。",
+      "sourcePage": 29,
+      "sourceIndex": 796
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把结果反过来当原因。",
+      "sourcePage": 29,
+      "sourceIndex": 797
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 29,
+      "sourceIndex": 798
+    },
+    {
+      "type": "paragraph",
+      "text": "· 是否真的有因果？",
+      "sourcePage": 29,
+      "sourceIndex": 799
+    },
+    {
+      "type": "paragraph",
+      "text": "· 方向有没有反？",
+      "sourcePage": 30,
+      "sourceIndex": 800
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 30,
+      "sourceIndex": 801
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 30,
+      "sourceIndex": 802
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 30,
+      "sourceIndex": 803
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 原因题找“为什么这一步发生”。",
+      "sourcePage": 30,
+      "sourceIndex": 804
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 30,
+      "sourceIndex": 806
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Why题先找什么？",
+      "sourcePage": 30,
+      "sourceIndex": 807
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 原文A because B，选项写A leads to B，对吗？",
+      "sourcePage": 30,
+      "sourceIndex": 808
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 背景事实与直接原因同时出现，优先？",
+      "sourcePage": 30,
+      "sourceIndex": 809
+    },
+    {
+      "type": "paragraph",
+      "text": "4. “because/since/as”一定每题都有吗？",
+      "sourcePage": 30,
+      "sourceIndex": 810
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 原因题正确选项需要额外常识吗？",
+      "sourcePage": 30,
+      "sourceIndex": 811
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 题干动作/现象，再找直接原因。；2. 不一定，因果方向被换。；3. 直接解释题干事件的原因。；4. 不",
+      "sourcePage": 30,
+      "sourceIndex": 812
+    },
+    {
+      "type": "paragraph",
+      "text": "一定，可通过语义关系判断。；5. 不应需要。",
+      "sourcePage": 30,
+      "sourceIndex": 813
+    },
+    {
+      "type": "paragraph",
+      "text": "— R4 本题型到这里。下次卡住直接 Ctrl+F 搜“R4”或题型关键词。—",
+      "sourcePage": 30,
+      "sourceIndex": 814
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R4-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Why did... / What caused... / What was the reason for...?",
+          "sourcePage": 29,
+          "sourceIndex": 774
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "原因题找 cause-effect chain。",
+          "sourcePage": 29,
+          "sourceIndex": 777
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先找到动作/结果，再向附近找直接原因。”",
+          "sourcePage": 29,
+          "sourceIndex": 778
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "文章可能给远背景、近原因和结果；正确答案通常回答题干那一步的直接原因。",
+          "sourcePage": 29,
+          "sourceIndex": 779
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 定位题干事件。",
+          "sourcePage": 29,
+          "sourceIndex": 781
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 向前后找 because / since / due to / so / therefore 或隐含因果。",
+          "sourcePage": 29,
+          "sourceIndex": 782
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 区分“背景条件”和“直接触发”。",
+          "sourcePage": 29,
+          "sourceIndex": 783
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 把选项改写成“X happened because ___”检查。",
+          "sourcePage": 29,
+          "sourceIndex": 784
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 29,
+          "sourceIndex": 785
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 题干问“why mention” → 不是普通原因题，转到目的/例子作用",
+          "sourcePage": 29,
+          "sourceIndex": 788
+        },
+        {
+          "type": "paragraph",
+          "text": "· 多个原因并列 → 看题干是否问 main reason",
+          "sourcePage": 29,
+          "sourceIndex": 789
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "原因能直接解释题干事件。",
+          "sourcePage": 29,
+          "sourceIndex": 790
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "若两个都是真实信息，选与题干动作距离更近、因果更直接的。",
+          "sourcePage": 29,
+          "sourceIndex": 791
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "文章：天气变冷只是背景，活动取消是因为安全部门发布警报。问取消原因，应选警报而非“冬天到 了”。",
+          "sourcePage": 29,
+          "sourceIndex": 793
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把时间先后当因果。",
+          "sourcePage": 29,
+          "sourceIndex": 796
+        },
+        {
+          "type": "paragraph",
+          "text": "· 把结果反过来当原因。",
+          "sourcePage": 29,
+          "sourceIndex": 797
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 是否真的有因果？",
+          "sourcePage": 29,
+          "sourceIndex": 799
+        },
+        {
+          "type": "paragraph",
+          "text": "· 方向有没有反？",
+          "sourcePage": 30,
+          "sourceIndex": 800
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 30,
+          "sourceIndex": 801
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 30,
+          "sourceIndex": 803
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "原因题找“为什么这一步发生”。",
+          "sourcePage": 30,
+          "sourceIndex": 804
+        }
+      ]
+    },
+    {
+      "id": "EN-R4-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. Why题先找什么？",
+          "sourcePage": 30,
+          "sourceIndex": 807
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 原文A because B，选项写A leads to B，对吗？",
+          "sourcePage": 30,
+          "sourceIndex": 808
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 背景事实与直接原因同时出现，优先？",
+          "sourcePage": 30,
+          "sourceIndex": 809
+        },
+        {
+          "type": "paragraph",
+          "text": "4. “because/since/as”一定每题都有吗？",
+          "sourcePage": 30,
+          "sourceIndex": 810
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 原因题正确选项需要额外常识吗？",
+          "sourcePage": 30,
+          "sourceIndex": 811
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 题干动作/现象，再找直接原因。；2. 不一定，因果方向被换。；3. 直接解释题干事件的原因。；4. 不 一定，可通过语义关系判断。；5. 不应需要。",
+          "sourcePage": 30,
+          "sourceIndex": 812
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 29,
+    "endPage": 30
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "id": "EN-8-8",
+  "code": "8.8",
+  "title": "Relative Clauses 定语从句",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.8",
+    "Relative Clauses 定语从句",
+    "语法工具箱",
+    "Step",
+    "Question",
+    "Result",
+    "who/which/that",
+    "where/when",
+    "whose",
+    "Relative",
+    "word",
+    "Use",
+    "Example",
+    "who",
+    "The",
+    "student",
+    "helped",
+    "whom",
+    "person",
+    "met",
+    "girl",
+    "bag",
+    "was",
+    "lost",
+    "which",
+    "book",
+    "bought",
+    "that",
+    "idea",
+    "changed",
+    "where",
+    "town",
+    "grew",
+    "when",
+    "day",
+    "the",
+    "city",
+    "visited",
+    "which/that",
+    "lived"
+  ],
+  "brain_first": "按原文查阅 Relative Clauses 定语从句",
+  "sort_order": 1079,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "白话：前面有一个人/东西，后面再补一句话说明它。",
+      "sourcePage": 110,
+      "sourceIndex": 2868
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Step",
+          "Question",
+          "Result"
+        ],
+        [
+          "1",
+          "前面有没有需要进一步说明的名词？",
+          "有 → 可能是定语从句"
+        ],
+        [
+          "2",
+          "后面从句缺主语/宾语吗？",
+          "缺 → who/which/that 等关系代词"
+        ],
+        [
+          "3",
+          "从句主干完整，只缺地点/时间关系吗？",
+          "where/when 可能"
+        ],
+        [
+          "4",
+          "表示所属？",
+          "whose"
+        ]
+      ],
+      "text": "Step | Question | Result\n1 | 前面有没有需要进一步说明的名词？ | 有 → 可能是定语从句\n2 | 后面从句缺主语/宾语吗？ | 缺 → who/which/that 等关系代词\n3 | 从句主干完整，只缺地点/时间关系吗？ | where/when 可能\n4 | 表示所属？ | whose",
+      "sourcePage": 110,
+      "sourceIndex": 2869
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Relative word",
+          "Use",
+          "Example"
+        ],
+        [
+          "who",
+          "人，常作主语/宾语",
+          "The student who helped me..."
+        ],
+        [
+          "whom",
+          "人，正式宾语",
+          "The person whom I met..."
+        ],
+        [
+          "whose",
+          "所属",
+          "The girl whose bag was lost..."
+        ],
+        [
+          "which",
+          "物",
+          "The book which I bought..."
+        ],
+        [
+          "that",
+          "人/物，限制性从句常用",
+          "The idea that changed..."
+        ],
+        [
+          "where",
+          "地点关系，从句主干完整",
+          "The town where I grew up..."
+        ],
+        [
+          "when",
+          "时间关系，从句主干完整",
+          "The day when we met..."
+        ]
+      ],
+      "text": "Relative word | Use | Example\nwho | 人，常作主语/宾语 | The student who helped me...\nwhom | 人，正式宾语 | The person whom I met...\nwhose | 所属 | The girl whose bag was lost...\nwhich | 物 | The book which I bought...\nthat | 人/物，限制性从句常用 | The idea that changed...\nwhere | 地点关系，从句主干完整 | The town where I grew up...\nwhen | 时间关系，从句主干完整 | The day when we met...",
+      "sourcePage": 110,
+      "sourceIndex": 2870
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "最重要警告：看到地点名词不等于选 where。\nthe city which I visited：visited 后缺宾语 → which/that。\nthe city where I lived：I lived 主干完整 → where。"
+        ]
+      ],
+      "text": " | 最重要警告：看到地点名词不等于选 where。\nthe city which I visited：visited 后缺宾语 → which/that。\nthe city where I lived：I lived 主干完整 → where。",
+      "sourcePage": 110,
+      "sourceIndex": 2871
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-8-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "白话：前面有一个人/东西，后面再补一句话说明它。",
+          "sourcePage": 110,
+          "sourceIndex": 2868
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Step",
+              "Question",
+              "Result"
+            ],
+            [
+              "1",
+              "前面有没有需要进一步说明的名词？",
+              "有 → 可能是定语从句"
+            ],
+            [
+              "2",
+              "后面从句缺主语/宾语吗？",
+              "缺 → who/which/that 等关系代词"
+            ],
+            [
+              "3",
+              "从句主干完整，只缺地点/时间关系吗？",
+              "where/when 可能"
+            ],
+            [
+              "4",
+              "表示所属？",
+              "whose"
+            ]
+          ],
+          "text": "Step | Question | Result\n1 | 前面有没有需要进一步说明的名词？ | 有 → 可能是定语从句\n2 | 后面从句缺主语/宾语吗？ | 缺 → who/which/that 等关系代词\n3 | 从句主干完整，只缺地点/时间关系吗？ | where/when 可能\n4 | 表示所属？ | whose",
+          "sourcePage": 110,
+          "sourceIndex": 2869
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Relative word",
+              "Use",
+              "Example"
+            ],
+            [
+              "who",
+              "人，常作主语/宾语",
+              "The student who helped me..."
+            ],
+            [
+              "whom",
+              "人，正式宾语",
+              "The person whom I met..."
+            ],
+            [
+              "whose",
+              "所属",
+              "The girl whose bag was lost..."
+            ],
+            [
+              "which",
+              "物",
+              "The book which I bought..."
+            ],
+            [
+              "that",
+              "人/物，限制性从句常用",
+              "The idea that changed..."
+            ],
+            [
+              "where",
+              "地点关系，从句主干完整",
+              "The town where I grew up..."
+            ],
+            [
+              "when",
+              "时间关系，从句主干完整",
+              "The day when we met..."
+            ]
+          ],
+          "text": "Relative word | Use | Example\nwho | 人，常作主语/宾语 | The student who helped me...\nwhom | 人，正式宾语 | The person whom I met...\nwhose | 所属 | The girl whose bag was lost...\nwhich | 物 | The book which I bought...\nthat | 人/物，限制性从句常用 | The idea that changed...\nwhere | 地点关系，从句主干完整 | The town where I grew up...\nwhen | 时间关系，从句主干完整 | The day when we met...",
+          "sourcePage": 110,
+          "sourceIndex": 2870
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "最重要警告：看到地点名词不等于选 where。\nthe city which I visited：visited 后缺宾语 → which/that。\nthe city where I lived：I lived 主干完整 → where。"
+            ]
+          ],
+          "text": " | 最重要警告：看到地点名词不等于选 where。\nthe city which I visited：visited 后缺宾语 → which/that。\nthe city where I lived：I lived 主干完整 → where。",
+          "sourcePage": 110,
+          "sourceIndex": 2871
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 110,
+    "endPage": 110
+  }
+}

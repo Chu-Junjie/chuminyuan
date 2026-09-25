@@ -1,0 +1,608 @@
+{
+  "id": "EN-R15",
+  "code": "R15",
+  "title": "事实 vs 观点",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 3,
+  "keywords": [
+    "R15",
+    "事实 vs 观点",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "fact",
+    "opinion",
+    "claim",
+    "evidence",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Fact",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "best",
+    "harmful",
+    "meaningful",
+    "should",
+    "surprisingly",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "better",
+    "valuable",
+    "reported",
+    "that",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "The",
+    "park",
+    "opened",
+    "city",
+    "most",
+    "inspiring",
+    "public",
+    "space",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "has",
+    "million",
+    "residents",
+    "beautiful",
+    "Researchers",
+    "found",
+    "useful",
+    "factual",
+    "claim/evidence",
+    "Ctrl"
+  ],
+  "brain_first": "“能不能被客观核对？还是表达了评价、判断、建议？”",
+  "sort_order": 1029,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 46,
+      "sourceIndex": 1282
+    },
+    {
+      "type": "paragraph",
+      "text": "题目要求区分 fact, opinion, claim, evidence，或",
+      "sourcePage": 46,
+      "sourceIndex": 1283
+    },
+    {
+      "type": "paragraph",
+      "text": "判断哪句是作者评价。",
+      "sourcePage": 46,
+      "sourceIndex": 1284
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 46,
+      "sourceIndex": 1285
+    },
+    {
+      "type": "paragraph",
+      "text": "Fact 可核验；opinion 含评价或价值判断。",
+      "sourcePage": 46,
+      "sourceIndex": 1286
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “能不能被客观核对？还是表达了评价、判断、建议？”",
+      "sourcePage": 46,
+      "sourceIndex": 1287
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 阅读中观点和事实常交织，识别它们有助于态度、论证和推断题。",
+      "sourcePage": 46,
+      "sourceIndex": 1288
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 46,
+      "sourceIndex": 1289
+    },
+    {
+      "type": "paragraph",
+      "text": "1 看句子有没有数据、时间、可观察事实。",
+      "sourcePage": 46,
+      "sourceIndex": 1290
+    },
+    {
+      "type": "paragraph",
+      "text": "2 看评价词：best, harmful, meaningful, should, surprisingly。",
+      "sourcePage": 46,
+      "sourceIndex": 1291
+    },
+    {
+      "type": "paragraph",
+      "text": "3 如果是研究结论，注意它仍是“研究发现/主张”，不等于永恒事实。",
+      "sourcePage": 46,
+      "sourceIndex": 1292
+    },
+    {
+      "type": "paragraph",
+      "text": "4 区分“作者观点”和“被引用观点”。",
+      "sourcePage": 46,
+      "sourceIndex": 1293
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 47,
+      "sourceIndex": 1294
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 47,
+      "sourceIndex": 1295
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 47,
+      "sourceIndex": 1296
+    },
+    {
+      "type": "paragraph",
+      "text": "· 数字不自动等于可靠事实，但通常属于证据表达",
+      "sourcePage": 47,
+      "sourceIndex": 1297
+    },
+    {
+      "type": "paragraph",
+      "text": "· should / better / valuable 多为观点",
+      "sourcePage": 47,
+      "sourceIndex": 1298
+    },
+    {
+      "type": "paragraph",
+      "text": "· X reported that... → 这是“X的说法”，主体要保留",
+      "sourcePage": 47,
+      "sourceIndex": 1299
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 你能指出句子是可核验事实还是评价/判断。",
+      "sourcePage": 47,
+      "sourceIndex": 1300
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 遇到看似客观的概括，检查有没有强度词和价值词。",
+      "sourcePage": 47,
+      "sourceIndex": 1301
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 47,
+      "sourceIndex": 1302
+    },
+    {
+      "type": "paragraph",
+      "text": "The park opened in 2018. 是事实；It is the city's most inspiring public space. 是评价。",
+      "sourcePage": 47,
+      "sourceIndex": 1303
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 47,
+      "sourceIndex": 1304
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把所有研究结论当绝对事实。",
+      "sourcePage": 47,
+      "sourceIndex": 1305
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略观点主体。",
+      "sourcePage": 47,
+      "sourceIndex": 1306
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 47,
+      "sourceIndex": 1307
+    },
+    {
+      "type": "paragraph",
+      "text": "· 可客观核验吗？",
+      "sourcePage": 47,
+      "sourceIndex": 1308
+    },
+    {
+      "type": "paragraph",
+      "text": "· 谁在做评价？",
+      "sourcePage": 47,
+      "sourceIndex": 1309
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 47,
+      "sourceIndex": 1310
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 47,
+      "sourceIndex": 1311
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 47,
+      "sourceIndex": 1312
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 事实可核，观点会评。",
+      "sourcePage": 47,
+      "sourceIndex": 1313
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 47,
+      "sourceIndex": 1315
+    },
+    {
+      "type": "paragraph",
+      "text": "1. “The city has 2 million residents.”事实还是观点？",
+      "sourcePage": 47,
+      "sourceIndex": 1316
+    },
+    {
+      "type": "paragraph",
+      "text": "2. “It is the most beautiful city.”",
+      "sourcePage": 47,
+      "sourceIndex": 1317
+    },
+    {
+      "type": "paragraph",
+      "text": "3. “Researchers found...”若有来源，属于？",
+      "sourcePage": 47,
+      "sourceIndex": 1318
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 作者说“surprisingly useful”中的surprisingly？",
+      "sourcePage": 47,
+      "sourceIndex": 1319
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 区分事实观点看什么？",
+      "sourcePage": 47,
+      "sourceIndex": 1320
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. fact；2. opinion；3. reported factual claim/evidence；4. 带评价色彩。；5. 能否客观核验 vs 主观",
+      "sourcePage": 47,
+      "sourceIndex": 1321
+    },
+    {
+      "type": "paragraph",
+      "text": "评价/判断。",
+      "sourcePage": 47,
+      "sourceIndex": 1322
+    },
+    {
+      "type": "paragraph",
+      "text": "— R15 本题型到这里。下次卡住直接 Ctrl+F 搜“R15”或题型关键词。—",
+      "sourcePage": 48,
+      "sourceIndex": 1323
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R15-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "题目要求区分 fact, opinion, claim, evidence，或 判断哪句是作者评价。",
+          "sourcePage": 46,
+          "sourceIndex": 1283
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fact 可核验；opinion 含评价或价值判断。",
+          "sourcePage": 46,
+          "sourceIndex": 1286
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“能不能被客观核对？还是表达了评价、判断、建议？”",
+          "sourcePage": 46,
+          "sourceIndex": 1287
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "阅读中观点和事实常交织，识别它们有助于态度、论证和推断题。",
+          "sourcePage": 46,
+          "sourceIndex": 1288
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 看句子有没有数据、时间、可观察事实。",
+          "sourcePage": 46,
+          "sourceIndex": 1290
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 看评价词：best, harmful, meaningful, should, surprisingly。",
+          "sourcePage": 46,
+          "sourceIndex": 1291
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 如果是研究结论，注意它仍是“研究发现/主张”，不等于永恒事实。",
+          "sourcePage": 46,
+          "sourceIndex": 1292
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 区分“作者观点”和“被引用观点”。",
+          "sourcePage": 46,
+          "sourceIndex": 1293
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 47,
+          "sourceIndex": 1294
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 数字不自动等于可靠事实，但通常属于证据表达",
+          "sourcePage": 47,
+          "sourceIndex": 1297
+        },
+        {
+          "type": "paragraph",
+          "text": "· should / better / valuable 多为观点",
+          "sourcePage": 47,
+          "sourceIndex": 1298
+        },
+        {
+          "type": "paragraph",
+          "text": "· X reported that... → 这是“X的说法”，主体要保留",
+          "sourcePage": 47,
+          "sourceIndex": 1299
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "你能指出句子是可核验事实还是评价/判断。",
+          "sourcePage": 47,
+          "sourceIndex": 1300
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "遇到看似客观的概括，检查有没有强度词和价值词。",
+          "sourcePage": 47,
+          "sourceIndex": 1301
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The park opened in 2018. 是事实；It is the city's most inspiring public space. 是评价。",
+          "sourcePage": 47,
+          "sourceIndex": 1303
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把所有研究结论当绝对事实。",
+          "sourcePage": 47,
+          "sourceIndex": 1305
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略观点主体。",
+          "sourcePage": 47,
+          "sourceIndex": 1306
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 可客观核验吗？",
+          "sourcePage": 47,
+          "sourceIndex": 1308
+        },
+        {
+          "type": "paragraph",
+          "text": "· 谁在做评价？",
+          "sourcePage": 47,
+          "sourceIndex": 1309
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 47,
+          "sourceIndex": 1310
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 47,
+          "sourceIndex": 1312
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "事实可核，观点会评。",
+          "sourcePage": 47,
+          "sourceIndex": 1313
+        }
+      ]
+    },
+    {
+      "id": "EN-R15-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. “The city has 2 million residents.”事实还是观点？",
+          "sourcePage": 47,
+          "sourceIndex": 1316
+        },
+        {
+          "type": "paragraph",
+          "text": "2. “It is the most beautiful city.”",
+          "sourcePage": 47,
+          "sourceIndex": 1317
+        },
+        {
+          "type": "paragraph",
+          "text": "3. “Researchers found...”若有来源，属于？",
+          "sourcePage": 47,
+          "sourceIndex": 1318
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 作者说“surprisingly useful”中的surprisingly？",
+          "sourcePage": 47,
+          "sourceIndex": 1319
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 区分事实观点看什么？",
+          "sourcePage": 47,
+          "sourceIndex": 1320
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. fact；2. opinion；3. reported factual claim/evidence；4. 带评价色彩。；5. 能否客观核验 vs 主观 评价/判断。",
+          "sourcePage": 47,
+          "sourceIndex": 1321
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 46,
+    "endPage": 48
+  }
+}

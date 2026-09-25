@@ -1,0 +1,177 @@
+{
+  "id": "EN-8-12",
+  "code": "8.12",
+  "title": "Prepositions 介词",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.12",
+    "Prepositions 介词",
+    "语法工具箱",
+    "Type",
+    "Examples",
+    "Time",
+    "Monday",
+    "during",
+    "the",
+    "holiday",
+    "for",
+    "two",
+    "years",
+    "since",
+    "Place",
+    "station",
+    "city",
+    "wall",
+    "between",
+    "among",
+    "Direction",
+    "into",
+    "onto",
+    "toward",
+    "through",
+    "across",
+    "Means/with",
+    "train",
+    "with",
+    "tool",
+    "English",
+    "Cause/purpose",
+    "because",
+    "due",
+    "depend",
+    "focus",
+    "contribute",
+    "prevent",
+    "from",
+    "interested",
+    "responsible",
+    "aware"
+  ],
+  "brain_first": "按原文查阅 Prepositions 介词",
+  "sort_order": 1083,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Type",
+          "Examples"
+        ],
+        [
+          "Time",
+          "at 7; on Monday; in 2026; during the holiday; for two years; since 2022"
+        ]
+      ],
+      "text": "Type | Examples\nTime | at 7; on Monday; in 2026; during the holiday; for two years; since 2022",
+      "sourcePage": 111,
+      "sourceIndex": 2887
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Type",
+          "Examples"
+        ],
+        [
+          "Place",
+          "at the station; in the city; on the wall; between; among"
+        ],
+        [
+          "Direction",
+          "to, into, onto, toward(s), through, across"
+        ],
+        [
+          "Means/with",
+          "by train; with a tool; in English"
+        ],
+        [
+          "Cause/purpose",
+          "because of, due to, for"
+        ]
+      ],
+      "text": "Type | Examples\nPlace | at the station; in the city; on the wall; between; among\nDirection | to, into, onto, toward(s), through, across\nMeans/with | by train; with a tool; in English\nCause/purpose | because of, due to, for",
+      "sourcePage": 112,
+      "sourceIndex": 2888
+    },
+    {
+      "type": "paragraph",
+      "text": "介词更重要的是语块：depend on, focus on, contribute to, prevent...from, be interested in, be responsible",
+      "sourcePage": 112,
+      "sourceIndex": 2889
+    },
+    {
+      "type": "paragraph",
+      "text": "for, be aware of。",
+      "sourcePage": 112,
+      "sourceIndex": 2890
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-12-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Type",
+              "Examples"
+            ],
+            [
+              "Time",
+              "at 7; on Monday; in 2026; during the holiday; for two years; since 2022"
+            ]
+          ],
+          "text": "Type | Examples\nTime | at 7; on Monday; in 2026; during the holiday; for two years; since 2022",
+          "sourcePage": 111,
+          "sourceIndex": 2887
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Type",
+              "Examples"
+            ],
+            [
+              "Place",
+              "at the station; in the city; on the wall; between; among"
+            ],
+            [
+              "Direction",
+              "to, into, onto, toward(s), through, across"
+            ],
+            [
+              "Means/with",
+              "by train; with a tool; in English"
+            ],
+            [
+              "Cause/purpose",
+              "because of, due to, for"
+            ]
+          ],
+          "text": "Type | Examples\nPlace | at the station; in the city; on the wall; between; among\nDirection | to, into, onto, toward(s), through, across\nMeans/with | by train; with a tool; in English\nCause/purpose | because of, due to, for",
+          "sourcePage": 112,
+          "sourceIndex": 2888
+        },
+        {
+          "type": "paragraph",
+          "text": "介词更重要的是语块：depend on, focus on, contribute to, prevent...from, be interested in, be responsible for, be aware of。",
+          "sourcePage": 112,
+          "sourceIndex": 2889
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 111,
+    "endPage": 112
+  }
+}

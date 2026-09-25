@@ -1,0 +1,635 @@
+{
+  "id": "EN-CW5",
+  "code": "CW5",
+  "title": "第二段如何收束",
+  "subject_id": "english",
+  "chapter_id": "en-continuation",
+  "chapter": "读后续写",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "CW5",
+    "第二段如何收束",
+    "读后续写",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Closure",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "V/N/Adj/Adv",
+    "worried",
+    "help",
+    "relieved",
+    "IF/THEN",
+    "then",
+    "lost",
+    "item",
+    "find/return",
+    "reaction",
+    "conflict",
+    "action/apology",
+    "repaired",
+    "relation",
+    "challenge",
+    "attempt",
+    "result",
+    "reflection",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "She",
+    "checked",
+    "bag",
+    "once",
+    "more",
+    "and",
+    "found",
+    "everything",
+    "inside",
+    "Her",
+    "tense",
+    "face",
+    "softened",
+    "into",
+    "smile",
+    "Thank",
+    "she",
+    "said",
+    "holding",
+    "close",
+    "train",
+    "pulled",
+    "TRAPS",
+    "Common",
+    "traps",
+    "From",
+    "that",
+    "day",
+    "learned",
+    "CHECK",
+    "Final",
+    "check",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Ctrl"
+  ],
+  "brain_first": "“解决原问题，再让人物情绪落地；不要最后一分钟再开新 坑。”",
+  "sort_order": 1068,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 103,
+      "sourceIndex": 2763
+    },
+    {
+      "type": "paragraph",
+      "text": "第二段需要解决主要问题并结束故事。",
+      "sourcePage": 103,
+      "sourceIndex": 2764
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 103,
+      "sourceIndex": 2765
+    },
+    {
+      "type": "paragraph",
+      "text": "Closure：让故事主要矛盾得到合理回应。",
+      "sourcePage": 103,
+      "sourceIndex": 2766
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “解决原问题，再让人物情绪落地；不要最后一分钟再开新",
+      "sourcePage": 103,
+      "sourceIndex": 2767
+    },
+    {
+      "type": "paragraph",
+      "text": "坑。”",
+      "sourcePage": 103,
+      "sourceIndex": 2768
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 高考续写看重与原文和给定首句的一致性。",
+      "sourcePage": 103,
+      "sourceIndex": 2769
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 103,
+      "sourceIndex": 2770
+    },
+    {
+      "type": "paragraph",
+      "text": "1 回到原文最核心的问题。",
+      "sourcePage": 103,
+      "sourceIndex": 2771
+    },
+    {
+      "type": "paragraph",
+      "text": "2 让人物通过已有资源/帮助完成关键行动。",
+      "sourcePage": 103,
+      "sourceIndex": 2772
+    },
+    {
+      "type": "paragraph",
+      "text": "3 写结果。",
+      "sourcePage": 103,
+      "sourceIndex": 2773
+    },
+    {
+      "type": "paragraph",
+      "text": "4 写简短情绪/关系变化。",
+      "sourcePage": 103,
+      "sourceIndex": 2774
+    },
+    {
+      "type": "paragraph",
+      "text": "5 若自然，可呼应原文物品/细节；不强行升华。",
+      "sourcePage": 103,
+      "sourceIndex": 2775
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如",
+      "sourcePage": 103,
+      "sourceIndex": 2776
+    },
+    {
+      "type": "paragraph",
+      "text": "worried→help→relieved；难空先打 ? 继续。",
+      "sourcePage": 103,
+      "sourceIndex": 2777
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 103,
+      "sourceIndex": 2778
+    },
+    {
+      "type": "paragraph",
+      "text": "· lost item → find/return + reaction",
+      "sourcePage": 103,
+      "sourceIndex": 2779
+    },
+    {
+      "type": "paragraph",
+      "text": "· conflict → action/apology + repaired relation",
+      "sourcePage": 104,
+      "sourceIndex": 2780
+    },
+    {
+      "type": "paragraph",
+      "text": "· challenge → attempt + result + reflection",
+      "sourcePage": 104,
+      "sourceIndex": 2781
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 主问题已解决，读者不会问“然后呢？”",
+      "sourcePage": 104,
+      "sourceIndex": 2782
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 不会写哲理结尾时，停在具体画面/人物反应就可以。",
+      "sourcePage": 104,
+      "sourceIndex": 2783
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 104,
+      "sourceIndex": 2784
+    },
+    {
+      "type": "paragraph",
+      "text": "She checked the bag once more and found everything inside. Her tense face softened into a smile.",
+      "sourcePage": 104,
+      "sourceIndex": 2785
+    },
+    {
+      "type": "paragraph",
+      "text": "“Thank you,” she said, holding the bag close as the train pulled in.",
+      "sourcePage": 104,
+      "sourceIndex": 2786
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 104,
+      "sourceIndex": 2787
+    },
+    {
+      "type": "paragraph",
+      "text": "· 强行“From that day on I learned...”每篇一样。",
+      "sourcePage": 104,
+      "sourceIndex": 2788
+    },
+    {
+      "type": "paragraph",
+      "text": "· 解决后又突然出现新事故。",
+      "sourcePage": 104,
+      "sourceIndex": 2789
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 104,
+      "sourceIndex": 2790
+    },
+    {
+      "type": "paragraph",
+      "text": "· 原问题解决了吗？",
+      "sourcePage": 104,
+      "sourceIndex": 2791
+    },
+    {
+      "type": "paragraph",
+      "text": "· 结尾与人物情绪一致吗？",
+      "sourcePage": 104,
+      "sourceIndex": 2792
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现",
+      "sourcePage": 104,
+      "sourceIndex": 2793
+    },
+    {
+      "type": "paragraph",
+      "text": "｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+      "sourcePage": 104,
+      "sourceIndex": 2794
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 104,
+      "sourceIndex": 2795
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 第二段：解决问题，情绪落地，别再开新坑。",
+      "sourcePage": 104,
+      "sourceIndex": 2796
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 104,
+      "sourceIndex": 2798
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 第二段最重要任务？",
+      "sourcePage": 104,
+      "sourceIndex": 2799
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 结尾突然出现新冲突合适吗？",
+      "sourcePage": 104,
+      "sourceIndex": 2800
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 强行“From that day on...”每篇都用？",
+      "sourcePage": 104,
+      "sourceIndex": 2801
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 首尾呼应可呼应什么？",
+      "sourcePage": 104,
+      "sourceIndex": 2802
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 结尾应该继续扩写很久吗？",
+      "sourcePage": 104,
+      "sourceIndex": 2803
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 解决原文主要问题并收束。；2. 通常不合适。；3. 避免模板化。；4. 原问题/物件/关系/情绪。；5. 问",
+      "sourcePage": 104,
+      "sourceIndex": 2804
+    },
+    {
+      "type": "paragraph",
+      "text": "题解决后及时收住。",
+      "sourcePage": 104,
+      "sourceIndex": 2805
+    },
+    {
+      "type": "paragraph",
+      "text": "— CW5 本题型到这里。下次卡住直接 Ctrl+F 搜“CW5”或题型关键词。—",
+      "sourcePage": 104,
+      "sourceIndex": 2806
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-CW5-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "第二段需要解决主要问题并结束故事。",
+          "sourcePage": 103,
+          "sourceIndex": 2764
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Closure：让故事主要矛盾得到合理回应。",
+          "sourcePage": 103,
+          "sourceIndex": 2766
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“解决原问题，再让人物情绪落地；不要最后一分钟再开新 坑。”",
+          "sourcePage": 103,
+          "sourceIndex": 2767
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "高考续写看重与原文和给定首句的一致性。",
+          "sourcePage": 103,
+          "sourceIndex": 2769
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 回到原文最核心的问题。",
+          "sourcePage": 103,
+          "sourceIndex": 2771
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 让人物通过已有资源/帮助完成关键行动。",
+          "sourcePage": 103,
+          "sourceIndex": 2772
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 写结果。",
+          "sourcePage": 103,
+          "sourceIndex": 2773
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 写简短情绪/关系变化。",
+          "sourcePage": 103,
+          "sourceIndex": 2774
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 若自然，可呼应原文物品/细节；不强行升华。",
+          "sourcePage": 103,
+          "sourceIndex": 2775
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如 worried→help→relieved；难空先打 ? 继续。",
+          "sourcePage": 103,
+          "sourceIndex": 2776
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· lost item → find/return + reaction",
+          "sourcePage": 103,
+          "sourceIndex": 2779
+        },
+        {
+          "type": "paragraph",
+          "text": "· conflict → action/apology + repaired relation",
+          "sourcePage": 104,
+          "sourceIndex": 2780
+        },
+        {
+          "type": "paragraph",
+          "text": "· challenge → attempt + result + reflection",
+          "sourcePage": 104,
+          "sourceIndex": 2781
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "主问题已解决，读者不会问“然后呢？”",
+          "sourcePage": 104,
+          "sourceIndex": 2782
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "不会写哲理结尾时，停在具体画面/人物反应就可以。",
+          "sourcePage": 104,
+          "sourceIndex": 2783
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "She checked the bag once more and found everything inside. Her tense face softened into a smile. “Thank you,” she said, holding the bag close as the train pulled in.",
+          "sourcePage": 104,
+          "sourceIndex": 2785
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 强行“From that day on I learned...”每篇一样。",
+          "sourcePage": 104,
+          "sourceIndex": 2788
+        },
+        {
+          "type": "paragraph",
+          "text": "· 解决后又突然出现新事故。",
+          "sourcePage": 104,
+          "sourceIndex": 2789
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 原问题解决了吗？",
+          "sourcePage": 104,
+          "sourceIndex": 2791
+        },
+        {
+          "type": "paragraph",
+          "text": "· 结尾与人物情绪一致吗？",
+          "sourcePage": 104,
+          "sourceIndex": 2792
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现 ｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+          "sourcePage": 104,
+          "sourceIndex": 2793
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 104,
+          "sourceIndex": 2795
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "第二段：解决问题，情绪落地，别再开新坑。",
+          "sourcePage": 104,
+          "sourceIndex": 2796
+        }
+      ]
+    },
+    {
+      "id": "EN-CW5-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 第二段最重要任务？",
+          "sourcePage": 104,
+          "sourceIndex": 2799
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 结尾突然出现新冲突合适吗？",
+          "sourcePage": 104,
+          "sourceIndex": 2800
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 强行“From that day on...”每篇都用？",
+          "sourcePage": 104,
+          "sourceIndex": 2801
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 首尾呼应可呼应什么？",
+          "sourcePage": 104,
+          "sourceIndex": 2802
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 结尾应该继续扩写很久吗？",
+          "sourcePage": 104,
+          "sourceIndex": 2803
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 解决原文主要问题并收束。；2. 通常不合适。；3. 避免模板化。；4. 原问题/物件/关系/情绪。；5. 问 题解决后及时收住。",
+          "sourcePage": 104,
+          "sourceIndex": 2804
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 103,
+    "endPage": 104
+  }
+}

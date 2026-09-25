@@ -1,0 +1,78 @@
+{
+  "id": "EN-INTRO-READING",
+  "code": "INTRO-READING",
+  "title": "阅读理解 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-READING",
+    "阅读理解 · 总览",
+    "阅读理解",
+    "Part",
+    "Reading",
+    "Comprehension",
+    "SOP"
+  ],
+  "brain_first": "按原文查阅 阅读理解 · 总览",
+  "sort_order": 1014,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part II - Reading Comprehension 阅读理解",
+      "sourcePage": 24,
+      "sourceIndex": 629
+    },
+    {
+      "type": "paragraph",
+      "text": "阅读理解最重要的习惯不是“全文翻译”，而是“问题驱动定位”。基础薄弱时，逐字翻译会把有限时间耗在",
+      "sourcePage": 24,
+      "sourceIndex": 630
+    },
+    {
+      "type": "paragraph",
+      "text": "与题目无关的词上。",
+      "sourcePage": 24,
+      "sourceIndex": 631
+    },
+    {
+      "type": "paragraph",
+      "text": "眼睛移动总SOP：先读题干 → 圈人物/时间/地点/段落/核心名词 → 回原文找同词或同义 → 找到后先读前",
+      "sourcePage": 24,
+      "sourceIndex": 632
+    },
+    {
+      "type": "paragraph",
+      "text": "一句+本句+后一句 → 四个选项逐项对证据。",
+      "sourcePage": 24,
+      "sourceIndex": 633
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-READING-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part II - Reading Comprehension 阅读理解 阅读理解最重要的习惯不是“全文翻译”，而是“问题驱动定位”。基础薄弱时，逐字翻译会把有限时间耗在 与题目无关的词上。",
+          "sourcePage": 24,
+          "sourceIndex": 629
+        },
+        {
+          "type": "paragraph",
+          "text": "眼睛移动总SOP：先读题干 → 圈人物/时间/地点/段落/核心名词 → 回原文找同词或同义 → 找到后先读前 一句+本句+后一句 → 四个选项逐项对证据。",
+          "sourcePage": 24,
+          "sourceIndex": 632
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 24,
+    "endPage": 24
+  }
+}

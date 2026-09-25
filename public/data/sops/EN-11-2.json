@@ -1,0 +1,56 @@
+{
+  "id": "EN-11-2",
+  "code": "11.2",
+  "title": "双顺序学习法",
+  "subject_id": "english",
+  "chapter_id": "en-yilin",
+  "chapter": "译林版教材对接",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "11.2",
+    "双顺序学习法",
+    "译林版教材对接"
+  ],
+  "brain_first": "按原文查阅 双顺序学习法",
+  "sort_order": 1110,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "教材顺序：跟学校课堂走，保证当前单元不掉队。",
+      "sourcePage": 126,
+      "sourceIndex": 3018
+    },
+    {
+      "type": "paragraph",
+      "text": "高考用途顺序：把学到的东西重新放进：阅读同义替换 / 语法填空 / 固定搭配 / 写作表达 / 续写动作情绪。",
+      "sourcePage": 126,
+      "sourceIndex": 3019
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-11-2-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "教材顺序：跟学校课堂走，保证当前单元不掉队。",
+          "sourcePage": 126,
+          "sourceIndex": 3018
+        },
+        {
+          "type": "paragraph",
+          "text": "高考用途顺序：把学到的东西重新放进：阅读同义替换 / 语法填空 / 固定搭配 / 写作表达 / 续写动作情绪。",
+          "sourcePage": 126,
+          "sourceIndex": 3019
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 126,
+    "endPage": 126
+  }
+}

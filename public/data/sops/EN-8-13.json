@@ -1,0 +1,166 @@
+{
+  "id": "EN-8-13",
+  "code": "8.13",
+  "title": "Pronouns 代词",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.13",
+    "Pronouns 代词",
+    "语法工具箱",
+    "Function",
+    "Forms",
+    "Subject",
+    "you",
+    "she",
+    "they",
+    "Object",
+    "him",
+    "her",
+    "them",
+    "Possessive",
+    "adjective",
+    "your",
+    "his",
+    "its",
+    "our",
+    "their",
+    "pronoun",
+    "mine",
+    "yours",
+    "hers",
+    "ours",
+    "theirs",
+    "Reflexive",
+    "myself",
+    "yourself",
+    "himself",
+    "herself",
+    "itself",
+    "ourselves",
+    "themselves",
+    "Indefinite",
+    "someone",
+    "anyone",
+    "everyone",
+    "none",
+    "both",
+    "either",
+    "neither",
+    "another",
+    "other",
+    "noun",
+    "others",
+    "the"
+  ],
+  "brain_first": "按原文查阅 Pronouns 代词",
+  "sort_order": 1084,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Function",
+          "Forms"
+        ],
+        [
+          "Subject",
+          "I, you, he, she, it, we, they"
+        ],
+        [
+          "Object",
+          "me, you, him, her, it, us, them"
+        ],
+        [
+          "Possessive adjective",
+          "my, your, his, her, its, our, their"
+        ],
+        [
+          "Possessive pronoun",
+          "mine, yours, his, hers, ours, theirs"
+        ],
+        [
+          "Reflexive",
+          "myself, yourself, himself, herself, itself, ourselves, themselves"
+        ],
+        [
+          "Indefinite",
+          "someone, anyone, everyone, none, both, either, neither"
+        ]
+      ],
+      "text": "Function | Forms\nSubject | I, you, he, she, it, we, they\nObject | me, you, him, her, it, us, them\nPossessive adjective | my, your, his, her, its, our, their\nPossessive pronoun | mine, yours, his, hers, ours, theirs\nReflexive | myself, yourself, himself, herself, itself, ourselves, themselves\nIndefinite | someone, anyone, everyone, none, both, either, neither",
+      "sourcePage": 112,
+      "sourceIndex": 2892
+    },
+    {
+      "type": "paragraph",
+      "text": "常考区别：another（再一个/另一个）; other + noun; others（其他人/物）; the other（两者中的另一个）;",
+      "sourcePage": 112,
+      "sourceIndex": 2893
+    },
+    {
+      "type": "paragraph",
+      "text": "the others（特定范围其余全部）。",
+      "sourcePage": 112,
+      "sourceIndex": 2894
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-13-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Function",
+              "Forms"
+            ],
+            [
+              "Subject",
+              "I, you, he, she, it, we, they"
+            ],
+            [
+              "Object",
+              "me, you, him, her, it, us, them"
+            ],
+            [
+              "Possessive adjective",
+              "my, your, his, her, its, our, their"
+            ],
+            [
+              "Possessive pronoun",
+              "mine, yours, his, hers, ours, theirs"
+            ],
+            [
+              "Reflexive",
+              "myself, yourself, himself, herself, itself, ourselves, themselves"
+            ],
+            [
+              "Indefinite",
+              "someone, anyone, everyone, none, both, either, neither"
+            ]
+          ],
+          "text": "Function | Forms\nSubject | I, you, he, she, it, we, they\nObject | me, you, him, her, it, us, them\nPossessive adjective | my, your, his, her, its, our, their\nPossessive pronoun | mine, yours, his, hers, ours, theirs\nReflexive | myself, yourself, himself, herself, itself, ourselves, themselves\nIndefinite | someone, anyone, everyone, none, both, either, neither",
+          "sourcePage": 112,
+          "sourceIndex": 2892
+        },
+        {
+          "type": "paragraph",
+          "text": "常考区别：another（再一个/另一个）; other + noun; others（其他人/物）; the other（两者中的另一个）; the others（特定范围其余全部）。",
+          "sourcePage": 112,
+          "sourceIndex": 2893
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 112,
+    "endPage": 112
+  }
+}

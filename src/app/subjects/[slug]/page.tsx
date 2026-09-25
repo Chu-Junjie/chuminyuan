@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { subjects } from "@/lib/catalog";
+import { EnglishLearn } from "@/components/english-learn";
 import { Learn } from "@/components/learn";
 
 export function generateStaticParams() {
@@ -16,6 +17,7 @@ export default async function Page({
   const subject = subjects.find((s) => s.id === slug);
   if (!subject) notFound();
   if (slug === "math") return <Learn />;
+  if (slug === "english") return <EnglishLearn />;
   return (
     <div className="empty construction">
       <span className="subject-symbol">{subject.symbol}</span>

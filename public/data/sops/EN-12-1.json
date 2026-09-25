@@ -1,0 +1,157 @@
+{
+  "id": "EN-12-1",
+  "code": "12.1",
+  "title": "一页考场急救",
+  "subject_id": "english",
+  "chapter_id": "en-rescue",
+  "chapter": "急救与索引",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "12.1",
+    "一页考场急救",
+    "急救与索引",
+    "When",
+    "you",
+    "are",
+    "stuck",
+    "this",
+    "next",
+    "Reading",
+    "detail",
+    "Inference",
+    "Main",
+    "idea",
+    "choose",
+    "Cloze",
+    "Verb",
+    "blank",
+    "Clause",
+    "Unknown",
+    "word",
+    "Practical",
+    "writing",
+    "Continuation"
+  ],
+  "brain_first": "按原文查阅 一页考场急救",
+  "sort_order": 1115,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "When you are stuck",
+          "Do this next"
+        ],
+        [
+          "Reading detail",
+          "圈题干 → 回原文 → 前/本/后一句 → 找同义 → 对选项"
+        ],
+        [
+          "Inference",
+          "写清证据 → 只多走半步 → 删绝对化/无中生有"
+        ],
+        [
+          "Main idea",
+          "给每段贴标签 → 找共同核心 → 删太窄/太大"
+        ],
+        [
+          "7 choose 5",
+          "看前后 → 代词 → 逻辑 → 词链 → 位置"
+        ],
+        [
+          "Cloze",
+          "先看谁做什么/情绪线 → 难空先留 → 后文回填"
+        ],
+        [
+          "Verb blank",
+          "已有谓语？→ 时间 → 主动/被动 → 单复数 / 非谓语"
+        ],
+        [
+          "Clause blank",
+          "空后句子完整吗？→ 修饰名词/当东西/表关系"
+        ],
+        [
+          "Unknown word",
+          "影响当前题吗？不影响跳；影响再用语境猜"
+        ],
+        [
+          "Practical writing",
+          "圈身份+目的+要点 → 每点至少一句 → 再美化"
+        ],
+        [
+          "Continuation",
+          "先看两段首句 → 倒推第一段终点 → 第二段解决问题"
+        ]
+      ],
+      "text": "When you are stuck | Do this next\nReading detail | 圈题干 → 回原文 → 前/本/后一句 → 找同义 → 对选项\nInference | 写清证据 → 只多走半步 → 删绝对化/无中生有\nMain idea | 给每段贴标签 → 找共同核心 → 删太窄/太大\n7 choose 5 | 看前后 → 代词 → 逻辑 → 词链 → 位置\nCloze | 先看谁做什么/情绪线 → 难空先留 → 后文回填\nVerb blank | 已有谓语？→ 时间 → 主动/被动 → 单复数 / 非谓语\nClause blank | 空后句子完整吗？→ 修饰名词/当东西/表关系\nUnknown word | 影响当前题吗？不影响跳；影响再用语境猜\nPractical writing | 圈身份+目的+要点 → 每点至少一句 → 再美化\nContinuation | 先看两段首句 → 倒推第一段终点 → 第二段解决问题",
+      "sourcePage": 128,
+      "sourceIndex": 3035
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-12-1-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "When you are stuck",
+              "Do this next"
+            ],
+            [
+              "Reading detail",
+              "圈题干 → 回原文 → 前/本/后一句 → 找同义 → 对选项"
+            ],
+            [
+              "Inference",
+              "写清证据 → 只多走半步 → 删绝对化/无中生有"
+            ],
+            [
+              "Main idea",
+              "给每段贴标签 → 找共同核心 → 删太窄/太大"
+            ],
+            [
+              "7 choose 5",
+              "看前后 → 代词 → 逻辑 → 词链 → 位置"
+            ],
+            [
+              "Cloze",
+              "先看谁做什么/情绪线 → 难空先留 → 后文回填"
+            ],
+            [
+              "Verb blank",
+              "已有谓语？→ 时间 → 主动/被动 → 单复数 / 非谓语"
+            ],
+            [
+              "Clause blank",
+              "空后句子完整吗？→ 修饰名词/当东西/表关系"
+            ],
+            [
+              "Unknown word",
+              "影响当前题吗？不影响跳；影响再用语境猜"
+            ],
+            [
+              "Practical writing",
+              "圈身份+目的+要点 → 每点至少一句 → 再美化"
+            ],
+            [
+              "Continuation",
+              "先看两段首句 → 倒推第一段终点 → 第二段解决问题"
+            ]
+          ],
+          "text": "When you are stuck | Do this next\nReading detail | 圈题干 → 回原文 → 前/本/后一句 → 找同义 → 对选项\nInference | 写清证据 → 只多走半步 → 删绝对化/无中生有\nMain idea | 给每段贴标签 → 找共同核心 → 删太窄/太大\n7 choose 5 | 看前后 → 代词 → 逻辑 → 词链 → 位置\nCloze | 先看谁做什么/情绪线 → 难空先留 → 后文回填\nVerb blank | 已有谓语？→ 时间 → 主动/被动 → 单复数 / 非谓语\nClause blank | 空后句子完整吗？→ 修饰名词/当东西/表关系\nUnknown word | 影响当前题吗？不影响跳；影响再用语境猜\nPractical writing | 圈身份+目的+要点 → 每点至少一句 → 再美化\nContinuation | 先看两段首句 → 倒推第一段终点 → 第二段解决问题",
+          "sourcePage": 128,
+          "sourceIndex": 3035
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 128,
+    "endPage": 128
+  }
+}

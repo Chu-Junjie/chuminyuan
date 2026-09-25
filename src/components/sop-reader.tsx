@@ -11,10 +11,11 @@ import {
 } from "lucide-react";
 import { useData, Loading, PageTitle, SourceBlock } from "./ui";
 import { useRecords, useStore } from "./provider";
-import { masteryLabels } from "@/lib/catalog";
-import type { Sop, Mastery } from "@/lib/types";
+import { masteryLabels, sopSubject } from "@/lib/catalog";
+import type { Sop, SopSummary, Mastery } from "@/lib/types";
 export function SopReader({ id }: { id: string }) {
   const { data: sop, error } = useData<Sop>(`/data/sops/${id}.json`);
+  const { data: catalog } = useData<SopSummary[]>("/data/catalog.json");
   const { ready, save, scope } = useStore();
   const progress = useRecords("progress").find(
     (p) => p.sopId === id && p.recordId === id,
@@ -82,6 +83,12 @@ export function SopReader({ id }: { id: string }) {
     };
   }, [id, save, scope]);
   if (!sop) return <Loading error={error} />;
+  const siblings = (catalog ?? []).filter(
+    (s) => sopSubject(s) === sopSubject(sop) && s.kind === sop.kind,
+  );
+  const siblingIndex = siblings.findIndex((s) => s.id === id);
+  const previous = siblings[siblingIndex - 1];
+  const next = siblingIndex >= 0 ? siblings[siblingIndex + 1] : undefined;
   const example = sop.blocks.find(
     (b) => b.type === "table" && b.text.startsWith("典型例题"),
   );
@@ -95,7 +102,11 @@ export function SopReader({ id }: { id: string }) {
     <>
       <Link
         className="back-link"
-        href={`/subjects/math/chapters/${sop.chapter_id}`}
+        href={
+          sopSubject(sop) === "english"
+            ? `/subjects/english?chapter=${sop.chapter_id}`
+            : `/subjects/math/chapters/${sop.chapter_id}`
+        }
       >
         <ArrowLeft size={16} />
         {sop.chapter}
@@ -114,8 +125,9 @@ export function SopReader({ id }: { id: string }) {
                 new Set([
                   "考前必看",
                   "我总忘",
-                  "函数",
-                  "数列",
+                  ...(sopSubject(sop) === "english"
+                    ? ["阅读", "语法", "写作"]
+                    : ["函数", "数列"]),
                   ...folders.map((f) => f.name),
                 ]),
               ).map((f) => (
@@ -141,6 +153,25 @@ export function SopReader({ id }: { id: string }) {
           </div>
         }
       />
+      {sop.source && (
+        <p className="muted small">
+          来源：用户提供的英语 SOP 宝典 · 第 {sop.source.startPage}–
+          {sop.source.endPage} 页 ·{" "}
+          <a
+            href={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/source/${sop.source.file}#page=${sop.source.startPage}`}
+            target="_blank"
+            rel="noreferrer"
+          >
+            核对 PDF 原页 ↗
+          </a>
+        </p>
+      )}
+      {sop.id.startsWith("EN-GF") && (
+        <p className="muted small">
+          原文勘误提示：本组部分草稿与纠错代码复用了七选五内容。记录语法错题时，请使用
+          G-P、G-T 等语法代码（原书第 128 页）。
+        </p>
+      )}
       {note?.text && (
         <a href="#my-note" className="note-preview">
           📝 你上次记下：{note.text.slice(0, 100)}
@@ -185,9 +216,17 @@ export function SopReader({ id }: { id: string }) {
               <h2>{section.title}</h2>
               {section.blocks
                 .filter((b) => !hidden.has(b.sourceIndex))
-                .map((block) => (
-                  <SourceBlock key={block.sourceIndex} block={block} />
-                ))}
+                .map((block) =>
+                  sopSubject(sop) === "english" &&
+                  /^(答案速查|Answers:)/.test(block.text) ? (
+                    <details key={block.sourceIndex} className="panel">
+                      <summary>查看参考答案</summary>
+                      <SourceBlock block={block} />
+                    </details>
+                  ) : (
+                    <SourceBlock key={block.sourceIndex} block={block} />
+                  ),
+                )}
               {section.blocks.some((b) => hidden.has(b.sourceIndex)) && (
                 <div className="example">
                   <p className="example-question">{exampleRows[0]}</p>
@@ -241,7 +280,11 @@ export function SopReader({ id }: { id: string }) {
             <p className="muted">用自己的话记下来。输入后自动保存在本机。</p>
             <textarea
               aria-label="我的笔记"
-              placeholder="比如：我就记——里面反，外面同。"
+              placeholder={
+                sopSubject(sop) === "english"
+                  ? "比如：先圈已有谓语，再判断这个动词该怎么变。"
+                  : "比如：我就记——里面反，外面同。"
+              }
               rows={5}
               value={note?.text ?? ""}
               onChange={(e) =>
@@ -280,21 +323,17 @@ export function SopReader({ id }: { id: string }) {
             ))}
           </section>
           <div className="row between reader-nav">
-            {Number(id.slice(3)) > 1 ? (
-              <Link
-                href={`/sop/SOP${String(Number(id.slice(3)) - 1).padStart(3, "0")}`}
-              >
+            {previous ? (
+              <Link href={`/sop/${previous.id}`}>
                 <ArrowLeft size={17} />
-                上一个 SOP
+                上一篇 · {previous.code}
               </Link>
             ) : (
               <span />
             )}
-            {Number(id.slice(3)) < 100 && (
-              <Link
-                href={`/sop/SOP${String(Number(id.slice(3)) + 1).padStart(3, "0")}`}
-              >
-                下一个 SOP
+            {next && (
+              <Link href={`/sop/${next.id}`}>
+                下一篇 · {next.code}
                 <ArrowRight size={17} />
               </Link>
             )}

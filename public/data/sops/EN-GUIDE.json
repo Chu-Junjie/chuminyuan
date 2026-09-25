@@ -1,0 +1,1012 @@
+{
+  "id": "EN-GUIDE",
+  "code": "GUIDE",
+  "title": "使用说明、考试参考与双入口目录",
+  "subject_id": "english",
+  "chapter_id": "en-overview",
+  "chapter": "使用说明与范围",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "GUIDE",
+    "使用说明、考试参考与双入口目录",
+    "使用说明与范围",
+    "JIANGSU",
+    "GAOKAO",
+    "ENGLISH",
+    "YILIN",
+    "PRESS",
+    "STUDENT",
+    "SOP",
+    "Foundation-to-Mid-Level",
+    "Problem-Solving",
+    "Handbook",
+    "Final",
+    "Edition",
+    "Listening",
+    "Reading",
+    "Choose",
+    "Cloze",
+    "Grammar",
+    "Filling",
+    "Practical",
+    "Writing",
+    "Continuation",
+    "September",
+    "Built",
+    "for",
+    "Jiangsu",
+    "Gaokao",
+    "candidate",
+    "using",
+    "Yilin",
+    "Press",
+    "senior-high",
+    "English",
+    "materials",
+    "Part",
+    "Current",
+    "working",
+    "structure",
+    "National",
+    "Paper",
+    "What",
+    "you",
+    "must",
+    "able",
+    "items",
+    "marks",
+    "Catch",
+    "key",
+    "facts",
+    "changes",
+    "attitude",
+    "intention",
+    "inference",
+    "and",
+    "paraphrase",
+    "MCQs",
+    "gap-filling",
+    "Locate",
+    "evidence",
+    "recognise",
+    "infer",
+    "carefully",
+    "follow",
+    "text",
+    "logic",
+    "Language",
+    "Use",
+    "cloze",
+    "grammar",
+    "filling",
+    "vocabulary",
+    "inside",
+    "context",
+    "not",
+    "isolated",
+    "rules",
+    "writing",
+    "continuation",
+    "Cover",
+    "task",
+    "points",
+    "organise",
+    "clearly",
+    "connect",
+    "story",
+    "write",
+    "accurately",
+    "Inference",
+    "Verb",
+    "Predicate",
+    "non-finite",
+    "check",
+    "Comprehension",
+    "III",
+    "Gap",
+    "VII",
+    "VIII",
+    "Toolbox",
+    "Vocabulary",
+    "Alignment",
+    "XII"
+  ],
+  "brain_first": "按原文查阅 使用说明、考试参考与双入口目录",
+  "sort_order": 1001,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "2027 JIANGSU GAOKAO • ENGLISH • YILIN PRESS STUDENT",
+      "sourcePage": 1,
+      "sourceIndex": 0
+    },
+    {
+      "type": "paragraph",
+      "text": "《2027江苏高考英语基础题",
+      "sourcePage": 1,
+      "sourceIndex": 1
+    },
+    {
+      "type": "paragraph",
+      "text": "SOP 宝典》",
+      "sourcePage": 1,
+      "sourceIndex": 2
+    },
+    {
+      "type": "paragraph",
+      "text": "Foundation-to-Mid-Level Problem-Solving Handbook · Final",
+      "sourcePage": 1,
+      "sourceIndex": 3
+    },
+    {
+      "type": "paragraph",
+      "text": "Edition",
+      "sourcePage": 1,
+      "sourceIndex": 4
+    },
+    {
+      "type": "paragraph",
+      "text": "超详细求助版｜题型 + 知识点 + 题干关键词三入口｜高频星级｜纠",
+      "sourcePage": 1,
+      "sourceIndex": 5
+    },
+    {
+      "type": "paragraph",
+      "text": "错闭环",
+      "sourcePage": 1,
+      "sourceIndex": 6
+    },
+    {
+      "type": "paragraph",
+      "text": "Listening Reading 7 Choose 5 Cloze Grammar Filling",
+      "sourcePage": 1,
+      "sourceIndex": 7
+    },
+    {
+      "type": "paragraph",
+      "text": "Practical Writing Continuation Writing",
+      "sourcePage": 1,
+      "sourceIndex": 8
+    },
+    {
+      "type": "paragraph",
+      "text": "核心原则",
+      "sourcePage": 1,
+      "sourceIndex": 9
+    },
+    {
+      "type": "paragraph",
+      "text": "先告诉你“现在干什么”，再告诉你这个东西在英语里叫什么。",
+      "sourcePage": 1,
+      "sourceIndex": 10
+    },
+    {
+      "type": "paragraph",
+      "text": "正确 > 完整 > 清楚 > 自然 > 高级。",
+      "sourcePage": 1,
+      "sourceIndex": 11
+    },
+    {
+      "type": "paragraph",
+      "text": "频次标记：★★★★★ 核心高频；★★★★☆ 高频；★★★☆☆ 正常范围。星级表示复习",
+      "sourcePage": 1,
+      "sourceIndex": 12
+    },
+    {
+      "type": "paragraph",
+      "text": "优先级与近年常见程度，不是2027命中预测。",
+      "sourcePage": 1,
+      "sourceIndex": 13
+    },
+    {
+      "type": "paragraph",
+      "text": "Final Edition: 25 September 2026. Built for a 2027 Jiangsu Gaokao candidate using Yilin Press senior-high",
+      "sourcePage": 1,
+      "sourceIndex": 14
+    },
+    {
+      "type": "paragraph",
+      "text": "English materials.",
+      "sourcePage": 1,
+      "sourceIndex": 15
+    },
+    {
+      "type": "paragraph",
+      "text": "使用说明与考试范围核对",
+      "sourcePage": 2,
+      "sourceIndex": 16
+    },
+    {
+      "type": "paragraph",
+      "text": "这本宝典不是从第一页背到最后一页的教材。它是一套“遇到问题就查”的解题导航系统。做题卡住",
+      "sourcePage": 2,
+      "sourceIndex": 17
+    },
+    {
+      "type": "paragraph",
+      "text": "时，先找到题型，再按照页面上的决策问题一步一步走。",
+      "sourcePage": 2,
+      "sourceIndex": 18
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "2027状态说明：截至2026年9月25日，江苏官方已明确2027年普通高考继续实行“3+1+2”模式，但目前\n未检索到江苏省教育考试院发布的2027英语单科新题型/分值细则。因此，本宝典以现行高中英语课程标\n准、2026全国卷官方评析以及2026全国Ⅰ卷实际结构为工作基准。若2027官方规则变化，应以最新官方\n文件为准。"
+        ]
+      ],
+      "text": " | 2027状态说明：截至2026年9月25日，江苏官方已明确2027年普通高考继续实行“3+1+2”模式，但目前\n未检索到江苏省教育考试院发布的2027英语单科新题型/分值细则。因此，本宝典以现行高中英语课程标\n准、2026全国卷官方评析以及2026全国Ⅰ卷实际结构为工作基准。若2027官方规则变化，应以最新官方\n文件为准。",
+      "sourcePage": 2,
+      "sourceIndex": 19
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "3100词范围",
+          "Yilin必修1-3 + 选必1-4",
+          "2026新高考I卷结构作参考",
+          "2027最终卷型待官方确认"
+        ]
+      ],
+      "text": "3100词范围 | Yilin必修1-3 + 选必1-4 | 2026新高考I卷结构作参考 | 2027最终卷型待官方确认",
+      "sourcePage": 2,
+      "sourceIndex": 20
+    },
+    {
+      "type": "paragraph",
+      "text": "课程范围以《普通高中英语课程标准日常修订版（2017年版2025年修订）》为最新基准。该修订版继续以主",
+      "sourcePage": 2,
+      "sourceIndex": 21
+    },
+    {
+      "type": "paragraph",
+      "text": "题、语篇、语言知识、文化知识、语言技能、学习策略组织课程内容；附录词汇表共收录约3100个必修+选择性",
+      "sourcePage": 2,
+      "sourceIndex": 22
+    },
+    {
+      "type": "paragraph",
+      "text": "必修词汇，并保留高考所需的主干语法、语篇与语用能力。",
+      "sourcePage": 2,
+      "sourceIndex": 23
+    },
+    {
+      "type": "paragraph",
+      "text": "2026全国Ⅰ卷实际仍为150分：听力30分；阅读50分（阅读理解37.5 + 七选五12.5）；语言运用30分（完形15",
+      "sourcePage": 2,
+      "sourceIndex": 24
+    },
+    {
+      "type": "paragraph",
+      "text": "+ 语法填空15）；写作40分（应用文15 + 读后续写25）。这只是“截至2026的现行参考结构”，不是对2027的",
+      "sourcePage": 2,
+      "sourceIndex": 25
+    },
+    {
+      "type": "paragraph",
+      "text": "保证。",
+      "sourcePage": 2,
+      "sourceIndex": 26
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Part",
+          "Current working structure (2026\nNational Paper I)",
+          "What you must be able to do"
+        ],
+        [
+          "Listening",
+          "20 items / 30 marks",
+          "Catch key facts, changes, attitude, intention,\ninference and paraphrase."
+        ],
+        [
+          "Reading",
+          "15 MCQs + 5 gap-filling / 50 marks",
+          "Locate evidence, recognise paraphrase, infer\ncarefully, follow text logic."
+        ],
+        [
+          "Language\nUse",
+          "15 cloze + 10 grammar filling / 30 marks",
+          "Use vocabulary and grammar inside context, not as\nisolated rules."
+        ],
+        [
+          "Writing",
+          "Practical writing + continuation / 40\nmarks",
+          "Cover task points, organise clearly, connect story\nlogic, write accurately."
+        ]
+      ],
+      "text": "Part | Current working structure (2026\nNational Paper I) | What you must be able to do\nListening | 20 items / 30 marks | Catch key facts, changes, attitude, intention,\ninference and paraphrase.\nReading | 15 MCQs + 5 gap-filling / 50 marks | Locate evidence, recognise paraphrase, infer\ncarefully, follow text logic.\nLanguage\nUse | 15 cloze + 10 grammar filling / 30 marks | Use vocabulary and grammar inside context, not as\nisolated rules.\nWriting | Practical writing + continuation / 40\nmarks | Cover task points, organise clearly, connect story\nlogic, write accurately.",
+      "sourcePage": 2,
+      "sourceIndex": 27
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "译林版怎么用：译林教育网目前列出的高中英语教材包括必修第一、二、三册和选择性必修一至四。教材\n用于建立词汇、语法、主题语境和表达基础；高考并不是按某一本译林版课文“抽题”。本宝典因此采用\n“按题型查 + 按知识点查”的双入口，而不是把教材逐课复制。"
+        ]
+      ],
+      "text": " | 译林版怎么用：译林教育网目前列出的高中英语教材包括必修第一、二、三册和选择性必修一至四。教材\n用于建立词汇、语法、主题语境和表达基础；高考并不是按某一本译林版课文“抽题”。本宝典因此采用\n“按题型查 + 按知识点查”的双入口，而不是把教材逐课复制。",
+      "sourcePage": 2,
+      "sourceIndex": 28
+    },
+    {
+      "type": "paragraph",
+      "text": "如何使用这本宝典",
+      "sourcePage": 2,
+      "sourceIndex": 29
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 做题时不会：直接查“题型索引”，例如 Reading → Inference。",
+      "sourcePage": 2,
+      "sourceIndex": 30
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 知道题型但卡在语法：查“知识点索引”，例如 Verb → Predicate or non-finite。",
+      "sourcePage": 2,
+      "sourceIndex": 31
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 看到生词：先问“这个词影响当前题吗？”不影响就跳。",
+      "sourcePage": 2,
+      "sourceIndex": 32
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 做完：按该题型的“Final check”检查，不要无目的重做全文。",
+      "sourcePage": 2,
+      "sourceIndex": 33
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 星级/优先级：表示复习优先级和近年常见程度，不表示2027命中概率。",
+      "sourcePage": 3,
+      "sourceIndex": 34
+    },
+    {
+      "type": "paragraph",
+      "text": "双入口目录",
+      "sourcePage": 3,
+      "sourceIndex": 35
+    },
+    {
+      "type": "paragraph",
+      "text": "按题型查",
+      "sourcePage": 3,
+      "sourceIndex": 36
+    },
+    {
+      "type": "paragraph",
+      "text": "Part I - Listening 听力..........................................................................................................................................5",
+      "sourcePage": 3,
+      "sourceIndex": 37
+    },
+    {
+      "type": "paragraph",
+      "text": "Part II - Reading Comprehension 阅读理解......................................................................................................24",
+      "sourcePage": 3,
+      "sourceIndex": 38
+    },
+    {
+      "type": "paragraph",
+      "text": "Part III - Reading Gap Filling 七选五..................................................................................................................53",
+      "sourcePage": 3,
+      "sourceIndex": 39
+    },
+    {
+      "type": "paragraph",
+      "text": "Part IV - Cloze 完形填空.....................................................................................................................................63",
+      "sourcePage": 3,
+      "sourceIndex": 40
+    },
+    {
+      "type": "paragraph",
+      "text": "Part V - Grammar Filling 语法填空....................................................................................................................75",
+      "sourcePage": 3,
+      "sourceIndex": 41
+    },
+    {
+      "type": "paragraph",
+      "text": "Part VI - Practical Writing 应用文......................................................................................................................92",
+      "sourcePage": 3,
+      "sourceIndex": 42
+    },
+    {
+      "type": "paragraph",
+      "text": "Part VII - Continuation Writing 读后续写..........................................................................................................97",
+      "sourcePage": 3,
+      "sourceIndex": 43
+    },
+    {
+      "type": "paragraph",
+      "text": "Part VIII - Grammar Toolbox 语法工具箱.........................................................................................................105",
+      "sourcePage": 3,
+      "sourceIndex": 44
+    },
+    {
+      "type": "paragraph",
+      "text": "Part IX - Vocabulary Toolbox 词汇工具箱........................................................................................................115",
+      "sourcePage": 3,
+      "sourceIndex": 45
+    },
+    {
+      "type": "paragraph",
+      "text": "Part X - Writing Toolbox 写作工具箱................................................................................................................122",
+      "sourcePage": 3,
+      "sourceIndex": 46
+    },
+    {
+      "type": "paragraph",
+      "text": "Part XI - Yilin Alignment 译林版对接................................................................................................................124",
+      "sourcePage": 3,
+      "sourceIndex": 47
+    },
+    {
+      "type": "paragraph",
+      "text": "Part XII - Quick Rescue & Index 急救页与索引................................................................................................127",
+      "sourcePage": 3,
+      "sourceIndex": 48
+    },
+    {
+      "type": "paragraph",
+      "text": "SOP 高频速查总目录（按模块）",
+      "sourcePage": 3,
+      "sourceIndex": 49
+    },
+    {
+      "type": "paragraph",
+      "text": "L0 ★★★★★ 听力解码：单词认识但耳朵听不出来............5 R8 ★★★★☆ 词义、短语义、句子含义猜测.....................35",
+      "sourcePage": 3,
+      "sourceIndex": 50
+    },
+    {
+      "type": "paragraph",
+      "text": "L1 ★★★★★ 数字信息题：时间、价格、数量、日期、距离 R9 ★★★★☆ 代词/指代题................................................37",
+      "sourcePage": 3,
+      "sourceIndex": 51
+    },
+    {
+      "type": "paragraph",
+      "text": ".............................................................................................7 R10 ★★★★★ 主旨大意题................................................38",
+      "sourcePage": 3,
+      "sourceIndex": 52
+    },
+    {
+      "type": "paragraph",
+      "text": "L2 ★★★★☆ 地点题：他们在哪里？..................................8 R11 ★★★★☆ 最佳标题题................................................40",
+      "sourcePage": 3,
+      "sourceIndex": 53
+    },
+    {
+      "type": "paragraph",
+      "text": "L3 ★★★★☆ 人物关系题..................................................10 R12 ★★★★☆ 文章结构题................................................41",
+      "sourcePage": 3,
+      "sourceIndex": 54
+    },
+    {
+      "type": "paragraph",
+      "text": "L4 ★★★★★ 行为、建议与下一步计划............................11 R13 ★★★★☆ 写作目的题................................................43",
+      "sourcePage": 3,
+      "sourceIndex": 55
+    },
+    {
+      "type": "paragraph",
+      "text": "L5 ★★★★★ 原因与目的题..............................................13 R14 ★★★☆☆ 信息出处/文体来源题................................45",
+      "sourcePage": 3,
+      "sourceIndex": 56
+    },
+    {
+      "type": "paragraph",
+      "text": "L6 ★★★★☆ 态度与情绪题..............................................15 R15 ★★★☆☆ 事实 vs 观点..............................................46",
+      "sourcePage": 3,
+      "sourceIndex": 57
+    },
+    {
+      "type": "paragraph",
+      "text": "L7 ★★★★☆ 主旨题.........................................................16 R16 ★★★★☆ NOT / EXCEPT / incorrect 反向题.............48",
+      "sourcePage": 3,
+      "sourceIndex": 58
+    },
+    {
+      "type": "paragraph",
+      "text": "L8 ★★★★☆ 推断题.........................................................18 R17 ★★★★★ 干扰项总检查：偷换、扩大、无中生有、半",
+      "sourcePage": 3,
+      "sourceIndex": 59
+    },
+    {
+      "type": "paragraph",
+      "text": "L9 ★★★★★ 同义替换......................................................20 对半错.................................................................................49",
+      "sourcePage": 3,
+      "sourceIndex": 60
+    },
+    {
+      "type": "paragraph",
+      "text": "L10 ★★★★★ 转折、改口与信息更新..............................21 R18 ★★★★☆ 非连续性语篇：图表、日程、地图、规则、",
+      "sourcePage": 3,
+      "sourceIndex": 61
+    },
+    {
+      "type": "paragraph",
+      "text": "R1 ★★★★★ 直接细节题..................................................24 菜单/网页信息....................................................................51",
+      "sourcePage": 3,
+      "sourceIndex": 62
+    },
+    {
+      "type": "paragraph",
+      "text": "R2 ★★★★★ 同义替换型细节题.......................................25 G1 ★★★★★ 段首 / 段中 / 段尾位置判断.........................53",
+      "sourcePage": 3,
+      "sourceIndex": 63
+    },
+    {
+      "type": "paragraph",
+      "text": "R3 ★★★★☆ 数字、时间、地点、人物信息题.................27 G2 ★★★★★ 代词与指代链..............................................54",
+      "sourcePage": 3,
+      "sourceIndex": 64
+    },
+    {
+      "type": "paragraph",
+      "text": "R4 ★★★★☆ 原因题.........................................................29 G3 ★★★★★ 逻辑关系：因果、转折、递进、并列..........56",
+      "sourcePage": 3,
+      "sourceIndex": 65
+    },
+    {
+      "type": "paragraph",
+      "text": "R5 ★★★★★ 目的题 / Why does the author mention...? G4 ★★★★☆ 重复词、同义词与主题链............................58",
+      "sourcePage": 3,
+      "sourceIndex": 66
+    },
+    {
+      "type": "paragraph",
+      "text": "...........................................................................................30 G5 ★★★★☆ 时间顺序、问答、举例关系........................59",
+      "sourcePage": 3,
+      "sourceIndex": 67
+    },
+    {
+      "type": "paragraph",
+      "text": "R6 ★★★★★ 推理判断题..................................................32 G6 ★★★★★ 两个多余选项怎么排...................................61",
+      "sourcePage": 3,
+      "sourceIndex": 68
+    },
+    {
+      "type": "paragraph",
+      "text": "R7 ★★★★☆ 作者态度题..................................................33 C1 ★★★★★ 动词题：谁做什么？...................................63",
+      "sourcePage": 3,
+      "sourceIndex": 69
+    },
+    {
+      "type": "paragraph",
+      "text": "C2 ★★★★☆ 名词题：缺的是哪一类东西？.....................64 GF6 ★★★★★ 词性转换：构词法.....................................83",
+      "sourcePage": 4,
+      "sourceIndex": 70
+    },
+    {
+      "type": "paragraph",
+      "text": "C3 ★★★★☆ 形容词与副词题..........................................66 GF7 ★★★★☆ 无提示词：冠词 a / an / the......................84",
+      "sourcePage": 4,
+      "sourceIndex": 71
+    },
+    {
+      "type": "paragraph",
+      "text": "C4 ★★★★☆ 逻辑连接词题..............................................68 GF8 ★★★★☆ 无提示词：介词........................................86",
+      "sourcePage": 4,
+      "sourceIndex": 72
+    },
+    {
+      "type": "paragraph",
+      "text": "C5 ★★★★☆ 固定搭配与语块..........................................69 GF9 ★★★★★ 无提示词：连词与三大从句关系词...........88",
+      "sourcePage": 4,
+      "sourceIndex": 73
+    },
+    {
+      "type": "paragraph",
+      "text": "C6 ★★★★★ 上下文复现：同义、反义、指代.................71 GF10 ★★★☆☆ 无提示词：代词、助动词/情态、小词....89",
+      "sourcePage": 4,
+      "sourceIndex": 74
+    },
+    {
+      "type": "paragraph",
+      "text": "C7 ★★★★★ 情绪变化与故事情节...................................72 PW1 ★★★★★ 先拆题：把提示变成写作任务清单..........92",
+      "sourcePage": 4,
+      "sourceIndex": 75
+    },
+    {
+      "type": "paragraph",
+      "text": "GF1 ★★★★★ 总入口：给词还是不给词？......................75 CW1 ★★★★★ 两段首句倒推路线....................................97",
+      "sourcePage": 4,
+      "sourceIndex": 76
+    },
+    {
+      "type": "paragraph",
+      "text": "GF2 ★★★★★ 给动词：谓语还是非谓语？......................76 CW2 ★★★★★ 动作链：把“发生了什么”写清楚..........98",
+      "sourcePage": 4,
+      "sourceIndex": 77
+    },
+    {
+      "type": "paragraph",
+      "text": "GF3 ★★★★☆ 给名词：单复数、所有格、词性转换........78 CW3 ★★★★☆ 情绪描写：不用一直写 very happy.......100",
+      "sourcePage": 4,
+      "sourceIndex": 78
+    },
+    {
+      "type": "paragraph",
+      "text": "GF4 ★★★★★ 给形容词 / 副词：词性、比较级、最高级.80 CW4 ★★★☆☆ 对话怎么写才不占满全文.......................101",
+      "sourcePage": 4,
+      "sourceIndex": 79
+    },
+    {
+      "type": "paragraph",
+      "text": "GF5 ★★★★☆ 给代词：主格、宾格、物主、反身...........81 CW5 ★★★★★ 第二段如何收束.....................................103",
+      "sourcePage": 4,
+      "sourceIndex": 80
+    },
+    {
+      "type": "paragraph",
+      "text": "按知识点查",
+      "sourcePage": 4,
+      "sourceIndex": 81
+    },
+    {
+      "type": "paragraph",
+      "text": "Sentence skeleton / 谓语识别...................................................................................................................................105",
+      "sourcePage": 4,
+      "sourceIndex": 82
+    },
+    {
+      "type": "paragraph",
+      "text": "Tenses / 时态.............................................................................................................................................................106",
+      "sourcePage": 4,
+      "sourceIndex": 83
+    },
+    {
+      "type": "paragraph",
+      "text": "Passive voice / 被动...................................................................................................................................................107",
+      "sourcePage": 4,
+      "sourceIndex": 84
+    },
+    {
+      "type": "paragraph",
+      "text": "Subject-verb agreement / 主谓一致.........................................................................................................................108",
+      "sourcePage": 4,
+      "sourceIndex": 85
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-finite verbs / 非谓语..........................................................................................................................................109",
+      "sourcePage": 4,
+      "sourceIndex": 86
+    },
+    {
+      "type": "paragraph",
+      "text": "Relative clauses / 定语从句.......................................................................................................................................110",
+      "sourcePage": 4,
+      "sourceIndex": 87
+    },
+    {
+      "type": "paragraph",
+      "text": "Noun clauses / 名词性从句.......................................................................................................................................110",
+      "sourcePage": 4,
+      "sourceIndex": 88
+    },
+    {
+      "type": "paragraph",
+      "text": "Adverbial clauses / 状语从句....................................................................................................................................111",
+      "sourcePage": 4,
+      "sourceIndex": 89
+    },
+    {
+      "type": "paragraph",
+      "text": "Articles / 冠词............................................................................................................................................................111",
+      "sourcePage": 4,
+      "sourceIndex": 90
+    },
+    {
+      "type": "paragraph",
+      "text": "Prepositions / 介词...................................................................................................................................................111",
+      "sourcePage": 4,
+      "sourceIndex": 91
+    },
+    {
+      "type": "paragraph",
+      "text": "Pronouns / 代词........................................................................................................................................................112",
+      "sourcePage": 4,
+      "sourceIndex": 92
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparison / 比较结构.............................................................................................................................................112",
+      "sourcePage": 4,
+      "sourceIndex": 93
+    },
+    {
+      "type": "paragraph",
+      "text": "Special structures / 特殊句式...................................................................................................................................113",
+      "sourcePage": 4,
+      "sourceIndex": 94
+    },
+    {
+      "type": "paragraph",
+      "text": "Word formation / 构词与词性...................................................................................................................................115",
+      "sourcePage": 4,
+      "sourceIndex": 95
+    },
+    {
+      "type": "paragraph",
+      "text": "Paraphrase / 同义替换...............................................................................................................................................117",
+      "sourcePage": 4,
+      "sourceIndex": 96
+    },
+    {
+      "type": "paragraph",
+      "text": "Collocations / 固定搭配.............................................................................................................................................115",
+      "sourcePage": 4,
+      "sourceIndex": 97
+    },
+    {
+      "type": "paragraph",
+      "text": "Basic sentence patterns / 基本句型..........................................................................................................................106",
+      "sourcePage": 4,
+      "sourceIndex": 98
+    },
+    {
+      "type": "paragraph",
+      "text": "Discourse & genre / 语篇类型....................................................................................................................................114",
+      "sourcePage": 4,
+      "sourceIndex": 99
+    },
+    {
+      "type": "paragraph",
+      "text": "Pragmatics / 语用......................................................................................................................................................114",
+      "sourcePage": 4,
+      "sourceIndex": 100
+    },
+    {
+      "type": "paragraph",
+      "text": "3100-word coverage / 3100词范围...........................................................................................................................120",
+      "sourcePage": 4,
+      "sourceIndex": 101
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-GUIDE-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "2027 JIANGSU GAOKAO • ENGLISH • YILIN PRESS STUDENT 《2027江苏高考英语基础题 SOP 宝典》 Foundation-to-Mid-Level Problem-Solving Handbook · Final Edition 超详细求助版｜题型 + 知识点 + 题干关键词三入口｜高频星级｜纠 错闭环 Listening Reading 7 Choose 5 Cloze Grammar Filling Practical Writing Continuation Writing 核心原则 先告诉你“现在干什么”，再告诉你这个东西在英语里叫什么。",
+          "sourcePage": 1,
+          "sourceIndex": 0
+        },
+        {
+          "type": "paragraph",
+          "text": "正确 > 完整 > 清楚 > 自然 > 高级。",
+          "sourcePage": 1,
+          "sourceIndex": 11
+        },
+        {
+          "type": "paragraph",
+          "text": "频次标记：★★★★★ 核心高频；★★★★☆ 高频；★★★☆☆ 正常范围。星级表示复习 优先级与近年常见程度，不是2027命中预测。",
+          "sourcePage": 1,
+          "sourceIndex": 12
+        },
+        {
+          "type": "paragraph",
+          "text": "Final Edition: 25 September 2026. Built for a 2027 Jiangsu Gaokao candidate using Yilin Press senior-high English materials. 使用说明与考试范围核对 这本宝典不是从第一页背到最后一页的教材。它是一套“遇到问题就查”的解题导航系统。做题卡住 时，先找到题型，再按照页面上的决策问题一步一步走。",
+          "sourcePage": 1,
+          "sourceIndex": 14
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "2027状态说明：截至2026年9月25日，江苏官方已明确2027年普通高考继续实行“3+1+2”模式，但目前\n未检索到江苏省教育考试院发布的2027英语单科新题型/分值细则。因此，本宝典以现行高中英语课程标\n准、2026全国卷官方评析以及2026全国Ⅰ卷实际结构为工作基准。若2027官方规则变化，应以最新官方\n文件为准。"
+            ]
+          ],
+          "text": " | 2027状态说明：截至2026年9月25日，江苏官方已明确2027年普通高考继续实行“3+1+2”模式，但目前\n未检索到江苏省教育考试院发布的2027英语单科新题型/分值细则。因此，本宝典以现行高中英语课程标\n准、2026全国卷官方评析以及2026全国Ⅰ卷实际结构为工作基准。若2027官方规则变化，应以最新官方\n文件为准。",
+          "sourcePage": 2,
+          "sourceIndex": 19
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "3100词范围",
+              "Yilin必修1-3 + 选必1-4",
+              "2026新高考I卷结构作参考",
+              "2027最终卷型待官方确认"
+            ]
+          ],
+          "text": "3100词范围 | Yilin必修1-3 + 选必1-4 | 2026新高考I卷结构作参考 | 2027最终卷型待官方确认",
+          "sourcePage": 2,
+          "sourceIndex": 20
+        },
+        {
+          "type": "paragraph",
+          "text": "课程范围以《普通高中英语课程标准日常修订版（2017年版2025年修订）》为最新基准。该修订版继续以主 题、语篇、语言知识、文化知识、语言技能、学习策略组织课程内容；附录词汇表共收录约3100个必修+选择性 必修词汇，并保留高考所需的主干语法、语篇与语用能力。",
+          "sourcePage": 2,
+          "sourceIndex": 21
+        },
+        {
+          "type": "paragraph",
+          "text": "2026全国Ⅰ卷实际仍为150分：听力30分；阅读50分（阅读理解37.5 + 七选五12.5）；语言运用30分（完形15 + 语法填空15）；写作40分（应用文15 + 读后续写25）。这只是“截至2026的现行参考结构”，不是对2027的 保证。",
+          "sourcePage": 2,
+          "sourceIndex": 24
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Part",
+              "Current working structure (2026\nNational Paper I)",
+              "What you must be able to do"
+            ],
+            [
+              "Listening",
+              "20 items / 30 marks",
+              "Catch key facts, changes, attitude, intention,\ninference and paraphrase."
+            ],
+            [
+              "Reading",
+              "15 MCQs + 5 gap-filling / 50 marks",
+              "Locate evidence, recognise paraphrase, infer\ncarefully, follow text logic."
+            ],
+            [
+              "Language\nUse",
+              "15 cloze + 10 grammar filling / 30 marks",
+              "Use vocabulary and grammar inside context, not as\nisolated rules."
+            ],
+            [
+              "Writing",
+              "Practical writing + continuation / 40\nmarks",
+              "Cover task points, organise clearly, connect story\nlogic, write accurately."
+            ]
+          ],
+          "text": "Part | Current working structure (2026\nNational Paper I) | What you must be able to do\nListening | 20 items / 30 marks | Catch key facts, changes, attitude, intention,\ninference and paraphrase.\nReading | 15 MCQs + 5 gap-filling / 50 marks | Locate evidence, recognise paraphrase, infer\ncarefully, follow text logic.\nLanguage\nUse | 15 cloze + 10 grammar filling / 30 marks | Use vocabulary and grammar inside context, not as\nisolated rules.\nWriting | Practical writing + continuation / 40\nmarks | Cover task points, organise clearly, connect story\nlogic, write accurately.",
+          "sourcePage": 2,
+          "sourceIndex": 27
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "译林版怎么用：译林教育网目前列出的高中英语教材包括必修第一、二、三册和选择性必修一至四。教材\n用于建立词汇、语法、主题语境和表达基础；高考并不是按某一本译林版课文“抽题”。本宝典因此采用\n“按题型查 + 按知识点查”的双入口，而不是把教材逐课复制。"
+            ]
+          ],
+          "text": " | 译林版怎么用：译林教育网目前列出的高中英语教材包括必修第一、二、三册和选择性必修一至四。教材\n用于建立词汇、语法、主题语境和表达基础；高考并不是按某一本译林版课文“抽题”。本宝典因此采用\n“按题型查 + 按知识点查”的双入口，而不是把教材逐课复制。",
+          "sourcePage": 2,
+          "sourceIndex": 28
+        },
+        {
+          "type": "paragraph",
+          "text": "如何使用这本宝典",
+          "sourcePage": 2,
+          "sourceIndex": 29
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 做题时不会：直接查“题型索引”，例如 Reading → Inference。",
+          "sourcePage": 2,
+          "sourceIndex": 30
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 知道题型但卡在语法：查“知识点索引”，例如 Verb → Predicate or non-finite。",
+          "sourcePage": 2,
+          "sourceIndex": 31
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 看到生词：先问“这个词影响当前题吗？”不影响就跳。",
+          "sourcePage": 2,
+          "sourceIndex": 32
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 做完：按该题型的“Final check”检查，不要无目的重做全文。",
+          "sourcePage": 2,
+          "sourceIndex": 33
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 星级/优先级：表示复习优先级和近年常见程度，不表示2027命中概率。",
+          "sourcePage": 3,
+          "sourceIndex": 34
+        },
+        {
+          "type": "paragraph",
+          "text": "双入口目录 按题型查",
+          "sourcePage": 3,
+          "sourceIndex": 35
+        },
+        {
+          "type": "paragraph",
+          "text": "Part I - Listening 听力..........................................................................................................................................5",
+          "sourcePage": 3,
+          "sourceIndex": 37
+        },
+        {
+          "type": "paragraph",
+          "text": "Part II - Reading Comprehension 阅读理解......................................................................................................24",
+          "sourcePage": 3,
+          "sourceIndex": 38
+        },
+        {
+          "type": "paragraph",
+          "text": "Part III - Reading Gap Filling 七选五..................................................................................................................53",
+          "sourcePage": 3,
+          "sourceIndex": 39
+        },
+        {
+          "type": "paragraph",
+          "text": "Part IV - Cloze 完形填空.....................................................................................................................................63",
+          "sourcePage": 3,
+          "sourceIndex": 40
+        },
+        {
+          "type": "paragraph",
+          "text": "Part V - Grammar Filling 语法填空....................................................................................................................75",
+          "sourcePage": 3,
+          "sourceIndex": 41
+        },
+        {
+          "type": "paragraph",
+          "text": "Part VI - Practical Writing 应用文......................................................................................................................92",
+          "sourcePage": 3,
+          "sourceIndex": 42
+        },
+        {
+          "type": "paragraph",
+          "text": "Part VII - Continuation Writing 读后续写..........................................................................................................97",
+          "sourcePage": 3,
+          "sourceIndex": 43
+        },
+        {
+          "type": "paragraph",
+          "text": "Part VIII - Grammar Toolbox 语法工具箱.........................................................................................................105",
+          "sourcePage": 3,
+          "sourceIndex": 44
+        },
+        {
+          "type": "paragraph",
+          "text": "Part IX - Vocabulary Toolbox 词汇工具箱........................................................................................................115",
+          "sourcePage": 3,
+          "sourceIndex": 45
+        },
+        {
+          "type": "paragraph",
+          "text": "Part X - Writing Toolbox 写作工具箱................................................................................................................122",
+          "sourcePage": 3,
+          "sourceIndex": 46
+        },
+        {
+          "type": "paragraph",
+          "text": "Part XI - Yilin Alignment 译林版对接................................................................................................................124",
+          "sourcePage": 3,
+          "sourceIndex": 47
+        },
+        {
+          "type": "paragraph",
+          "text": "Part XII - Quick Rescue & Index 急救页与索引................................................................................................127 SOP 高频速查总目录（按模块） L0 ★★★★★ 听力解码：单词认识但耳朵听不出来............5 R8 ★★★★☆ 词义、短语义、句子含义猜测.....................35 L1 ★★★★★ 数字信息题：时间、价格、数量、日期、距离 R9 ★★★★☆ 代词/指代题................................................37 .............................................................................................7 R10 ★★★★★ 主旨大意题................................................38 L2 ★★★★☆ 地点题：他们在哪里？..................................8 R11 ★★★★☆ 最佳标题题................................................40 L3 ★★★★☆ 人物关系题..................................................10 R12 ★★★★☆ 文章结构题................................................41 L4 ★★★★★ 行为、建议与下一步计划............................11 R13 ★★★★☆ 写作目的题................................................43 L5 ★★★★★ 原因与目的题..............................................13 R14 ★★★☆☆ 信息出处/文体来源题................................45 L6 ★★★★☆ 态度与情绪题..............................................15 R15 ★★★☆☆ 事实 vs 观点..............................................46 L7 ★★★★☆ 主旨题.........................................................16 R16 ★★★★☆ NOT / EXCEPT / incorrect 反向题.............48 L8 ★★★★☆ 推断题.........................................................18 R17 ★★★★★ 干扰项总检查：偷换、扩大、无中生有、半 L9 ★★★★★ 同义替换......................................................20 对半错.................................................................................49 L10 ★★★★★ 转折、改口与信息更新..............................21 R18 ★★★★☆ 非连续性语篇：图表、日程、地图、规则、 R1 ★★★★★ 直接细节题..................................................24 菜单/网页信息....................................................................51 R2 ★★★★★ 同义替换型细节题.......................................25 G1 ★★★★★ 段首 / 段中 / 段尾位置判断.........................53 R3 ★★★★☆ 数字、时间、地点、人物信息题.................27 G2 ★★★★★ 代词与指代链..............................................54 R4 ★★★★☆ 原因题.........................................................29 G3 ★★★★★ 逻辑关系：因果、转折、递进、并列..........56 R5 ★★★★★ 目的题 / Why does the author mention...? G4 ★★★★☆ 重复词、同义词与主题链............................58 ...........................................................................................30 G5 ★★★★☆ 时间顺序、问答、举例关系........................59 R6 ★★★★★ 推理判断题..................................................32 G6 ★★★★★ 两个多余选项怎么排...................................61 R7 ★★★★☆ 作者态度题..................................................33 C1 ★★★★★ 动词题：谁做什么？...................................63 C2 ★★★★☆ 名词题：缺的是哪一类东西？.....................64 GF6 ★★★★★ 词性转换：构词法.....................................83 C3 ★★★★☆ 形容词与副词题..........................................66 GF7 ★★★★☆ 无提示词：冠词 a / an / the......................84 C4 ★★★★☆ 逻辑连接词题..............................................68 GF8 ★★★★☆ 无提示词：介词........................................86 C5 ★★★★☆ 固定搭配与语块..........................................69 GF9 ★★★★★ 无提示词：连词与三大从句关系词...........88 C6 ★★★★★ 上下文复现：同义、反义、指代.................71 GF10 ★★★☆☆ 无提示词：代词、助动词/情态、小词....89 C7 ★★★★★ 情绪变化与故事情节...................................72 PW1 ★★★★★ 先拆题：把提示变成写作任务清单..........92 GF1 ★★★★★ 总入口：给词还是不给词？......................75 CW1 ★★★★★ 两段首句倒推路线....................................97 GF2 ★★★★★ 给动词：谓语还是非谓语？......................76 CW2 ★★★★★ 动作链：把“发生了什么”写清楚..........98 GF3 ★★★★☆ 给名词：单复数、所有格、词性转换........78 CW3 ★★★★☆ 情绪描写：不用一直写 very happy.......100 GF4 ★★★★★ 给形容词 / 副词：词性、比较级、最高级.80 CW4 ★★★☆☆ 对话怎么写才不占满全文.......................101 GF5 ★★★★☆ 给代词：主格、宾格、物主、反身...........81 CW5 ★★★★★ 第二段如何收束.....................................103 按知识点查 Sentence skeleton / 谓语识别...................................................................................................................................105 Tenses / 时态.............................................................................................................................................................106 Passive voice / 被动...................................................................................................................................................107 Subject-verb agreement / 主谓一致.........................................................................................................................108 Non-finite verbs / 非谓语..........................................................................................................................................109 Relative clauses / 定语从句.......................................................................................................................................110 Noun clauses / 名词性从句.......................................................................................................................................110 Adverbial clauses / 状语从句....................................................................................................................................111 Articles / 冠词............................................................................................................................................................111 Prepositions / 介词...................................................................................................................................................111 Pronouns / 代词........................................................................................................................................................112 Comparison / 比较结构.............................................................................................................................................112 Special structures / 特殊句式...................................................................................................................................113 Word formation / 构词与词性...................................................................................................................................115 Paraphrase / 同义替换...............................................................................................................................................117 Collocations / 固定搭配.............................................................................................................................................115 Basic sentence patterns / 基本句型..........................................................................................................................106 Discourse & genre / 语篇类型....................................................................................................................................114 Pragmatics / 语用......................................................................................................................................................114 3100-word coverage / 3100词范围...........................................................................................................................120",
+          "sourcePage": 3,
+          "sourceIndex": 48
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 1,
+    "endPage": 4
+  }
+}

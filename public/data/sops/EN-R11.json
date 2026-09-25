@@ -1,0 +1,588 @@
+{
+  "id": "EN-R11",
+  "code": "R11",
+  "title": "最佳标题题",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "R11",
+    "最佳标题题",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "Which",
+    "the",
+    "best",
+    "title",
+    "TERM",
+    "What",
+    "term",
+    "really",
+    "means",
+    "Best",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "Can",
+    "City",
+    "Trees",
+    "Clean",
+    "Air",
+    "Are",
+    "Important",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Ctrl"
+  ],
+  "brain_first": "“标题要短、准、能罩住全文；不是最酷的那一句。”",
+  "sort_order": 1025,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 40,
+      "sourceIndex": 1096
+    },
+    {
+      "type": "paragraph",
+      "text": "Which is the best title?",
+      "sourcePage": 40,
+      "sourceIndex": 1097
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 40,
+      "sourceIndex": 1098
+    },
+    {
+      "type": "paragraph",
+      "text": "Best title = 主旨的标题化表达。",
+      "sourcePage": 40,
+      "sourceIndex": 1099
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “标题要短、准、能罩住全文；不是最酷的那一句。”",
+      "sourcePage": 40,
+      "sourceIndex": 1100
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 标题除了覆盖全文，还常带文章最有辨识度的核心对象/变化。",
+      "sourcePage": 40,
+      "sourceIndex": 1101
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 40,
+      "sourceIndex": 1102
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先做主旨判断。",
+      "sourcePage": 40,
+      "sourceIndex": 1103
+    },
+    {
+      "type": "paragraph",
+      "text": "2 删掉只覆盖一段的标题。",
+      "sourcePage": 40,
+      "sourceIndex": 1104
+    },
+    {
+      "type": "paragraph",
+      "text": "3 删掉范围过大的“空口号”。",
+      "sourcePage": 40,
+      "sourceIndex": 1105
+    },
+    {
+      "type": "paragraph",
+      "text": "4 若两个都覆盖，选更具体但仍能涵盖全文的。",
+      "sourcePage": 40,
+      "sourceIndex": 1106
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 40,
+      "sourceIndex": 1107
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 40,
+      "sourceIndex": 1108
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 40,
+      "sourceIndex": 1109
+    },
+    {
+      "type": "paragraph",
+      "text": "· 问号标题常适合解释一个问题的文章",
+      "sourcePage": 40,
+      "sourceIndex": 1110
+    },
+    {
+      "type": "paragraph",
+      "text": "· 故事标题可突出核心人物+关键变化",
+      "sourcePage": 40,
+      "sourceIndex": 1111
+    },
+    {
+      "type": "paragraph",
+      "text": "· 不要因为押韵/吸引眼球就选",
+      "sourcePage": 40,
+      "sourceIndex": 1112
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 标题覆盖全文主要内容且不过度。",
+      "sourcePage": 40,
+      "sourceIndex": 1113
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 把每个标题放在文章上方，问：“读完全文会觉得被骗吗？”",
+      "sourcePage": 40,
+      "sourceIndex": 1114
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 40,
+      "sourceIndex": 1115
+    },
+    {
+      "type": "paragraph",
+      "text": "全文讲城市树木如何影响局部空气质量，并讨论研究限制。标题“Can City Trees Clean the",
+      "sourcePage": 40,
+      "sourceIndex": 1116
+    },
+    {
+      "type": "paragraph",
+      "text": "Air?”比“Trees Are Important”更贴文章。",
+      "sourcePage": 40,
+      "sourceIndex": 1117
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 41,
+      "sourceIndex": 1118
+    },
+    {
+      "type": "paragraph",
+      "text": "· 选最宽泛。",
+      "sourcePage": 41,
+      "sourceIndex": 1119
+    },
+    {
+      "type": "paragraph",
+      "text": "· 选最戏剧化。",
+      "sourcePage": 41,
+      "sourceIndex": 1120
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 41,
+      "sourceIndex": 1121
+    },
+    {
+      "type": "paragraph",
+      "text": "· 是否覆盖全文？",
+      "sourcePage": 41,
+      "sourceIndex": 1122
+    },
+    {
+      "type": "paragraph",
+      "text": "· 是否保留核心对象？",
+      "sourcePage": 41,
+      "sourceIndex": 1123
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 41,
+      "sourceIndex": 1124
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 41,
+      "sourceIndex": 1125
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 41,
+      "sourceIndex": 1126
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 标题 = 主旨压缩成一句。",
+      "sourcePage": 41,
+      "sourceIndex": 1127
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 41,
+      "sourceIndex": 1129
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 最佳标题除主旨外还要求？",
+      "sourcePage": 41,
+      "sourceIndex": 1130
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 很有哲理但与大部分段落无关，能选吗？",
+      "sourcePage": 41,
+      "sourceIndex": 1131
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 标题只写文章一个例子，通常？",
+      "sourcePage": 41,
+      "sourceIndex": 1132
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 标题包含文章从未讨论的大概念，通常？",
+      "sourcePage": 41,
+      "sourceIndex": 1133
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 判断方法？",
+      "sourcePage": 41,
+      "sourceIndex": 1134
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 简洁、准确、覆盖全文。；2. 不能。；3. 太窄。；4. 太大/跑题。；5. 问“全文大部分是否都能装进",
+      "sourcePage": 41,
+      "sourceIndex": 1135
+    },
+    {
+      "type": "paragraph",
+      "text": "这个标题”。",
+      "sourcePage": 41,
+      "sourceIndex": 1136
+    },
+    {
+      "type": "paragraph",
+      "text": "— R11 本题型到这里。下次卡住直接 Ctrl+F 搜“R11”或题型关键词。—",
+      "sourcePage": 41,
+      "sourceIndex": 1137
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R11-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Which is the best title?",
+          "sourcePage": 40,
+          "sourceIndex": 1097
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Best title = 主旨的标题化表达。",
+          "sourcePage": 40,
+          "sourceIndex": 1099
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“标题要短、准、能罩住全文；不是最酷的那一句。”",
+          "sourcePage": 40,
+          "sourceIndex": 1100
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "标题除了覆盖全文，还常带文章最有辨识度的核心对象/变化。",
+          "sourcePage": 40,
+          "sourceIndex": 1101
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先做主旨判断。",
+          "sourcePage": 40,
+          "sourceIndex": 1103
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 删掉只覆盖一段的标题。",
+          "sourcePage": 40,
+          "sourceIndex": 1104
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 删掉范围过大的“空口号”。",
+          "sourcePage": 40,
+          "sourceIndex": 1105
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 若两个都覆盖，选更具体但仍能涵盖全文的。",
+          "sourcePage": 40,
+          "sourceIndex": 1106
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 40,
+          "sourceIndex": 1107
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 问号标题常适合解释一个问题的文章",
+          "sourcePage": 40,
+          "sourceIndex": 1110
+        },
+        {
+          "type": "paragraph",
+          "text": "· 故事标题可突出核心人物+关键变化",
+          "sourcePage": 40,
+          "sourceIndex": 1111
+        },
+        {
+          "type": "paragraph",
+          "text": "· 不要因为押韵/吸引眼球就选",
+          "sourcePage": 40,
+          "sourceIndex": 1112
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "标题覆盖全文主要内容且不过度。",
+          "sourcePage": 40,
+          "sourceIndex": 1113
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "把每个标题放在文章上方，问：“读完全文会觉得被骗吗？”",
+          "sourcePage": 40,
+          "sourceIndex": 1114
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "全文讲城市树木如何影响局部空气质量，并讨论研究限制。标题“Can City Trees Clean the Air?”比“Trees Are Important”更贴文章。",
+          "sourcePage": 40,
+          "sourceIndex": 1116
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 选最宽泛。",
+          "sourcePage": 41,
+          "sourceIndex": 1119
+        },
+        {
+          "type": "paragraph",
+          "text": "· 选最戏剧化。",
+          "sourcePage": 41,
+          "sourceIndex": 1120
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 是否覆盖全文？",
+          "sourcePage": 41,
+          "sourceIndex": 1122
+        },
+        {
+          "type": "paragraph",
+          "text": "· 是否保留核心对象？",
+          "sourcePage": 41,
+          "sourceIndex": 1123
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 41,
+          "sourceIndex": 1124
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 41,
+          "sourceIndex": 1126
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "标题 = 主旨压缩成一句。",
+          "sourcePage": 41,
+          "sourceIndex": 1127
+        }
+      ]
+    },
+    {
+      "id": "EN-R11-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 最佳标题除主旨外还要求？",
+          "sourcePage": 41,
+          "sourceIndex": 1130
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 很有哲理但与大部分段落无关，能选吗？",
+          "sourcePage": 41,
+          "sourceIndex": 1131
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 标题只写文章一个例子，通常？",
+          "sourcePage": 41,
+          "sourceIndex": 1132
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 标题包含文章从未讨论的大概念，通常？",
+          "sourcePage": 41,
+          "sourceIndex": 1133
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 判断方法？",
+          "sourcePage": 41,
+          "sourceIndex": 1134
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 简洁、准确、覆盖全文。；2. 不能。；3. 太窄。；4. 太大/跑题。；5. 问“全文大部分是否都能装进 这个标题”。",
+          "sourcePage": 41,
+          "sourceIndex": 1135
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 40,
+    "endPage": 41
+  }
+}

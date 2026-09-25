@@ -1,0 +1,195 @@
+{
+  "id": "EN-10-3",
+  "code": "10.3",
+  "title": "常见中式英语修复",
+  "subject_id": "english",
+  "chapter_id": "en-writing",
+  "chapter": "写作工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "10.3",
+    "常见中式英语修复",
+    "写作工具箱",
+    "Avoid",
+    "Use",
+    "instead",
+    "learn",
+    "knowledge",
+    "gain/acquire",
+    "about",
+    "make",
+    "very",
+    "relax",
+    "feel",
+    "relaxed",
+    "help",
+    "convenience",
+    "convenient",
+    "people",
+    "are",
+    "discuss",
+    "enter",
+    "into",
+    "the",
+    "university",
+    "according",
+    "opinion",
+    "from",
+    "perspective",
+    "like",
+    "really",
+    "give",
+    "many",
+    "helps",
+    "lot",
+    "more",
+    "better",
+    "much"
+  ],
+  "brain_first": "按原文查阅 常见中式英语修复",
+  "sort_order": 1104,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Avoid",
+          "Use instead"
+        ],
+        [
+          "learn knowledge",
+          "gain/acquire knowledge; learn about..."
+        ],
+        [
+          "make me very relax",
+          "make me feel relaxed; help me relax"
+        ],
+        [
+          "very convenience",
+          "very convenient"
+        ],
+        [
+          "people is",
+          "people are"
+        ],
+        [
+          "discuss about",
+          "discuss"
+        ]
+      ],
+      "text": "Avoid | Use instead\nlearn knowledge | gain/acquire knowledge; learn about...\nmake me very relax | make me feel relaxed; help me relax\nvery convenience | very convenient\npeople is | people are\ndiscuss about | discuss",
+      "sourcePage": 122,
+      "sourceIndex": 2991
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Avoid",
+          "Use instead"
+        ],
+        [
+          "enter into the university",
+          "enter university / go to university"
+        ],
+        [
+          "according to me",
+          "in my opinion / from my perspective"
+        ],
+        [
+          "I very like",
+          "I really like"
+        ],
+        [
+          "give me many helps",
+          "give me a lot of help"
+        ],
+        [
+          "more better",
+          "better / much better"
+        ]
+      ],
+      "text": "Avoid | Use instead\nenter into the university | enter university / go to university\naccording to me | in my opinion / from my perspective\nI very like | I really like\ngive me many helps | give me a lot of help\nmore better | better / much better",
+      "sourcePage": 123,
+      "sourceIndex": 2992
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-10-3-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Avoid",
+              "Use instead"
+            ],
+            [
+              "learn knowledge",
+              "gain/acquire knowledge; learn about..."
+            ],
+            [
+              "make me very relax",
+              "make me feel relaxed; help me relax"
+            ],
+            [
+              "very convenience",
+              "very convenient"
+            ],
+            [
+              "people is",
+              "people are"
+            ],
+            [
+              "discuss about",
+              "discuss"
+            ]
+          ],
+          "text": "Avoid | Use instead\nlearn knowledge | gain/acquire knowledge; learn about...\nmake me very relax | make me feel relaxed; help me relax\nvery convenience | very convenient\npeople is | people are\ndiscuss about | discuss",
+          "sourcePage": 122,
+          "sourceIndex": 2991
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Avoid",
+              "Use instead"
+            ],
+            [
+              "enter into the university",
+              "enter university / go to university"
+            ],
+            [
+              "according to me",
+              "in my opinion / from my perspective"
+            ],
+            [
+              "I very like",
+              "I really like"
+            ],
+            [
+              "give me many helps",
+              "give me a lot of help"
+            ],
+            [
+              "more better",
+              "better / much better"
+            ]
+          ],
+          "text": "Avoid | Use instead\nenter into the university | enter university / go to university\naccording to me | in my opinion / from my perspective\nI very like | I really like\ngive me many helps | give me a lot of help\nmore better | better / much better",
+          "sourcePage": 123,
+          "sourceIndex": 2992
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 122,
+    "endPage": 123
+  }
+}

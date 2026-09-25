@@ -8,6 +8,14 @@ import { ArrowUpRight, Bookmark } from "lucide-react";
 import type { SopSummary, Block } from "@/lib/types";
 import { useRecords, useStore } from "./provider";
 import { supabase } from "@/lib/supabase";
+export function mergeContent<T extends { id: string }>(
+  bundled: T[],
+  incoming: T[],
+) {
+  const rows = new Map(bundled.map((row) => [row.id, row]));
+  for (const row of incoming) rows.set(row.id, { ...rows.get(row.id), ...row });
+  return Array.from(rows.values());
+}
 export function useData<T>(path: string) {
   const { scope } = useStore();
   const [data, setData] = useState<T | null>(null),
@@ -23,6 +31,17 @@ export function useData<T>(path: string) {
       try {
         const response = await fetch(requestPath, { signal: abort.signal });
         if (response.ok) local = await response.json();
+        if (path === "/data/catalog.json" || path === "/data/chapters.json") {
+          const english = await fetch(
+            `${basePath}/data/english/${path.split("/").pop()}`,
+            { signal: abort.signal },
+          );
+          if (!english.ok) throw Error("English content unavailable");
+          local = mergeContent(
+            (local ?? []) as { id: string }[],
+            await english.json(),
+          );
+        }
       } catch (e) {
         if (abort.signal.aborted) return;
       }
@@ -35,7 +54,7 @@ export function useData<T>(path: string) {
       ) {
         const id = path.split("/").pop()!.replace(".json", "");
         void navigator.serviceWorker.ready
-          .then(() => caches.open("gaokao-quest-v1"))
+          .then(() => caches.open("gaokao-quest-v3"))
           .then((cache) => cache.add(`${basePath}/sop/${id}`))
           .catch(() => {});
       }
@@ -46,7 +65,7 @@ export function useData<T>(path: string) {
       ) {
         const snapshot = JSON.stringify(local);
         void caches
-          .open("gaokao-quest-v1")
+          .open("gaokao-quest-v3")
           .then((cache) =>
             cache.put(
               requestPath,
@@ -67,13 +86,16 @@ export function useData<T>(path: string) {
             if (error) throw error;
             if (rows?.length) {
               const existing = (local ?? []) as SopSummary[];
-              local = rows.map((row) => ({
-                ...existing.find((s) => s.id === row.id),
-                brain_first:
-                  existing.find((s) => s.id === row.id)?.brain_first ?? "",
-                chapter: existing.find((s) => s.id === row.id)?.chapter ?? "",
-                ...row,
-              }));
+              local = mergeContent(
+                existing,
+                rows.map((row) => ({
+                  ...existing.find((s) => s.id === row.id),
+                  brain_first:
+                    existing.find((s) => s.id === row.id)?.brain_first ?? "",
+                  chapter: existing.find((s) => s.id === row.id)?.chapter ?? "",
+                  ...row,
+                })),
+              );
             }
           } else if (path === "/data/chapters.json") {
             const { data: rows, error } = await supabase
@@ -81,7 +103,8 @@ export function useData<T>(path: string) {
               .select("*")
               .order("sort_order");
             if (error) throw error;
-            if (rows?.length) local = rows;
+            if (rows?.length)
+              local = mergeContent((local ?? []) as { id: string }[], rows);
           } else if (path.startsWith("/data/sops/")) {
             const id = path.split("/").pop()!.replace(".json", "");
             const { data: row, error } = await supabase
@@ -93,7 +116,7 @@ export function useData<T>(path: string) {
             if (row) local = row.content_json;
           }
           if (local && "caches" in window) {
-            const cache = await caches.open("gaokao-quest-v1");
+            const cache = await caches.open("gaokao-quest-v3");
             await cache.put(
               requestPath,
               new Response(JSON.stringify(local), {
@@ -167,9 +190,12 @@ export function SopCard({ sop }: { sop: SopSummary }) {
     <Link className="sop-card" href={`/sop/${sop.id}`}>
       <div className="row between">
         <span className="code">{sop.code.replace("SOP", "SOP ")}</span>
-        <span className="stars" aria-label={`${sop.frequency}星频次`}>
+        <span
+          className="stars"
+          aria-label={sop.frequency ? `${sop.frequency}星频次` : "知识工具"}
+        >
           {"★".repeat(sop.frequency)}
-          {"☆".repeat(5 - sop.frequency)}
+          {sop.frequency ? "☆".repeat(5 - sop.frequency) : "知识工具"}
         </span>
       </div>
       <h3>{sop.title}</h3>

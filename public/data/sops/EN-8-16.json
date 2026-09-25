@@ -1,0 +1,318 @@
+{
+  "id": "EN-8-16",
+  "code": "8.16",
+  "title": "It, There be, Emphasis, Inversion, Ellipsis",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.16",
+    "It, There be, Emphasis, Inversion, Ellipsis",
+    "语法工具箱",
+    "important",
+    "check",
+    "the",
+    "source",
+    "clear",
+    "that",
+    "plan",
+    "needs",
+    "more",
+    "time",
+    "find",
+    "useful",
+    "make",
+    "checklist",
+    "There",
+    "reason",
+    "are",
+    "two",
+    "reasons",
+    "seems",
+    "problem",
+    "have",
+    "many",
+    "students",
+    "Many",
+    "is/was",
+    "that/who",
+    "was",
+    "Tom",
+    "who",
+    "found",
+    "key",
+    "Only",
+    "then",
+    "did",
+    "understand",
+    "Never",
+    "seen",
+    "Not",
+    "until",
+    "later",
+    "realize",
+    "Here",
+    "comes",
+    "bus",
+    "possible",
+    "arrive",
+    "ten",
+    "minutes",
+    "early",
+    "chose",
+    "blue",
+    "one",
+    "Some",
+    "agreed",
+    "others",
+    "not",
+    "agree"
+  ],
+  "brain_first": "按原文查阅 It, There be, Emphasis, Inversion, Ellipsis",
+  "sort_order": 1087,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "It 作形式主语/宾语",
+      "sourcePage": 113,
+      "sourceIndex": 2902
+    },
+    {
+      "type": "paragraph",
+      "text": "· It is important to check the source.",
+      "sourcePage": 113,
+      "sourceIndex": 2903
+    },
+    {
+      "type": "paragraph",
+      "text": "· It is clear that the plan needs more time.",
+      "sourcePage": 113,
+      "sourceIndex": 2904
+    },
+    {
+      "type": "paragraph",
+      "text": "· I find it useful to make a checklist.",
+      "sourcePage": 113,
+      "sourceIndex": 2905
+    },
+    {
+      "type": "paragraph",
+      "text": "There be",
+      "sourcePage": 113,
+      "sourceIndex": 2906
+    },
+    {
+      "type": "paragraph",
+      "text": "· There is a reason. / There are two reasons.",
+      "sourcePage": 113,
+      "sourceIndex": 2907
+    },
+    {
+      "type": "paragraph",
+      "text": "· There seems to be a problem.",
+      "sourcePage": 113,
+      "sourceIndex": 2908
+    },
+    {
+      "type": "paragraph",
+      "text": "· 避免写 *There have many students*；应为 There are many students 或 Many students have...",
+      "sourcePage": 113,
+      "sourceIndex": 2909
+    },
+    {
+      "type": "paragraph",
+      "text": "强调句（基础）",
+      "sourcePage": 113,
+      "sourceIndex": 2910
+    },
+    {
+      "type": "paragraph",
+      "text": "It is/was + 被强调部分 + that/who + 其余。例如 It was Tom who found the key. 基础学生写作不必强行使",
+      "sourcePage": 113,
+      "sourceIndex": 2911
+    },
+    {
+      "type": "paragraph",
+      "text": "用。",
+      "sourcePage": 113,
+      "sourceIndex": 2912
+    },
+    {
+      "type": "paragraph",
+      "text": "倒装（基础识别）",
+      "sourcePage": 113,
+      "sourceIndex": 2913
+    },
+    {
+      "type": "paragraph",
+      "text": "· Only then did I understand...",
+      "sourcePage": 113,
+      "sourceIndex": 2914
+    },
+    {
+      "type": "paragraph",
+      "text": "· Never have I seen...",
+      "sourcePage": 113,
+      "sourceIndex": 2915
+    },
+    {
+      "type": "paragraph",
+      "text": "· Not until later did he realize...",
+      "sourcePage": 113,
+      "sourceIndex": 2916
+    },
+    {
+      "type": "paragraph",
+      "text": "· Here comes the bus.（不同类型，不要混为一谈）",
+      "sourcePage": 113,
+      "sourceIndex": 2917
+    },
+    {
+      "type": "paragraph",
+      "text": "省略与替代",
+      "sourcePage": 114,
+      "sourceIndex": 2918
+    },
+    {
+      "type": "paragraph",
+      "text": "· If possible, arrive ten minutes early. = If it is possible...",
+      "sourcePage": 114,
+      "sourceIndex": 2919
+    },
+    {
+      "type": "paragraph",
+      "text": "· I chose the blue one. one 替代前文可数单数名词。",
+      "sourcePage": 114,
+      "sourceIndex": 2920
+    },
+    {
+      "type": "paragraph",
+      "text": "· Some students agreed; others did not. did not = did not agree。",
+      "sourcePage": 114,
+      "sourceIndex": 2921
+    },
+    {
+      "type": "paragraph",
+      "text": "优先级：特殊句式要会识别，但基础薄弱阶段不要拿它们挤占时态、非谓语、定语从句、词性转换等核心",
+      "sourcePage": 114,
+      "sourceIndex": 2922
+    },
+    {
+      "type": "paragraph",
+      "text": "时间。",
+      "sourcePage": 114,
+      "sourceIndex": 2923
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-16-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "It 作形式主语/宾语",
+          "sourcePage": 113,
+          "sourceIndex": 2902
+        },
+        {
+          "type": "paragraph",
+          "text": "· It is important to check the source.",
+          "sourcePage": 113,
+          "sourceIndex": 2903
+        },
+        {
+          "type": "paragraph",
+          "text": "· It is clear that the plan needs more time.",
+          "sourcePage": 113,
+          "sourceIndex": 2904
+        },
+        {
+          "type": "paragraph",
+          "text": "· I find it useful to make a checklist. There be",
+          "sourcePage": 113,
+          "sourceIndex": 2905
+        },
+        {
+          "type": "paragraph",
+          "text": "· There is a reason. / There are two reasons.",
+          "sourcePage": 113,
+          "sourceIndex": 2907
+        },
+        {
+          "type": "paragraph",
+          "text": "· There seems to be a problem.",
+          "sourcePage": 113,
+          "sourceIndex": 2908
+        },
+        {
+          "type": "paragraph",
+          "text": "· 避免写 *There have many students*；应为 There are many students 或 Many students have... 强调句（基础） It is/was + 被强调部分 + that/who + 其余。例如 It was Tom who found the key. 基础学生写作不必强行使 用。",
+          "sourcePage": 113,
+          "sourceIndex": 2909
+        },
+        {
+          "type": "paragraph",
+          "text": "倒装（基础识别）",
+          "sourcePage": 113,
+          "sourceIndex": 2913
+        },
+        {
+          "type": "paragraph",
+          "text": "· Only then did I understand...",
+          "sourcePage": 113,
+          "sourceIndex": 2914
+        },
+        {
+          "type": "paragraph",
+          "text": "· Never have I seen...",
+          "sourcePage": 113,
+          "sourceIndex": 2915
+        },
+        {
+          "type": "paragraph",
+          "text": "· Not until later did he realize...",
+          "sourcePage": 113,
+          "sourceIndex": 2916
+        },
+        {
+          "type": "paragraph",
+          "text": "· Here comes the bus.（不同类型，不要混为一谈） 省略与替代",
+          "sourcePage": 113,
+          "sourceIndex": 2917
+        },
+        {
+          "type": "paragraph",
+          "text": "· If possible, arrive ten minutes early. = If it is possible...",
+          "sourcePage": 114,
+          "sourceIndex": 2919
+        },
+        {
+          "type": "paragraph",
+          "text": "· I chose the blue one. one 替代前文可数单数名词。",
+          "sourcePage": 114,
+          "sourceIndex": 2920
+        },
+        {
+          "type": "paragraph",
+          "text": "· Some students agreed; others did not. did not = did not agree。",
+          "sourcePage": 114,
+          "sourceIndex": 2921
+        },
+        {
+          "type": "paragraph",
+          "text": "优先级：特殊句式要会识别，但基础薄弱阶段不要拿它们挤占时态、非谓语、定语从句、词性转换等核心 时间。",
+          "sourcePage": 114,
+          "sourceIndex": 2922
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 113,
+    "endPage": 114
+  }
+}

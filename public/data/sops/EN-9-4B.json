@@ -1,0 +1,170 @@
+{
+  "id": "EN-9-4B",
+  "code": "9.4B",
+  "title": "Unknown Word Rescue 生词自救SOP",
+  "subject_id": "english",
+  "chapter_id": "en-vocabulary",
+  "chapter": "词汇工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "9.4B",
+    "Unknown Word Rescue 生词自救SOP",
+    "词汇工具箱",
+    "un-/dis-/re-",
+    "tion/-ive/-ly",
+    "Example",
+    "The",
+    "device",
+    "compact",
+    "can",
+    "easily",
+    "fit",
+    "into",
+    "small",
+    "bag"
+  ],
+  "brain_first": "按原文查阅 Unknown Word Rescue 生词自救SOP",
+  "sort_order": 1096,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "第一问：这个词不认识，会不会影响当前这道题？如果不影响，直接跳过。不要为了一个无关生词停一分\n钟。"
+        ]
+      ],
+      "text": " | 第一问：这个词不认识，会不会影响当前这道题？如果不影响，直接跳过。不要为了一个无关生词停一分\n钟。",
+      "sourcePage": 119,
+      "sourceIndex": 2961
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 先判断它是否影响当前题的定位或选项判断。",
+      "sourcePage": 119,
+      "sourceIndex": 2962
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 不影响 → 跳过，继续读主干。",
+      "sourcePage": 119,
+      "sourceIndex": 2963
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 影响 → 看词性：名词/动词/形容词/副词？",
+      "sourcePage": 119,
+      "sourceIndex": 2964
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 看前后有没有转折、因果、举例、同义解释。",
+      "sourcePage": 119,
+      "sourceIndex": 2965
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 看构词：un-/dis-/re- 等前缀，-tion/-ive/-ly 等后缀。",
+      "sourcePage": 119,
+      "sourceIndex": 2966
+    },
+    {
+      "type": "paragraph",
+      "text": "6. 用上下文猜“方向和大概类别”即可，不要求字典级中文翻译。",
+      "sourcePage": 119,
+      "sourceIndex": 2967
+    },
+    {
+      "type": "paragraph",
+      "text": "Example",
+      "sourcePage": 119,
+      "sourceIndex": 2968
+    },
+    {
+      "type": "paragraph",
+      "text": "The device is compact, so it can easily fit into a small bag.",
+      "sourcePage": 119,
+      "sourceIndex": 2969
+    },
+    {
+      "type": "paragraph",
+      "text": "如果不认识 compact，后面的结果 “fit into a small bag” 已经告诉你它大概表示“小巧/不占空间”。做",
+      "sourcePage": 119,
+      "sourceIndex": 2970
+    },
+    {
+      "type": "paragraph",
+      "text": "题够用了。",
+      "sourcePage": 119,
+      "sourceIndex": 2971
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-9-4B-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "第一问：这个词不认识，会不会影响当前这道题？如果不影响，直接跳过。不要为了一个无关生词停一分\n钟。"
+            ]
+          ],
+          "text": " | 第一问：这个词不认识，会不会影响当前这道题？如果不影响，直接跳过。不要为了一个无关生词停一分\n钟。",
+          "sourcePage": 119,
+          "sourceIndex": 2961
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 先判断它是否影响当前题的定位或选项判断。",
+          "sourcePage": 119,
+          "sourceIndex": 2962
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 不影响 → 跳过，继续读主干。",
+          "sourcePage": 119,
+          "sourceIndex": 2963
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 影响 → 看词性：名词/动词/形容词/副词？",
+          "sourcePage": 119,
+          "sourceIndex": 2964
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 看前后有没有转折、因果、举例、同义解释。",
+          "sourcePage": 119,
+          "sourceIndex": 2965
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 看构词：un-/dis-/re- 等前缀，-tion/-ive/-ly 等后缀。",
+          "sourcePage": 119,
+          "sourceIndex": 2966
+        },
+        {
+          "type": "paragraph",
+          "text": "6. 用上下文猜“方向和大概类别”即可，不要求字典级中文翻译。",
+          "sourcePage": 119,
+          "sourceIndex": 2967
+        },
+        {
+          "type": "paragraph",
+          "text": "Example The device is compact, so it can easily fit into a small bag. 如果不认识 compact，后面的结果 “fit into a small bag” 已经告诉你它大概表示“小巧/不占空间”。做 题够用了。",
+          "sourcePage": 119,
+          "sourceIndex": 2968
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 119,
+    "endPage": 119
+  }
+}

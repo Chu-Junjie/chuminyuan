@@ -1,0 +1,60 @@
+{
+  "id": "EN-INTRO-GRAMMAR",
+  "code": "INTRO-GRAMMAR",
+  "title": "语法工具箱 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-GRAMMAR",
+    "语法工具箱 · 总览",
+    "语法工具箱",
+    "Part",
+    "VIII",
+    "Grammar",
+    "Toolbox"
+  ],
+  "brain_first": "按原文查阅 语法工具箱 · 总览",
+  "sort_order": 1069,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part VIII - Grammar Toolbox 语法工具箱",
+      "sourcePage": 105,
+      "sourceIndex": 2807
+    },
+    {
+      "type": "paragraph",
+      "text": "这一部分不是让你先背术语，而是在语法填空、阅读长句和写作出错时查。先理解句子“谁做什么”，再看细",
+      "sourcePage": 105,
+      "sourceIndex": 2808
+    },
+    {
+      "type": "paragraph",
+      "text": "规则。",
+      "sourcePage": 105,
+      "sourceIndex": 2809
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-GRAMMAR-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part VIII - Grammar Toolbox 语法工具箱 这一部分不是让你先背术语，而是在语法填空、阅读长句和写作出错时查。先理解句子“谁做什么”，再看细 规则。",
+          "sourcePage": 105,
+          "sourceIndex": 2807
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 105,
+    "endPage": 105
+  }
+}

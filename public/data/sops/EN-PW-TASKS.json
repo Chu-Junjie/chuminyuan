@@ -1,0 +1,396 @@
+{
+  "id": "EN-PW-TASKS",
+  "code": "PW-TASKS",
+  "title": "常见应用文任务卡",
+  "subject_id": "english",
+  "chapter_id": "en-practical",
+  "chapter": "应用文写作",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "PW-TASKS",
+    "常见应用文任务卡",
+    "应用文写作",
+    "Task",
+    "type",
+    "Brain",
+    "formula",
+    "Useful",
+    "language",
+    "Mini",
+    "example",
+    "Invitation",
+    "like",
+    "invite",
+    "you",
+    "will",
+    "take",
+    "place",
+    "think",
+    "enjoy",
+    "because",
+    "Please",
+    "let",
+    "know",
+    "can",
+    "come",
+    "Dear",
+    "Alex",
+    "our",
+    "school",
+    "hold",
+    "culture",
+    "night",
+    "this",
+    "Friday",
+    "the",
+    "hall",
+    "love",
+    "join",
+    "There",
+    "student",
+    "performances",
+    "and",
+    "short",
+    "food",
+    "fair",
+    "should",
+    "relaxed",
+    "way",
+    "learn",
+    "about",
+    "local",
+    "are",
+    "free",
+    "Thank-you",
+    "Thank",
+    "much",
+    "for",
+    "Your",
+    "help",
+    "made",
+    "possible",
+    "especially",
+    "appreciated",
+    "helping",
+    "prepare",
+    "interview",
+    "questions",
+    "showed",
+    "where",
+    "answers",
+    "were",
+    "unclear",
+    "your",
+    "encouragement",
+    "more",
+    "confident",
+    "really",
+    "appreciate",
+    "time",
+    "spent",
+    "with",
+    "Apology",
+    "sorry",
+    "that",
+    "have",
+    "make",
+    "cannot",
+    "tomorrow",
+    "group",
+    "meeting",
+    "medical",
+    "appointment",
+    "already",
+    "finished",
+    "part",
+    "sent",
+    "notes",
+    "Mia",
+    "also",
+    "online",
+    "later",
+    "evening"
+  ],
+  "brain_first": "按原文查阅 常见应用文任务卡",
+  "sort_order": 1061,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "常见应用文任务卡",
+      "sourcePage": 94,
+      "sourceIndex": 2568
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Task type",
+          "Brain formula",
+          "Useful language",
+          "Mini example"
+        ],
+        [
+          "Invitation 邀请",
+          "邀请谁 + 什么活\n动 + 时间地点 +\n为什么值得来 +\n希望回复",
+          "I'd like to invite\nyou to...\nIt will take place\nat...\nI think you'll\nenjoy it\nbecause...\nPlease let me\nknow if you can\ncome.",
+          "Dear Alex, our school will hold a culture night this\nFriday at 7 p.m. in the hall. I'd love you to join us.\nThere will be student performances and a short\nfood fair, so it should be a relaxed way to learn\nabout local culture. Please let me know if you are\nfree."
+        ],
+        [
+          "Thank-you 感谢",
+          "感谢什么 + 对方\n具体做了什么 +\n带来什么帮助 +\n再次感谢",
+          "Thank you so\nmuch for...\nYour help made it\npossible for me\nto...\nI especially\nappreciated...",
+          "Thank you for helping me prepare for the\ninterview. Your questions showed me where my\nanswers were unclear, and your encouragement\nmade me much more confident. I really appreciate\nthe time you spent with me."
+        ],
+        [
+          "Apology 道歉",
+          "为什么道歉 + 发\n生了什么 + 怎么\n补救",
+          "I'm sorry that...\nI should have...\nTo make up for it,\nI can...",
+          "I'm sorry that I cannot join tomorrow's group\nmeeting because I have a medical appointment. I\nhave already finished my part and sent the notes to\nMia. I can also join online later in the evening if\nneeded."
+        ],
+        [
+          "Advice 建议",
+          "对方问题 + 建议\n1及理由 + 建议2\n及理由 + 鼓励",
+          "One thing you\ncould try is...\nThis may help\nbecause...\nIt might also be\nuseful to...",
+          "If you often forget new words, try reviewing them\nin short groups instead of one long list. It may also\nhelp to use each word in your own sentence,\nbecause active use makes the meaning easier to\nremember."
+        ],
+        [
+          "Application 申请",
+          "申请什么 + 适合\n原因 + 相关经\n历/能力 + 希望\n机会",
+          "I would like to\napply for...\nI believe I am\nsuitable\nbecause...\nI have experience\nin...",
+          "I would like to apply to be a student guide for the\nschool open day. I am patient, familiar with the\ncampus and comfortable speaking English with\nvisitors. I have also helped at two school events\nbefore."
+        ],
+        [
+          "Request for help 求\n助",
+          "困难 + 已尝试什\n么 + 具体希望对\n方帮什么",
+          "I'm having\ndifficulty with...\nI have tried...,\nbut...\nCould you please\nhelp me...",
+          "I'm having difficulty organizing the data for our\nscience project. I have cleaned the spreadsheet,\nbut I am unsure how to present the results clearly.\nCould you please suggest a suitable chart?"
+        ]
+      ],
+      "text": "Task type | Brain formula | Useful language | Mini example\nInvitation 邀请 | 邀请谁 + 什么活\n动 + 时间地点 +\n为什么值得来 +\n希望回复 | I'd like to invite\nyou to...\nIt will take place\nat...\nI think you'll\nenjoy it\nbecause...\nPlease let me\nknow if you can\ncome. | Dear Alex, our school will hold a culture night this\nFriday at 7 p.m. in the hall. I'd love you to join us.\nThere will be student performances and a short\nfood fair, so it should be a relaxed way to learn\nabout local culture. Please let me know if you are\nfree.\nThank-you 感谢 | 感谢什么 + 对方\n具体做了什么 +\n带来什么帮助 +\n再次感谢 | Thank you so\nmuch for...\nYour help made it\npossible for me\nto...\nI especially\nappreciated... | Thank you for helping me prepare for the\ninterview. Your questions showed me where my\nanswers were unclear, and your encouragement\nmade me much more confident. I really appreciate\nthe time you spent with me.\nApology 道歉 | 为什么道歉 + 发\n生了什么 + 怎么\n补救 | I'm sorry that...\nI should have...\nTo make up for it,\nI can... | I'm sorry that I cannot join tomorrow's group\nmeeting because I have a medical appointment. I\nhave already finished my part and sent the notes to\nMia. I can also join online later in the evening if\nneeded.\nAdvice 建议 | 对方问题 + 建议\n1及理由 + 建议2\n及理由 + 鼓励 | One thing you\ncould try is...\nThis may help\nbecause...\nIt might also be\nuseful to... | If you often forget new words, try reviewing them\nin short groups instead of one long list. It may also\nhelp to use each word in your own sentence,\nbecause active use makes the meaning easier to\nremember.\nApplication 申请 | 申请什么 + 适合\n原因 + 相关经\n历/能力 + 希望\n机会 | I would like to\napply for...\nI believe I am\nsuitable\nbecause...\nI have experience\nin... | I would like to apply to be a student guide for the\nschool open day. I am patient, familiar with the\ncampus and comfortable speaking English with\nvisitors. I have also helped at two school events\nbefore.\nRequest for help 求\n助 | 困难 + 已尝试什\n么 + 具体希望对\n方帮什么 | I'm having\ndifficulty with...\nI have tried...,\nbut...\nCould you please\nhelp me... | I'm having difficulty organizing the data for our\nscience project. I have cleaned the spreadsheet,\nbut I am unsure how to present the results clearly.\nCould you please suggest a suitable chart?",
+      "sourcePage": 94,
+      "sourceIndex": 2569
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Task type",
+          "Brain formula",
+          "Useful language",
+          "Mini example"
+        ],
+        [
+          "Notice 通知",
+          "活动 + 对象 + 时\n间 + 地点 + 要做\n什么/注意什么",
+          "A ... will be held...\nAll students\ninterested in...\nare welcome.\nPlease arrive...\nand bring...",
+          "A book-exchange activity will be held in the library\nfrom 3:30 to 5:00 p.m. this Thursday. Students are\nwelcome to bring one or two books in good\ncondition. Please label each book with your name\nbefore arrival."
+        ],
+        [
+          "Activity\nintroduction 活动介\n绍",
+          "活动是什么 + 主\n要内容 + 亮点/\n意义 + 如何参与",
+          "The activity is\ndesigned to...\nParticipants will...\nThe highlight is...",
+          "Our “Green Campus Week” is a five-day event\nthat encourages practical environmental action.\nStudents will join a recycling challenge, a campus\nclean-up and a short talk by a local volunteer\ngroup."
+        ],
+        [
+          "Contribution /\nsubmission 投稿",
+          "主题立场 + 具体\n内容 + 个人例\n子/理由 + 收束",
+          "In my view...\nOne reason is\nthat...\nFor me...\nOverall...",
+          "In my view, sleep should be treated as part of a\nstudy plan, not time taken away from it. When I\nsleep well, I can focus longer and make fewer\ncareless mistakes. A realistic schedule is therefore\nmore useful than staying up late."
+        ],
+        [
+          "Speech 演讲稿",
+          "称呼 + 主题 +\n2-3个观点/行动\n+ 结尾号召",
+          "Good morning,\neveryone.\nToday I'd like to\ntalk about...\nHere are two\nthings we can\ndo...\nThank you for\nlistening.",
+          "Good morning, everyone. Today I'd like to talk\nabout using phones more wisely. We can begin by\nkeeping them away during homework and turning\noff unnecessary notifications. Small changes like\nthese can protect our attention."
+        ],
+        [
+          "Proposal / initiative\n倡议",
+          "问题 + 为什么重\n要 + 具体行动 +\n号召",
+          "I'd like to call on\neveryone to...\nWe can start by...\nEven a small\naction can...",
+          "I'd like to call on everyone to reduce food waste in\nour cafeteria. We can start by taking smaller\nportions and returning for more only if needed.\nSmall choices from many students can make a real\ndifference."
+        ],
+        [
+          "Recommendation\n推荐",
+          "推荐对象 + 2个\n理由/证据 + 适\n合谁/什么情境",
+          "I strongly\nrecommend...\nWhat makes it\nuseful is...\nIt is especially\nsuitable for...",
+          "I recommend the school science museum for our\nclass visit. Its exhibits are interactive, and the guide\nsessions explain difficult ideas in simple language.\nIt is especially suitable for students who enjoy\nlearning by doing."
+        ],
+        [
+          "Reply email 回复邮\n件",
+          "逐条回应对方问\n题 + 必要补充 +\n友好结尾",
+          "As for your first\nquestion...\nRegarding...\nI hope this helps.",
+          "Thanks for your message. As for transport, the\neasiest way is to take Metro Line 2 and get off at\nCentral Park. The event starts at 2 p.m., but arriving\nabout 20 minutes early would be better."
+        ]
+      ],
+      "text": "Task type | Brain formula | Useful language | Mini example\nNotice 通知 | 活动 + 对象 + 时\n间 + 地点 + 要做\n什么/注意什么 | A ... will be held...\nAll students\ninterested in...\nare welcome.\nPlease arrive...\nand bring... | A book-exchange activity will be held in the library\nfrom 3:30 to 5:00 p.m. this Thursday. Students are\nwelcome to bring one or two books in good\ncondition. Please label each book with your name\nbefore arrival.\nActivity\nintroduction 活动介\n绍 | 活动是什么 + 主\n要内容 + 亮点/\n意义 + 如何参与 | The activity is\ndesigned to...\nParticipants will...\nThe highlight is... | Our “Green Campus Week” is a five-day event\nthat encourages practical environmental action.\nStudents will join a recycling challenge, a campus\nclean-up and a short talk by a local volunteer\ngroup.\nContribution /\nsubmission 投稿 | 主题立场 + 具体\n内容 + 个人例\n子/理由 + 收束 | In my view...\nOne reason is\nthat...\nFor me...\nOverall... | In my view, sleep should be treated as part of a\nstudy plan, not time taken away from it. When I\nsleep well, I can focus longer and make fewer\ncareless mistakes. A realistic schedule is therefore\nmore useful than staying up late.\nSpeech 演讲稿 | 称呼 + 主题 +\n2-3个观点/行动\n+ 结尾号召 | Good morning,\neveryone.\nToday I'd like to\ntalk about...\nHere are two\nthings we can\ndo...\nThank you for\nlistening. | Good morning, everyone. Today I'd like to talk\nabout using phones more wisely. We can begin by\nkeeping them away during homework and turning\noff unnecessary notifications. Small changes like\nthese can protect our attention.\nProposal / initiative\n倡议 | 问题 + 为什么重\n要 + 具体行动 +\n号召 | I'd like to call on\neveryone to...\nWe can start by...\nEven a small\naction can... | I'd like to call on everyone to reduce food waste in\nour cafeteria. We can start by taking smaller\nportions and returning for more only if needed.\nSmall choices from many students can make a real\ndifference.\nRecommendation\n推荐 | 推荐对象 + 2个\n理由/证据 + 适\n合谁/什么情境 | I strongly\nrecommend...\nWhat makes it\nuseful is...\nIt is especially\nsuitable for... | I recommend the school science museum for our\nclass visit. Its exhibits are interactive, and the guide\nsessions explain difficult ideas in simple language.\nIt is especially suitable for students who enjoy\nlearning by doing.\nReply email 回复邮\n件 | 逐条回应对方问\n题 + 必要补充 +\n友好结尾 | As for your first\nquestion...\nRegarding...\nI hope this helps. | Thanks for your message. As for transport, the\neasiest way is to take Metro Line 2 and get off at\nCentral Park. The event starts at 2 p.m., but arriving\nabout 20 minutes early would be better.",
+      "sourcePage": 95,
+      "sourceIndex": 2570
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Task type",
+          "Brain formula",
+          "Useful language",
+          "Mini example"
+        ],
+        [
+          "Opinion / ranking\n观点类",
+          "明确立场/排序\n+ 每项理由 + 简\n短总结",
+          "I would put... first\nbecause...\n... comes next,\nas...\nOverall...",
+          "If I had to rank study, sleep and social life, I would\nput study first, sleep second and socializing third.\nStudy builds the knowledge I need, while enough\nsleep keeps me able to learn efficiently. Socializing\nmatters too, but it should fit around the first two."
+        ]
+      ],
+      "text": "Task type | Brain formula | Useful language | Mini example\nOpinion / ranking\n观点类 | 明确立场/排序\n+ 每项理由 + 简\n短总结 | I would put... first\nbecause...\n... comes next,\nas...\nOverall... | If I had to rank study, sleep and social life, I would\nput study first, sleep second and socializing third.\nStudy builds the knowledge I need, while enough\nsleep keeps me able to learn efficiently. Socializing\nmatters too, but it should fit around the first two.",
+      "sourcePage": 96,
+      "sourceIndex": 2571
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-PW-TASKS-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "常见应用文任务卡",
+          "sourcePage": 94,
+          "sourceIndex": 2568
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Task type",
+              "Brain formula",
+              "Useful language",
+              "Mini example"
+            ],
+            [
+              "Invitation 邀请",
+              "邀请谁 + 什么活\n动 + 时间地点 +\n为什么值得来 +\n希望回复",
+              "I'd like to invite\nyou to...\nIt will take place\nat...\nI think you'll\nenjoy it\nbecause...\nPlease let me\nknow if you can\ncome.",
+              "Dear Alex, our school will hold a culture night this\nFriday at 7 p.m. in the hall. I'd love you to join us.\nThere will be student performances and a short\nfood fair, so it should be a relaxed way to learn\nabout local culture. Please let me know if you are\nfree."
+            ],
+            [
+              "Thank-you 感谢",
+              "感谢什么 + 对方\n具体做了什么 +\n带来什么帮助 +\n再次感谢",
+              "Thank you so\nmuch for...\nYour help made it\npossible for me\nto...\nI especially\nappreciated...",
+              "Thank you for helping me prepare for the\ninterview. Your questions showed me where my\nanswers were unclear, and your encouragement\nmade me much more confident. I really appreciate\nthe time you spent with me."
+            ],
+            [
+              "Apology 道歉",
+              "为什么道歉 + 发\n生了什么 + 怎么\n补救",
+              "I'm sorry that...\nI should have...\nTo make up for it,\nI can...",
+              "I'm sorry that I cannot join tomorrow's group\nmeeting because I have a medical appointment. I\nhave already finished my part and sent the notes to\nMia. I can also join online later in the evening if\nneeded."
+            ],
+            [
+              "Advice 建议",
+              "对方问题 + 建议\n1及理由 + 建议2\n及理由 + 鼓励",
+              "One thing you\ncould try is...\nThis may help\nbecause...\nIt might also be\nuseful to...",
+              "If you often forget new words, try reviewing them\nin short groups instead of one long list. It may also\nhelp to use each word in your own sentence,\nbecause active use makes the meaning easier to\nremember."
+            ],
+            [
+              "Application 申请",
+              "申请什么 + 适合\n原因 + 相关经\n历/能力 + 希望\n机会",
+              "I would like to\napply for...\nI believe I am\nsuitable\nbecause...\nI have experience\nin...",
+              "I would like to apply to be a student guide for the\nschool open day. I am patient, familiar with the\ncampus and comfortable speaking English with\nvisitors. I have also helped at two school events\nbefore."
+            ],
+            [
+              "Request for help 求\n助",
+              "困难 + 已尝试什\n么 + 具体希望对\n方帮什么",
+              "I'm having\ndifficulty with...\nI have tried...,\nbut...\nCould you please\nhelp me...",
+              "I'm having difficulty organizing the data for our\nscience project. I have cleaned the spreadsheet,\nbut I am unsure how to present the results clearly.\nCould you please suggest a suitable chart?"
+            ]
+          ],
+          "text": "Task type | Brain formula | Useful language | Mini example\nInvitation 邀请 | 邀请谁 + 什么活\n动 + 时间地点 +\n为什么值得来 +\n希望回复 | I'd like to invite\nyou to...\nIt will take place\nat...\nI think you'll\nenjoy it\nbecause...\nPlease let me\nknow if you can\ncome. | Dear Alex, our school will hold a culture night this\nFriday at 7 p.m. in the hall. I'd love you to join us.\nThere will be student performances and a short\nfood fair, so it should be a relaxed way to learn\nabout local culture. Please let me know if you are\nfree.\nThank-you 感谢 | 感谢什么 + 对方\n具体做了什么 +\n带来什么帮助 +\n再次感谢 | Thank you so\nmuch for...\nYour help made it\npossible for me\nto...\nI especially\nappreciated... | Thank you for helping me prepare for the\ninterview. Your questions showed me where my\nanswers were unclear, and your encouragement\nmade me much more confident. I really appreciate\nthe time you spent with me.\nApology 道歉 | 为什么道歉 + 发\n生了什么 + 怎么\n补救 | I'm sorry that...\nI should have...\nTo make up for it,\nI can... | I'm sorry that I cannot join tomorrow's group\nmeeting because I have a medical appointment. I\nhave already finished my part and sent the notes to\nMia. I can also join online later in the evening if\nneeded.\nAdvice 建议 | 对方问题 + 建议\n1及理由 + 建议2\n及理由 + 鼓励 | One thing you\ncould try is...\nThis may help\nbecause...\nIt might also be\nuseful to... | If you often forget new words, try reviewing them\nin short groups instead of one long list. It may also\nhelp to use each word in your own sentence,\nbecause active use makes the meaning easier to\nremember.\nApplication 申请 | 申请什么 + 适合\n原因 + 相关经\n历/能力 + 希望\n机会 | I would like to\napply for...\nI believe I am\nsuitable\nbecause...\nI have experience\nin... | I would like to apply to be a student guide for the\nschool open day. I am patient, familiar with the\ncampus and comfortable speaking English with\nvisitors. I have also helped at two school events\nbefore.\nRequest for help 求\n助 | 困难 + 已尝试什\n么 + 具体希望对\n方帮什么 | I'm having\ndifficulty with...\nI have tried...,\nbut...\nCould you please\nhelp me... | I'm having difficulty organizing the data for our\nscience project. I have cleaned the spreadsheet,\nbut I am unsure how to present the results clearly.\nCould you please suggest a suitable chart?",
+          "sourcePage": 94,
+          "sourceIndex": 2569
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Task type",
+              "Brain formula",
+              "Useful language",
+              "Mini example"
+            ],
+            [
+              "Notice 通知",
+              "活动 + 对象 + 时\n间 + 地点 + 要做\n什么/注意什么",
+              "A ... will be held...\nAll students\ninterested in...\nare welcome.\nPlease arrive...\nand bring...",
+              "A book-exchange activity will be held in the library\nfrom 3:30 to 5:00 p.m. this Thursday. Students are\nwelcome to bring one or two books in good\ncondition. Please label each book with your name\nbefore arrival."
+            ],
+            [
+              "Activity\nintroduction 活动介\n绍",
+              "活动是什么 + 主\n要内容 + 亮点/\n意义 + 如何参与",
+              "The activity is\ndesigned to...\nParticipants will...\nThe highlight is...",
+              "Our “Green Campus Week” is a five-day event\nthat encourages practical environmental action.\nStudents will join a recycling challenge, a campus\nclean-up and a short talk by a local volunteer\ngroup."
+            ],
+            [
+              "Contribution /\nsubmission 投稿",
+              "主题立场 + 具体\n内容 + 个人例\n子/理由 + 收束",
+              "In my view...\nOne reason is\nthat...\nFor me...\nOverall...",
+              "In my view, sleep should be treated as part of a\nstudy plan, not time taken away from it. When I\nsleep well, I can focus longer and make fewer\ncareless mistakes. A realistic schedule is therefore\nmore useful than staying up late."
+            ],
+            [
+              "Speech 演讲稿",
+              "称呼 + 主题 +\n2-3个观点/行动\n+ 结尾号召",
+              "Good morning,\neveryone.\nToday I'd like to\ntalk about...\nHere are two\nthings we can\ndo...\nThank you for\nlistening.",
+              "Good morning, everyone. Today I'd like to talk\nabout using phones more wisely. We can begin by\nkeeping them away during homework and turning\noff unnecessary notifications. Small changes like\nthese can protect our attention."
+            ],
+            [
+              "Proposal / initiative\n倡议",
+              "问题 + 为什么重\n要 + 具体行动 +\n号召",
+              "I'd like to call on\neveryone to...\nWe can start by...\nEven a small\naction can...",
+              "I'd like to call on everyone to reduce food waste in\nour cafeteria. We can start by taking smaller\nportions and returning for more only if needed.\nSmall choices from many students can make a real\ndifference."
+            ],
+            [
+              "Recommendation\n推荐",
+              "推荐对象 + 2个\n理由/证据 + 适\n合谁/什么情境",
+              "I strongly\nrecommend...\nWhat makes it\nuseful is...\nIt is especially\nsuitable for...",
+              "I recommend the school science museum for our\nclass visit. Its exhibits are interactive, and the guide\nsessions explain difficult ideas in simple language.\nIt is especially suitable for students who enjoy\nlearning by doing."
+            ],
+            [
+              "Reply email 回复邮\n件",
+              "逐条回应对方问\n题 + 必要补充 +\n友好结尾",
+              "As for your first\nquestion...\nRegarding...\nI hope this helps.",
+              "Thanks for your message. As for transport, the\neasiest way is to take Metro Line 2 and get off at\nCentral Park. The event starts at 2 p.m., but arriving\nabout 20 minutes early would be better."
+            ]
+          ],
+          "text": "Task type | Brain formula | Useful language | Mini example\nNotice 通知 | 活动 + 对象 + 时\n间 + 地点 + 要做\n什么/注意什么 | A ... will be held...\nAll students\ninterested in...\nare welcome.\nPlease arrive...\nand bring... | A book-exchange activity will be held in the library\nfrom 3:30 to 5:00 p.m. this Thursday. Students are\nwelcome to bring one or two books in good\ncondition. Please label each book with your name\nbefore arrival.\nActivity\nintroduction 活动介\n绍 | 活动是什么 + 主\n要内容 + 亮点/\n意义 + 如何参与 | The activity is\ndesigned to...\nParticipants will...\nThe highlight is... | Our “Green Campus Week” is a five-day event\nthat encourages practical environmental action.\nStudents will join a recycling challenge, a campus\nclean-up and a short talk by a local volunteer\ngroup.\nContribution /\nsubmission 投稿 | 主题立场 + 具体\n内容 + 个人例\n子/理由 + 收束 | In my view...\nOne reason is\nthat...\nFor me...\nOverall... | In my view, sleep should be treated as part of a\nstudy plan, not time taken away from it. When I\nsleep well, I can focus longer and make fewer\ncareless mistakes. A realistic schedule is therefore\nmore useful than staying up late.\nSpeech 演讲稿 | 称呼 + 主题 +\n2-3个观点/行动\n+ 结尾号召 | Good morning,\neveryone.\nToday I'd like to\ntalk about...\nHere are two\nthings we can\ndo...\nThank you for\nlistening. | Good morning, everyone. Today I'd like to talk\nabout using phones more wisely. We can begin by\nkeeping them away during homework and turning\noff unnecessary notifications. Small changes like\nthese can protect our attention.\nProposal / initiative\n倡议 | 问题 + 为什么重\n要 + 具体行动 +\n号召 | I'd like to call on\neveryone to...\nWe can start by...\nEven a small\naction can... | I'd like to call on everyone to reduce food waste in\nour cafeteria. We can start by taking smaller\nportions and returning for more only if needed.\nSmall choices from many students can make a real\ndifference.\nRecommendation\n推荐 | 推荐对象 + 2个\n理由/证据 + 适\n合谁/什么情境 | I strongly\nrecommend...\nWhat makes it\nuseful is...\nIt is especially\nsuitable for... | I recommend the school science museum for our\nclass visit. Its exhibits are interactive, and the guide\nsessions explain difficult ideas in simple language.\nIt is especially suitable for students who enjoy\nlearning by doing.\nReply email 回复邮\n件 | 逐条回应对方问\n题 + 必要补充 +\n友好结尾 | As for your first\nquestion...\nRegarding...\nI hope this helps. | Thanks for your message. As for transport, the\neasiest way is to take Metro Line 2 and get off at\nCentral Park. The event starts at 2 p.m., but arriving\nabout 20 minutes early would be better.",
+          "sourcePage": 95,
+          "sourceIndex": 2570
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Task type",
+              "Brain formula",
+              "Useful language",
+              "Mini example"
+            ],
+            [
+              "Opinion / ranking\n观点类",
+              "明确立场/排序\n+ 每项理由 + 简\n短总结",
+              "I would put... first\nbecause...\n... comes next,\nas...\nOverall...",
+              "If I had to rank study, sleep and social life, I would\nput study first, sleep second and socializing third.\nStudy builds the knowledge I need, while enough\nsleep keeps me able to learn efficiently. Socializing\nmatters too, but it should fit around the first two."
+            ]
+          ],
+          "text": "Task type | Brain formula | Useful language | Mini example\nOpinion / ranking\n观点类 | 明确立场/排序\n+ 每项理由 + 简\n短总结 | I would put... first\nbecause...\n... comes next,\nas...\nOverall... | If I had to rank study, sleep and social life, I would\nput study first, sleep second and socializing third.\nStudy builds the knowledge I need, while enough\nsleep keeps me able to learn efficiently. Socializing\nmatters too, but it should fit around the first two.",
+          "sourcePage": 96,
+          "sourceIndex": 2571
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 94,
+    "endPage": 96
+  }
+}

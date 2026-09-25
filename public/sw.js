@@ -1,4 +1,4 @@
-const CACHE = "gaokao-quest-v2";
+const CACHE = "gaokao-quest-v3";
 const BASE = new URL(self.registration.scope).pathname.replace(/\/$/, "");
 const asset = (path) => `${BASE}${path}`;
 const CORE = [
@@ -8,6 +8,8 @@ const CORE = [
   "/icon-512.png",
   "/data/catalog.json",
   "/data/chapters.json",
+  "/data/english/catalog.json",
+  "/data/english/chapters.json",
 ].map(asset);
 self.addEventListener("install", (event) =>
   event.waitUntil(

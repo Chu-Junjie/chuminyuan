@@ -1,0 +1,76 @@
+{
+  "id": "EN-INTRO-CLOZE",
+  "code": "INTRO-CLOZE",
+  "title": "完形填空 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-cloze",
+  "chapter": "完形填空",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-CLOZE",
+    "完形填空 · 总览",
+    "完形填空",
+    "Part",
+    "Cloze"
+  ],
+  "brain_first": "按原文查阅 完形填空 · 总览",
+  "sort_order": 1040,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part IV - Cloze 完形填空",
+      "sourcePage": 63,
+      "sourceIndex": 1738
+    },
+    {
+      "type": "paragraph",
+      "text": "完形的核心不是把四个词翻译成中文，而是恢复故事/说明文中的“语义链”。第一遍不必每空都解决，后文经",
+      "sourcePage": 63,
+      "sourceIndex": 1739
+    },
+    {
+      "type": "paragraph",
+      "text": "常会反向给前文答案。",
+      "sourcePage": 63,
+      "sourceIndex": 1740
+    },
+    {
+      "type": "paragraph",
+      "text": "总流程：先读一小段抓人物/事件 → 能确定的先填 → 不确定的空着做记号 → 读到后文线索再回填 → 最后",
+      "sourcePage": 63,
+      "sourceIndex": 1741
+    },
+    {
+      "type": "paragraph",
+      "text": "整段顺读。",
+      "sourcePage": 63,
+      "sourceIndex": 1742
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-CLOZE-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part IV - Cloze 完形填空 完形的核心不是把四个词翻译成中文，而是恢复故事/说明文中的“语义链”。第一遍不必每空都解决，后文经 常会反向给前文答案。",
+          "sourcePage": 63,
+          "sourceIndex": 1738
+        },
+        {
+          "type": "paragraph",
+          "text": "总流程：先读一小段抓人物/事件 → 能确定的先填 → 不确定的空着做记号 → 读到后文线索再回填 → 最后 整段顺读。",
+          "sourcePage": 63,
+          "sourceIndex": 1741
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 63,
+    "endPage": 63
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "id": "EN-G4",
+  "code": "G4",
+  "title": "重复词、同义词与主题链",
+  "subject_id": "english",
+  "chapter_id": "en-gap",
+  "chapter": "七选五",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "G4",
+    "重复词、同义词与主题链",
+    "七选五",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Lexical",
+    "cohesion",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "exercise",
+    "physical",
+    "activity",
+    "movement",
+    "students",
+    "learners",
+    "they",
+    "cost",
+    "price",
+    "expense",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "screen",
+    "time",
+    "devices",
+    "these",
+    "digital",
+    "habits",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "repeated",
+    "word",
+    "education",
+    "learning",
+    "dog",
+    "animal",
+    "Ctrl"
+  ],
+  "brain_first": "“找词链，不只找重复词。”",
+  "sort_order": 1037,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 58,
+      "sourceIndex": 1606
+    },
+    {
+      "type": "paragraph",
+      "text": "候选句与前后出现同一主题的不同表达。",
+      "sourcePage": 58,
+      "sourceIndex": 1607
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 58,
+      "sourceIndex": 1608
+    },
+    {
+      "type": "paragraph",
+      "text": "Lexical cohesion：文章会用同义、上下义、代称",
+      "sourcePage": 58,
+      "sourceIndex": 1609
+    },
+    {
+      "type": "paragraph",
+      "text": "维持主题。",
+      "sourcePage": 58,
+      "sourceIndex": 1610
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “找词链，不只找重复词。”",
+      "sourcePage": 58,
+      "sourceIndex": 1611
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 正确句往往与前后共享一个“语义场”。",
+      "sourcePage": 58,
+      "sourceIndex": 1612
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 58,
+      "sourceIndex": 1613
+    },
+    {
+      "type": "paragraph",
+      "text": "1 圈空前后的核心名词/动词。",
+      "sourcePage": 58,
+      "sourceIndex": 1614
+    },
+    {
+      "type": "paragraph",
+      "text": "2 在选项找同义词、上位词、代称。",
+      "sourcePage": 58,
+      "sourceIndex": 1615
+    },
+    {
+      "type": "paragraph",
+      "text": "3 检查是否只是“同词但不同主题”。",
+      "sourcePage": 58,
+      "sourceIndex": 1616
+    },
+    {
+      "type": "paragraph",
+      "text": "4 优先选择能把前后两个关键词链连接起来的句子。",
+      "sourcePage": 58,
+      "sourceIndex": 1617
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 58,
+      "sourceIndex": 1618
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 58,
+      "sourceIndex": 1619
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 58,
+      "sourceIndex": 1620
+    },
+    {
+      "type": "paragraph",
+      "text": "· exercise ↔ physical activity ↔ movement",
+      "sourcePage": 58,
+      "sourceIndex": 1621
+    },
+    {
+      "type": "paragraph",
+      "text": "· students ↔ learners ↔ they",
+      "sourcePage": 58,
+      "sourceIndex": 1622
+    },
+    {
+      "type": "paragraph",
+      "text": "· cost ↔ price ↔ expense",
+      "sourcePage": 58,
+      "sourceIndex": 1623
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 句子同时与上下至少一边形成清晰词链，且逻辑合理。",
+      "sourcePage": 58,
+      "sourceIndex": 1624
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 两个选项都有关联词时，用代词和逻辑关系做第二轮筛选。",
+      "sourcePage": 58,
+      "sourceIndex": 1625
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 58,
+      "sourceIndex": 1626
+    },
+    {
+      "type": "paragraph",
+      "text": "前句谈 screen time，后句谈 devices，候选里“these digital habits”可能形成同义链。",
+      "sourcePage": 58,
+      "sourceIndex": 1627
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 58,
+      "sourceIndex": 1628
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只要出现同一个词就选。",
+      "sourcePage": 58,
+      "sourceIndex": 1629
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略同义替换。",
+      "sourcePage": 58,
+      "sourceIndex": 1630
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 58,
+      "sourceIndex": 1631
+    },
+    {
+      "type": "paragraph",
+      "text": "· 它连接的是同一主题吗？",
+      "sourcePage": 58,
+      "sourceIndex": 1632
+    },
+    {
+      "type": "paragraph",
+      "text": "· 与前后都能接吗？",
+      "sourcePage": 59,
+      "sourceIndex": 1633
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 59,
+      "sourceIndex": 1634
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 59,
+      "sourceIndex": 1635
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 59,
+      "sourceIndex": 1636
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 七选五要找“词链”，不是单个同词。",
+      "sourcePage": 59,
+      "sourceIndex": 1637
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 59,
+      "sourceIndex": 1639
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 原文 repeated word 一定原词复现吗？",
+      "sourcePage": 59,
+      "sourceIndex": 1640
+    },
+    {
+      "type": "paragraph",
+      "text": "2. education→learning 属于？",
+      "sourcePage": 59,
+      "sourceIndex": 1641
+    },
+    {
+      "type": "paragraph",
+      "text": "3. dog→animal 属于？",
+      "sourcePage": 59,
+      "sourceIndex": 1642
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 主题链作用？",
+      "sourcePage": 59,
+      "sourceIndex": 1643
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 只有同一个词但逻辑不通能选吗？",
+      "sourcePage": 59,
+      "sourceIndex": 1644
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 不一定，也可能同义词/上位词。；2. 语义词链/近义关联；3. 上下位词复现；4. 保持段落话题连",
+      "sourcePage": 59,
+      "sourceIndex": 1645
+    },
+    {
+      "type": "paragraph",
+      "text": "续。；5. 不能。",
+      "sourcePage": 59,
+      "sourceIndex": 1646
+    },
+    {
+      "type": "paragraph",
+      "text": "— G4 本题型到这里。下次卡住直接 Ctrl+F 搜“G4”或题型关键词。—",
+      "sourcePage": 59,
+      "sourceIndex": 1647
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-G4-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "候选句与前后出现同一主题的不同表达。",
+          "sourcePage": 58,
+          "sourceIndex": 1607
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Lexical cohesion：文章会用同义、上下义、代称 维持主题。",
+          "sourcePage": 58,
+          "sourceIndex": 1609
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“找词链，不只找重复词。”",
+          "sourcePage": 58,
+          "sourceIndex": 1611
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "正确句往往与前后共享一个“语义场”。",
+          "sourcePage": 58,
+          "sourceIndex": 1612
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 圈空前后的核心名词/动词。",
+          "sourcePage": 58,
+          "sourceIndex": 1614
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 在选项找同义词、上位词、代称。",
+          "sourcePage": 58,
+          "sourceIndex": 1615
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 检查是否只是“同词但不同主题”。",
+          "sourcePage": 58,
+          "sourceIndex": 1616
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 优先选择能把前后两个关键词链连接起来的句子。",
+          "sourcePage": 58,
+          "sourceIndex": 1617
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 58,
+          "sourceIndex": 1618
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· exercise ↔ physical activity ↔ movement",
+          "sourcePage": 58,
+          "sourceIndex": 1621
+        },
+        {
+          "type": "paragraph",
+          "text": "· students ↔ learners ↔ they",
+          "sourcePage": 58,
+          "sourceIndex": 1622
+        },
+        {
+          "type": "paragraph",
+          "text": "· cost ↔ price ↔ expense",
+          "sourcePage": 58,
+          "sourceIndex": 1623
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "句子同时与上下至少一边形成清晰词链，且逻辑合理。",
+          "sourcePage": 58,
+          "sourceIndex": 1624
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "两个选项都有关联词时，用代词和逻辑关系做第二轮筛选。",
+          "sourcePage": 58,
+          "sourceIndex": 1625
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "前句谈 screen time，后句谈 devices，候选里“these digital habits”可能形成同义链。",
+          "sourcePage": 58,
+          "sourceIndex": 1627
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只要出现同一个词就选。",
+          "sourcePage": 58,
+          "sourceIndex": 1629
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略同义替换。",
+          "sourcePage": 58,
+          "sourceIndex": 1630
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 它连接的是同一主题吗？",
+          "sourcePage": 58,
+          "sourceIndex": 1632
+        },
+        {
+          "type": "paragraph",
+          "text": "· 与前后都能接吗？",
+          "sourcePage": 59,
+          "sourceIndex": 1633
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 59,
+          "sourceIndex": 1634
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 59,
+          "sourceIndex": 1636
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "七选五要找“词链”，不是单个同词。",
+          "sourcePage": 59,
+          "sourceIndex": 1637
+        }
+      ]
+    },
+    {
+      "id": "EN-G4-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 原文 repeated word 一定原词复现吗？",
+          "sourcePage": 59,
+          "sourceIndex": 1640
+        },
+        {
+          "type": "paragraph",
+          "text": "2. education→learning 属于？",
+          "sourcePage": 59,
+          "sourceIndex": 1641
+        },
+        {
+          "type": "paragraph",
+          "text": "3. dog→animal 属于？",
+          "sourcePage": 59,
+          "sourceIndex": 1642
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 主题链作用？",
+          "sourcePage": 59,
+          "sourceIndex": 1643
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 只有同一个词但逻辑不通能选吗？",
+          "sourcePage": 59,
+          "sourceIndex": 1644
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 不一定，也可能同义词/上位词。；2. 语义词链/近义关联；3. 上下位词复现；4. 保持段落话题连 续。；5. 不能。",
+          "sourcePage": 59,
+          "sourceIndex": 1645
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 58,
+    "endPage": 59
+  }
+}

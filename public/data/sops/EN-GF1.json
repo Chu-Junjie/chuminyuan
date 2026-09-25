@@ -1,0 +1,585 @@
+{
+  "id": "EN-GF1",
+  "code": "GF1",
+  "title": "总入口：给词还是不给词？",
+  "subject_id": "english",
+  "chapter_id": "en-grammar-filling",
+  "chapter": "语法填空",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "GF1",
+    "总入口：给词还是不给词？",
+    "语法填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Provided-word",
+    "blanks",
+    "no-word",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "provided",
+    "word",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "The",
+    "event",
+    "was",
+    "success",
+    "organized",
+    "successfully",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "develop",
+    "Ctrl"
+  ],
+  "brain_first": "“有词先看它要怎么变；没词先看这里缺哪类小词。”",
+  "sort_order": 1049,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 75,
+      "sourceIndex": 2068
+    },
+    {
+      "type": "paragraph",
+      "text": "10个空中，有些括号给原词，有些完全空白。",
+      "sourcePage": 75,
+      "sourceIndex": 2069
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 75,
+      "sourceIndex": 2070
+    },
+    {
+      "type": "paragraph",
+      "text": "Provided-word blanks 常考形式变化；no-word",
+      "sourcePage": 75,
+      "sourceIndex": 2071
+    },
+    {
+      "type": "paragraph",
+      "text": "blanks 常考功能词。",
+      "sourcePage": 75,
+      "sourceIndex": 2072
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “有词先看它要怎么变；没词先看这里缺哪类小词。”",
+      "sourcePage": 75,
+      "sourceIndex": 2073
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 先分类可以避免看到空就随机猜语法。",
+      "sourcePage": 75,
+      "sourceIndex": 2074
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 75,
+      "sourceIndex": 2075
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先给每个空标 P（provided）或 N（no word）。",
+      "sourcePage": 75,
+      "sourceIndex": 2076
+    },
+    {
+      "type": "paragraph",
+      "text": "2 P：看括号词性，问句中需要动词/名词/形容词/副词/代词哪一种。",
+      "sourcePage": 75,
+      "sourceIndex": 2077
+    },
+    {
+      "type": "paragraph",
+      "text": "3 N：看空前后结构，优先检查冠词、介词、连词/关系词、代词。",
+      "sourcePage": 75,
+      "sourceIndex": 2078
+    },
+    {
+      "type": "paragraph",
+      "text": "4 做完统一检查拼写、大小写、单复数和时态。",
+      "sourcePage": 75,
+      "sourceIndex": 2079
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 75,
+      "sourceIndex": 2080
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 75,
+      "sourceIndex": 2081
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 75,
+      "sourceIndex": 2082
+    },
+    {
+      "type": "paragraph",
+      "text": "· 括号是动词 → 先谓语/非谓语",
+      "sourcePage": 75,
+      "sourceIndex": 2083
+    },
+    {
+      "type": "paragraph",
+      "text": "· 括号是形容词 → 可能变副词/比较级/名词",
+      "sourcePage": 75,
+      "sourceIndex": 2084
+    },
+    {
+      "type": "paragraph",
+      "text": "· 完全没词且后面是名词 → 冠词/限定词/介词可能性高",
+      "sourcePage": 75,
+      "sourceIndex": 2085
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 每个空先归入正确的大类。",
+      "sourcePage": 75,
+      "sourceIndex": 2086
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 完全不知道时先判断“需要实词变化还是功能小词”，不要直接猜单词。",
+      "sourcePage": 75,
+      "sourceIndex": 2087
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 76,
+      "sourceIndex": 2088
+    },
+    {
+      "type": "paragraph",
+      "text": "The event was ___ (success) organized. 给了 success，空修饰 organized，需要副词 successfully。",
+      "sourcePage": 76,
+      "sourceIndex": 2089
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 76,
+      "sourceIndex": 2090
+    },
+    {
+      "type": "paragraph",
+      "text": "· 看到词就只改一个字母。",
+      "sourcePage": 76,
+      "sourceIndex": 2091
+    },
+    {
+      "type": "paragraph",
+      "text": "· 没词时随便填介词。",
+      "sourcePage": 76,
+      "sourceIndex": 2092
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 76,
+      "sourceIndex": 2093
+    },
+    {
+      "type": "paragraph",
+      "text": "· 给词/不给词分类对吗？",
+      "sourcePage": 76,
+      "sourceIndex": 2094
+    },
+    {
+      "type": "paragraph",
+      "text": "· 句中需要的词性是什么？",
+      "sourcePage": 76,
+      "sourceIndex": 2095
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 76,
+      "sourceIndex": 2096
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 76,
+      "sourceIndex": 2097
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 76,
+      "sourceIndex": 2098
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 先分类，再语法。",
+      "sourcePage": 76,
+      "sourceIndex": 2099
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 76,
+      "sourceIndex": 2101
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 看到空第一问？",
+      "sourcePage": 76,
+      "sourceIndex": 2102
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 有提示词 develop，进入哪条路？",
+      "sourcePage": 76,
+      "sourceIndex": 2103
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 无提示词且名词前缺限定，可能？",
+      "sourcePage": 76,
+      "sourceIndex": 2104
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 无提示词连接两句，可能？",
+      "sourcePage": 76,
+      "sourceIndex": 2105
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 先猜语法名还是先看结构？",
+      "sourcePage": 76,
+      "sourceIndex": 2106
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 给词了吗？；2. 有提示词→先判断词性/动词结构。；3. 冠词/代词等。；4. 连词/关系词。；5. 先看结",
+      "sourcePage": 76,
+      "sourceIndex": 2107
+    },
+    {
+      "type": "paragraph",
+      "text": "构和空需要什么。",
+      "sourcePage": 76,
+      "sourceIndex": 2108
+    },
+    {
+      "type": "paragraph",
+      "text": "— GF1 本题型到这里。下次卡住直接 Ctrl+F 搜“GF1”或题型关键词。—",
+      "sourcePage": 76,
+      "sourceIndex": 2109
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-GF1-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "10个空中，有些括号给原词，有些完全空白。",
+          "sourcePage": 75,
+          "sourceIndex": 2069
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Provided-word blanks 常考形式变化；no-word blanks 常考功能词。",
+          "sourcePage": 75,
+          "sourceIndex": 2071
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“有词先看它要怎么变；没词先看这里缺哪类小词。”",
+          "sourcePage": 75,
+          "sourceIndex": 2073
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "先分类可以避免看到空就随机猜语法。",
+          "sourcePage": 75,
+          "sourceIndex": 2074
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先给每个空标 P（provided）或 N（no word）。",
+          "sourcePage": 75,
+          "sourceIndex": 2076
+        },
+        {
+          "type": "paragraph",
+          "text": "2. P：看括号词性，问句中需要动词/名词/形容词/副词/代词哪一种。",
+          "sourcePage": 75,
+          "sourceIndex": 2077
+        },
+        {
+          "type": "paragraph",
+          "text": "3. N：看空前后结构，优先检查冠词、介词、连词/关系词、代词。",
+          "sourcePage": 75,
+          "sourceIndex": 2078
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 做完统一检查拼写、大小写、单复数和时态。",
+          "sourcePage": 75,
+          "sourceIndex": 2079
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 75,
+          "sourceIndex": 2080
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 括号是动词 → 先谓语/非谓语",
+          "sourcePage": 75,
+          "sourceIndex": 2083
+        },
+        {
+          "type": "paragraph",
+          "text": "· 括号是形容词 → 可能变副词/比较级/名词",
+          "sourcePage": 75,
+          "sourceIndex": 2084
+        },
+        {
+          "type": "paragraph",
+          "text": "· 完全没词且后面是名词 → 冠词/限定词/介词可能性高",
+          "sourcePage": 75,
+          "sourceIndex": 2085
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "每个空先归入正确的大类。",
+          "sourcePage": 75,
+          "sourceIndex": 2086
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "完全不知道时先判断“需要实词变化还是功能小词”，不要直接猜单词。",
+          "sourcePage": 75,
+          "sourceIndex": 2087
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The event was ___ (success) organized. 给了 success，空修饰 organized，需要副词 successfully。",
+          "sourcePage": 76,
+          "sourceIndex": 2089
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 看到词就只改一个字母。",
+          "sourcePage": 76,
+          "sourceIndex": 2091
+        },
+        {
+          "type": "paragraph",
+          "text": "· 没词时随便填介词。",
+          "sourcePage": 76,
+          "sourceIndex": 2092
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 给词/不给词分类对吗？",
+          "sourcePage": 76,
+          "sourceIndex": 2094
+        },
+        {
+          "type": "paragraph",
+          "text": "· 句中需要的词性是什么？",
+          "sourcePage": 76,
+          "sourceIndex": 2095
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 76,
+          "sourceIndex": 2096
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 76,
+          "sourceIndex": 2098
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "先分类，再语法。",
+          "sourcePage": 76,
+          "sourceIndex": 2099
+        }
+      ]
+    },
+    {
+      "id": "EN-GF1-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 看到空第一问？",
+          "sourcePage": 76,
+          "sourceIndex": 2102
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 有提示词 develop，进入哪条路？",
+          "sourcePage": 76,
+          "sourceIndex": 2103
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 无提示词且名词前缺限定，可能？",
+          "sourcePage": 76,
+          "sourceIndex": 2104
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 无提示词连接两句，可能？",
+          "sourcePage": 76,
+          "sourceIndex": 2105
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 先猜语法名还是先看结构？",
+          "sourcePage": 76,
+          "sourceIndex": 2106
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 给词了吗？；2. 有提示词→先判断词性/动词结构。；3. 冠词/代词等。；4. 连词/关系词。；5. 先看结 构和空需要什么。",
+          "sourcePage": 76,
+          "sourceIndex": 2107
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 75,
+    "endPage": 76
+  }
+}

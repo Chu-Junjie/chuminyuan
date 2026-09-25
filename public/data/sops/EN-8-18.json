@@ -1,0 +1,148 @@
+{
+  "id": "EN-8-18",
+  "code": "8.18",
+  "title": "Pragmatics 语用：同一句话，对谁说决定怎么说",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.18",
+    "Pragmatics 语用：同一句话，对谁说决定怎么说",
+    "语法工具箱",
+    "Situation",
+    "Direct",
+    "but",
+    "safe",
+    "More",
+    "polite/formal",
+    "Ask",
+    "friend",
+    "Can",
+    "you",
+    "help",
+    "with",
+    "this",
+    "teacher",
+    "Could",
+    "please",
+    "give",
+    "some",
+    "advice",
+    "would",
+    "appreciate",
+    "could",
+    "Disagree",
+    "see",
+    "your",
+    "point",
+    "understand",
+    "the",
+    "concern",
+    "however",
+    "Refuse",
+    "Sorry",
+    "can",
+    "make",
+    "afraid",
+    "won",
+    "able",
+    "attend"
+  ],
+  "brain_first": "按原文查阅 Pragmatics 语用：同一句话，对谁说决定怎么说",
+  "sort_order": 1090,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Situation",
+          "Direct but safe",
+          "More polite/formal"
+        ],
+        [
+          "Ask a friend",
+          "Can you help me with this?",
+          "-"
+        ],
+        [
+          "Ask a teacher",
+          "Could you please give me some advice?",
+          "I would appreciate it if you could..."
+        ],
+        [
+          "Disagree",
+          "I see your point, but...",
+          "I understand the concern; however, ..."
+        ],
+        [
+          "Refuse",
+          "Sorry, I can't make it.",
+          "I'm afraid I won't be able to attend."
+        ]
+      ],
+      "text": "Situation | Direct but safe | More polite/formal\nAsk a friend | Can you help me with this? | -\nAsk a teacher | Could you please give me some advice? | I would appreciate it if you could...\nDisagree | I see your point, but... | I understand the concern; however, ...\nRefuse | Sorry, I can't make it. | I'm afraid I won't be able to attend.",
+      "sourcePage": 114,
+      "sourceIndex": 2933
+    },
+    {
+      "type": "paragraph",
+      "text": "应用文先问：我是谁？写给谁？目的是什么？需要多正式？ 不要把给朋友和给校长的语气写成一样。",
+      "sourcePage": 114,
+      "sourceIndex": 2934
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-18-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situation",
+              "Direct but safe",
+              "More polite/formal"
+            ],
+            [
+              "Ask a friend",
+              "Can you help me with this?",
+              "-"
+            ],
+            [
+              "Ask a teacher",
+              "Could you please give me some advice?",
+              "I would appreciate it if you could..."
+            ],
+            [
+              "Disagree",
+              "I see your point, but...",
+              "I understand the concern; however, ..."
+            ],
+            [
+              "Refuse",
+              "Sorry, I can't make it.",
+              "I'm afraid I won't be able to attend."
+            ]
+          ],
+          "text": "Situation | Direct but safe | More polite/formal\nAsk a friend | Can you help me with this? | -\nAsk a teacher | Could you please give me some advice? | I would appreciate it if you could...\nDisagree | I see your point, but... | I understand the concern; however, ...\nRefuse | Sorry, I can't make it. | I'm afraid I won't be able to attend.",
+          "sourcePage": 114,
+          "sourceIndex": 2933
+        },
+        {
+          "type": "paragraph",
+          "text": "应用文先问：我是谁？写给谁？目的是什么？需要多正式？ 不要把给朋友和给校长的语气写成一样。",
+          "sourcePage": 114,
+          "sourceIndex": 2934
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 114,
+    "endPage": 114
+  }
+}

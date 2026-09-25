@@ -1,0 +1,144 @@
+{
+  "id": "EN-8-6",
+  "code": "8.6",
+  "title": "Conditionals & Subjunctive 条件与虚拟（低至中频）",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.6",
+    "Conditionals & Subjunctive 条件与虚拟（低至中频）",
+    "语法工具箱",
+    "Type",
+    "Meaning",
+    "Example",
+    "Real",
+    "condition",
+    "rains",
+    "will",
+    "stay",
+    "inside",
+    "General",
+    "truth",
+    "water",
+    "freezes",
+    "expands",
+    "Unreal",
+    "present",
+    "were",
+    "you",
+    "would",
+    "ask",
+    "for",
+    "help",
+    "past",
+    "had",
+    "known",
+    "have",
+    "called",
+    "if/unless"
+  ],
+  "brain_first": "按原文查阅 Conditionals & Subjunctive 条件与虚拟（低至中频）",
+  "sort_order": 1077,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Type",
+          "Meaning",
+          "Example"
+        ],
+        [
+          "Real condition",
+          "真实可能",
+          "If it rains, we will stay inside."
+        ],
+        [
+          "General truth",
+          "一般规律",
+          "If water freezes, it expands."
+        ],
+        [
+          "Unreal present",
+          "与现在事实相反",
+          "If I were you, I would ask for help."
+        ],
+        [
+          "Unreal past",
+          "与过去事实相反",
+          "If I had known, I would have called."
+        ]
+      ],
+      "text": "Type | Meaning | Example\nReal condition | 真实可能 | If it rains, we will stay inside.\nGeneral truth | 一般规律 | If water freezes, it expands.\nUnreal present | 与现在事实相反 | If I were you, I would ask for help.\nUnreal past | 与过去事实相反 | If I had known, I would have called.",
+      "sourcePage": 109,
+      "sourceIndex": 2858
+    },
+    {
+      "type": "paragraph",
+      "text": "对基础学生，先确保真实条件句和基本 if/unless 用法；虚拟语气作为工具箱低优先级，不要挤占核心时态、非",
+      "sourcePage": 109,
+      "sourceIndex": 2859
+    },
+    {
+      "type": "paragraph",
+      "text": "谓语、从句时间。",
+      "sourcePage": 109,
+      "sourceIndex": 2860
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-6-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Type",
+              "Meaning",
+              "Example"
+            ],
+            [
+              "Real condition",
+              "真实可能",
+              "If it rains, we will stay inside."
+            ],
+            [
+              "General truth",
+              "一般规律",
+              "If water freezes, it expands."
+            ],
+            [
+              "Unreal present",
+              "与现在事实相反",
+              "If I were you, I would ask for help."
+            ],
+            [
+              "Unreal past",
+              "与过去事实相反",
+              "If I had known, I would have called."
+            ]
+          ],
+          "text": "Type | Meaning | Example\nReal condition | 真实可能 | If it rains, we will stay inside.\nGeneral truth | 一般规律 | If water freezes, it expands.\nUnreal present | 与现在事实相反 | If I were you, I would ask for help.\nUnreal past | 与过去事实相反 | If I had known, I would have called.",
+          "sourcePage": 109,
+          "sourceIndex": 2858
+        },
+        {
+          "type": "paragraph",
+          "text": "对基础学生，先确保真实条件句和基本 if/unless 用法；虚拟语气作为工具箱低优先级，不要挤占核心时态、非 谓语、从句时间。",
+          "sourcePage": 109,
+          "sourceIndex": 2859
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 109,
+    "endPage": 109
+  }
+}

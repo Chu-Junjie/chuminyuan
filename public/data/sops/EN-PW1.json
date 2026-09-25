@@ -1,0 +1,594 @@
+{
+  "id": "EN-PW1",
+  "code": "PW1",
+  "title": "先拆题：把提示变成写作任务清单",
+  "subject_id": "english",
+  "chapter_id": "en-practical",
+  "chapter": "应用文写作",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "PW1",
+    "先拆题：把提示变成写作任务清单",
+    "应用文写作",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Task",
+    "fulfilment",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "point",
+    "reply",
+    "IF/THEN",
+    "then",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "club",
+    "does",
+    "what",
+    "time/place",
+    "why",
+    "worth",
+    "joining",
+    "ask",
+    "for",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "W-M",
+    "W-R",
+    "W-T",
+    "W-V",
+    "W-S",
+    "W-O",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Can",
+    "help",
+    "Could",
+    "please",
+    "would",
+    "appreciate",
+    "Ctrl"
+  ],
+  "brain_first": "“先别写第一句，把题目要求拆成三个小任务。”",
+  "sort_order": 1060,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 92,
+      "sourceIndex": 2526
+    },
+    {
+      "type": "paragraph",
+      "text": "题目给身份、对象、情境和2-3个内容要点。",
+      "sourcePage": 92,
+      "sourceIndex": 2527
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 92,
+      "sourceIndex": 2528
+    },
+    {
+      "type": "paragraph",
+      "text": "Task fulfilment：是否完整回应题目要求。",
+      "sourcePage": 92,
+      "sourceIndex": 2529
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先别写第一句，把题目要求拆成三个小任务。”",
+      "sourcePage": 92,
+      "sourceIndex": 2530
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 漏一个内容点往往比少一个高级词更伤。",
+      "sourcePage": 92,
+      "sourceIndex": 2531
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 92,
+      "sourceIndex": 2532
+    },
+    {
+      "type": "paragraph",
+      "text": "1 圈身份：你是谁？写给谁？",
+      "sourcePage": 92,
+      "sourceIndex": 2533
+    },
+    {
+      "type": "paragraph",
+      "text": "2 圈目的：邀请/感谢/建议/申请/介绍等。",
+      "sourcePage": 92,
+      "sourceIndex": 2534
+    },
+    {
+      "type": "paragraph",
+      "text": "3 把每个内容点编号①②③。",
+      "sourcePage": 92,
+      "sourceIndex": 2535
+    },
+    {
+      "type": "paragraph",
+      "text": "4 每个编号至少安排一句核心句。",
+      "sourcePage": 92,
+      "sourceIndex": 2536
+    },
+    {
+      "type": "paragraph",
+      "text": "5 最后再决定开头和结尾。",
+      "sourcePage": 92,
+      "sourceIndex": 2537
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 先列任务点，不写句子：身份 | 目的 | point1 | point2 | point3 | reply。每完成",
+      "sourcePage": 92,
+      "sourceIndex": 2538
+    },
+    {
+      "type": "paragraph",
+      "text": "一点打 ✓。",
+      "sourcePage": 92,
+      "sourceIndex": 2539
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 92,
+      "sourceIndex": 2540
+    },
+    {
+      "type": "paragraph",
+      "text": "· 题目要求“介绍+原因+期待” → 三块都必须出现",
+      "sourcePage": 92,
+      "sourceIndex": 2541
+    },
+    {
+      "type": "paragraph",
+      "text": "· 若要求“自荐承担任务” → 必须明确说你愿意做，而不是只夸自己",
+      "sourcePage": 92,
+      "sourceIndex": 2542
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 草稿上每个题目要点都有对应句。",
+      "sourcePage": 92,
+      "sourceIndex": 2543
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 不会高级表达时，先用最简单正确句把要点写完。",
+      "sourcePage": 92,
+      "sourceIndex": 2544
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 93,
+      "sourceIndex": 2545
+    },
+    {
+      "type": "paragraph",
+      "text": "题目：给交换生介绍社团并邀请参加。草稿先写：①club does what ②time/place ③why worth joining",
+      "sourcePage": 93,
+      "sourceIndex": 2546
+    },
+    {
+      "type": "paragraph",
+      "text": "④ask for reply。",
+      "sourcePage": 93,
+      "sourceIndex": 2547
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 93,
+      "sourceIndex": 2548
+    },
+    {
+      "type": "paragraph",
+      "text": "· 写得很长却漏点。",
+      "sourcePage": 93,
+      "sourceIndex": 2549
+    },
+    {
+      "type": "paragraph",
+      "text": "· 没看清写信对象导致语气不合。",
+      "sourcePage": 93,
+      "sourceIndex": 2550
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 93,
+      "sourceIndex": 2551
+    },
+    {
+      "type": "paragraph",
+      "text": "· 要点全吗？",
+      "sourcePage": 93,
+      "sourceIndex": 2552
+    },
+    {
+      "type": "paragraph",
+      "text": "· 身份和对象对吗？",
+      "sourcePage": 93,
+      "sourceIndex": 2553
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： W-M 漏任务点｜W-R 对象/语域不合适｜",
+      "sourcePage": 93,
+      "sourceIndex": 2554
+    },
+    {
+      "type": "paragraph",
+      "text": "W-T 时态｜W-V 动词形式｜W-S 拼写｜W-O 组织不清。",
+      "sourcePage": 93,
+      "sourceIndex": 2555
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 93,
+      "sourceIndex": 2556
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 应用文先完成任务，再美化语言。",
+      "sourcePage": 93,
+      "sourceIndex": 2557
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 93,
+      "sourceIndex": 2559
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 邀请邮件题干有活动、时间、地点、回复要求，草稿列几项？",
+      "sourcePage": 93,
+      "sourceIndex": 2560
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 作文先写高级开头还是任务点？",
+      "sourcePage": 93,
+      "sourceIndex": 2561
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 给老师写求助，Can you help me? 是否可以更得体？",
+      "sourcePage": 93,
+      "sourceIndex": 2562
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 漏一个要点但句子很高级，是否值得？",
+      "sourcePage": 93,
+      "sourceIndex": 2563
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 写完第一轮检查？",
+      "sourcePage": 93,
+      "sourceIndex": 2564
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 至少4项全部列出并打勾。；2. 任务点。；3. 可用 Could you please... / I would appreciate...；4. 不",
+      "sourcePage": 93,
+      "sourceIndex": 2565
+    },
+    {
+      "type": "paragraph",
+      "text": "值得，完整优先。；5. 任务点是否全部覆盖。",
+      "sourcePage": 93,
+      "sourceIndex": 2566
+    },
+    {
+      "type": "paragraph",
+      "text": "— PW1 本题型到这里。下次卡住直接 Ctrl+F 搜“PW1”或题型关键词。—",
+      "sourcePage": 93,
+      "sourceIndex": 2567
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-PW1-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "题目给身份、对象、情境和2-3个内容要点。",
+          "sourcePage": 92,
+          "sourceIndex": 2527
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Task fulfilment：是否完整回应题目要求。",
+          "sourcePage": 92,
+          "sourceIndex": 2529
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先别写第一句，把题目要求拆成三个小任务。”",
+          "sourcePage": 92,
+          "sourceIndex": 2530
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "漏一个内容点往往比少一个高级词更伤。",
+          "sourcePage": 92,
+          "sourceIndex": 2531
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 圈身份：你是谁？写给谁？",
+          "sourcePage": 92,
+          "sourceIndex": 2533
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 圈目的：邀请/感谢/建议/申请/介绍等。",
+          "sourcePage": 92,
+          "sourceIndex": 2534
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 把每个内容点编号①②③。",
+          "sourcePage": 92,
+          "sourceIndex": 2535
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 每个编号至少安排一句核心句。",
+          "sourcePage": 92,
+          "sourceIndex": 2536
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 最后再决定开头和结尾。",
+          "sourcePage": 92,
+          "sourceIndex": 2537
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 先列任务点，不写句子：身份 | 目的 | point1 | point2 | point3 | reply。每完成 一点打 ✓。",
+          "sourcePage": 92,
+          "sourceIndex": 2538
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 题目要求“介绍+原因+期待” → 三块都必须出现",
+          "sourcePage": 92,
+          "sourceIndex": 2541
+        },
+        {
+          "type": "paragraph",
+          "text": "· 若要求“自荐承担任务” → 必须明确说你愿意做，而不是只夸自己",
+          "sourcePage": 92,
+          "sourceIndex": 2542
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "草稿上每个题目要点都有对应句。",
+          "sourcePage": 92,
+          "sourceIndex": 2543
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "不会高级表达时，先用最简单正确句把要点写完。",
+          "sourcePage": 92,
+          "sourceIndex": 2544
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "题目：给交换生介绍社团并邀请参加。草稿先写：①club does what ②time/place ③why worth joining ④ask for reply。",
+          "sourcePage": 93,
+          "sourceIndex": 2546
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 写得很长却漏点。",
+          "sourcePage": 93,
+          "sourceIndex": 2549
+        },
+        {
+          "type": "paragraph",
+          "text": "· 没看清写信对象导致语气不合。",
+          "sourcePage": 93,
+          "sourceIndex": 2550
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 要点全吗？",
+          "sourcePage": 93,
+          "sourceIndex": 2552
+        },
+        {
+          "type": "paragraph",
+          "text": "· 身份和对象对吗？",
+          "sourcePage": 93,
+          "sourceIndex": 2553
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： W-M 漏任务点｜W-R 对象/语域不合适｜ W-T 时态｜W-V 动词形式｜W-S 拼写｜W-O 组织不清。",
+          "sourcePage": 93,
+          "sourceIndex": 2554
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 93,
+          "sourceIndex": 2556
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "应用文先完成任务，再美化语言。",
+          "sourcePage": 93,
+          "sourceIndex": 2557
+        }
+      ]
+    },
+    {
+      "id": "EN-PW1-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 邀请邮件题干有活动、时间、地点、回复要求，草稿列几项？",
+          "sourcePage": 93,
+          "sourceIndex": 2560
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 作文先写高级开头还是任务点？",
+          "sourcePage": 93,
+          "sourceIndex": 2561
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 给老师写求助，Can you help me? 是否可以更得体？",
+          "sourcePage": 93,
+          "sourceIndex": 2562
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 漏一个要点但句子很高级，是否值得？",
+          "sourcePage": 93,
+          "sourceIndex": 2563
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 写完第一轮检查？",
+          "sourcePage": 93,
+          "sourceIndex": 2564
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 至少4项全部列出并打勾。；2. 任务点。；3. 可用 Could you please... / I would appreciate...；4. 不 值得，完整优先。；5. 任务点是否全部覆盖。",
+          "sourcePage": 93,
+          "sourceIndex": 2565
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 92,
+    "endPage": 93
+  }
+}

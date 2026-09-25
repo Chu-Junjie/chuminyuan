@@ -1,0 +1,153 @@
+{
+  "id": "EN-8-5",
+  "code": "8.5",
+  "title": "Modal Verbs & Auxiliaries 情态/助动词",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.5",
+    "Modal Verbs & Auxiliaries 情态/助动词",
+    "语法工具箱",
+    "Function",
+    "Common",
+    "forms",
+    "Use",
+    "Ability",
+    "can/could",
+    "able",
+    "Possibility",
+    "may/might/could",
+    "Obligation",
+    "must",
+    "have",
+    "should",
+    "Advice",
+    "had",
+    "better",
+    "Deduction",
+    "can",
+    "may",
+    "Past",
+    "possibility/regret",
+    "might",
+    "done"
+  ],
+  "brain_first": "按原文查阅 Modal Verbs & Auxiliaries 情态/助动词",
+  "sort_order": 1076,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Function",
+          "Common forms",
+          "Use"
+        ],
+        [
+          "Ability",
+          "can/could, be able to",
+          "能力"
+        ],
+        [
+          "Possibility",
+          "may/might/could",
+          "可能"
+        ],
+        [
+          "Obligation",
+          "must, have to, should",
+          "必须/应该"
+        ],
+        [
+          "Advice",
+          "should, had better",
+          "建议"
+        ],
+        [
+          "Deduction",
+          "must / can't / may",
+          "推测"
+        ],
+        [
+          "Past possibility/regret",
+          "might have done / should have done",
+          "过去可能/本该"
+        ]
+      ],
+      "text": "Function | Common forms | Use\nAbility | can/could, be able to | 能力\nPossibility | may/might/could | 可能\nObligation | must, have to, should | 必须/应该\nAdvice | should, had better | 建议\nDeduction | must / can't / may | 推测\nPast possibility/regret | might have done / should have done | 过去可能/本该",
+      "sourcePage": 108,
+      "sourceIndex": 2855
+    },
+    {
+      "type": "paragraph",
+      "text": "基础写作优先使用你能控制的结构；不要为了“高级”强行写复杂情态完成式。",
+      "sourcePage": 108,
+      "sourceIndex": 2856
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-5-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Function",
+              "Common forms",
+              "Use"
+            ],
+            [
+              "Ability",
+              "can/could, be able to",
+              "能力"
+            ],
+            [
+              "Possibility",
+              "may/might/could",
+              "可能"
+            ],
+            [
+              "Obligation",
+              "must, have to, should",
+              "必须/应该"
+            ],
+            [
+              "Advice",
+              "should, had better",
+              "建议"
+            ],
+            [
+              "Deduction",
+              "must / can't / may",
+              "推测"
+            ],
+            [
+              "Past possibility/regret",
+              "might have done / should have done",
+              "过去可能/本该"
+            ]
+          ],
+          "text": "Function | Common forms | Use\nAbility | can/could, be able to | 能力\nPossibility | may/might/could | 可能\nObligation | must, have to, should | 必须/应该\nAdvice | should, had better | 建议\nDeduction | must / can't / may | 推测\nPast possibility/regret | might have done / should have done | 过去可能/本该",
+          "sourcePage": 108,
+          "sourceIndex": 2855
+        },
+        {
+          "type": "paragraph",
+          "text": "基础写作优先使用你能控制的结构；不要为了“高级”强行写复杂情态完成式。",
+          "sourcePage": 108,
+          "sourceIndex": 2856
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 108,
+    "endPage": 108
+  }
+}

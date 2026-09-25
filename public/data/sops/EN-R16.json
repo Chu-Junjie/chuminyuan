@@ -1,0 +1,575 @@
+{
+  "id": "EN-R16",
+  "code": "R16",
+  "title": "NOT / EXCEPT / incorrect 反向题",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "R16",
+    "NOT / EXCEPT / incorrect 反向题",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "NOT",
+    "EXCEPT",
+    "incorrect",
+    "least",
+    "likely",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "NOT/EXCEPT",
+    "IF/THEN",
+    "then",
+    "Which",
+    "true",
+    "All",
+    "are",
+    "mentioned",
+    "STOP",
+    "Stop",
+    "when",
+    "T/F",
+    "STUCK",
+    "you",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "A/B/D",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Ctrl"
+  ],
+  "brain_first": "“先把否定词圈到刺眼；我要找的是那个‘不对/例外’。”",
+  "sort_order": 1030,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 48,
+      "sourceIndex": 1326
+    },
+    {
+      "type": "paragraph",
+      "text": "题干含大写或否定词：NOT, EXCEPT, incorrect,",
+      "sourcePage": 48,
+      "sourceIndex": 1327
+    },
+    {
+      "type": "paragraph",
+      "text": "least likely。",
+      "sourcePage": 48,
+      "sourceIndex": 1328
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 48,
+      "sourceIndex": 1329
+    },
+    {
+      "type": "paragraph",
+      "text": "反向题本质仍是细节核对，只是目标反过来。",
+      "sourcePage": 48,
+      "sourceIndex": 1330
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先把否定词圈到刺眼；我要找的是那个‘不对/例外’。”",
+      "sourcePage": 48,
+      "sourceIndex": 1331
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 基础学生最常见失分是做对了三项却选错方向。",
+      "sourcePage": 48,
+      "sourceIndex": 1332
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 48,
+      "sourceIndex": 1333
+    },
+    {
+      "type": "paragraph",
+      "text": "1 在题干的 NOT/EXCEPT 下划两条线。",
+      "sourcePage": 48,
+      "sourceIndex": 1334
+    },
+    {
+      "type": "paragraph",
+      "text": "2 把四个选项逐项标成 T（原文支持）或 F（原文不支持/错误）。",
+      "sourcePage": 48,
+      "sourceIndex": 1335
+    },
+    {
+      "type": "paragraph",
+      "text": "3 题目问 NOT → 选F；题目问 EXCEPT → 选那个不属于其余规则的。",
+      "sourcePage": 48,
+      "sourceIndex": 1336
+    },
+    {
+      "type": "paragraph",
+      "text": "4 最后重新读题干一次再涂卡。",
+      "sourcePage": 48,
+      "sourceIndex": 1337
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 48,
+      "sourceIndex": 1338
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 48,
+      "sourceIndex": 1339
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 48,
+      "sourceIndex": 1340
+    },
+    {
+      "type": "paragraph",
+      "text": "· Which is NOT true? → 找错误项",
+      "sourcePage": 48,
+      "sourceIndex": 1341
+    },
+    {
+      "type": "paragraph",
+      "text": "· All are mentioned EXCEPT → 找没提到项",
+      "sourcePage": 48,
+      "sourceIndex": 1342
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 四项都完成T/F标记，再按题干方向选择。",
+      "sourcePage": 48,
+      "sourceIndex": 1343
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 如果某一项没找到证据，不要马上选；先确认它不是同义改写隐藏在别处。",
+      "sourcePage": 48,
+      "sourceIndex": 1344
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 48,
+      "sourceIndex": 1345
+    },
+    {
+      "type": "paragraph",
+      "text": "文章支持A/B/D，C与原文相反。题目问“Which is NOT true?”，必须选C。",
+      "sourcePage": 48,
+      "sourceIndex": 1346
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 48,
+      "sourceIndex": 1347
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忘记NOT。",
+      "sourcePage": 48,
+      "sourceIndex": 1348
+    },
+    {
+      "type": "paragraph",
+      "text": "· “没看到原词”就当没提到。",
+      "sourcePage": 48,
+      "sourceIndex": 1349
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 49,
+      "sourceIndex": 1350
+    },
+    {
+      "type": "paragraph",
+      "text": "· 我最终选的是错项还是对项？",
+      "sourcePage": 49,
+      "sourceIndex": 1351
+    },
+    {
+      "type": "paragraph",
+      "text": "· 题干方向重新读了吗？",
+      "sourcePage": 49,
+      "sourceIndex": 1352
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 49,
+      "sourceIndex": 1353
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 49,
+      "sourceIndex": 1354
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 49,
+      "sourceIndex": 1355
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 反向题：先圈NOT，再做T/F。",
+      "sourcePage": 49,
+      "sourceIndex": 1356
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 49,
+      "sourceIndex": 1358
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 题干出现NOT，第一动作？",
+      "sourcePage": 49,
+      "sourceIndex": 1359
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 三项能在原文证实，一项不能，NOT题选？",
+      "sourcePage": 49,
+      "sourceIndex": 1360
+    },
+    {
+      "type": "paragraph",
+      "text": "3. EXCEPT 与普通题方向相同吗？",
+      "sourcePage": 49,
+      "sourceIndex": 1361
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 做完反向题最重要复查？",
+      "sourcePage": 49,
+      "sourceIndex": 1362
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 能否凭印象做NOT题？",
+      "sourcePage": 49,
+      "sourceIndex": 1363
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 把NOT圈/框出来。；2. 不能被证实/与原文不符的一项。；3. 相反。；4. 我选的是“错误/例外”而不",
+      "sourcePage": 49,
+      "sourceIndex": 1364
+    },
+    {
+      "type": "paragraph",
+      "text": "是“正确”。；5. 不建议，逐项对原文。",
+      "sourcePage": 49,
+      "sourceIndex": 1365
+    },
+    {
+      "type": "paragraph",
+      "text": "— R16 本题型到这里。下次卡住直接 Ctrl+F 搜“R16”或题型关键词。—",
+      "sourcePage": 49,
+      "sourceIndex": 1366
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R16-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "题干含大写或否定词：NOT, EXCEPT, incorrect, least likely。",
+          "sourcePage": 48,
+          "sourceIndex": 1327
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "反向题本质仍是细节核对，只是目标反过来。",
+          "sourcePage": 48,
+          "sourceIndex": 1330
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先把否定词圈到刺眼；我要找的是那个‘不对/例外’。”",
+          "sourcePage": 48,
+          "sourceIndex": 1331
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "基础学生最常见失分是做对了三项却选错方向。",
+          "sourcePage": 48,
+          "sourceIndex": 1332
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 在题干的 NOT/EXCEPT 下划两条线。",
+          "sourcePage": 48,
+          "sourceIndex": 1334
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 把四个选项逐项标成 T（原文支持）或 F（原文不支持/错误）。",
+          "sourcePage": 48,
+          "sourceIndex": 1335
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 题目问 NOT → 选F；题目问 EXCEPT → 选那个不属于其余规则的。",
+          "sourcePage": 48,
+          "sourceIndex": 1336
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 最后重新读题干一次再涂卡。",
+          "sourcePage": 48,
+          "sourceIndex": 1337
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 48,
+          "sourceIndex": 1338
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· Which is NOT true? → 找错误项",
+          "sourcePage": 48,
+          "sourceIndex": 1341
+        },
+        {
+          "type": "paragraph",
+          "text": "· All are mentioned EXCEPT → 找没提到项",
+          "sourcePage": 48,
+          "sourceIndex": 1342
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "四项都完成T/F标记，再按题干方向选择。",
+          "sourcePage": 48,
+          "sourceIndex": 1343
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果某一项没找到证据，不要马上选；先确认它不是同义改写隐藏在别处。",
+          "sourcePage": 48,
+          "sourceIndex": 1344
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "文章支持A/B/D，C与原文相反。题目问“Which is NOT true?”，必须选C。",
+          "sourcePage": 48,
+          "sourceIndex": 1346
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 忘记NOT。",
+          "sourcePage": 48,
+          "sourceIndex": 1348
+        },
+        {
+          "type": "paragraph",
+          "text": "· “没看到原词”就当没提到。",
+          "sourcePage": 48,
+          "sourceIndex": 1349
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 我最终选的是错项还是对项？",
+          "sourcePage": 49,
+          "sourceIndex": 1351
+        },
+        {
+          "type": "paragraph",
+          "text": "· 题干方向重新读了吗？",
+          "sourcePage": 49,
+          "sourceIndex": 1352
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 49,
+          "sourceIndex": 1353
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 49,
+          "sourceIndex": 1355
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "反向题：先圈NOT，再做T/F。",
+          "sourcePage": 49,
+          "sourceIndex": 1356
+        }
+      ]
+    },
+    {
+      "id": "EN-R16-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 题干出现NOT，第一动作？",
+          "sourcePage": 49,
+          "sourceIndex": 1359
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 三项能在原文证实，一项不能，NOT题选？",
+          "sourcePage": 49,
+          "sourceIndex": 1360
+        },
+        {
+          "type": "paragraph",
+          "text": "3. EXCEPT 与普通题方向相同吗？",
+          "sourcePage": 49,
+          "sourceIndex": 1361
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 做完反向题最重要复查？",
+          "sourcePage": 49,
+          "sourceIndex": 1362
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 能否凭印象做NOT题？",
+          "sourcePage": 49,
+          "sourceIndex": 1363
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 把NOT圈/框出来。；2. 不能被证实/与原文不符的一项。；3. 相反。；4. 我选的是“错误/例外”而不 是“正确”。；5. 不建议，逐项对原文。",
+          "sourcePage": 49,
+          "sourceIndex": 1364
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 48,
+    "endPage": 49
+  }
+}

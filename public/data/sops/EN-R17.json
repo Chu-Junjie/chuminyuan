@@ -1,0 +1,654 @@
+{
+  "id": "EN-R17",
+  "code": "R17",
+  "title": "干扰项总检查：偷换、扩大、无中生有、半对半错",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "R17",
+    "干扰项总检查：偷换、扩大、无中生有、半对半错",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Distractor",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "some/all",
+    "may/must",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "some",
+    "all",
+    "may",
+    "must",
+    "causes",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "Some",
+    "participants",
+    "reported",
+    "better",
+    "sleep",
+    "The",
+    "program",
+    "improved",
+    "for",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Ctrl"
+  ],
+  "brain_first": "“不要问哪个最顺眼；问每个选项到底改了原文哪一个地方。”",
+  "sort_order": 1031,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 49,
+      "sourceIndex": 1369
+    },
+    {
+      "type": "paragraph",
+      "text": "四个选项都“像对的”；尤其细节、推断、主旨题",
+      "sourcePage": 49,
+      "sourceIndex": 1370
+    },
+    {
+      "type": "paragraph",
+      "text": "常用这种设计。",
+      "sourcePage": 49,
+      "sourceIndex": 1371
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 49,
+      "sourceIndex": 1372
+    },
+    {
+      "type": "paragraph",
+      "text": "Distractor = 用原文部分信息制造的错误选项。",
+      "sourcePage": 49,
+      "sourceIndex": 1373
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “不要问哪个最顺眼；问每个选项到底改了原文哪一个地方。”",
+      "sourcePage": 49,
+      "sourceIndex": 1374
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 会排干扰项能把“两个都像”变成可验证的逻辑。",
+      "sourcePage": 49,
+      "sourceIndex": 1375
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 49,
+      "sourceIndex": 1376
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先圈选项主语。",
+      "sourcePage": 49,
+      "sourceIndex": 1377
+    },
+    {
+      "type": "paragraph",
+      "text": "2 再圈时间、数量、范围词（some/all, may/must）。",
+      "sourcePage": 49,
+      "sourceIndex": 1378
+    },
+    {
+      "type": "paragraph",
+      "text": "3 检查因果方向。",
+      "sourcePage": 49,
+      "sourceIndex": 1379
+    },
+    {
+      "type": "paragraph",
+      "text": "4 检查前半句和后半句是否都对。",
+      "sourcePage": 49,
+      "sourceIndex": 1380
+    },
+    {
+      "type": "paragraph",
+      "text": "5 检查是否把例子变结论、把别人观点变作者观点。",
+      "sourcePage": 50,
+      "sourceIndex": 1381
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 50,
+      "sourceIndex": 1382
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 50,
+      "sourceIndex": 1383
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 50,
+      "sourceIndex": 1384
+    },
+    {
+      "type": "paragraph",
+      "text": "· some → all = 范围扩大",
+      "sourcePage": 50,
+      "sourceIndex": 1385
+    },
+    {
+      "type": "paragraph",
+      "text": "· may → must = 强度扩大",
+      "sourcePage": 50,
+      "sourceIndex": 1386
+    },
+    {
+      "type": "paragraph",
+      "text": "· A causes B → B causes A = 因果反转",
+      "sourcePage": 50,
+      "sourceIndex": 1387
+    },
+    {
+      "type": "paragraph",
+      "text": "· 原文有这个词但回答另一个问题 = 原词陷阱",
+      "sourcePage": 50,
+      "sourceIndex": 1388
+    },
+    {
+      "type": "paragraph",
+      "text": "· 前半对后半错 = 整项错",
+      "sourcePage": 50,
+      "sourceIndex": 1389
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 你能给每个被排除选项说出一个具体错误点。",
+      "sourcePage": 50,
+      "sourceIndex": 1390
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 两个都像时，优先比“范围、程度、主语、因果”，这些最容易藏错。",
+      "sourcePage": 50,
+      "sourceIndex": 1391
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 50,
+      "sourceIndex": 1392
+    },
+    {
+      "type": "paragraph",
+      "text": "原文：Some participants reported better sleep. 选项：The program improved sleep for all",
+      "sourcePage": 50,
+      "sourceIndex": 1393
+    },
+    {
+      "type": "paragraph",
+      "text": "participants. → some 被扩大成 all，错。",
+      "sourcePage": 50,
+      "sourceIndex": 1394
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 50,
+      "sourceIndex": 1395
+    },
+    {
+      "type": "paragraph",
+      "text": "· 因为选项“听起来合理”就选。",
+      "sourcePage": 50,
+      "sourceIndex": 1396
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只验证前半句。",
+      "sourcePage": 50,
+      "sourceIndex": 1397
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 50,
+      "sourceIndex": 1398
+    },
+    {
+      "type": "paragraph",
+      "text": "· 主语对吗？",
+      "sourcePage": 50,
+      "sourceIndex": 1399
+    },
+    {
+      "type": "paragraph",
+      "text": "· 时间对吗？",
+      "sourcePage": 50,
+      "sourceIndex": 1400
+    },
+    {
+      "type": "paragraph",
+      "text": "· 因果对吗？",
+      "sourcePage": 50,
+      "sourceIndex": 1401
+    },
+    {
+      "type": "paragraph",
+      "text": "· 范围/程度被放大了吗？",
+      "sourcePage": 50,
+      "sourceIndex": 1402
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 50,
+      "sourceIndex": 1403
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 50,
+      "sourceIndex": 1404
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 50,
+      "sourceIndex": 1405
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 干扰项就查四件事：谁、什么时候、为什么、范围多大。",
+      "sourcePage": 50,
+      "sourceIndex": 1406
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 50,
+      "sourceIndex": 1408
+    },
+    {
+      "type": "paragraph",
+      "text": "1. some→all 属于什么陷阱？",
+      "sourcePage": 50,
+      "sourceIndex": 1409
+    },
+    {
+      "type": "paragraph",
+      "text": "2. may→must？",
+      "sourcePage": 50,
+      "sourceIndex": 1410
+    },
+    {
+      "type": "paragraph",
+      "text": "3. A causes B→B causes A？",
+      "sourcePage": 51,
+      "sourceIndex": 1411
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 选项前半对后半错，整体？",
+      "sourcePage": 51,
+      "sourceIndex": 1412
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 原文有同词但答非所问？",
+      "sourcePage": 51,
+      "sourceIndex": 1413
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 范围扩大；2. 程度/确定性扩大；3. 偷换因果；4. 错；5. 原词复现陷阱",
+      "sourcePage": 51,
+      "sourceIndex": 1414
+    },
+    {
+      "type": "paragraph",
+      "text": "— R17 本题型到这里。下次卡住直接 Ctrl+F 搜“R17”或题型关键词。—",
+      "sourcePage": 51,
+      "sourceIndex": 1415
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R17-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "四个选项都“像对的”；尤其细节、推断、主旨题 常用这种设计。",
+          "sourcePage": 49,
+          "sourceIndex": 1370
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Distractor = 用原文部分信息制造的错误选项。",
+          "sourcePage": 49,
+          "sourceIndex": 1373
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“不要问哪个最顺眼；问每个选项到底改了原文哪一个地方。”",
+          "sourcePage": 49,
+          "sourceIndex": 1374
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "会排干扰项能把“两个都像”变成可验证的逻辑。",
+          "sourcePage": 49,
+          "sourceIndex": 1375
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先圈选项主语。",
+          "sourcePage": 49,
+          "sourceIndex": 1377
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 再圈时间、数量、范围词（some/all, may/must）。",
+          "sourcePage": 49,
+          "sourceIndex": 1378
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 检查因果方向。",
+          "sourcePage": 49,
+          "sourceIndex": 1379
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 检查前半句和后半句是否都对。",
+          "sourcePage": 49,
+          "sourceIndex": 1380
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 检查是否把例子变结论、把别人观点变作者观点。",
+          "sourcePage": 50,
+          "sourceIndex": 1381
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 50,
+          "sourceIndex": 1382
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· some → all = 范围扩大",
+          "sourcePage": 50,
+          "sourceIndex": 1385
+        },
+        {
+          "type": "paragraph",
+          "text": "· may → must = 强度扩大",
+          "sourcePage": 50,
+          "sourceIndex": 1386
+        },
+        {
+          "type": "paragraph",
+          "text": "· A causes B → B causes A = 因果反转",
+          "sourcePage": 50,
+          "sourceIndex": 1387
+        },
+        {
+          "type": "paragraph",
+          "text": "· 原文有这个词但回答另一个问题 = 原词陷阱",
+          "sourcePage": 50,
+          "sourceIndex": 1388
+        },
+        {
+          "type": "paragraph",
+          "text": "· 前半对后半错 = 整项错",
+          "sourcePage": 50,
+          "sourceIndex": 1389
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "你能给每个被排除选项说出一个具体错误点。",
+          "sourcePage": 50,
+          "sourceIndex": 1390
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "两个都像时，优先比“范围、程度、主语、因果”，这些最容易藏错。",
+          "sourcePage": 50,
+          "sourceIndex": 1391
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "原文：Some participants reported better sleep. 选项：The program improved sleep for all participants. → some 被扩大成 all，错。",
+          "sourcePage": 50,
+          "sourceIndex": 1393
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 因为选项“听起来合理”就选。",
+          "sourcePage": 50,
+          "sourceIndex": 1396
+        },
+        {
+          "type": "paragraph",
+          "text": "· 只验证前半句。",
+          "sourcePage": 50,
+          "sourceIndex": 1397
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 主语对吗？",
+          "sourcePage": 50,
+          "sourceIndex": 1399
+        },
+        {
+          "type": "paragraph",
+          "text": "· 时间对吗？",
+          "sourcePage": 50,
+          "sourceIndex": 1400
+        },
+        {
+          "type": "paragraph",
+          "text": "· 因果对吗？",
+          "sourcePage": 50,
+          "sourceIndex": 1401
+        },
+        {
+          "type": "paragraph",
+          "text": "· 范围/程度被放大了吗？",
+          "sourcePage": 50,
+          "sourceIndex": 1402
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 50,
+          "sourceIndex": 1403
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 50,
+          "sourceIndex": 1405
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "干扰项就查四件事：谁、什么时候、为什么、范围多大。",
+          "sourcePage": 50,
+          "sourceIndex": 1406
+        }
+      ]
+    },
+    {
+      "id": "EN-R17-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. some→all 属于什么陷阱？",
+          "sourcePage": 50,
+          "sourceIndex": 1409
+        },
+        {
+          "type": "paragraph",
+          "text": "2. may→must？",
+          "sourcePage": 50,
+          "sourceIndex": 1410
+        },
+        {
+          "type": "paragraph",
+          "text": "3. A causes B→B causes A？",
+          "sourcePage": 51,
+          "sourceIndex": 1411
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 选项前半对后半错，整体？",
+          "sourcePage": 51,
+          "sourceIndex": 1412
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 原文有同词但答非所问？",
+          "sourcePage": 51,
+          "sourceIndex": 1413
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 范围扩大；2. 程度/确定性扩大；3. 偷换因果；4. 错；5. 原词复现陷阱",
+          "sourcePage": 51,
+          "sourceIndex": 1414
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 49,
+    "endPage": 51
+  }
+}

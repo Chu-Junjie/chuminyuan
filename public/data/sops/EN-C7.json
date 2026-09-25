@@ -1,0 +1,589 @@
+{
+  "id": "EN-C7",
+  "code": "C7",
+  "title": "情绪变化与故事情节",
+  "subject_id": "english",
+  "chapter_id": "en-cloze",
+  "chapter": "完形填空",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "C7",
+    "情绪变化与故事情节",
+    "完形填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "worried",
+    "hopeful",
+    "relieved",
+    "V/N/Adj/Adv",
+    "help",
+    "IF/THEN",
+    "then",
+    "terrified",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "grateful",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "arrives",
+    "relieved/hopeful",
+    "Ctrl"
+  ],
+  "brain_first": "“先画人物情绪线，再判断这个空属于哪一段情绪。”",
+  "sort_order": 1047,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 72,
+      "sourceIndex": 2018
+    },
+    {
+      "type": "paragraph",
+      "text": "记叙类完形常围绕困难→帮助/尝试→解决→情绪",
+      "sourcePage": 72,
+      "sourceIndex": 2019
+    },
+    {
+      "type": "paragraph",
+      "text": "变化。",
+      "sourcePage": 72,
+      "sourceIndex": 2020
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 72,
+      "sourceIndex": 2021
+    },
+    {
+      "type": "paragraph",
+      "text": "情节逻辑关注人物为什么行动、情绪如何因事件改",
+      "sourcePage": 72,
+      "sourceIndex": 2022
+    },
+    {
+      "type": "paragraph",
+      "text": "变。",
+      "sourcePage": 72,
+      "sourceIndex": 2023
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先画人物情绪线，再判断这个空属于哪一段情绪。”",
+      "sourcePage": 72,
+      "sourceIndex": 2024
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 多个近义词的正确选择常由情节阶段决定。",
+      "sourcePage": 72,
+      "sourceIndex": 2025
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 72,
+      "sourceIndex": 2026
+    },
+    {
+      "type": "paragraph",
+      "text": "1 写人物当前目标。",
+      "sourcePage": 72,
+      "sourceIndex": 2027
+    },
+    {
+      "type": "paragraph",
+      "text": "2 标出困难/转折/结果。",
+      "sourcePage": 73,
+      "sourceIndex": 2028
+    },
+    {
+      "type": "paragraph",
+      "text": "3 用简单箭头写情绪：worried → hopeful → relieved。",
+      "sourcePage": 73,
+      "sourceIndex": 2029
+    },
+    {
+      "type": "paragraph",
+      "text": "4 把每个动作放在这条线里检查。",
+      "sourcePage": 73,
+      "sourceIndex": 2030
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如",
+      "sourcePage": 73,
+      "sourceIndex": 2031
+    },
+    {
+      "type": "paragraph",
+      "text": "worried→help→relieved；难空先打 ? 继续。",
+      "sourcePage": 73,
+      "sourceIndex": 2032
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 73,
+      "sourceIndex": 2033
+    },
+    {
+      "type": "paragraph",
+      "text": "· 收到坏消息后通常不直接“relieved”",
+      "sourcePage": 73,
+      "sourceIndex": 2034
+    },
+    {
+      "type": "paragraph",
+      "text": "· 问题解决后仍“terrified”需有额外证据",
+      "sourcePage": 73,
+      "sourceIndex": 2035
+    },
+    {
+      "type": "paragraph",
+      "text": "· 感谢通常出现在得到帮助之后",
+      "sourcePage": 73,
+      "sourceIndex": 2036
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 动作和情绪顺序符合故事因果。",
+      "sourcePage": 73,
+      "sourceIndex": 2037
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 两个选项都能翻译成“高兴”时，看哪个更符合触发原因和程度。",
+      "sourcePage": 73,
+      "sourceIndex": 2038
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 73,
+      "sourceIndex": 2039
+    },
+    {
+      "type": "paragraph",
+      "text": "角色找不到钱包→焦虑；陌生人归还→惊讶；确认东西齐全→relieved；向对方→grateful。",
+      "sourcePage": 73,
+      "sourceIndex": 2040
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 73,
+      "sourceIndex": 2041
+    },
+    {
+      "type": "paragraph",
+      "text": "· 情绪词只看中文。",
+      "sourcePage": 73,
+      "sourceIndex": 2042
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略时间顺序。",
+      "sourcePage": 73,
+      "sourceIndex": 2043
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 73,
+      "sourceIndex": 2044
+    },
+    {
+      "type": "paragraph",
+      "text": "· 前一事件会自然导致这个情绪吗？",
+      "sourcePage": 73,
+      "sourceIndex": 2045
+    },
+    {
+      "type": "paragraph",
+      "text": "· 后续反应匹配吗？",
+      "sourcePage": 73,
+      "sourceIndex": 2046
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现",
+      "sourcePage": 73,
+      "sourceIndex": 2047
+    },
+    {
+      "type": "paragraph",
+      "text": "｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+      "sourcePage": 73,
+      "sourceIndex": 2048
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 73,
+      "sourceIndex": 2049
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 完形画一条“事件-情绪线”。",
+      "sourcePage": 73,
+      "sourceIndex": 2050
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 73,
+      "sourceIndex": 2052
+    },
+    {
+      "type": "paragraph",
+      "text": "1. worried→help arrives→?",
+      "sourcePage": 73,
+      "sourceIndex": 2053
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 人物突然无原因大笑合理吗？",
+      "sourcePage": 73,
+      "sourceIndex": 2054
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 故事空要问的核心问题？",
+      "sourcePage": 73,
+      "sourceIndex": 2055
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 结尾情绪应与事件变化匹配吗？",
+      "sourcePage": 73,
+      "sourceIndex": 2056
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 完形第一遍每空必须解决吗？",
+      "sourcePage": 74,
+      "sourceIndex": 2057
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. relieved/hopeful；2. 通常不合理，需事件触发。；3. 为什么人物此时会这样做/想。；4. 应。；5. 不",
+      "sourcePage": 74,
+      "sourceIndex": 2058
+    },
+    {
+      "type": "paragraph",
+      "text": "必。",
+      "sourcePage": 74,
+      "sourceIndex": 2059
+    },
+    {
+      "type": "paragraph",
+      "text": "— C7 本题型到这里。下次卡住直接 Ctrl+F 搜“C7”或题型关键词。—",
+      "sourcePage": 74,
+      "sourceIndex": 2060
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-C7-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "记叙类完形常围绕困难→帮助/尝试→解决→情绪 变化。",
+          "sourcePage": 72,
+          "sourceIndex": 2019
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "情节逻辑关注人物为什么行动、情绪如何因事件改 变。",
+          "sourcePage": 72,
+          "sourceIndex": 2022
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先画人物情绪线，再判断这个空属于哪一段情绪。”",
+          "sourcePage": 72,
+          "sourceIndex": 2024
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "多个近义词的正确选择常由情节阶段决定。",
+          "sourcePage": 72,
+          "sourceIndex": 2025
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 写人物当前目标。",
+          "sourcePage": 72,
+          "sourceIndex": 2027
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 标出困难/转折/结果。",
+          "sourcePage": 73,
+          "sourceIndex": 2028
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 用简单箭头写情绪：worried → hopeful → relieved。",
+          "sourcePage": 73,
+          "sourceIndex": 2029
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 把每个动作放在这条线里检查。",
+          "sourcePage": 73,
+          "sourceIndex": 2030
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如 worried→help→relieved；难空先打 ? 继续。",
+          "sourcePage": 73,
+          "sourceIndex": 2031
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 收到坏消息后通常不直接“relieved”",
+          "sourcePage": 73,
+          "sourceIndex": 2034
+        },
+        {
+          "type": "paragraph",
+          "text": "· 问题解决后仍“terrified”需有额外证据",
+          "sourcePage": 73,
+          "sourceIndex": 2035
+        },
+        {
+          "type": "paragraph",
+          "text": "· 感谢通常出现在得到帮助之后",
+          "sourcePage": 73,
+          "sourceIndex": 2036
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "动作和情绪顺序符合故事因果。",
+          "sourcePage": 73,
+          "sourceIndex": 2037
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "两个选项都能翻译成“高兴”时，看哪个更符合触发原因和程度。",
+          "sourcePage": 73,
+          "sourceIndex": 2038
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "角色找不到钱包→焦虑；陌生人归还→惊讶；确认东西齐全→relieved；向对方→grateful。",
+          "sourcePage": 73,
+          "sourceIndex": 2040
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 情绪词只看中文。",
+          "sourcePage": 73,
+          "sourceIndex": 2042
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略时间顺序。",
+          "sourcePage": 73,
+          "sourceIndex": 2043
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 前一事件会自然导致这个情绪吗？",
+          "sourcePage": 73,
+          "sourceIndex": 2045
+        },
+        {
+          "type": "paragraph",
+          "text": "· 后续反应匹配吗？",
+          "sourcePage": 73,
+          "sourceIndex": 2046
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现 ｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+          "sourcePage": 73,
+          "sourceIndex": 2047
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 73,
+          "sourceIndex": 2049
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "完形画一条“事件-情绪线”。",
+          "sourcePage": 73,
+          "sourceIndex": 2050
+        }
+      ]
+    },
+    {
+      "id": "EN-C7-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. worried→help arrives→?",
+          "sourcePage": 73,
+          "sourceIndex": 2053
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 人物突然无原因大笑合理吗？",
+          "sourcePage": 73,
+          "sourceIndex": 2054
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 故事空要问的核心问题？",
+          "sourcePage": 73,
+          "sourceIndex": 2055
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 结尾情绪应与事件变化匹配吗？",
+          "sourcePage": 73,
+          "sourceIndex": 2056
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 完形第一遍每空必须解决吗？",
+          "sourcePage": 74,
+          "sourceIndex": 2057
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. relieved/hopeful；2. 通常不合理，需事件触发。；3. 为什么人物此时会这样做/想。；4. 应。；5. 不 必。",
+          "sourcePage": 74,
+          "sourceIndex": 2058
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 72,
+    "endPage": 74
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "EN-12-5",
+  "code": "12.5",
+  "title": "应用文最终清单",
+  "subject_id": "english",
+  "chapter_id": "en-rescue",
+  "chapter": "急救与索引",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "12.5",
+    "应用文最终清单",
+    "急救与索引"
+  ],
+  "brain_first": "按原文查阅 应用文最终清单",
+  "sort_order": 1120,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "1. 题目所有信息点写全",
+      "sourcePage": 130,
+      "sourceIndex": 3067
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 身份和对象正确",
+      "sourcePage": 130,
+      "sourceIndex": 3068
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 时态合理",
+      "sourcePage": 130,
+      "sourceIndex": 3069
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 主谓一致",
+      "sourcePage": 130,
+      "sourceIndex": 3070
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 单复数",
+      "sourcePage": 130,
+      "sourceIndex": 3071
+    },
+    {
+      "type": "paragraph",
+      "text": "6. 动词形式",
+      "sourcePage": 130,
+      "sourceIndex": 3072
+    },
+    {
+      "type": "paragraph",
+      "text": "7. 拼写",
+      "sourcePage": 130,
+      "sourceIndex": 3073
+    },
+    {
+      "type": "paragraph",
+      "text": "8. 标点",
+      "sourcePage": 130,
+      "sourceIndex": 3074
+    },
+    {
+      "type": "paragraph",
+      "text": "9. 段落清楚",
+      "sourcePage": 130,
+      "sourceIndex": 3075
+    },
+    {
+      "type": "paragraph",
+      "text": "10. 字数合适",
+      "sourcePage": 130,
+      "sourceIndex": 3076
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-12-5-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 题目所有信息点写全",
+          "sourcePage": 130,
+          "sourceIndex": 3067
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 身份和对象正确",
+          "sourcePage": 130,
+          "sourceIndex": 3068
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 时态合理",
+          "sourcePage": 130,
+          "sourceIndex": 3069
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 主谓一致",
+          "sourcePage": 130,
+          "sourceIndex": 3070
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 单复数",
+          "sourcePage": 130,
+          "sourceIndex": 3071
+        },
+        {
+          "type": "paragraph",
+          "text": "6. 动词形式",
+          "sourcePage": 130,
+          "sourceIndex": 3072
+        },
+        {
+          "type": "paragraph",
+          "text": "7. 拼写",
+          "sourcePage": 130,
+          "sourceIndex": 3073
+        },
+        {
+          "type": "paragraph",
+          "text": "8. 标点",
+          "sourcePage": 130,
+          "sourceIndex": 3074
+        },
+        {
+          "type": "paragraph",
+          "text": "9. 段落清楚",
+          "sourcePage": 130,
+          "sourceIndex": 3075
+        },
+        {
+          "type": "paragraph",
+          "text": "10. 字数合适",
+          "sourcePage": 130,
+          "sourceIndex": 3076
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 130,
+    "endPage": 130
+  }
+}

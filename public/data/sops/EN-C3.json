@@ -1,0 +1,618 @@
+{
+  "id": "EN-C3",
+  "code": "C3",
+  "title": "形容词与副词题",
+  "subject_id": "english",
+  "chapter_id": "en-cloze",
+  "chapter": "完形填空",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "C3",
+    "形容词与副词题",
+    "完形填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "slightly",
+    "deeply",
+    "completely",
+    "V/N/Adj/Adv",
+    "worried",
+    "help",
+    "relieved",
+    "IF/THEN",
+    "then",
+    "be/feel/seem",
+    "adjective",
+    "verb",
+    "adverb",
+    "fortunately/unfortunately",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "After",
+    "hours",
+    "searching",
+    "they",
+    "were",
+    "see",
+    "missing",
+    "dog",
+    "running",
+    "toward",
+    "them",
+    "relieved/delighted",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "safe",
+    "very",
+    "Ctrl"
+  ],
+  "brain_first": "“先问它在修饰谁，再判断方向和程度。”",
+  "sort_order": 1043,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 66,
+      "sourceIndex": 1834
+    },
+    {
+      "type": "paragraph",
+      "text": "四个选项描述性质、程度、方式或整句态度。",
+      "sourcePage": 66,
+      "sourceIndex": 1835
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 66,
+      "sourceIndex": 1836
+    },
+    {
+      "type": "paragraph",
+      "text": "形容词修饰名词/补语；副词常修饰动词、形容词",
+      "sourcePage": 66,
+      "sourceIndex": 1837
+    },
+    {
+      "type": "paragraph",
+      "text": "或整句。",
+      "sourcePage": 66,
+      "sourceIndex": 1838
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先问它在修饰谁，再判断方向和程度。”",
+      "sourcePage": 66,
+      "sourceIndex": 1839
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 情绪与评价词常跟故事转折一起变化。",
+      "sourcePage": 66,
+      "sourceIndex": 1840
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 66,
+      "sourceIndex": 1841
+    },
+    {
+      "type": "paragraph",
+      "text": "1 看空位附近词，确定修饰对象。",
+      "sourcePage": 66,
+      "sourceIndex": 1842
+    },
+    {
+      "type": "paragraph",
+      "text": "2 先分正向/负向/中性。",
+      "sourcePage": 66,
+      "sourceIndex": 1843
+    },
+    {
+      "type": "paragraph",
+      "text": "3 看故事此时处于困难、转折还是解决。",
+      "sourcePage": 66,
+      "sourceIndex": 1844
+    },
+    {
+      "type": "paragraph",
+      "text": "4 再比较程度：slightly / deeply / completely 等。",
+      "sourcePage": 66,
+      "sourceIndex": 1845
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如",
+      "sourcePage": 66,
+      "sourceIndex": 1846
+    },
+    {
+      "type": "paragraph",
+      "text": "worried→help→relieved；难空先打 ? 继续。",
+      "sourcePage": 66,
+      "sourceIndex": 1847
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 66,
+      "sourceIndex": 1848
+    },
+    {
+      "type": "paragraph",
+      "text": "· be/feel/seem + adjective",
+      "sourcePage": 66,
+      "sourceIndex": 1849
+    },
+    {
+      "type": "paragraph",
+      "text": "· verb + adverb",
+      "sourcePage": 66,
+      "sourceIndex": 1850
+    },
+    {
+      "type": "paragraph",
+      "text": "· fortunately/unfortunately 可修饰整句",
+      "sourcePage": 66,
+      "sourceIndex": 1851
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 修饰对象、情感方向、程度都合适。",
+      "sourcePage": 67,
+      "sourceIndex": 1852
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 如果两个形容词意思近，查后文人物反应，反应能显示强度。",
+      "sourcePage": 67,
+      "sourceIndex": 1853
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 67,
+      "sourceIndex": 1854
+    },
+    {
+      "type": "paragraph",
+      "text": "After hours of searching, they were ___ to see the missing dog running toward them. 情节由焦虑转",
+      "sourcePage": 67,
+      "sourceIndex": 1855
+    },
+    {
+      "type": "paragraph",
+      "text": "为 relieved/delighted。",
+      "sourcePage": 67,
+      "sourceIndex": 1856
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 67,
+      "sourceIndex": 1857
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只看空前一个词。",
+      "sourcePage": 67,
+      "sourceIndex": 1858
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略情绪变化。",
+      "sourcePage": 67,
+      "sourceIndex": 1859
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 67,
+      "sourceIndex": 1860
+    },
+    {
+      "type": "paragraph",
+      "text": "· 修饰谁？",
+      "sourcePage": 67,
+      "sourceIndex": 1861
+    },
+    {
+      "type": "paragraph",
+      "text": "· 方向对？",
+      "sourcePage": 67,
+      "sourceIndex": 1862
+    },
+    {
+      "type": "paragraph",
+      "text": "· 程度过强吗？",
+      "sourcePage": 67,
+      "sourceIndex": 1863
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现",
+      "sourcePage": 67,
+      "sourceIndex": 1864
+    },
+    {
+      "type": "paragraph",
+      "text": "｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+      "sourcePage": 67,
+      "sourceIndex": 1865
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 67,
+      "sourceIndex": 1866
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 形副词：修饰谁、什么方向、多强。",
+      "sourcePage": 67,
+      "sourceIndex": 1867
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 67,
+      "sourceIndex": 1869
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 形容词主要修饰？",
+      "sourcePage": 67,
+      "sourceIndex": 1870
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 副词主要修饰？",
+      "sourcePage": 67,
+      "sourceIndex": 1871
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 故事从worried到safe，空格描述心情可能？",
+      "sourcePage": 67,
+      "sourceIndex": 1872
+    },
+    {
+      "type": "paragraph",
+      "text": "4. very ___ 后多半词性？",
+      "sourcePage": 67,
+      "sourceIndex": 1873
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 只按中文词义不看修饰对象可以吗？",
+      "sourcePage": 67,
+      "sourceIndex": 1874
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 名词/代词或作表语；2. 动词/形容词/副词/整句；3. relieved；4. 形容词/副词取决于结构，但常需要",
+      "sourcePage": 67,
+      "sourceIndex": 1875
+    },
+    {
+      "type": "paragraph",
+      "text": "形容词作表语。；5. 不可以。",
+      "sourcePage": 67,
+      "sourceIndex": 1876
+    },
+    {
+      "type": "paragraph",
+      "text": "— C3 本题型到这里。下次卡住直接 Ctrl+F 搜“C3”或题型关键词。—",
+      "sourcePage": 67,
+      "sourceIndex": 1877
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-C3-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "四个选项描述性质、程度、方式或整句态度。",
+          "sourcePage": 66,
+          "sourceIndex": 1835
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "形容词修饰名词/补语；副词常修饰动词、形容词 或整句。",
+          "sourcePage": 66,
+          "sourceIndex": 1837
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先问它在修饰谁，再判断方向和程度。”",
+          "sourcePage": 66,
+          "sourceIndex": 1839
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "情绪与评价词常跟故事转折一起变化。",
+          "sourcePage": 66,
+          "sourceIndex": 1840
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 看空位附近词，确定修饰对象。",
+          "sourcePage": 66,
+          "sourceIndex": 1842
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 先分正向/负向/中性。",
+          "sourcePage": 66,
+          "sourceIndex": 1843
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 看故事此时处于困难、转折还是解决。",
+          "sourcePage": 66,
+          "sourceIndex": 1844
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 再比较程度：slightly / deeply / completely 等。",
+          "sourcePage": 66,
+          "sourceIndex": 1845
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如 worried→help→relieved；难空先打 ? 继续。",
+          "sourcePage": 66,
+          "sourceIndex": 1846
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· be/feel/seem + adjective",
+          "sourcePage": 66,
+          "sourceIndex": 1849
+        },
+        {
+          "type": "paragraph",
+          "text": "· verb + adverb",
+          "sourcePage": 66,
+          "sourceIndex": 1850
+        },
+        {
+          "type": "paragraph",
+          "text": "· fortunately/unfortunately 可修饰整句",
+          "sourcePage": 66,
+          "sourceIndex": 1851
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "修饰对象、情感方向、程度都合适。",
+          "sourcePage": 67,
+          "sourceIndex": 1852
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果两个形容词意思近，查后文人物反应，反应能显示强度。",
+          "sourcePage": 67,
+          "sourceIndex": 1853
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "After hours of searching, they were ___ to see the missing dog running toward them. 情节由焦虑转 为 relieved/delighted。",
+          "sourcePage": 67,
+          "sourceIndex": 1855
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只看空前一个词。",
+          "sourcePage": 67,
+          "sourceIndex": 1858
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略情绪变化。",
+          "sourcePage": 67,
+          "sourceIndex": 1859
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 修饰谁？",
+          "sourcePage": 67,
+          "sourceIndex": 1861
+        },
+        {
+          "type": "paragraph",
+          "text": "· 方向对？",
+          "sourcePage": 67,
+          "sourceIndex": 1862
+        },
+        {
+          "type": "paragraph",
+          "text": "· 程度过强吗？",
+          "sourcePage": 67,
+          "sourceIndex": 1863
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现 ｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+          "sourcePage": 67,
+          "sourceIndex": 1864
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 67,
+          "sourceIndex": 1866
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "形副词：修饰谁、什么方向、多强。",
+          "sourcePage": 67,
+          "sourceIndex": 1867
+        }
+      ]
+    },
+    {
+      "id": "EN-C3-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 形容词主要修饰？",
+          "sourcePage": 67,
+          "sourceIndex": 1870
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 副词主要修饰？",
+          "sourcePage": 67,
+          "sourceIndex": 1871
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 故事从worried到safe，空格描述心情可能？",
+          "sourcePage": 67,
+          "sourceIndex": 1872
+        },
+        {
+          "type": "paragraph",
+          "text": "4. very ___ 后多半词性？",
+          "sourcePage": 67,
+          "sourceIndex": 1873
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 只按中文词义不看修饰对象可以吗？",
+          "sourcePage": 67,
+          "sourceIndex": 1874
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 名词/代词或作表语；2. 动词/形容词/副词/整句；3. relieved；4. 形容词/副词取决于结构，但常需要 形容词作表语。；5. 不可以。",
+          "sourcePage": 67,
+          "sourceIndex": 1875
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 66,
+    "endPage": 67
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "EN-INTRO-GAP",
+  "code": "INTRO-GAP",
+  "title": "七选五 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-gap",
+  "chapter": "七选五",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-GAP",
+    "七选五 · 总览",
+    "七选五",
+    "Part",
+    "III",
+    "Reading",
+    "Gap",
+    "Filling"
+  ],
+  "brain_first": "按原文查阅 七选五 · 总览",
+  "sort_order": 1033,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part III - Reading Gap Filling 七选五",
+      "sourcePage": 53,
+      "sourceIndex": 1465
+    },
+    {
+      "type": "paragraph",
+      "text": "七选五不是“哪句读着顺就放哪”。它最稳定的证据来自：位置功能、代词指代、逻辑关系、词汇复现和段落",
+      "sourcePage": 53,
+      "sourceIndex": 1466
+    },
+    {
+      "type": "paragraph",
+      "text": "主题。",
+      "sourcePage": 53,
+      "sourceIndex": 1467
+    },
+    {
+      "type": "paragraph",
+      "text": "总口诀：先看前后 → 再看代词 → 再看逻辑词 → 再看关键词链 → 最后排两个多余项。",
+      "sourcePage": 53,
+      "sourceIndex": 1468
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-GAP-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part III - Reading Gap Filling 七选五 七选五不是“哪句读着顺就放哪”。它最稳定的证据来自：位置功能、代词指代、逻辑关系、词汇复现和段落 主题。",
+          "sourcePage": 53,
+          "sourceIndex": 1465
+        },
+        {
+          "type": "paragraph",
+          "text": "总口诀：先看前后 → 再看代词 → 再看逻辑词 → 再看关键词链 → 最后排两个多余项。",
+          "sourcePage": 53,
+          "sourceIndex": 1468
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 53,
+    "endPage": 53
+  }
+}

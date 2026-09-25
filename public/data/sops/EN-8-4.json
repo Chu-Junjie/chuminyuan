@@ -1,0 +1,209 @@
+{
+  "id": "EN-8-4",
+  "code": "8.4",
+  "title": "Subject-Verb Agreement 主谓一致",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.4",
+    "Subject-Verb Agreement 主谓一致",
+    "语法工具箱",
+    "Situation",
+    "Rule",
+    "Example",
+    "Singular",
+    "subject",
+    "singular",
+    "verb",
+    "The",
+    "result",
+    "shows",
+    "Plural",
+    "plural",
+    "results",
+    "show",
+    "and",
+    "usually",
+    "Tom",
+    "Mia",
+    "are",
+    "Each",
+    "every",
+    "either",
+    "neither",
+    "has",
+    "role",
+    "One",
+    "noun",
+    "agrees",
+    "with",
+    "one",
+    "the",
+    "students",
+    "There",
+    "agree",
+    "following",
+    "real",
+    "two",
+    "reasons",
+    "ignore",
+    "phrase",
+    "quality",
+    "products",
+    "number",
+    "increasing",
+    "waiting"
+  ],
+  "brain_first": "按原文查阅 Subject-Verb Agreement 主谓一致",
+  "sort_order": 1075,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "核心不是“离谓语最近的词”，而是找到真正主语。",
+      "sourcePage": 108,
+      "sourceIndex": 2851
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Situation",
+          "Rule",
+          "Example"
+        ],
+        [
+          "Singular subject",
+          "singular verb",
+          "The result shows..."
+        ],
+        [
+          "Plural subject",
+          "plural verb",
+          "The results show..."
+        ],
+        [
+          "A and B",
+          "usually plural",
+          "Tom and Mia are..."
+        ],
+        [
+          "Each / every / either / neither (单独作主语)",
+          "usually singular",
+          "Each has a role."
+        ],
+        [
+          "One of + plural noun",
+          "verb agrees with one",
+          "One of the students is..."
+        ],
+        [
+          "There be",
+          "agree with following real subject",
+          "There are two reasons."
+        ],
+        [
+          "插入介词短语",
+          "ignore the phrase",
+          "The quality of the products is..."
+        ]
+      ],
+      "text": "Situation | Rule | Example\nSingular subject | singular verb | The result shows...\nPlural subject | plural verb | The results show...\nA and B | usually plural | Tom and Mia are...\nEach / every / either / neither (单独作主语) | usually singular | Each has a role.\nOne of + plural noun | verb agrees with one | One of the students is...\nThere be | agree with following real subject | There are two reasons.\n插入介词短语 | ignore the phrase | The quality of the products is...",
+      "sourcePage": 108,
+      "sourceIndex": 2852
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "长主语：The number of students is increasing；A number of students are waiting。不要只看\nstudents。"
+        ]
+      ],
+      "text": " | 长主语：The number of students is increasing；A number of students are waiting。不要只看\nstudents。",
+      "sourcePage": 108,
+      "sourceIndex": 2853
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-4-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "核心不是“离谓语最近的词”，而是找到真正主语。",
+          "sourcePage": 108,
+          "sourceIndex": 2851
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situation",
+              "Rule",
+              "Example"
+            ],
+            [
+              "Singular subject",
+              "singular verb",
+              "The result shows..."
+            ],
+            [
+              "Plural subject",
+              "plural verb",
+              "The results show..."
+            ],
+            [
+              "A and B",
+              "usually plural",
+              "Tom and Mia are..."
+            ],
+            [
+              "Each / every / either / neither (单独作主语)",
+              "usually singular",
+              "Each has a role."
+            ],
+            [
+              "One of + plural noun",
+              "verb agrees with one",
+              "One of the students is..."
+            ],
+            [
+              "There be",
+              "agree with following real subject",
+              "There are two reasons."
+            ],
+            [
+              "插入介词短语",
+              "ignore the phrase",
+              "The quality of the products is..."
+            ]
+          ],
+          "text": "Situation | Rule | Example\nSingular subject | singular verb | The result shows...\nPlural subject | plural verb | The results show...\nA and B | usually plural | Tom and Mia are...\nEach / every / either / neither (单独作主语) | usually singular | Each has a role.\nOne of + plural noun | verb agrees with one | One of the students is...\nThere be | agree with following real subject | There are two reasons.\n插入介词短语 | ignore the phrase | The quality of the products is...",
+          "sourcePage": 108,
+          "sourceIndex": 2852
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "长主语：The number of students is increasing；A number of students are waiting。不要只看\nstudents。"
+            ]
+          ],
+          "text": " | 长主语：The number of students is increasing；A number of students are waiting。不要只看\nstudents。",
+          "sourcePage": 108,
+          "sourceIndex": 2853
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 108,
+    "endPage": 108
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "EN-9-6",
+  "code": "9.6",
+  "title": "Emotion & Action Bank 续写基础表达",
+  "subject_id": "english",
+  "chapter_id": "en-vocabulary",
+  "chapter": "词汇工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "9.6",
+    "Emotion & Action Bank 续写基础表达",
+    "词汇工具箱",
+    "Function",
+    "Safe",
+    "words",
+    "Looking",
+    "look",
+    "notice",
+    "see",
+    "watch",
+    "glance",
+    "Moving",
+    "walk",
+    "step",
+    "move",
+    "approach",
+    "run",
+    "rush",
+    "Hands",
+    "hold",
+    "pick",
+    "reach",
+    "for",
+    "hand",
+    "pull",
+    "push",
+    "Body",
+    "turn",
+    "stand",
+    "sit",
+    "shake",
+    "nod",
+    "pause",
+    "Voice",
+    "say",
+    "ask",
+    "reply",
+    "whisper",
+    "shout",
+    "Thinking",
+    "realize",
+    "remember",
+    "wonder",
+    "decide",
+    "Positive",
+    "emotion",
+    "relieved",
+    "grateful",
+    "delighted",
+    "proud",
+    "hopeful",
+    "Negative",
+    "worried",
+    "nervous",
+    "disappointed",
+    "embarrassed",
+    "frustrated"
+  ],
+  "brain_first": "按原文查阅 Emotion & Action Bank 续写基础表达",
+  "sort_order": 1098,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Function",
+          "Safe words"
+        ],
+        [
+          "Looking",
+          "look, notice, see, watch, glance"
+        ],
+        [
+          "Moving",
+          "walk, step, move, approach, run, rush"
+        ],
+        [
+          "Hands",
+          "hold, pick up, reach for, hand, pull, push"
+        ],
+        [
+          "Body",
+          "turn, stand, sit, shake, nod, pause"
+        ],
+        [
+          "Voice",
+          "say, ask, reply, whisper, shout"
+        ],
+        [
+          "Thinking",
+          "realize, remember, wonder, decide, notice"
+        ],
+        [
+          "Positive emotion",
+          "relieved, grateful, delighted, proud, hopeful"
+        ],
+        [
+          "Negative emotion",
+          "worried, nervous, disappointed, embarrassed, frustrated"
+        ]
+      ],
+      "text": "Function | Safe words\nLooking | look, notice, see, watch, glance\nMoving | walk, step, move, approach, run, rush\nHands | hold, pick up, reach for, hand, pull, push\nBody | turn, stand, sit, shake, nod, pause\nVoice | say, ask, reply, whisper, shout\nThinking | realize, remember, wonder, decide, notice\nPositive emotion | relieved, grateful, delighted, proud, hopeful\nNegative emotion | worried, nervous, disappointed, embarrassed, frustrated",
+      "sourcePage": 120,
+      "sourceIndex": 2975
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-9-6-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Function",
+              "Safe words"
+            ],
+            [
+              "Looking",
+              "look, notice, see, watch, glance"
+            ],
+            [
+              "Moving",
+              "walk, step, move, approach, run, rush"
+            ],
+            [
+              "Hands",
+              "hold, pick up, reach for, hand, pull, push"
+            ],
+            [
+              "Body",
+              "turn, stand, sit, shake, nod, pause"
+            ],
+            [
+              "Voice",
+              "say, ask, reply, whisper, shout"
+            ],
+            [
+              "Thinking",
+              "realize, remember, wonder, decide, notice"
+            ],
+            [
+              "Positive emotion",
+              "relieved, grateful, delighted, proud, hopeful"
+            ],
+            [
+              "Negative emotion",
+              "worried, nervous, disappointed, embarrassed, frustrated"
+            ]
+          ],
+          "text": "Function | Safe words\nLooking | look, notice, see, watch, glance\nMoving | walk, step, move, approach, run, rush\nHands | hold, pick up, reach for, hand, pull, push\nBody | turn, stand, sit, shake, nod, pause\nVoice | say, ask, reply, whisper, shout\nThinking | realize, remember, wonder, decide, notice\nPositive emotion | relieved, grateful, delighted, proud, hopeful\nNegative emotion | worried, nervous, disappointed, embarrassed, frustrated",
+          "sourcePage": 120,
+          "sourceIndex": 2975
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 120,
+    "endPage": 120
+  }
+}

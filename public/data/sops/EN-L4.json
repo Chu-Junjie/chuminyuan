@@ -1,0 +1,637 @@
+{
+  "id": "EN-L4",
+  "code": "L4",
+  "title": "行为、建议与下一步计划",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "L4",
+    "行为、建议与下一步计划",
+    "听力",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "What",
+    "will",
+    "next",
+    "does",
+    "the",
+    "woman",
+    "suggest",
+    "are",
+    "they",
+    "going",
+    "TERM",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "but",
+    "maybe",
+    "instead",
+    "why",
+    "don",
+    "you",
+    "then",
+    "old",
+    "new",
+    "drive",
+    "sleep",
+    "IF/THEN",
+    "suggested",
+    "rejected",
+    "plan",
+    "problem",
+    "That",
+    "sounds",
+    "good",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "planned",
+    "tonight",
+    "can",
+    "hardly",
+    "keep",
+    "eyes",
+    "open",
+    "You",
+    "better",
+    "get",
+    "some",
+    "first",
+    "right",
+    "sleep/rest",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "L-K",
+    "L-C",
+    "L-P",
+    "L-I",
+    "L-A",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "too",
+    "tired",
+    "take",
+    "train",
+    "Sunday",
+    "think",
+    "Let",
+    "new/final",
+    "Ctrl"
+  ],
+  "brain_first": "“先分清原计划、变化、最后决定；只认最后落地的动作。”",
+  "sort_order": 1007,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 11,
+      "sourceIndex": 308
+    },
+    {
+      "type": "paragraph",
+      "text": "What will X do next? / What does the woman",
+      "sourcePage": 11,
+      "sourceIndex": 309
+    },
+    {
+      "type": "paragraph",
+      "text": "suggest? / What are they going to do?",
+      "sourcePage": 11,
+      "sourceIndex": 310
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 11,
+      "sourceIndex": 311
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题高频利用“计划改变”制造干扰。",
+      "sourcePage": 11,
+      "sourceIndex": 312
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先分清原计划、变化、最后决定；只认最后落地的动作。”",
+      "sourcePage": 12,
+      "sourceIndex": 313
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 录音会把错误选项先说出来，然后用原因、建议或冲突让人物改变计划。",
+      "sourcePage": 12,
+      "sourceIndex": 314
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 12,
+      "sourceIndex": 315
+    },
+    {
+      "type": "paragraph",
+      "text": "1 题前看选项，圈三个不同动作。",
+      "sourcePage": 12,
+      "sourceIndex": 316
+    },
+    {
+      "type": "paragraph",
+      "text": "2 听到第一计划只做记号，不立即确定。",
+      "sourcePage": 12,
+      "sourceIndex": 317
+    },
+    {
+      "type": "paragraph",
+      "text": "3 重点听 but, maybe, instead, why don't you, I'll, then 后面的动作。",
+      "sourcePage": 12,
+      "sourceIndex": 318
+    },
+    {
+      "type": "paragraph",
+      "text": "4 最后问：哪个动作已经被接受/确认，而不是仅仅被提议？",
+      "sourcePage": 12,
+      "sourceIndex": 319
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计",
+      "sourcePage": 12,
+      "sourceIndex": 320
+    },
+    {
+      "type": "paragraph",
+      "text": "划写成“drive→sleep”；不要抄完整句。",
+      "sourcePage": 12,
+      "sourceIndex": 321
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 12,
+      "sourceIndex": 322
+    },
+    {
+      "type": "paragraph",
+      "text": "· suggested but rejected → 不选建议",
+      "sourcePage": 12,
+      "sourceIndex": 323
+    },
+    {
+      "type": "paragraph",
+      "text": "· old plan + problem + new plan → 选新计划",
+      "sourcePage": 12,
+      "sourceIndex": 324
+    },
+    {
+      "type": "paragraph",
+      "text": "· “I'll...” / “That sounds good.” → 高概率是最终决定",
+      "sourcePage": 12,
+      "sourceIndex": 325
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 双方已确认下一步，后面没有再次改变。",
+      "sourcePage": 12,
+      "sourceIndex": 326
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 若没听清动作本身，就利用原因倒推：例如“太困不能开车”通常导致休息/",
+      "sourcePage": 12,
+      "sourceIndex": 327
+    },
+    {
+      "type": "paragraph",
+      "text": "睡觉，而非继续驾驶。",
+      "sourcePage": 12,
+      "sourceIndex": 328
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 12,
+      "sourceIndex": 329
+    },
+    {
+      "type": "paragraph",
+      "text": "I planned to drive tonight, but I can hardly keep my eyes open. - You'd better get some sleep first.",
+      "sourcePage": 12,
+      "sourceIndex": 330
+    },
+    {
+      "type": "paragraph",
+      "text": "- You're right.",
+      "sourcePage": 12,
+      "sourceIndex": 331
+    },
+    {
+      "type": "paragraph",
+      "text": "最终行为：sleep/rest。",
+      "sourcePage": 12,
+      "sourceIndex": 332
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 12,
+      "sourceIndex": 333
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把“有人建议”误当成“对方接受”。",
+      "sourcePage": 12,
+      "sourceIndex": 334
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只记原计划。",
+      "sourcePage": 12,
+      "sourceIndex": 335
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 12,
+      "sourceIndex": 336
+    },
+    {
+      "type": "paragraph",
+      "text": "· 最后决定是谁说的？",
+      "sourcePage": 12,
+      "sourceIndex": 337
+    },
+    {
+      "type": "paragraph",
+      "text": "· 建议被接受了吗？",
+      "sourcePage": 12,
+      "sourceIndex": 338
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同",
+      "sourcePage": 13,
+      "sourceIndex": 339
+    },
+    {
+      "type": "paragraph",
+      "text": "义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+      "sourcePage": 13,
+      "sourceIndex": 340
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 13,
+      "sourceIndex": 341
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 计划题只认最后决定。",
+      "sourcePage": 13,
+      "sourceIndex": 342
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 13,
+      "sourceIndex": 344
+    },
+    {
+      "type": "paragraph",
+      "text": "1. “I planned to drive, but I’m too tired. I’ll take the train.”最后计划？",
+      "sourcePage": 13,
+      "sourceIndex": 345
+    },
+    {
+      "type": "paragraph",
+      "text": "2. A建议去周六，B说“Sunday works better.”最后若A说“OK.”答案？",
+      "sourcePage": 13,
+      "sourceIndex": 346
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 建议出现但对方说“I don’t think so.”是否选该建议？",
+      "sourcePage": 13,
+      "sourceIndex": 347
+    },
+    {
+      "type": "paragraph",
+      "text": "4. What will he do next? 应重点听哪类表达？",
+      "sourcePage": 13,
+      "sourceIndex": 348
+    },
+    {
+      "type": "paragraph",
+      "text": "5. old plan + problem + new plan，答案通常取哪一个？",
+      "sourcePage": 13,
+      "sourceIndex": 349
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. take the train；2. Sunday；3. 不选。；4. 最终确认动作，如 I’ll / Let’s / That sounds good.；5.",
+      "sourcePage": 13,
+      "sourceIndex": 350
+    },
+    {
+      "type": "paragraph",
+      "text": "new/final plan",
+      "sourcePage": 13,
+      "sourceIndex": 351
+    },
+    {
+      "type": "paragraph",
+      "text": "— L4 本题型到这里。下次卡住直接 Ctrl+F 搜“L4”或题型关键词。—",
+      "sourcePage": 13,
+      "sourceIndex": 352
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-L4-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What will X do next? / What does the woman suggest? / What are they going to do?",
+          "sourcePage": 11,
+          "sourceIndex": 309
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这类题高频利用“计划改变”制造干扰。",
+          "sourcePage": 11,
+          "sourceIndex": 312
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先分清原计划、变化、最后决定；只认最后落地的动作。”",
+          "sourcePage": 12,
+          "sourceIndex": 313
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "录音会把错误选项先说出来，然后用原因、建议或冲突让人物改变计划。",
+          "sourcePage": 12,
+          "sourceIndex": 314
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 题前看选项，圈三个不同动作。",
+          "sourcePage": 12,
+          "sourceIndex": 316
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 听到第一计划只做记号，不立即确定。",
+          "sourcePage": 12,
+          "sourceIndex": 317
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 重点听 but, maybe, instead, why don't you, I'll, then 后面的动作。",
+          "sourcePage": 12,
+          "sourceIndex": 318
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 最后问：哪个动作已经被接受/确认，而不是仅仅被提议？",
+          "sourcePage": 12,
+          "sourceIndex": 319
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计 划写成“drive→sleep”；不要抄完整句。",
+          "sourcePage": 12,
+          "sourceIndex": 320
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· suggested but rejected → 不选建议",
+          "sourcePage": 12,
+          "sourceIndex": 323
+        },
+        {
+          "type": "paragraph",
+          "text": "· old plan + problem + new plan → 选新计划",
+          "sourcePage": 12,
+          "sourceIndex": 324
+        },
+        {
+          "type": "paragraph",
+          "text": "· “I'll...” / “That sounds good.” → 高概率是最终决定",
+          "sourcePage": 12,
+          "sourceIndex": 325
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "双方已确认下一步，后面没有再次改变。",
+          "sourcePage": 12,
+          "sourceIndex": 326
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "若没听清动作本身，就利用原因倒推：例如“太困不能开车”通常导致休息/ 睡觉，而非继续驾驶。",
+          "sourcePage": 12,
+          "sourceIndex": 327
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I planned to drive tonight, but I can hardly keep my eyes open. - You'd better get some sleep first. - You're right. 最终行为：sleep/rest。",
+          "sourcePage": 12,
+          "sourceIndex": 330
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把“有人建议”误当成“对方接受”。",
+          "sourcePage": 12,
+          "sourceIndex": 334
+        },
+        {
+          "type": "paragraph",
+          "text": "· 只记原计划。",
+          "sourcePage": 12,
+          "sourceIndex": 335
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 最后决定是谁说的？",
+          "sourcePage": 12,
+          "sourceIndex": 337
+        },
+        {
+          "type": "paragraph",
+          "text": "· 建议被接受了吗？",
+          "sourcePage": 12,
+          "sourceIndex": 338
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同 义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+          "sourcePage": 13,
+          "sourceIndex": 339
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 13,
+          "sourceIndex": 341
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "计划题只认最后决定。",
+          "sourcePage": 13,
+          "sourceIndex": 342
+        }
+      ]
+    },
+    {
+      "id": "EN-L4-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. “I planned to drive, but I’m too tired. I’ll take the train.”最后计划？",
+          "sourcePage": 13,
+          "sourceIndex": 345
+        },
+        {
+          "type": "paragraph",
+          "text": "2. A建议去周六，B说“Sunday works better.”最后若A说“OK.”答案？",
+          "sourcePage": 13,
+          "sourceIndex": 346
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 建议出现但对方说“I don’t think so.”是否选该建议？",
+          "sourcePage": 13,
+          "sourceIndex": 347
+        },
+        {
+          "type": "paragraph",
+          "text": "4. What will he do next? 应重点听哪类表达？",
+          "sourcePage": 13,
+          "sourceIndex": 348
+        },
+        {
+          "type": "paragraph",
+          "text": "5. old plan + problem + new plan，答案通常取哪一个？",
+          "sourcePage": 13,
+          "sourceIndex": 349
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. take the train；2. Sunday；3. 不选。；4. 最终确认动作，如 I’ll / Let’s / That sounds good.；5. new/final plan",
+          "sourcePage": 13,
+          "sourceIndex": 350
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 11,
+    "endPage": 13
+  }
+}

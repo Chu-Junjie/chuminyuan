@@ -20,6 +20,9 @@ export type Block = {
   omml?: string[];
 };
 export type SopSummary = {
+  subject_id?: string;
+  kind?: "sop" | "resource";
+  source?: { file: string; startPage: number; endPage: number };
   id: string;
   code: string;
   title: string;

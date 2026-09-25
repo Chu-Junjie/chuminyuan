@@ -1,0 +1,598 @@
+{
+  "id": "EN-G5",
+  "code": "G5",
+  "title": "时间顺序、问答、举例关系",
+  "subject_id": "english",
+  "chapter_id": "en-gap",
+  "chapter": "七选五",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "G5",
+    "时间顺序、问答、举例关系",
+    "七选五",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "sequence",
+    "example",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "first/then/later/finally",
+    "example/for",
+    "instance",
+    "pronoun",
+    "contrast",
+    "cause",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "question",
+    "answer",
+    "general",
+    "statement",
+    "step",
+    "result",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "how",
+    "can",
+    "remember",
+    "names",
+    "better",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "finally",
+    "For",
+    "One",
+    "reason",
+    "Ctrl"
+  ],
+  "brain_first": "“看它是不是在回答前一句、解释前一句，或继续一个时间 链。”",
+  "sort_order": 1038,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 59,
+      "sourceIndex": 1650
+    },
+    {
+      "type": "paragraph",
+      "text": "材料含步骤、过程、问题-回答或概括-例子。",
+      "sourcePage": 59,
+      "sourceIndex": 1651
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 59,
+      "sourceIndex": 1652
+    },
+    {
+      "type": "paragraph",
+      "text": "常见语篇组织包括 sequence, Q&A, example。",
+      "sourcePage": 59,
+      "sourceIndex": 1653
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “看它是不是在回答前一句、解释前一句，或继续一个时间",
+      "sourcePage": 59,
+      "sourceIndex": 1654
+    },
+    {
+      "type": "paragraph",
+      "text": "链。”",
+      "sourcePage": 59,
+      "sourceIndex": 1655
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 这些关系尤其常见于说明文和建议类七选五。",
+      "sourcePage": 59,
+      "sourceIndex": 1656
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 59,
+      "sourceIndex": 1657
+    },
+    {
+      "type": "paragraph",
+      "text": "1 出现 first/then/later/finally → 检查顺序缺哪一步。",
+      "sourcePage": 59,
+      "sourceIndex": 1658
+    },
+    {
+      "type": "paragraph",
+      "text": "2 前一句是问句 → 候选优先找直接回答。",
+      "sourcePage": 59,
+      "sourceIndex": 1659
+    },
+    {
+      "type": "paragraph",
+      "text": "3 后一句有 example/for instance → 空位应提供可被举例的概括。",
+      "sourcePage": 59,
+      "sourceIndex": 1660
+    },
+    {
+      "type": "paragraph",
+      "text": "4 步骤文检查动作是否有前置条件。",
+      "sourcePage": 59,
+      "sourceIndex": 1661
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 60,
+      "sourceIndex": 1662
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 60,
+      "sourceIndex": 1663
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 60,
+      "sourceIndex": 1664
+    },
+    {
+      "type": "paragraph",
+      "text": "· question → answer",
+      "sourcePage": 60,
+      "sourceIndex": 1665
+    },
+    {
+      "type": "paragraph",
+      "text": "· general statement → example",
+      "sourcePage": 60,
+      "sourceIndex": 1666
+    },
+    {
+      "type": "paragraph",
+      "text": "· step 1 → step 2 → result",
+      "sourcePage": 60,
+      "sourceIndex": 1667
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 句子在时间/问答/例证链中的位置唯一合理。",
+      "sourcePage": 60,
+      "sourceIndex": 1668
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 若所有选项语义都通，画简单流程箭头，看哪个动作必须先发生。",
+      "sourcePage": 60,
+      "sourceIndex": 1669
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 60,
+      "sourceIndex": 1670
+    },
+    {
+      "type": "paragraph",
+      "text": "前句：So how can you remember names better? 空位应开始回答方法，而不是继续描述“忘名字很尴",
+      "sourcePage": 60,
+      "sourceIndex": 1671
+    },
+    {
+      "type": "paragraph",
+      "text": "尬”。",
+      "sourcePage": 60,
+      "sourceIndex": 1672
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 60,
+      "sourceIndex": 1673
+    },
+    {
+      "type": "paragraph",
+      "text": "· 问句后仍放另一个无关问题。",
+      "sourcePage": 60,
+      "sourceIndex": 1674
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把结果放到步骤前。",
+      "sourcePage": 60,
+      "sourceIndex": 1675
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 60,
+      "sourceIndex": 1676
+    },
+    {
+      "type": "paragraph",
+      "text": "· 它回答了吗？",
+      "sourcePage": 60,
+      "sourceIndex": 1677
+    },
+    {
+      "type": "paragraph",
+      "text": "· 顺序能执行吗？",
+      "sourcePage": 60,
+      "sourceIndex": 1678
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 60,
+      "sourceIndex": 1679
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 60,
+      "sourceIndex": 1680
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 60,
+      "sourceIndex": 1681
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 问句找回答，步骤看前后，例子先要概括。",
+      "sourcePage": 60,
+      "sourceIndex": 1682
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 60,
+      "sourceIndex": 1684
+    },
+    {
+      "type": "paragraph",
+      "text": "1. First... then... finally 属于？",
+      "sourcePage": 60,
+      "sourceIndex": 1685
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 空后“For example”说明空前可能？",
+      "sourcePage": 60,
+      "sourceIndex": 1686
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 前句是Why...? 空后最可能？",
+      "sourcePage": 60,
+      "sourceIndex": 1687
+    },
+    {
+      "type": "paragraph",
+      "text": "4. “One reason...”通常前面需要？",
+      "sourcePage": 60,
+      "sourceIndex": 1688
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 举例句能放在没有总述的段首吗？",
+      "sourcePage": 60,
+      "sourceIndex": 1689
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 时间/顺序；2. 一个总观点。；3. 回答/解释。；4. 问题/观点/原因主题。；5. 通常不自然，需看上下",
+      "sourcePage": 61,
+      "sourceIndex": 1690
+    },
+    {
+      "type": "paragraph",
+      "text": "文。",
+      "sourcePage": 61,
+      "sourceIndex": 1691
+    },
+    {
+      "type": "paragraph",
+      "text": "— G5 本题型到这里。下次卡住直接 Ctrl+F 搜“G5”或题型关键词。—",
+      "sourcePage": 61,
+      "sourceIndex": 1692
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-G5-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "材料含步骤、过程、问题-回答或概括-例子。",
+          "sourcePage": 59,
+          "sourceIndex": 1651
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "常见语篇组织包括 sequence, Q&A, example。",
+          "sourcePage": 59,
+          "sourceIndex": 1653
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“看它是不是在回答前一句、解释前一句，或继续一个时间 链。”",
+          "sourcePage": 59,
+          "sourceIndex": 1654
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这些关系尤其常见于说明文和建议类七选五。",
+          "sourcePage": 59,
+          "sourceIndex": 1656
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 出现 first/then/later/finally → 检查顺序缺哪一步。",
+          "sourcePage": 59,
+          "sourceIndex": 1658
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 前一句是问句 → 候选优先找直接回答。",
+          "sourcePage": 59,
+          "sourceIndex": 1659
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 后一句有 example/for instance → 空位应提供可被举例的概括。",
+          "sourcePage": 59,
+          "sourceIndex": 1660
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 步骤文检查动作是否有前置条件。",
+          "sourcePage": 59,
+          "sourceIndex": 1661
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 60,
+          "sourceIndex": 1662
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· question → answer",
+          "sourcePage": 60,
+          "sourceIndex": 1665
+        },
+        {
+          "type": "paragraph",
+          "text": "· general statement → example",
+          "sourcePage": 60,
+          "sourceIndex": 1666
+        },
+        {
+          "type": "paragraph",
+          "text": "· step 1 → step 2 → result",
+          "sourcePage": 60,
+          "sourceIndex": 1667
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "句子在时间/问答/例证链中的位置唯一合理。",
+          "sourcePage": 60,
+          "sourceIndex": 1668
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "若所有选项语义都通，画简单流程箭头，看哪个动作必须先发生。",
+          "sourcePage": 60,
+          "sourceIndex": 1669
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "前句：So how can you remember names better? 空位应开始回答方法，而不是继续描述“忘名字很尴 尬”。",
+          "sourcePage": 60,
+          "sourceIndex": 1671
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 问句后仍放另一个无关问题。",
+          "sourcePage": 60,
+          "sourceIndex": 1674
+        },
+        {
+          "type": "paragraph",
+          "text": "· 把结果放到步骤前。",
+          "sourcePage": 60,
+          "sourceIndex": 1675
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 它回答了吗？",
+          "sourcePage": 60,
+          "sourceIndex": 1677
+        },
+        {
+          "type": "paragraph",
+          "text": "· 顺序能执行吗？",
+          "sourcePage": 60,
+          "sourceIndex": 1678
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 60,
+          "sourceIndex": 1679
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 60,
+          "sourceIndex": 1681
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "问句找回答，步骤看前后，例子先要概括。",
+          "sourcePage": 60,
+          "sourceIndex": 1682
+        }
+      ]
+    },
+    {
+      "id": "EN-G5-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. First... then... finally 属于？",
+          "sourcePage": 60,
+          "sourceIndex": 1685
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 空后“For example”说明空前可能？",
+          "sourcePage": 60,
+          "sourceIndex": 1686
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 前句是Why...? 空后最可能？",
+          "sourcePage": 60,
+          "sourceIndex": 1687
+        },
+        {
+          "type": "paragraph",
+          "text": "4. “One reason...”通常前面需要？",
+          "sourcePage": 60,
+          "sourceIndex": 1688
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 举例句能放在没有总述的段首吗？",
+          "sourcePage": 60,
+          "sourceIndex": 1689
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 时间/顺序；2. 一个总观点。；3. 回答/解释。；4. 问题/观点/原因主题。；5. 通常不自然，需看上下 文。",
+          "sourcePage": 61,
+          "sourceIndex": 1690
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 59,
+    "endPage": 61
+  }
+}

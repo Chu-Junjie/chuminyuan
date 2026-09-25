@@ -1,0 +1,648 @@
+{
+  "id": "EN-L0",
+  "code": "L0",
+  "title": "听力解码：单词认识但耳朵听不出来",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "L0",
+    "听力解码：单词认识但耳朵听不出来",
+    "听力",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "transcript",
+    "want",
+    "did",
+    "you",
+    "next",
+    "day",
+    "could",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Connected",
+    "speech",
+    "stress",
+    "intonation",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "not",
+    "never",
+    "hardly",
+    "but",
+    "actually",
+    "teen",
+    "fifteen",
+    "fifty",
+    "thirteen",
+    "thirty",
+    "Really",
+    "old",
+    "new",
+    "drive",
+    "sleep",
+    "IF/THEN",
+    "then",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "Could",
+    "send",
+    "again",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "L-K",
+    "L-C",
+    "L-P",
+    "L-I",
+    "L-A",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Did",
+    "eat",
+    "yet",
+    "a/to/of",
+    "Ctrl"
+  ],
+  "brain_first": "“别逐词等“标准发音”；先听重读词、数字、否定和转折。”",
+  "sort_order": 1003,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 5,
+      "sourceIndex": 110
+    },
+    {
+      "type": "paragraph",
+      "text": "你看得懂 transcript，但录音里 want to / did",
+      "sourcePage": 5,
+      "sourceIndex": 111
+    },
+    {
+      "type": "paragraph",
+      "text": "you / next day / could you 连在一起就反应不过",
+      "sourcePage": 5,
+      "sourceIndex": 112
+    },
+    {
+      "type": "paragraph",
+      "text": "来；或态度题总听不出语气。",
+      "sourcePage": 5,
+      "sourceIndex": 113
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 5,
+      "sourceIndex": 114
+    },
+    {
+      "type": "paragraph",
+      "text": "Connected speech / stress / intonation：真实语",
+      "sourcePage": 5,
+      "sourceIndex": 115
+    },
+    {
+      "type": "paragraph",
+      "text": "流会出现连读、弱读、失去爆破、重音与语调变",
+      "sourcePage": 5,
+      "sourceIndex": 116
+    },
+    {
+      "type": "paragraph",
+      "text": "化。高考不要求你标音标理论，但会利用这些现象",
+      "sourcePage": 5,
+      "sourceIndex": 117
+    },
+    {
+      "type": "paragraph",
+      "text": "传递信息。",
+      "sourcePage": 5,
+      "sourceIndex": 118
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “别逐词等“标准发音”；先听重读词、数字、否定和转折。”",
+      "sourcePage": 5,
+      "sourceIndex": 119
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 英语口语不是把字典里的单词一个个分开念。掌握最常见的语流变化，能直接减少",
+      "sourcePage": 5,
+      "sourceIndex": 120
+    },
+    {
+      "type": "paragraph",
+      "text": "“单词明明认识却没听见”的失分。",
+      "sourcePage": 5,
+      "sourceIndex": 121
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 5,
+      "sourceIndex": 122
+    },
+    {
+      "type": "paragraph",
+      "text": "6. 1 先把题干决定的关键词类型想清楚：数字 / 行为 / 态度 / 原因。",
+      "sourcePage": 5,
+      "sourceIndex": 123
+    },
+    {
+      "type": "paragraph",
+      "text": "7. 2 录音中优先抓重读实词：名词、主要动词、形容词、数字；弱读的冠词/介词没听全不影响先抓主干。",
+      "sourcePage": 5,
+      "sourceIndex": 124
+    },
+    {
+      "type": "paragraph",
+      "text": "8. 3 遇到 not, never, hardly, but, actually 等改变方向的词，立刻更新判断。",
+      "sourcePage": 5,
+      "sourceIndex": 125
+    },
+    {
+      "type": "paragraph",
+      "text": "9. 4 数字和时间注意 -teen / -ty, fifteen / fifty, thirteen / thirty 的区别；结合单位和上下文确认。",
+      "sourcePage": 5,
+      "sourceIndex": 126
+    },
+    {
+      "type": "paragraph",
+      "text": "10. 5 态度题同时听词义和语调：同一句 Really? 上扬可能是追问，下落可能是确认/质疑，最终以完整上下文为",
+      "sourcePage": 5,
+      "sourceIndex": 127
+    },
+    {
+      "type": "paragraph",
+      "text": "准。",
+      "sourcePage": 5,
+      "sourceIndex": 128
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计",
+      "sourcePage": 5,
+      "sourceIndex": 129
+    },
+    {
+      "type": "paragraph",
+      "text": "划写成“drive→sleep”；不要抄完整句。",
+      "sourcePage": 5,
+      "sourceIndex": 130
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 5,
+      "sourceIndex": 131
+    },
+    {
+      "type": "paragraph",
+      "text": "· If 两个词中间前词以辅音结尾、后词以元音开头 → 可能连读，别强求边界。",
+      "sourcePage": 5,
+      "sourceIndex": 132
+    },
+    {
+      "type": "paragraph",
+      "text": "· If 一个爆破音后面又跟辅音 → 前一个可能“没完全爆出来”，不要误以为单词消失。",
+      "sourcePage": 5,
+      "sourceIndex": 133
+    },
+    {
+      "type": "paragraph",
+      "text": "· If 功能词听得很轻 → 先抓重读内容词，再用语法补关系。",
+      "sourcePage": 5,
+      "sourceIndex": 134
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 你已经抓住题目真正需要的核心信息，并且后文没有转折修正。",
+      "sourcePage": 6,
+      "sourceIndex": 135
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 不要试图把整段录音在脑中逐字回放。只复盘：重读词是什么？有没有否定/",
+      "sourcePage": 6,
+      "sourceIndex": 136
+    },
+    {
+      "type": "paragraph",
+      "text": "转折？最后决定是什么？",
+      "sourcePage": 6,
+      "sourceIndex": 137
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 6,
+      "sourceIndex": 138
+    },
+    {
+      "type": "paragraph",
+      "text": "Could you send it again? 在自然语流里不会四个词都同样清楚。即使 could you 听得弱，只要抓到",
+      "sourcePage": 6,
+      "sourceIndex": 139
+    },
+    {
+      "type": "paragraph",
+      "text": "send / again，结合题干仍可判断“请求重发”。",
+      "sourcePage": 6,
+      "sourceIndex": 140
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 6,
+      "sourceIndex": 141
+    },
+    {
+      "type": "paragraph",
+      "text": "把“没听清某个小词”误判成整题不会；只听原词，不接受同义改写；忽略否定词和重音造成的意思变化。",
+      "sourcePage": 6,
+      "sourceIndex": 142
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 6,
+      "sourceIndex": 143
+    },
+    {
+      "type": "paragraph",
+      "text": "我是否抓到了重读核心词？否定/转折有没有漏？数字单位是否匹配？",
+      "sourcePage": 6,
+      "sourceIndex": 144
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同",
+      "sourcePage": 6,
+      "sourceIndex": 145
+    },
+    {
+      "type": "paragraph",
+      "text": "义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+      "sourcePage": 6,
+      "sourceIndex": 146
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 6,
+      "sourceIndex": 147
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 先抓重读词和方向词；小词听不全，不等于整句听不懂。",
+      "sourcePage": 6,
+      "sourceIndex": 148
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 6,
+      "sourceIndex": 150
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 听到“Did you eat yet?”时，不能清楚分开每个词。第一步应该做什么？",
+      "sourcePage": 6,
+      "sourceIndex": 151
+    },
+    {
+      "type": "paragraph",
+      "text": "2. “fifteen”与“fifty”纠结时还可以用什么确认？",
+      "sourcePage": 6,
+      "sourceIndex": 152
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 听到 but 后最重要的动作是什么？",
+      "sourcePage": 6,
+      "sourceIndex": 153
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 功能词 a/to/of 听得很弱，是否必须全部听清才能做题？",
+      "sourcePage": 6,
+      "sourceIndex": 154
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 态度题只凭语调能不能定答案？",
+      "sourcePage": 6,
+      "sourceIndex": 155
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 抓重读内容词 eat / yet 和题干需求，不强求逐词边界。；2. 单位、上下文和重音/尾音共同确认。；3.",
+      "sourcePage": 6,
+      "sourceIndex": 156
+    },
+    {
+      "type": "paragraph",
+      "text": "更新前面的判断，重新记录转折后信息。；4. 不一定；先抓重读实词和逻辑方向。；5. 不能；语调+评价词+上下文",
+      "sourcePage": 6,
+      "sourceIndex": 157
+    },
+    {
+      "type": "paragraph",
+      "text": "一起判断。",
+      "sourcePage": 6,
+      "sourceIndex": 158
+    },
+    {
+      "type": "paragraph",
+      "text": "— L0 本题型到这里。下次卡住直接 Ctrl+F 搜“L0”或题型关键词。—",
+      "sourcePage": 6,
+      "sourceIndex": 159
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-L0-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "你看得懂 transcript，但录音里 want to / did you / next day / could you 连在一起就反应不过 来；或态度题总听不出语气。",
+          "sourcePage": 5,
+          "sourceIndex": 111
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Connected speech / stress / intonation：真实语 流会出现连读、弱读、失去爆破、重音与语调变 化。高考不要求你标音标理论，但会利用这些现象 传递信息。",
+          "sourcePage": 5,
+          "sourceIndex": 115
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“别逐词等“标准发音”；先听重读词、数字、否定和转折。”",
+          "sourcePage": 5,
+          "sourceIndex": 119
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "英语口语不是把字典里的单词一个个分开念。掌握最常见的语流变化，能直接减少 “单词明明认识却没听见”的失分。",
+          "sourcePage": 5,
+          "sourceIndex": 120
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先把题干决定的关键词类型想清楚：数字 / 行为 / 态度 / 原因。",
+          "sourcePage": 5,
+          "sourceIndex": 123
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 录音中优先抓重读实词：名词、主要动词、形容词、数字；弱读的冠词/介词没听全不影响先抓主干。",
+          "sourcePage": 5,
+          "sourceIndex": 124
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 遇到 not, never, hardly, but, actually 等改变方向的词，立刻更新判断。",
+          "sourcePage": 5,
+          "sourceIndex": 125
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 数字和时间注意 -teen / -ty, fifteen / fifty, thirteen / thirty 的区别；结合单位和上下文确认。",
+          "sourcePage": 5,
+          "sourceIndex": 126
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 态度题同时听词义和语调：同一句 Really? 上扬可能是追问，下落可能是确认/质疑，最终以完整上下文为 准。",
+          "sourcePage": 5,
+          "sourceIndex": 127
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计 划写成“drive→sleep”；不要抄完整句。",
+          "sourcePage": 5,
+          "sourceIndex": 129
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· If 两个词中间前词以辅音结尾、后词以元音开头 → 可能连读，别强求边界。",
+          "sourcePage": 5,
+          "sourceIndex": 132
+        },
+        {
+          "type": "paragraph",
+          "text": "· If 一个爆破音后面又跟辅音 → 前一个可能“没完全爆出来”，不要误以为单词消失。",
+          "sourcePage": 5,
+          "sourceIndex": 133
+        },
+        {
+          "type": "paragraph",
+          "text": "· If 功能词听得很轻 → 先抓重读内容词，再用语法补关系。",
+          "sourcePage": 5,
+          "sourceIndex": 134
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "你已经抓住题目真正需要的核心信息，并且后文没有转折修正。",
+          "sourcePage": 6,
+          "sourceIndex": 135
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "不要试图把整段录音在脑中逐字回放。只复盘：重读词是什么？有没有否定/ 转折？最后决定是什么？",
+          "sourcePage": 6,
+          "sourceIndex": 136
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Could you send it again? 在自然语流里不会四个词都同样清楚。即使 could you 听得弱，只要抓到 send / again，结合题干仍可判断“请求重发”。",
+          "sourcePage": 6,
+          "sourceIndex": 139
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "把“没听清某个小词”误判成整题不会；只听原词，不接受同义改写；忽略否定词和重音造成的意思变化。",
+          "sourcePage": 6,
+          "sourceIndex": 142
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "我是否抓到了重读核心词？否定/转折有没有漏？数字单位是否匹配？",
+          "sourcePage": 6,
+          "sourceIndex": 144
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同 义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+          "sourcePage": 6,
+          "sourceIndex": 145
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 6,
+          "sourceIndex": 147
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "先抓重读词和方向词；小词听不全，不等于整句听不懂。",
+          "sourcePage": 6,
+          "sourceIndex": 148
+        }
+      ]
+    },
+    {
+      "id": "EN-L0-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 听到“Did you eat yet?”时，不能清楚分开每个词。第一步应该做什么？",
+          "sourcePage": 6,
+          "sourceIndex": 151
+        },
+        {
+          "type": "paragraph",
+          "text": "2. “fifteen”与“fifty”纠结时还可以用什么确认？",
+          "sourcePage": 6,
+          "sourceIndex": 152
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 听到 but 后最重要的动作是什么？",
+          "sourcePage": 6,
+          "sourceIndex": 153
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 功能词 a/to/of 听得很弱，是否必须全部听清才能做题？",
+          "sourcePage": 6,
+          "sourceIndex": 154
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 态度题只凭语调能不能定答案？",
+          "sourcePage": 6,
+          "sourceIndex": 155
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 抓重读内容词 eat / yet 和题干需求，不强求逐词边界。；2. 单位、上下文和重音/尾音共同确认。；3. 更新前面的判断，重新记录转折后信息。；4. 不一定；先抓重读实词和逻辑方向。；5. 不能；语调+评价词+上下文 一起判断。",
+          "sourcePage": 6,
+          "sourceIndex": 156
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 5,
+    "endPage": 6
+  }
+}

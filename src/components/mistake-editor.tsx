@@ -5,7 +5,13 @@ import { useRouter } from "next/navigation";
 import { useRecords, useStore } from "./provider";
 import { useData, Loading, PageTitle, Markdown } from "./ui";
 import { ImageUploader, PrivateImage, imageKinds } from "./images";
-import { subjects, errorTags, statusLabels } from "@/lib/catalog";
+import {
+  subjects,
+  errorTags,
+  statusLabels,
+  sopSubject,
+  englishErrorTags,
+} from "@/lib/catalog";
 import type { Mistake, SopSummary, Chapter, MistakeStatus } from "@/lib/types";
 export function MistakeEditor({ id }: { id?: string }) {
   const router = useRouter();
@@ -28,7 +34,7 @@ export function MistakeEditor({ id }: { id?: string }) {
       setDraft({
         id: crypto.randomUUID(),
         title: "",
-        subject: sop ? "math" : params.get("subject") || "math",
+        subject: sop ? sopSubject(sop) : params.get("subject") || "math",
         chapter: sop?.chapter_id || "",
         sopId: sop?.id || "",
         source: "学校作业",
@@ -240,16 +246,17 @@ export function MistakeEditor({ id }: { id?: string }) {
                 }}
               >
                 <option value="">先不关联</option>
-                {draft.subject === "math" &&
-                  sops
-                    ?.filter(
-                      (s) => !draft.chapter || s.chapter_id === draft.chapter,
-                    )
-                    .map((s) => (
-                      <option key={s.id} value={s.id}>
-                        {s.code}｜{s.title}
-                      </option>
-                    ))}
+                {sops
+                  ?.filter(
+                    (s) =>
+                      sopSubject(s) === draft.subject &&
+                      (!draft.chapter || s.chapter_id === draft.chapter),
+                  )
+                  .map((s) => (
+                    <option key={s.id} value={s.id}>
+                      {s.code}｜{s.title}
+                    </option>
+                  ))}
               </select>
             </label>
             {draft.sopId && (
@@ -280,7 +287,13 @@ export function MistakeEditor({ id }: { id?: string }) {
           <section className="panel">
             <h2>这次的小障碍</h2>
             <div className="tag-options">
-              {errorTags.map((tag) => (
+              {[
+                ...new Set([
+                  ...(draft.subject === "english" ? englishErrorTags : []),
+                  ...errorTags,
+                  ...draft.tags,
+                ]),
+              ].map((tag) => (
                 <label key={tag}>
                   <input
                     type="checkbox"

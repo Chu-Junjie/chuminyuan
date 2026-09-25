@@ -1,0 +1,626 @@
+{
+  "id": "EN-L6",
+  "code": "L6",
+  "title": "态度与情绪题",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "L6",
+    "态度与情绪题",
+    "听力",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "does",
+    "feel",
+    "What",
+    "attitude",
+    "toward",
+    "TERM",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "disappointed",
+    "expected",
+    "much",
+    "better",
+    "STEPS",
+    "Follow",
+    "route",
+    "great",
+    "worth",
+    "disappointing",
+    "worried",
+    "relieved",
+    "old",
+    "new",
+    "drive",
+    "sleep",
+    "IF/THEN",
+    "then",
+    "least",
+    "can",
+    "believe",
+    "That",
+    "relief",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "concerned",
+    "angry",
+    "surprised",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "The",
+    "hotel",
+    "room",
+    "was",
+    "smaller",
+    "than",
+    "photos",
+    "suggested",
+    "but",
+    "staff",
+    "were",
+    "wonderful",
+    "positive/satisfied",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "L-K",
+    "L-C",
+    "L-P",
+    "L-I",
+    "L-A",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "small",
+    "furious",
+    "Ctrl"
+  ],
+  "brain_first": "“不要只听情绪词，听语气 + 评价词 + 行为反应。”",
+  "sort_order": 1009,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 15,
+      "sourceIndex": 403
+    },
+    {
+      "type": "paragraph",
+      "text": "How does X feel? / What is X's attitude",
+      "sourcePage": 15,
+      "sourceIndex": 404
+    },
+    {
+      "type": "paragraph",
+      "text": "toward...?",
+      "sourcePage": 15,
+      "sourceIndex": 405
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 15,
+      "sourceIndex": 406
+    },
+    {
+      "type": "paragraph",
+      "text": "态度是对某件事的评价方向；情绪是人物当时的心",
+      "sourcePage": 15,
+      "sourceIndex": 407
+    },
+    {
+      "type": "paragraph",
+      "text": "理状态。",
+      "sourcePage": 15,
+      "sourceIndex": 408
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “不要只听情绪词，听语气 + 评价词 + 行为反应。”",
+      "sourcePage": 15,
+      "sourceIndex": 409
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 人物常不会直接说 I am disappointed，而会说 I expected much better。",
+      "sourcePage": 15,
+      "sourceIndex": 410
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 15,
+      "sourceIndex": 411
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先把选项情绪方向标成正/负/中性。",
+      "sourcePage": 15,
+      "sourceIndex": 412
+    },
+    {
+      "type": "paragraph",
+      "text": "2 听评价词：great, worth, disappointing, worried, relieved 等。",
+      "sourcePage": 15,
+      "sourceIndex": 413
+    },
+    {
+      "type": "paragraph",
+      "text": "3 听行为反应：拒绝、赞同、感谢、抱怨、犹豫。",
+      "sourcePage": 15,
+      "sourceIndex": 414
+    },
+    {
+      "type": "paragraph",
+      "text": "4 如果语气和词义冲突，以完整语境为准。",
+      "sourcePage": 15,
+      "sourceIndex": 415
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计",
+      "sourcePage": 15,
+      "sourceIndex": 416
+    },
+    {
+      "type": "paragraph",
+      "text": "划写成“drive→sleep”；不要抄完整句。",
+      "sourcePage": 15,
+      "sourceIndex": 417
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 15,
+      "sourceIndex": 418
+    },
+    {
+      "type": "paragraph",
+      "text": "· “At least...” 常表示勉强接受/安慰",
+      "sourcePage": 15,
+      "sourceIndex": 419
+    },
+    {
+      "type": "paragraph",
+      "text": "· “I can't believe...” 可能惊讶，需看后文是好是坏",
+      "sourcePage": 15,
+      "sourceIndex": 420
+    },
+    {
+      "type": "paragraph",
+      "text": "· “That's a relief.” → relieved",
+      "sourcePage": 15,
+      "sourceIndex": 421
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 评价方向和人物反应都指向同一情绪。",
+      "sourcePage": 15,
+      "sourceIndex": 422
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 两个词都像时，比较强度：concerned < angry；surprised 不等于",
+      "sourcePage": 15,
+      "sourceIndex": 423
+    },
+    {
+      "type": "paragraph",
+      "text": "disappointed。",
+      "sourcePage": 15,
+      "sourceIndex": 424
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 16,
+      "sourceIndex": 425
+    },
+    {
+      "type": "paragraph",
+      "text": "The hotel room was smaller than the photos suggested, but the staff were wonderful.",
+      "sourcePage": 16,
+      "sourceIndex": 426
+    },
+    {
+      "type": "paragraph",
+      "text": "若问对“staff”的态度：positive/satisfied；别被前半句房间负面信息带跑。",
+      "sourcePage": 16,
+      "sourceIndex": 427
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 16,
+      "sourceIndex": 428
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把说话人对A的态度套到B。",
+      "sourcePage": 16,
+      "sourceIndex": 429
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只因一个负面词就选最强负面情绪。",
+      "sourcePage": 16,
+      "sourceIndex": 430
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 16,
+      "sourceIndex": 431
+    },
+    {
+      "type": "paragraph",
+      "text": "· 题目问的是哪个对象？",
+      "sourcePage": 16,
+      "sourceIndex": 432
+    },
+    {
+      "type": "paragraph",
+      "text": "· 情绪强度合适吗？",
+      "sourcePage": 16,
+      "sourceIndex": 433
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同",
+      "sourcePage": 16,
+      "sourceIndex": 434
+    },
+    {
+      "type": "paragraph",
+      "text": "义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+      "sourcePage": 16,
+      "sourceIndex": 435
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 16,
+      "sourceIndex": 436
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 情绪看对象、方向和强度。",
+      "sourcePage": 16,
+      "sourceIndex": 437
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 16,
+      "sourceIndex": 439
+    },
+    {
+      "type": "paragraph",
+      "text": "1. “That’s a relief.”情绪？",
+      "sourcePage": 16,
+      "sourceIndex": 440
+    },
+    {
+      "type": "paragraph",
+      "text": "2. “I expected much better.”更可能？",
+      "sourcePage": 16,
+      "sourceIndex": 441
+    },
+    {
+      "type": "paragraph",
+      "text": "3. “The room was small, but the staff were wonderful.”问对staff态度？",
+      "sourcePage": 16,
+      "sourceIndex": 442
+    },
+    {
+      "type": "paragraph",
+      "text": "4. concerned 与 furious 哪个强度更弱？",
+      "sourcePage": 16,
+      "sourceIndex": 443
+    },
+    {
+      "type": "paragraph",
+      "text": "5. “I can’t believe it!”能否单独判断正负？",
+      "sourcePage": 16,
+      "sourceIndex": 444
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. relieved；2. disappointed；3. positive/satisfied；4. concerned；5. 不能，看后文。",
+      "sourcePage": 16,
+      "sourceIndex": 445
+    },
+    {
+      "type": "paragraph",
+      "text": "— L6 本题型到这里。下次卡住直接 Ctrl+F 搜“L6”或题型关键词。—",
+      "sourcePage": 16,
+      "sourceIndex": 446
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-L6-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "How does X feel? / What is X's attitude toward...?",
+          "sourcePage": 15,
+          "sourceIndex": 404
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "态度是对某件事的评价方向；情绪是人物当时的心 理状态。",
+          "sourcePage": 15,
+          "sourceIndex": 407
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“不要只听情绪词，听语气 + 评价词 + 行为反应。”",
+          "sourcePage": 15,
+          "sourceIndex": 409
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "人物常不会直接说 I am disappointed，而会说 I expected much better。",
+          "sourcePage": 15,
+          "sourceIndex": 410
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先把选项情绪方向标成正/负/中性。",
+          "sourcePage": 15,
+          "sourceIndex": 412
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 听评价词：great, worth, disappointing, worried, relieved 等。",
+          "sourcePage": 15,
+          "sourceIndex": 413
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 听行为反应：拒绝、赞同、感谢、抱怨、犹豫。",
+          "sourcePage": 15,
+          "sourceIndex": 414
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 如果语气和词义冲突，以完整语境为准。",
+          "sourcePage": 15,
+          "sourceIndex": 415
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计 划写成“drive→sleep”；不要抄完整句。",
+          "sourcePage": 15,
+          "sourceIndex": 416
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· “At least...” 常表示勉强接受/安慰",
+          "sourcePage": 15,
+          "sourceIndex": 419
+        },
+        {
+          "type": "paragraph",
+          "text": "· “I can't believe...” 可能惊讶，需看后文是好是坏",
+          "sourcePage": 15,
+          "sourceIndex": 420
+        },
+        {
+          "type": "paragraph",
+          "text": "· “That's a relief.” → relieved",
+          "sourcePage": 15,
+          "sourceIndex": 421
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "评价方向和人物反应都指向同一情绪。",
+          "sourcePage": 15,
+          "sourceIndex": 422
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "两个词都像时，比较强度：concerned < angry；surprised 不等于 disappointed。",
+          "sourcePage": 15,
+          "sourceIndex": 423
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The hotel room was smaller than the photos suggested, but the staff were wonderful. 若问对“staff”的态度：positive/satisfied；别被前半句房间负面信息带跑。",
+          "sourcePage": 16,
+          "sourceIndex": 426
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把说话人对A的态度套到B。",
+          "sourcePage": 16,
+          "sourceIndex": 429
+        },
+        {
+          "type": "paragraph",
+          "text": "· 只因一个负面词就选最强负面情绪。",
+          "sourcePage": 16,
+          "sourceIndex": 430
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 题目问的是哪个对象？",
+          "sourcePage": 16,
+          "sourceIndex": 432
+        },
+        {
+          "type": "paragraph",
+          "text": "· 情绪强度合适吗？",
+          "sourcePage": 16,
+          "sourceIndex": 433
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同 义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+          "sourcePage": 16,
+          "sourceIndex": 434
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 16,
+          "sourceIndex": 436
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "情绪看对象、方向和强度。",
+          "sourcePage": 16,
+          "sourceIndex": 437
+        }
+      ]
+    },
+    {
+      "id": "EN-L6-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. “That’s a relief.”情绪？",
+          "sourcePage": 16,
+          "sourceIndex": 440
+        },
+        {
+          "type": "paragraph",
+          "text": "2. “I expected much better.”更可能？",
+          "sourcePage": 16,
+          "sourceIndex": 441
+        },
+        {
+          "type": "paragraph",
+          "text": "3. “The room was small, but the staff were wonderful.”问对staff态度？",
+          "sourcePage": 16,
+          "sourceIndex": 442
+        },
+        {
+          "type": "paragraph",
+          "text": "4. concerned 与 furious 哪个强度更弱？",
+          "sourcePage": 16,
+          "sourceIndex": 443
+        },
+        {
+          "type": "paragraph",
+          "text": "5. “I can’t believe it!”能否单独判断正负？",
+          "sourcePage": 16,
+          "sourceIndex": 444
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. relieved；2. disappointed；3. positive/satisfied；4. concerned；5. 不能，看后文。",
+          "sourcePage": 16,
+          "sourceIndex": 445
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 15,
+    "endPage": 16
+  }
+}

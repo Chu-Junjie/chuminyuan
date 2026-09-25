@@ -1,0 +1,87 @@
+export const englishRescue = [
+  {
+    name: "听力没跟上",
+    choices: [
+      ["单词认识却听不出", "L0"],
+      ["时间价格听混了", "L1"],
+      ["听到了 but / actually", "L10"],
+      ["不是原词，是换一种说法", "L9"],
+    ],
+  },
+  {
+    name: "阅读选项都像对的",
+    choices: [
+      ["infer / imply / suggest", "R6"],
+      ["main idea / mainly about", "R10"],
+      ["Why does the author mention", "R5"],
+      ["NOT / EXCEPT", "R16"],
+      ["排除干扰项", "R17"],
+      ["chart / timetable / map", "R18"],
+    ],
+  },
+  {
+    name: "七选五不知道放哪句",
+    choices: [
+      ["先看空在段首还是段尾", "G1"],
+      ["this / they 指什么", "G2"],
+      ["前后是转折还是因果", "G3"],
+      ["两个多余选项排不掉", "G6"],
+    ],
+  },
+  {
+    name: "完形两个词都认识",
+    choices: [
+      ["谁做什么", "C1"],
+      ["固定搭配", "C5"],
+      ["上下文复现", "C6"],
+      ["情绪和故事走向", "C7"],
+    ],
+  },
+  {
+    name: "语法填空无从下手",
+    choices: [
+      ["给词还是不给词", "GF1"],
+      ["动词：谓语还是非谓语", "GF2"],
+      ["than / the most", "GF4"],
+      ["a / an / the", "GF7"],
+      ["where / which / what / that", "GF9"],
+    ],
+  },
+  {
+    name: "作文和续写写不出",
+    choices: [
+      ["write an email / invite / advise", "PW1"],
+      ["两段首句不知道怎么接", "CW1"],
+      ["动作链写不清楚", "CW2"],
+      ["只会写 very happy", "CW3"],
+      ["第二段如何收束", "CW5"],
+    ],
+  },
+];
+export const englishQueryAliases: Record<string, string[]> = {
+  infer: ["R6"],
+  imply: ["R6"],
+  suggest: ["R6"],
+  conclude: ["R6"],
+  "main idea": ["R10"],
+  "mainly about": ["R10"],
+  "best title": ["R11"],
+  "according to": ["R1", "R2", "R3"],
+  "refer to": ["R9"],
+  underlined: ["R8", "R9"],
+  mention: ["R5"],
+  except: ["R16"],
+  incorrect: ["R16"],
+  长难句: ["8.1B"],
+  谓语: ["GF2", "8.1"],
+  where: ["GF9", "8.8"],
+  what: ["GF9", "8.9"],
+  than: ["GF4", "8.14"],
+  invite: ["PW1", "PW-TASKS"],
+  email: ["PW1", "PW-TASKS"],
+  "paragraph 1": ["CW1"],
+  不会结尾: ["CW5"],
+  听不懂: ["L0"],
+  两个选项: ["R17"],
+  熟词生义: ["9.4"],
+};

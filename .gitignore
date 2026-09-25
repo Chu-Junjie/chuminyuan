@@ -9,3 +9,5 @@ playwright-report/
 source/*.docx
 __pycache__/
 *.pyc
+
+tmp/

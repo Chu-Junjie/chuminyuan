@@ -1,0 +1,222 @@
+{
+  "id": "EN-8-1",
+  "code": "8.1",
+  "title": "Sentence Skeleton 句子主干",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.1",
+    "Sentence Skeleton 句子主干",
+    "语法工具箱",
+    "subject",
+    "predicate",
+    "Pattern",
+    "Plain",
+    "meaning",
+    "Example",
+    "Birds",
+    "fly",
+    "She",
+    "opened",
+    "the",
+    "window",
+    "The",
+    "room",
+    "became",
+    "quiet",
+    "gave",
+    "book",
+    "news",
+    "made",
+    "happy",
+    "works",
+    "worked",
+    "working",
+    "has",
+    "finished",
+    "was",
+    "built",
+    "doing",
+    "done"
+  ],
+  "brain_first": "按原文查阅 Sentence Skeleton 句子主干",
+  "sort_order": 1070,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "最重要的句法问题：谁/什么（subject） + 做什么/是什么（predicate）？其余信息先暂时放旁边。"
+        ]
+      ],
+      "text": " | 最重要的句法问题：谁/什么（subject） + 做什么/是什么（predicate）？其余信息先暂时放旁边。",
+      "sourcePage": 105,
+      "sourceIndex": 2811
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Pattern",
+          "Plain meaning",
+          "Example"
+        ],
+        [
+          "S + V",
+          "谁做动作",
+          "Birds fly."
+        ],
+        [
+          "S + V + O",
+          "谁对什么做动作",
+          "She opened the window."
+        ],
+        [
+          "S + V + C",
+          "谁处于什么状态",
+          "The room became quiet."
+        ],
+        [
+          "S + V + O + O",
+          "给谁什么",
+          "He gave me a book."
+        ],
+        [
+          "S + V + O + C",
+          "让宾语变成什么/做什么",
+          "The news made us happy."
+        ]
+      ],
+      "text": "Pattern | Plain meaning | Example\nS + V | 谁做动作 | Birds fly.\nS + V + O | 谁对什么做动作 | She opened the window.\nS + V + C | 谁处于什么状态 | The room became quiet.\nS + V + O + O | 给谁什么 | He gave me a book.\nS + V + O + C | 让宾语变成什么/做什么 | The news made us happy.",
+      "sourcePage": 105,
+      "sourceIndex": 2812
+    },
+    {
+      "type": "paragraph",
+      "text": "谓语识别快速法",
+      "sourcePage": 105,
+      "sourceIndex": 2813
+    },
+    {
+      "type": "paragraph",
+      "text": "· 真正谓语通常带时态：works / worked / is working / has finished / was built。",
+      "sourcePage": 105,
+      "sourceIndex": 2814
+    },
+    {
+      "type": "paragraph",
+      "text": "· 一个简单句通常只有一个谓语中心；若出现第二个谓语，需要并列连词、从句连接词或另起一句。",
+      "sourcePage": 105,
+      "sourceIndex": 2815
+    },
+    {
+      "type": "paragraph",
+      "text": "· doing / done / to do 本身通常不能独立承担主句时态。",
+      "sourcePage": 105,
+      "sourceIndex": 2816
+    },
+    {
+      "type": "paragraph",
+      "text": "· 长句找不到主干时：先划掉介词短语、非谓语短语和定语从句。",
+      "sourcePage": 105,
+      "sourceIndex": 2817
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-1-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "最重要的句法问题：谁/什么（subject） + 做什么/是什么（predicate）？其余信息先暂时放旁边。"
+            ]
+          ],
+          "text": " | 最重要的句法问题：谁/什么（subject） + 做什么/是什么（predicate）？其余信息先暂时放旁边。",
+          "sourcePage": 105,
+          "sourceIndex": 2811
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Pattern",
+              "Plain meaning",
+              "Example"
+            ],
+            [
+              "S + V",
+              "谁做动作",
+              "Birds fly."
+            ],
+            [
+              "S + V + O",
+              "谁对什么做动作",
+              "She opened the window."
+            ],
+            [
+              "S + V + C",
+              "谁处于什么状态",
+              "The room became quiet."
+            ],
+            [
+              "S + V + O + O",
+              "给谁什么",
+              "He gave me a book."
+            ],
+            [
+              "S + V + O + C",
+              "让宾语变成什么/做什么",
+              "The news made us happy."
+            ]
+          ],
+          "text": "Pattern | Plain meaning | Example\nS + V | 谁做动作 | Birds fly.\nS + V + O | 谁对什么做动作 | She opened the window.\nS + V + C | 谁处于什么状态 | The room became quiet.\nS + V + O + O | 给谁什么 | He gave me a book.\nS + V + O + C | 让宾语变成什么/做什么 | The news made us happy.",
+          "sourcePage": 105,
+          "sourceIndex": 2812
+        },
+        {
+          "type": "paragraph",
+          "text": "谓语识别快速法",
+          "sourcePage": 105,
+          "sourceIndex": 2813
+        },
+        {
+          "type": "paragraph",
+          "text": "· 真正谓语通常带时态：works / worked / is working / has finished / was built。",
+          "sourcePage": 105,
+          "sourceIndex": 2814
+        },
+        {
+          "type": "paragraph",
+          "text": "· 一个简单句通常只有一个谓语中心；若出现第二个谓语，需要并列连词、从句连接词或另起一句。",
+          "sourcePage": 105,
+          "sourceIndex": 2815
+        },
+        {
+          "type": "paragraph",
+          "text": "· doing / done / to do 本身通常不能独立承担主句时态。",
+          "sourcePage": 105,
+          "sourceIndex": 2816
+        },
+        {
+          "type": "paragraph",
+          "text": "· 长句找不到主干时：先划掉介词短语、非谓语短语和定语从句。",
+          "sourcePage": 105,
+          "sourceIndex": 2817
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 105,
+    "endPage": 105
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "id": "EN-12-4",
+  "code": "12.4",
+  "title": "语法填空最终清单",
+  "subject_id": "english",
+  "chapter_id": "en-rescue",
+  "chapter": "急救与索引",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "12.4",
+    "语法填空最终清单",
+    "急救与索引"
+  ],
+  "brain_first": "按原文查阅 语法填空最终清单",
+  "sort_order": 1119,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "· 拼写",
+      "sourcePage": 129,
+      "sourceIndex": 3055
+    },
+    {
+      "type": "paragraph",
+      "text": "· 大小写",
+      "sourcePage": 129,
+      "sourceIndex": 3056
+    },
+    {
+      "type": "paragraph",
+      "text": "· 单复数",
+      "sourcePage": 129,
+      "sourceIndex": 3057
+    },
+    {
+      "type": "paragraph",
+      "text": "· 词性",
+      "sourcePage": 130,
+      "sourceIndex": 3058
+    },
+    {
+      "type": "paragraph",
+      "text": "· 时态",
+      "sourcePage": 130,
+      "sourceIndex": 3059
+    },
+    {
+      "type": "paragraph",
+      "text": "· 被动",
+      "sourcePage": 130,
+      "sourceIndex": 3060
+    },
+    {
+      "type": "paragraph",
+      "text": "· 主谓一致",
+      "sourcePage": 130,
+      "sourceIndex": 3061
+    },
+    {
+      "type": "paragraph",
+      "text": "· 非谓语主动/被动",
+      "sourcePage": 130,
+      "sourceIndex": 3062
+    },
+    {
+      "type": "paragraph",
+      "text": "· 比较级/最高级",
+      "sourcePage": 130,
+      "sourceIndex": 3063
+    },
+    {
+      "type": "paragraph",
+      "text": "· 关系词是否在从句中充成分",
+      "sourcePage": 130,
+      "sourceIndex": 3064
+    },
+    {
+      "type": "paragraph",
+      "text": "· 冠词/介词是否固定搭配",
+      "sourcePage": 130,
+      "sourceIndex": 3065
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-12-4-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 拼写",
+          "sourcePage": 129,
+          "sourceIndex": 3055
+        },
+        {
+          "type": "paragraph",
+          "text": "· 大小写",
+          "sourcePage": 129,
+          "sourceIndex": 3056
+        },
+        {
+          "type": "paragraph",
+          "text": "· 单复数",
+          "sourcePage": 129,
+          "sourceIndex": 3057
+        },
+        {
+          "type": "paragraph",
+          "text": "· 词性",
+          "sourcePage": 130,
+          "sourceIndex": 3058
+        },
+        {
+          "type": "paragraph",
+          "text": "· 时态",
+          "sourcePage": 130,
+          "sourceIndex": 3059
+        },
+        {
+          "type": "paragraph",
+          "text": "· 被动",
+          "sourcePage": 130,
+          "sourceIndex": 3060
+        },
+        {
+          "type": "paragraph",
+          "text": "· 主谓一致",
+          "sourcePage": 130,
+          "sourceIndex": 3061
+        },
+        {
+          "type": "paragraph",
+          "text": "· 非谓语主动/被动",
+          "sourcePage": 130,
+          "sourceIndex": 3062
+        },
+        {
+          "type": "paragraph",
+          "text": "· 比较级/最高级",
+          "sourcePage": 130,
+          "sourceIndex": 3063
+        },
+        {
+          "type": "paragraph",
+          "text": "· 关系词是否在从句中充成分",
+          "sourcePage": 130,
+          "sourceIndex": 3064
+        },
+        {
+          "type": "paragraph",
+          "text": "· 冠词/介词是否固定搭配",
+          "sourcePage": 130,
+          "sourceIndex": 3065
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 129,
+    "endPage": 130
+  }
+}

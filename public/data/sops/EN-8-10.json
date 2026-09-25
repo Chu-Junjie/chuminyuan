@@ -1,0 +1,167 @@
+{
+  "id": "EN-8-10",
+  "code": "8.10",
+  "title": "Adverbial Clauses 状语从句",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.10",
+    "Adverbial Clauses 状语从句",
+    "语法工具箱",
+    "Relationship",
+    "Common",
+    "connectors",
+    "Brain",
+    "question",
+    "Time",
+    "when",
+    "while",
+    "before",
+    "after",
+    "since",
+    "until",
+    "Cause",
+    "because",
+    "Condition",
+    "unless",
+    "Concession",
+    "although",
+    "though",
+    "even",
+    "Purpose",
+    "that",
+    "order",
+    "Result",
+    "such",
+    "Comparison",
+    "than"
+  ],
+  "brain_first": "按原文查阅 Adverbial Clauses 状语从句",
+  "sort_order": 1081,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Relationship",
+          "Common connectors",
+          "Brain question"
+        ],
+        [
+          "Time",
+          "when, while, before, after, since, until",
+          "什么时候发生？"
+        ],
+        [
+          "Cause",
+          "because, since, as",
+          "为什么？"
+        ],
+        [
+          "Condition",
+          "if, unless",
+          "在什么条件下？"
+        ],
+        [
+          "Concession",
+          "although, though, even though",
+          "虽然什么仍然怎样？"
+        ],
+        [
+          "Purpose",
+          "so that, in order that",
+          "为了什么？"
+        ],
+        [
+          "Result",
+          "so...that, such...that",
+          "导致什么结果？"
+        ],
+        [
+          "Comparison",
+          "than, as...as",
+          "与什么比较？"
+        ]
+      ],
+      "text": "Relationship | Common connectors | Brain question\nTime | when, while, before, after, since, until | 什么时候发生？\nCause | because, since, as | 为什么？\nCondition | if, unless | 在什么条件下？\nConcession | although, though, even though | 虽然什么仍然怎样？\nPurpose | so that, in order that | 为了什么？\nResult | so...that, such...that | 导致什么结果？\nComparison | than, as...as | 与什么比较？",
+      "sourcePage": 111,
+      "sourceIndex": 2878
+    },
+    {
+      "type": "paragraph",
+      "text": "做题时先判关系再选连词，不要把每个连词单独背中文。",
+      "sourcePage": 111,
+      "sourceIndex": 2879
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-10-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Relationship",
+              "Common connectors",
+              "Brain question"
+            ],
+            [
+              "Time",
+              "when, while, before, after, since, until",
+              "什么时候发生？"
+            ],
+            [
+              "Cause",
+              "because, since, as",
+              "为什么？"
+            ],
+            [
+              "Condition",
+              "if, unless",
+              "在什么条件下？"
+            ],
+            [
+              "Concession",
+              "although, though, even though",
+              "虽然什么仍然怎样？"
+            ],
+            [
+              "Purpose",
+              "so that, in order that",
+              "为了什么？"
+            ],
+            [
+              "Result",
+              "so...that, such...that",
+              "导致什么结果？"
+            ],
+            [
+              "Comparison",
+              "than, as...as",
+              "与什么比较？"
+            ]
+          ],
+          "text": "Relationship | Common connectors | Brain question\nTime | when, while, before, after, since, until | 什么时候发生？\nCause | because, since, as | 为什么？\nCondition | if, unless | 在什么条件下？\nConcession | although, though, even though | 虽然什么仍然怎样？\nPurpose | so that, in order that | 为了什么？\nResult | so...that, such...that | 导致什么结果？\nComparison | than, as...as | 与什么比较？",
+          "sourcePage": 111,
+          "sourceIndex": 2878
+        },
+        {
+          "type": "paragraph",
+          "text": "做题时先判关系再选连词，不要把每个连词单独背中文。",
+          "sourcePage": 111,
+          "sourceIndex": 2879
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 111,
+    "endPage": 111
+  }
+}

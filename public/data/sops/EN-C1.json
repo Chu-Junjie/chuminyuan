@@ -1,0 +1,615 @@
+{
+  "id": "EN-C1",
+  "code": "C1",
+  "title": "动词题：谁做什么？",
+  "subject_id": "english",
+  "chapter_id": "en-cloze",
+  "chapter": "完形填空",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "C1",
+    "动词题：谁做什么？",
+    "完形填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "V/N/Adj/Adv",
+    "worried",
+    "help",
+    "relieved",
+    "IF/THEN",
+    "then",
+    "see",
+    "someone",
+    "struggling",
+    "approach/help",
+    "problem",
+    "solved",
+    "relax/thank/continue",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "Seeing",
+    "child",
+    "drop",
+    "his",
+    "books",
+    "Maria",
+    "across",
+    "hall",
+    "and",
+    "helped",
+    "him",
+    "simply",
+    "watched",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "saw",
+    "old",
+    "man",
+    "fall",
+    "ran/rushed",
+    "Ctrl"
+  ],
+  "brain_first": "“先问谁做什么，再问为什么此时会做这个动作。”",
+  "sort_order": 1041,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 63,
+      "sourceIndex": 1745
+    },
+    {
+      "type": "paragraph",
+      "text": "四个选项都是动词或动词短语。",
+      "sourcePage": 63,
+      "sourceIndex": 1746
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 63,
+      "sourceIndex": 1747
+    },
+    {
+      "type": "paragraph",
+      "text": "动词决定故事动作链。",
+      "sourcePage": 63,
+      "sourceIndex": 1748
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先问谁做什么，再问为什么此时会做这个动作。”",
+      "sourcePage": 63,
+      "sourceIndex": 1749
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 单看中文近义词容易都觉得通，真正区别来自主语、宾语和情节。",
+      "sourcePage": 63,
+      "sourceIndex": 1750
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 63,
+      "sourceIndex": 1751
+    },
+    {
+      "type": "paragraph",
+      "text": "1 圈空前主语。",
+      "sourcePage": 63,
+      "sourceIndex": 1752
+    },
+    {
+      "type": "paragraph",
+      "text": "2 看空后有没有宾语/介词，排语法搭配不可能项。",
+      "sourcePage": 63,
+      "sourceIndex": 1753
+    },
+    {
+      "type": "paragraph",
+      "text": "3 看上一动作和下一结果，判断哪一个动作能连接。",
+      "sourcePage": 63,
+      "sourceIndex": 1754
+    },
+    {
+      "type": "paragraph",
+      "text": "4 再检查情绪方向和常见搭配。",
+      "sourcePage": 63,
+      "sourceIndex": 1755
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如",
+      "sourcePage": 63,
+      "sourceIndex": 1756
+    },
+    {
+      "type": "paragraph",
+      "text": "worried→help→relieved；难空先打 ? 继续。",
+      "sourcePage": 63,
+      "sourceIndex": 1757
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 63,
+      "sourceIndex": 1758
+    },
+    {
+      "type": "paragraph",
+      "text": "· see someone struggling → approach/help 更自然",
+      "sourcePage": 63,
+      "sourceIndex": 1759
+    },
+    {
+      "type": "paragraph",
+      "text": "· problem solved → relax/thank/continue 等看上下文",
+      "sourcePage": 63,
+      "sourceIndex": 1760
+    },
+    {
+      "type": "paragraph",
+      "text": "· 动词后固定介词不匹配 → 直接排",
+      "sourcePage": 63,
+      "sourceIndex": 1761
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 动作能同时解释前因和后果。",
+      "sourcePage": 63,
+      "sourceIndex": 1762
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 两个词都认识时，把“中文意思”放一边，读成“主语 + 动词 + 宾语”比较动",
+      "sourcePage": 63,
+      "sourceIndex": 1763
+    },
+    {
+      "type": "paragraph",
+      "text": "作链。",
+      "sourcePage": 63,
+      "sourceIndex": 1764
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 64,
+      "sourceIndex": 1765
+    },
+    {
+      "type": "paragraph",
+      "text": "Seeing the child drop his books, Maria ___ across the hall and helped him.",
+      "sourcePage": 64,
+      "sourceIndex": 1766
+    },
+    {
+      "type": "paragraph",
+      "text": "动作链要求“走/跑过去”，而不是 simply watched。",
+      "sourcePage": 64,
+      "sourceIndex": 1767
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 64,
+      "sourceIndex": 1768
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只比中文释义。",
+      "sourcePage": 64,
+      "sourceIndex": 1769
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略动词搭配。",
+      "sourcePage": 64,
+      "sourceIndex": 1770
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 64,
+      "sourceIndex": 1771
+    },
+    {
+      "type": "paragraph",
+      "text": "· 谁做？",
+      "sourcePage": 64,
+      "sourceIndex": 1772
+    },
+    {
+      "type": "paragraph",
+      "text": "· 对谁/什么做？",
+      "sourcePage": 64,
+      "sourceIndex": 1773
+    },
+    {
+      "type": "paragraph",
+      "text": "· 为什么现在做？",
+      "sourcePage": 64,
+      "sourceIndex": 1774
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现",
+      "sourcePage": 64,
+      "sourceIndex": 1775
+    },
+    {
+      "type": "paragraph",
+      "text": "｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+      "sourcePage": 64,
+      "sourceIndex": 1776
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 64,
+      "sourceIndex": 1777
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 动词题：谁做什么，为什么现在做。",
+      "sourcePage": 64,
+      "sourceIndex": 1778
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 64,
+      "sourceIndex": 1780
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 动词题第一问？",
+      "sourcePage": 64,
+      "sourceIndex": 1781
+    },
+    {
+      "type": "paragraph",
+      "text": "2. saw an old man fall and ___ to help，较可能？",
+      "sourcePage": 64,
+      "sourceIndex": 1782
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 两个动词中文都通时看？",
+      "sourcePage": 64,
+      "sourceIndex": 1783
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 动作与主语不匹配要不要排？",
+      "sourcePage": 64,
+      "sourceIndex": 1784
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 完形动词只看固定搭配够吗？",
+      "sourcePage": 64,
+      "sourceIndex": 1785
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 谁做什么？；2. ran/rushed；3. 人物动机+动作链。；4. 要。；5. 不够，还要故事逻辑。",
+      "sourcePage": 64,
+      "sourceIndex": 1786
+    },
+    {
+      "type": "paragraph",
+      "text": "— C1 本题型到这里。下次卡住直接 Ctrl+F 搜“C1”或题型关键词。—",
+      "sourcePage": 64,
+      "sourceIndex": 1787
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-C1-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "四个选项都是动词或动词短语。",
+          "sourcePage": 63,
+          "sourceIndex": 1746
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "动词决定故事动作链。",
+          "sourcePage": 63,
+          "sourceIndex": 1748
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先问谁做什么，再问为什么此时会做这个动作。”",
+          "sourcePage": 63,
+          "sourceIndex": 1749
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "单看中文近义词容易都觉得通，真正区别来自主语、宾语和情节。",
+          "sourcePage": 63,
+          "sourceIndex": 1750
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 圈空前主语。",
+          "sourcePage": 63,
+          "sourceIndex": 1752
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 看空后有没有宾语/介词，排语法搭配不可能项。",
+          "sourcePage": 63,
+          "sourceIndex": 1753
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 看上一动作和下一结果，判断哪一个动作能连接。",
+          "sourcePage": 63,
+          "sourceIndex": 1754
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 再检查情绪方向和常见搭配。",
+          "sourcePage": 63,
+          "sourceIndex": 1755
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如 worried→help→relieved；难空先打 ? 继续。",
+          "sourcePage": 63,
+          "sourceIndex": 1756
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· see someone struggling → approach/help 更自然",
+          "sourcePage": 63,
+          "sourceIndex": 1759
+        },
+        {
+          "type": "paragraph",
+          "text": "· problem solved → relax/thank/continue 等看上下文",
+          "sourcePage": 63,
+          "sourceIndex": 1760
+        },
+        {
+          "type": "paragraph",
+          "text": "· 动词后固定介词不匹配 → 直接排",
+          "sourcePage": 63,
+          "sourceIndex": 1761
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "动作能同时解释前因和后果。",
+          "sourcePage": 63,
+          "sourceIndex": 1762
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "两个词都认识时，把“中文意思”放一边，读成“主语 + 动词 + 宾语”比较动 作链。",
+          "sourcePage": 63,
+          "sourceIndex": 1763
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Seeing the child drop his books, Maria ___ across the hall and helped him. 动作链要求“走/跑过去”，而不是 simply watched。",
+          "sourcePage": 64,
+          "sourceIndex": 1766
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只比中文释义。",
+          "sourcePage": 64,
+          "sourceIndex": 1769
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略动词搭配。",
+          "sourcePage": 64,
+          "sourceIndex": 1770
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 谁做？",
+          "sourcePage": 64,
+          "sourceIndex": 1772
+        },
+        {
+          "type": "paragraph",
+          "text": "· 对谁/什么做？",
+          "sourcePage": 64,
+          "sourceIndex": 1773
+        },
+        {
+          "type": "paragraph",
+          "text": "· 为什么现在做？",
+          "sourcePage": 64,
+          "sourceIndex": 1774
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现 ｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+          "sourcePage": 64,
+          "sourceIndex": 1775
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 64,
+          "sourceIndex": 1777
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "动词题：谁做什么，为什么现在做。",
+          "sourcePage": 64,
+          "sourceIndex": 1778
+        }
+      ]
+    },
+    {
+      "id": "EN-C1-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 动词题第一问？",
+          "sourcePage": 64,
+          "sourceIndex": 1781
+        },
+        {
+          "type": "paragraph",
+          "text": "2. saw an old man fall and ___ to help，较可能？",
+          "sourcePage": 64,
+          "sourceIndex": 1782
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 两个动词中文都通时看？",
+          "sourcePage": 64,
+          "sourceIndex": 1783
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 动作与主语不匹配要不要排？",
+          "sourcePage": 64,
+          "sourceIndex": 1784
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 完形动词只看固定搭配够吗？",
+          "sourcePage": 64,
+          "sourceIndex": 1785
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 谁做什么？；2. ran/rushed；3. 人物动机+动作链。；4. 要。；5. 不够，还要故事逻辑。",
+          "sourcePage": 64,
+          "sourceIndex": 1786
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 63,
+    "endPage": 64
+  }
+}

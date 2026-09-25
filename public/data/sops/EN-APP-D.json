@@ -1,0 +1,245 @@
+{
+  "id": "EN-APP-D",
+  "code": "APP-D",
+  "title": "范围依据与来源",
+  "subject_id": "english",
+  "chapter_id": "en-appendix",
+  "chapter": "巩固与附录",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "APP-D",
+    "范围依据与来源",
+    "巩固与附录",
+    "Appendix",
+    "Scope",
+    "Notes",
+    "Sources",
+    "https",
+    "www",
+    "ictr",
+    "edu",
+    "cn/policy/cheng/p/",
+    "html",
+    "cdn",
+    "zizzs",
+    "com/zixunzhan/",
+    "pdf",
+    "jseea",
+    "cn/",
+    "webfile/index/index",
+    "zkxx/",
+    "yilin",
+    "com/index",
+    "php/Category/",
+    "index",
+    "cat",
+    "nav",
+    "Grammar",
+    "and",
+    "usage",
+    "Unit",
+    "sohu",
+    "com/a/",
+    "moe",
+    "gov",
+    "SOP"
+  ],
+  "brain_first": "按原文查阅 范围依据与来源",
+  "sort_order": 1127,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Appendix D - Scope Notes & Sources 范围依",
+      "sourcePage": 136,
+      "sourceIndex": 3145
+    },
+    {
+      "type": "paragraph",
+      "text": "据",
+      "sourcePage": 136,
+      "sourceIndex": 3146
+    },
+    {
+      "type": "paragraph",
+      "text": "本宝典以用户提供的完整需求清单为功能范围基础，并用公开资料核对现行课程与考试结构。以下来源用于",
+      "sourcePage": 136,
+      "sourceIndex": 3147
+    },
+    {
+      "type": "paragraph",
+      "text": "“考试范围/教材范围”判断，不用于预测2027具体命题。",
+      "sourcePage": 136,
+      "sourceIndex": 3148
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 教育部课程教材研究所：《普通高中英语课程标准日常修订版（2017年版2025年修订）》解读，2025-12。 https://",
+      "sourcePage": 136,
+      "sourceIndex": 3149
+    },
+    {
+      "type": "paragraph",
+      "text": "www.ictr.edu.cn/policy/cheng/p/11.html",
+      "sourcePage": 136,
+      "sourceIndex": 3150
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 《普通高中英语课程标准日常修订版（2017年版2025年修订）》公开文本：附录词汇表共3100词；必修累计约2100，选择",
+      "sourcePage": 136,
+      "sourceIndex": 3151
+    },
+    {
+      "type": "paragraph",
+      "text": "性必修累计约3100。 https://cdn.zizzs.com/zixunzhan/",
+      "sourcePage": 136,
+      "sourceIndex": 3152
+    },
+    {
+      "type": "paragraph",
+      "text": "%E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E8%AF%BE%E7%A8%8B%E6%A0",
+      "sourcePage": 136,
+      "sourceIndex": 3153
+    },
+    {
+      "type": "paragraph",
+      "text": "%87%E5%87%86%E6%97%A5%E5%B8%B8%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%882017%E5%B9%B4",
+      "sourcePage": 136,
+      "sourceIndex": 3154
+    },
+    {
+      "type": "paragraph",
+      "text": "%E7%89%882025%E5%B9%B4%E4%BF%AE%E8%AE%A2%EF%BC%891762759636958.pdf",
+      "sourcePage": 136,
+      "sourceIndex": 3155
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 江苏省教育考试院：2027年江苏普通高考继续实行“3+1+2”，其中外语属于统一高考“3”之一。 https://www.jseea.cn/",
+      "sourcePage": 136,
+      "sourceIndex": 3156
+    },
+    {
+      "type": "paragraph",
+      "text": "webfile/index/index_zkxx/2025-02-20/7298268759544827904.html",
+      "sourcePage": 136,
+      "sourceIndex": 3157
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 译林教育网高中英语资源目录：必修第一至三册、选择性必修第一至四册。 https://edu.yilin.com/index.php/Category/",
+      "sourcePage": 136,
+      "sourceIndex": 3158
+    },
+    {
+      "type": "paragraph",
+      "text": "index?cat_id=6&nav_id=5",
+      "sourcePage": 136,
+      "sourceIndex": 3159
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 2019/2020译林版教师用书/教材公开目录与Grammar and usage页面，用于核对28个Unit及语法映射。 https://",
+      "sourcePage": 136,
+      "sourceIndex": 3160
+    },
+    {
+      "type": "paragraph",
+      "text": "www.sohu.com/a/1072590147_120904083",
+      "sourcePage": 136,
+      "sourceIndex": 3161
+    },
+    {
+      "type": "paragraph",
+      "text": "6. 2026全国高考英语全国卷现行结构与官方试题评析，用于确认“听力、阅读、语言运用、写作”四大板块；2027若有新规以",
+      "sourcePage": 136,
+      "sourceIndex": 3162
+    },
+    {
+      "type": "paragraph",
+      "text": "官方为准。 https://www.moe.gov.cn/",
+      "sourcePage": 136,
+      "sourceIndex": 3163
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "重要：2027英语单科最终题型/分值细则如有新公告，以江苏省教育考试院、教育部教育考试院最新文件\n为准。本宝典的语法、词汇、语篇、写作SOP仍可继续使用，只需调整考试结构和时间分配页。"
+        ]
+      ],
+      "text": " | 重要：2027英语单科最终题型/分值细则如有新公告，以江苏省教育考试院、教育部教育考试院最新文件\n为准。本宝典的语法、词汇、语篇、写作SOP仍可继续使用，只需调整考试结构和时间分配页。",
+      "sourcePage": 136,
+      "sourceIndex": 3164
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-APP-D-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Appendix D - Scope Notes & Sources 范围依 据 本宝典以用户提供的完整需求清单为功能范围基础，并用公开资料核对现行课程与考试结构。以下来源用于 “考试范围/教材范围”判断，不用于预测2027具体命题。",
+          "sourcePage": 136,
+          "sourceIndex": 3145
+        },
+        {
+          "type": "paragraph",
+          "text": "1. 教育部课程教材研究所：《普通高中英语课程标准日常修订版（2017年版2025年修订）》解读，2025-12。 https:// www.ictr.edu.cn/policy/cheng/p/11.html",
+          "sourcePage": 136,
+          "sourceIndex": 3149
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 《普通高中英语课程标准日常修订版（2017年版2025年修订）》公开文本：附录词汇表共3100词；必修累计约2100，选择 性必修累计约3100。 https://cdn.zizzs.com/zixunzhan/ %E6%99%AE%E9%80%9A%E9%AB%98%E4%B8%AD%E8%8B%B1%E8%AF%AD%E8%AF%BE%E7%A8%8B%E6%A0 %87%E5%87%86%E6%97%A5%E5%B8%B8%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%882017%E5%B9%B4 %E7%89%882025%E5%B9%B4%E4%BF%AE%E8%AE%A2%EF%BC%891762759636958.pdf",
+          "sourcePage": 136,
+          "sourceIndex": 3151
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 江苏省教育考试院：2027年江苏普通高考继续实行“3+1+2”，其中外语属于统一高考“3”之一。 https://www.jseea.cn/ webfile/index/index_zkxx/2025-02-20/7298268759544827904.html",
+          "sourcePage": 136,
+          "sourceIndex": 3156
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 译林教育网高中英语资源目录：必修第一至三册、选择性必修第一至四册。 https://edu.yilin.com/index.php/Category/ index?cat_id=6&nav_id=5",
+          "sourcePage": 136,
+          "sourceIndex": 3158
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 2019/2020译林版教师用书/教材公开目录与Grammar and usage页面，用于核对28个Unit及语法映射。 https:// www.sohu.com/a/1072590147_120904083",
+          "sourcePage": 136,
+          "sourceIndex": 3160
+        },
+        {
+          "type": "paragraph",
+          "text": "6. 2026全国高考英语全国卷现行结构与官方试题评析，用于确认“听力、阅读、语言运用、写作”四大板块；2027若有新规以 官方为准。 https://www.moe.gov.cn/",
+          "sourcePage": 136,
+          "sourceIndex": 3162
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "重要：2027英语单科最终题型/分值细则如有新公告，以江苏省教育考试院、教育部教育考试院最新文件\n为准。本宝典的语法、词汇、语篇、写作SOP仍可继续使用，只需调整考试结构和时间分配页。"
+            ]
+          ],
+          "text": " | 重要：2027英语单科最终题型/分值细则如有新公告，以江苏省教育考试院、教育部教育考试院最新文件\n为准。本宝典的语法、词汇、语篇、写作SOP仍可继续使用，只需调整考试结构和时间分配页。",
+          "sourcePage": 136,
+          "sourceIndex": 3164
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 136,
+    "endPage": 136
+  }
+}

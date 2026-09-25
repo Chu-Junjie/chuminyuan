@@ -1,0 +1,54 @@
+{
+  "id": "EN-INTRO-CONTINUATION",
+  "code": "INTRO-CONTINUATION",
+  "title": "读后续写 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-continuation",
+  "chapter": "读后续写",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-CONTINUATION",
+    "读后续写 · 总览",
+    "读后续写",
+    "Part",
+    "VII",
+    "Continuation",
+    "Writing"
+  ],
+  "brain_first": "按原文查阅 读后续写 · 总览",
+  "sort_order": 1063,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part VII - Continuation Writing 读后续写",
+      "sourcePage": 97,
+      "sourceIndex": 2576
+    },
+    {
+      "type": "paragraph",
+      "text": "续写的目标不是文学竞赛。基础学生先保证：情节合理、与两段首句衔接、人物行为有原因、语言基本正确。",
+      "sourcePage": 97,
+      "sourceIndex": 2577
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-CONTINUATION-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part VII - Continuation Writing 读后续写 续写的目标不是文学竞赛。基础学生先保证：情节合理、与两段首句衔接、人物行为有原因、语言基本正确。",
+          "sourcePage": 97,
+          "sourceIndex": 2576
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 97,
+    "endPage": 97
+  }
+}

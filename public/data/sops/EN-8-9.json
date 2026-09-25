@@ -1,0 +1,191 @@
+{
+  "id": "EN-8-9",
+  "code": "8.9",
+  "title": "Noun Clauses 名词性从句",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.9",
+    "Noun Clauses 名词性从句",
+    "语法工具箱",
+    "Connector",
+    "Key",
+    "idea",
+    "Example",
+    "that",
+    "know",
+    "right",
+    "what",
+    "needs",
+    "whether/if",
+    "wonder",
+    "will",
+    "come",
+    "who/which",
+    "who",
+    "called",
+    "how/why/when/where",
+    "Tell",
+    "why",
+    "you",
+    "left"
+  ],
+  "brain_first": "按原文查阅 Noun Clauses 名词性从句",
+  "sort_order": 1080,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "白话：一整句在大句中当成“一个东西”。先别背主语从句/宾语从句/表语从句/同位语从句名字。",
+      "sourcePage": 110,
+      "sourceIndex": 2873
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Connector",
+          "Key idea",
+          "Example"
+        ],
+        [
+          "that",
+          "从句本身完整；that通常不充成分",
+          "I know that he is right."
+        ],
+        [
+          "what",
+          "从句缺“什么/东西”；what在从句内充成分",
+          "I know what he needs."
+        ],
+        [
+          "whether/if",
+          "是否",
+          "I wonder whether/if he will come."
+        ],
+        [
+          "who/which",
+          "谁/哪一个，在从句中充成分",
+          "I know who called."
+        ]
+      ],
+      "text": "Connector | Key idea | Example\nthat | 从句本身完整；that通常不充成分 | I know that he is right.\nwhat | 从句缺“什么/东西”；what在从句内充成分 | I know what he needs.\nwhether/if | 是否 | I wonder whether/if he will come.\nwho/which | 谁/哪一个，在从句中充成分 | I know who called.",
+      "sourcePage": 110,
+      "sourceIndex": 2874
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Connector",
+          "Key idea",
+          "Example"
+        ],
+        [
+          "how/why/when/where",
+          "方式/原因/时间/地点",
+          "Tell me why you left."
+        ]
+      ],
+      "text": "Connector | Key idea | Example\nhow/why/when/where | 方式/原因/时间/地点 | Tell me why you left.",
+      "sourcePage": 111,
+      "sourceIndex": 2875
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "what vs that：先看从句内部是否缺主语/宾语。缺“东西”常考虑 what；从句已经完整且只需要连接，\n常考虑 that。"
+        ]
+      ],
+      "text": " | what vs that：先看从句内部是否缺主语/宾语。缺“东西”常考虑 what；从句已经完整且只需要连接，\n常考虑 that。",
+      "sourcePage": 111,
+      "sourceIndex": 2876
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-9-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "白话：一整句在大句中当成“一个东西”。先别背主语从句/宾语从句/表语从句/同位语从句名字。",
+          "sourcePage": 110,
+          "sourceIndex": 2873
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Connector",
+              "Key idea",
+              "Example"
+            ],
+            [
+              "that",
+              "从句本身完整；that通常不充成分",
+              "I know that he is right."
+            ],
+            [
+              "what",
+              "从句缺“什么/东西”；what在从句内充成分",
+              "I know what he needs."
+            ],
+            [
+              "whether/if",
+              "是否",
+              "I wonder whether/if he will come."
+            ],
+            [
+              "who/which",
+              "谁/哪一个，在从句中充成分",
+              "I know who called."
+            ]
+          ],
+          "text": "Connector | Key idea | Example\nthat | 从句本身完整；that通常不充成分 | I know that he is right.\nwhat | 从句缺“什么/东西”；what在从句内充成分 | I know what he needs.\nwhether/if | 是否 | I wonder whether/if he will come.\nwho/which | 谁/哪一个，在从句中充成分 | I know who called.",
+          "sourcePage": 110,
+          "sourceIndex": 2874
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Connector",
+              "Key idea",
+              "Example"
+            ],
+            [
+              "how/why/when/where",
+              "方式/原因/时间/地点",
+              "Tell me why you left."
+            ]
+          ],
+          "text": "Connector | Key idea | Example\nhow/why/when/where | 方式/原因/时间/地点 | Tell me why you left.",
+          "sourcePage": 111,
+          "sourceIndex": 2875
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "what vs that：先看从句内部是否缺主语/宾语。缺“东西”常考虑 what；从句已经完整且只需要连接，\n常考虑 that。"
+            ]
+          ],
+          "text": " | what vs that：先看从句内部是否缺主语/宾语。缺“东西”常考虑 what；从句已经完整且只需要连接，\n常考虑 that。",
+          "sourcePage": 111,
+          "sourceIndex": 2876
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 110,
+    "endPage": 111
+  }
+}

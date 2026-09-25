@@ -1,0 +1,648 @@
+{
+  "id": "EN-L2",
+  "code": "L2",
+  "title": "地点题：他们在哪里？",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "L2",
+    "地点题：他们在哪里？",
+    "听力",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "Where",
+    "are",
+    "the",
+    "speakers",
+    "does",
+    "conversation",
+    "probably",
+    "take",
+    "place",
+    "TERM",
+    "What",
+    "term",
+    "really",
+    "means",
+    "restaurant",
+    "airport",
+    "clinic",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "old",
+    "new",
+    "drive",
+    "sleep",
+    "IF/THEN",
+    "then",
+    "menu",
+    "order",
+    "bill",
+    "boarding",
+    "gate",
+    "passport",
+    "prescription",
+    "appointment",
+    "symptom",
+    "clinic/hospital",
+    "borrow",
+    "due",
+    "date",
+    "library",
+    "card",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "stuck",
+    "check",
+    "suitcase",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "Could",
+    "see",
+    "like",
+    "soup",
+    "please",
+    "food",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "L-K",
+    "L-C",
+    "L-P",
+    "L-I",
+    "L-A",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "pass",
+    "luggage",
+    "table",
+    "for",
+    "two",
+    "headache",
+    "return",
+    "book",
+    "Ctrl"
+  ],
+  "brain_first": "“别等地点名字，听他们正在做什么、接触什么东西。”",
+  "sort_order": 1005,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 8,
+      "sourceIndex": 211
+    },
+    {
+      "type": "paragraph",
+      "text": "Where are the speakers? / Where does the",
+      "sourcePage": 8,
+      "sourceIndex": 212
+    },
+    {
+      "type": "paragraph",
+      "text": "conversation probably take place?",
+      "sourcePage": 8,
+      "sourceIndex": 213
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 8,
+      "sourceIndex": 214
+    },
+    {
+      "type": "paragraph",
+      "text": "地点题往往不直接说 restaurant / airport /",
+      "sourcePage": 8,
+      "sourceIndex": 215
+    },
+    {
+      "type": "paragraph",
+      "text": "clinic，而是让你通过行为和物品推断。",
+      "sourcePage": 8,
+      "sourceIndex": 216
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “别等地点名字，听他们正在做什么、接触什么东西。”",
+      "sourcePage": 8,
+      "sourceIndex": 217
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 不同地点有稳定的“场景词”：菜单/账单→餐馆；登机口/护照→机场；处方/预",
+      "sourcePage": 8,
+      "sourceIndex": 218
+    },
+    {
+      "type": "paragraph",
+      "text": "约→诊所。",
+      "sourcePage": 8,
+      "sourceIndex": 219
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 8,
+      "sourceIndex": 220
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先看选项，想每个地点各自最典型的行为词。",
+      "sourcePage": 8,
+      "sourceIndex": 221
+    },
+    {
+      "type": "paragraph",
+      "text": "2 听“服务对象 + 行为”：谁给谁提供什么服务？",
+      "sourcePage": 8,
+      "sourceIndex": 222
+    },
+    {
+      "type": "paragraph",
+      "text": "3 优先使用两个以上线索，不用一个词就下结论。",
+      "sourcePage": 9,
+      "sourceIndex": 223
+    },
+    {
+      "type": "paragraph",
+      "text": "4 如果某个词在多个地点都可能出现，用后续动作确认。",
+      "sourcePage": 9,
+      "sourceIndex": 224
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计",
+      "sourcePage": 9,
+      "sourceIndex": 225
+    },
+    {
+      "type": "paragraph",
+      "text": "划写成“drive→sleep”；不要抄完整句。",
+      "sourcePage": 9,
+      "sourceIndex": 226
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 9,
+      "sourceIndex": 227
+    },
+    {
+      "type": "paragraph",
+      "text": "· menu + order + bill → restaurant",
+      "sourcePage": 9,
+      "sourceIndex": 228
+    },
+    {
+      "type": "paragraph",
+      "text": "· boarding + gate + passport → airport",
+      "sourcePage": 9,
+      "sourceIndex": 229
+    },
+    {
+      "type": "paragraph",
+      "text": "· prescription + appointment + symptom → clinic/hospital",
+      "sourcePage": 9,
+      "sourceIndex": 230
+    },
+    {
+      "type": "paragraph",
+      "text": "· borrow + due date + library card → library",
+      "sourcePage": 9,
+      "sourceIndex": 231
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 至少两个线索指向同一场景。",
+      "sourcePage": 9,
+      "sourceIndex": 232
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 三个选项都像时，抓“只有某个地点才自然发生”的动作，例如 check in a",
+      "sourcePage": 9,
+      "sourceIndex": 233
+    },
+    {
+      "type": "paragraph",
+      "text": "suitcase。",
+      "sourcePage": 9,
+      "sourceIndex": 234
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 9,
+      "sourceIndex": 235
+    },
+    {
+      "type": "paragraph",
+      "text": "Could I see the menu? I'd like the soup, please.",
+      "sourcePage": 9,
+      "sourceIndex": 236
+    },
+    {
+      "type": "paragraph",
+      "text": "即使没有说 restaurant，menu + order food 已足够定位。",
+      "sourcePage": 9,
+      "sourceIndex": 237
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 9,
+      "sourceIndex": 238
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只根据背景噪音猜。",
+      "sourcePage": 9,
+      "sourceIndex": 239
+    },
+    {
+      "type": "paragraph",
+      "text": "· 听见一个泛词就过早锁定。",
+      "sourcePage": 9,
+      "sourceIndex": 240
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 9,
+      "sourceIndex": 241
+    },
+    {
+      "type": "paragraph",
+      "text": "· 行为和地点匹配吗？",
+      "sourcePage": 9,
+      "sourceIndex": 242
+    },
+    {
+      "type": "paragraph",
+      "text": "· 有没有更具体的后续线索推翻第一次判断？",
+      "sourcePage": 9,
+      "sourceIndex": 243
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同",
+      "sourcePage": 9,
+      "sourceIndex": 244
+    },
+    {
+      "type": "paragraph",
+      "text": "义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+      "sourcePage": 9,
+      "sourceIndex": 245
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 9,
+      "sourceIndex": 246
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 地点看动作，不等地点名。",
+      "sourcePage": 9,
+      "sourceIndex": 247
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 9,
+      "sourceIndex": 249
+    },
+    {
+      "type": "paragraph",
+      "text": "1. “boarding pass, gate, luggage”最可能哪里？",
+      "sourcePage": 9,
+      "sourceIndex": 250
+    },
+    {
+      "type": "paragraph",
+      "text": "2. “menu, bill, table for two”最可能哪里？",
+      "sourcePage": 9,
+      "sourceIndex": 251
+    },
+    {
+      "type": "paragraph",
+      "text": "3. “prescription, appointment, headache”最可能哪里？",
+      "sourcePage": 9,
+      "sourceIndex": 252
+    },
+    {
+      "type": "paragraph",
+      "text": "4. “due date, borrow, return”最可能哪里？",
+      "sourcePage": 10,
+      "sourceIndex": 253
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 地点题只有一个泛词“book”，能否立刻选library？",
+      "sourcePage": 10,
+      "sourceIndex": 254
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. airport；2. restaurant；3. clinic/hospital；4. library；5. 不能，要等更专属行为线索。",
+      "sourcePage": 10,
+      "sourceIndex": 255
+    },
+    {
+      "type": "paragraph",
+      "text": "— L2 本题型到这里。下次卡住直接 Ctrl+F 搜“L2”或题型关键词。—",
+      "sourcePage": 10,
+      "sourceIndex": 256
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-L2-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Where are the speakers? / Where does the conversation probably take place?",
+          "sourcePage": 8,
+          "sourceIndex": 212
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "地点题往往不直接说 restaurant / airport / clinic，而是让你通过行为和物品推断。",
+          "sourcePage": 8,
+          "sourceIndex": 215
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“别等地点名字，听他们正在做什么、接触什么东西。”",
+          "sourcePage": 8,
+          "sourceIndex": 217
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "不同地点有稳定的“场景词”：菜单/账单→餐馆；登机口/护照→机场；处方/预 约→诊所。",
+          "sourcePage": 8,
+          "sourceIndex": 218
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先看选项，想每个地点各自最典型的行为词。",
+          "sourcePage": 8,
+          "sourceIndex": 221
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 听“服务对象 + 行为”：谁给谁提供什么服务？",
+          "sourcePage": 8,
+          "sourceIndex": 222
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 优先使用两个以上线索，不用一个词就下结论。",
+          "sourcePage": 9,
+          "sourceIndex": 223
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 如果某个词在多个地点都可能出现，用后续动作确认。",
+          "sourcePage": 9,
+          "sourceIndex": 224
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计 划写成“drive→sleep”；不要抄完整句。",
+          "sourcePage": 9,
+          "sourceIndex": 225
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· menu + order + bill → restaurant",
+          "sourcePage": 9,
+          "sourceIndex": 228
+        },
+        {
+          "type": "paragraph",
+          "text": "· boarding + gate + passport → airport",
+          "sourcePage": 9,
+          "sourceIndex": 229
+        },
+        {
+          "type": "paragraph",
+          "text": "· prescription + appointment + symptom → clinic/hospital",
+          "sourcePage": 9,
+          "sourceIndex": 230
+        },
+        {
+          "type": "paragraph",
+          "text": "· borrow + due date + library card → library",
+          "sourcePage": 9,
+          "sourceIndex": 231
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "至少两个线索指向同一场景。",
+          "sourcePage": 9,
+          "sourceIndex": 232
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "三个选项都像时，抓“只有某个地点才自然发生”的动作，例如 check in a suitcase。",
+          "sourcePage": 9,
+          "sourceIndex": 233
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Could I see the menu? I'd like the soup, please. 即使没有说 restaurant，menu + order food 已足够定位。",
+          "sourcePage": 9,
+          "sourceIndex": 236
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只根据背景噪音猜。",
+          "sourcePage": 9,
+          "sourceIndex": 239
+        },
+        {
+          "type": "paragraph",
+          "text": "· 听见一个泛词就过早锁定。",
+          "sourcePage": 9,
+          "sourceIndex": 240
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 行为和地点匹配吗？",
+          "sourcePage": 9,
+          "sourceIndex": 242
+        },
+        {
+          "type": "paragraph",
+          "text": "· 有没有更具体的后续线索推翻第一次判断？",
+          "sourcePage": 9,
+          "sourceIndex": 243
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同 义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+          "sourcePage": 9,
+          "sourceIndex": 244
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 9,
+          "sourceIndex": 246
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "地点看动作，不等地点名。",
+          "sourcePage": 9,
+          "sourceIndex": 247
+        }
+      ]
+    },
+    {
+      "id": "EN-L2-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. “boarding pass, gate, luggage”最可能哪里？",
+          "sourcePage": 9,
+          "sourceIndex": 250
+        },
+        {
+          "type": "paragraph",
+          "text": "2. “menu, bill, table for two”最可能哪里？",
+          "sourcePage": 9,
+          "sourceIndex": 251
+        },
+        {
+          "type": "paragraph",
+          "text": "3. “prescription, appointment, headache”最可能哪里？",
+          "sourcePage": 9,
+          "sourceIndex": 252
+        },
+        {
+          "type": "paragraph",
+          "text": "4. “due date, borrow, return”最可能哪里？",
+          "sourcePage": 10,
+          "sourceIndex": 253
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 地点题只有一个泛词“book”，能否立刻选library？",
+          "sourcePage": 10,
+          "sourceIndex": 254
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. airport；2. restaurant；3. clinic/hospital；4. library；5. 不能，要等更专属行为线索。",
+          "sourcePage": 10,
+          "sourceIndex": 255
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 8,
+    "endPage": 10
+  }
+}

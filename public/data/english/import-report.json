@@ -1,0 +1,15 @@
+{
+  "source": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+  "sha256": "24b723ecc59f0a4ff6e9bca7bac4f27d0c25e2c2f4fb7628350caff47559c0fb",
+  "pages": 136,
+  "sops": 58,
+  "resources": 68,
+  "chapters": 14,
+  "tables": 83,
+  "warnings": [
+    "原文 GF 部分草稿与纠错标签复用了七选五内容；原文保留，平台错因选择使用第128页语法代码。",
+    "原文不是完整3100词逐词词库，也不包含听力音频。",
+    "原文8.17编号重复，平台保留两个条目并为第二条生成独立ID。"
+  ],
+  "method": "Coordinate-aware extraction: running headers removed, two-column cards split, table cells retained. Raw pages archived for audit."
+}

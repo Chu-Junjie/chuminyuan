@@ -1,0 +1,623 @@
+{
+  "id": "EN-R14",
+  "code": "R14",
+  "title": "信息出处/文体来源题",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 3,
+  "keywords": [
+    "R14",
+    "信息出处/文体来源题",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "Where",
+    "this",
+    "text",
+    "most",
+    "likely",
+    "from",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "advertisement",
+    "travel",
+    "guide",
+    "news",
+    "report",
+    "science",
+    "magazine",
+    "website",
+    "book",
+    "review",
+    "notice",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "website/brochure/guide",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "Book",
+    "now",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "byline",
+    "date",
+    "reviewer",
+    "gives",
+    "rating",
+    "website/advertisement/travel",
+    "science/research",
+    "article",
+    "book/film",
+    "Ctrl"
+  ],
+  "brain_first": "“看文章的功能、格式和读者，不要只看主题。”",
+  "sort_order": 1028,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 45,
+      "sourceIndex": 1236
+    },
+    {
+      "type": "paragraph",
+      "text": "Where is this text most likely from?",
+      "sourcePage": 45,
+      "sourceIndex": 1237
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 45,
+      "sourceIndex": 1238
+    },
+    {
+      "type": "paragraph",
+      "text": "来源题识别 advertisement, travel guide, news",
+      "sourcePage": 45,
+      "sourceIndex": 1239
+    },
+    {
+      "type": "paragraph",
+      "text": "report, science magazine, website, book review,",
+      "sourcePage": 45,
+      "sourceIndex": 1240
+    },
+    {
+      "type": "paragraph",
+      "text": "notice 等。",
+      "sourcePage": 45,
+      "sourceIndex": 1241
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “看文章的功能、格式和读者，不要只看主题。”",
+      "sourcePage": 45,
+      "sourceIndex": 1242
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 同一主题可以出现在不同文体，关键是表达方式和信息功能。",
+      "sourcePage": 45,
+      "sourceIndex": 1243
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 45,
+      "sourceIndex": 1244
+    },
+    {
+      "type": "paragraph",
+      "text": "1 看标题/小标题/价格/联系方式/发布日期等格式。",
+      "sourcePage": 45,
+      "sourceIndex": 1245
+    },
+    {
+      "type": "paragraph",
+      "text": "2 看是否有作者评价、数据报道、操作说明或购买信息。",
+      "sourcePage": 45,
+      "sourceIndex": 1246
+    },
+    {
+      "type": "paragraph",
+      "text": "3 判断目标读者。",
+      "sourcePage": 45,
+      "sourceIndex": 1247
+    },
+    {
+      "type": "paragraph",
+      "text": "4 用“如果真来自这个地方，它为什么要这样写？”验证。",
+      "sourcePage": 45,
+      "sourceIndex": 1248
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 45,
+      "sourceIndex": 1249
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 45,
+      "sourceIndex": 1250
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 45,
+      "sourceIndex": 1251
+    },
+    {
+      "type": "paragraph",
+      "text": "· 价格+开放时间+预订 → website/brochure/guide",
+      "sourcePage": 45,
+      "sourceIndex": 1252
+    },
+    {
+      "type": "paragraph",
+      "text": "· 事件时间地点+引用 → news report",
+      "sourcePage": 45,
+      "sourceIndex": 1253
+    },
+    {
+      "type": "paragraph",
+      "text": "· 研究发现+通俗解释 → science magazine",
+      "sourcePage": 45,
+      "sourceIndex": 1254
+    },
+    {
+      "type": "paragraph",
+      "text": "· 评价一本书+优缺点 → book review",
+      "sourcePage": 45,
+      "sourceIndex": 1255
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 来源能解释格式、语气和功能。",
+      "sourcePage": 45,
+      "sourceIndex": 1256
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 主题相同不代表来源相同；优先看文本“要读者做什么”。",
+      "sourcePage": 45,
+      "sourceIndex": 1257
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 45,
+      "sourceIndex": 1258
+    },
+    {
+      "type": "paragraph",
+      "text": "文章列景点开放时间、票价、交通和“Book now”。更像旅游/场馆网站，不是新闻报道。",
+      "sourcePage": 45,
+      "sourceIndex": 1259
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 45,
+      "sourceIndex": 1260
+    },
+    {
+      "type": "paragraph",
+      "text": "· 根据主题机械判断。",
+      "sourcePage": 45,
+      "sourceIndex": 1261
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略格式线索。",
+      "sourcePage": 45,
+      "sourceIndex": 1262
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 46,
+      "sourceIndex": 1263
+    },
+    {
+      "type": "paragraph",
+      "text": "· 功能匹配吗？",
+      "sourcePage": 46,
+      "sourceIndex": 1264
+    },
+    {
+      "type": "paragraph",
+      "text": "· 目标读者是谁？",
+      "sourcePage": 46,
+      "sourceIndex": 1265
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 46,
+      "sourceIndex": 1266
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 46,
+      "sourceIndex": 1267
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 46,
+      "sourceIndex": 1268
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 出处看功能和格式，不只看主题。",
+      "sourcePage": 46,
+      "sourceIndex": 1269
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 46,
+      "sourceIndex": 1271
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 价格+开放时间+Book now更像？",
+      "sourcePage": 46,
+      "sourceIndex": 1272
+    },
+    {
+      "type": "paragraph",
+      "text": "2. byline+date+事件报道更像？",
+      "sourcePage": 46,
+      "sourceIndex": 1273
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 实验方法+结果更像？",
+      "sourcePage": 46,
+      "sourceIndex": 1274
+    },
+    {
+      "type": "paragraph",
+      "text": "4. “reviewer gives rating”更像？",
+      "sourcePage": 46,
+      "sourceIndex": 1275
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 出处题只看主题够吗？",
+      "sourcePage": 46,
+      "sourceIndex": 1276
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. website/advertisement/travel guide；2. news report；3. science/research article；4. book/film",
+      "sourcePage": 46,
+      "sourceIndex": 1277
+    },
+    {
+      "type": "paragraph",
+      "text": "review；5. 不够，要看格式和语言功能。",
+      "sourcePage": 46,
+      "sourceIndex": 1278
+    },
+    {
+      "type": "paragraph",
+      "text": "— R14 本题型到这里。下次卡住直接 Ctrl+F 搜“R14”或题型关键词。—",
+      "sourcePage": 46,
+      "sourceIndex": 1279
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R14-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Where is this text most likely from?",
+          "sourcePage": 45,
+          "sourceIndex": 1237
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "来源题识别 advertisement, travel guide, news report, science magazine, website, book review, notice 等。",
+          "sourcePage": 45,
+          "sourceIndex": 1239
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“看文章的功能、格式和读者，不要只看主题。”",
+          "sourcePage": 45,
+          "sourceIndex": 1242
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "同一主题可以出现在不同文体，关键是表达方式和信息功能。",
+          "sourcePage": 45,
+          "sourceIndex": 1243
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 看标题/小标题/价格/联系方式/发布日期等格式。",
+          "sourcePage": 45,
+          "sourceIndex": 1245
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 看是否有作者评价、数据报道、操作说明或购买信息。",
+          "sourcePage": 45,
+          "sourceIndex": 1246
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 判断目标读者。",
+          "sourcePage": 45,
+          "sourceIndex": 1247
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 用“如果真来自这个地方，它为什么要这样写？”验证。",
+          "sourcePage": 45,
+          "sourceIndex": 1248
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 45,
+          "sourceIndex": 1249
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 价格+开放时间+预订 → website/brochure/guide",
+          "sourcePage": 45,
+          "sourceIndex": 1252
+        },
+        {
+          "type": "paragraph",
+          "text": "· 事件时间地点+引用 → news report",
+          "sourcePage": 45,
+          "sourceIndex": 1253
+        },
+        {
+          "type": "paragraph",
+          "text": "· 研究发现+通俗解释 → science magazine",
+          "sourcePage": 45,
+          "sourceIndex": 1254
+        },
+        {
+          "type": "paragraph",
+          "text": "· 评价一本书+优缺点 → book review",
+          "sourcePage": 45,
+          "sourceIndex": 1255
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "来源能解释格式、语气和功能。",
+          "sourcePage": 45,
+          "sourceIndex": 1256
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "主题相同不代表来源相同；优先看文本“要读者做什么”。",
+          "sourcePage": 45,
+          "sourceIndex": 1257
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "文章列景点开放时间、票价、交通和“Book now”。更像旅游/场馆网站，不是新闻报道。",
+          "sourcePage": 45,
+          "sourceIndex": 1259
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 根据主题机械判断。",
+          "sourcePage": 45,
+          "sourceIndex": 1261
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略格式线索。",
+          "sourcePage": 45,
+          "sourceIndex": 1262
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 功能匹配吗？",
+          "sourcePage": 46,
+          "sourceIndex": 1264
+        },
+        {
+          "type": "paragraph",
+          "text": "· 目标读者是谁？",
+          "sourcePage": 46,
+          "sourceIndex": 1265
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 46,
+          "sourceIndex": 1266
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 46,
+          "sourceIndex": 1268
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "出处看功能和格式，不只看主题。",
+          "sourcePage": 46,
+          "sourceIndex": 1269
+        }
+      ]
+    },
+    {
+      "id": "EN-R14-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 价格+开放时间+Book now更像？",
+          "sourcePage": 46,
+          "sourceIndex": 1272
+        },
+        {
+          "type": "paragraph",
+          "text": "2. byline+date+事件报道更像？",
+          "sourcePage": 46,
+          "sourceIndex": 1273
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 实验方法+结果更像？",
+          "sourcePage": 46,
+          "sourceIndex": 1274
+        },
+        {
+          "type": "paragraph",
+          "text": "4. “reviewer gives rating”更像？",
+          "sourcePage": 46,
+          "sourceIndex": 1275
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 出处题只看主题够吗？",
+          "sourcePage": 46,
+          "sourceIndex": 1276
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. website/advertisement/travel guide；2. news report；3. science/research article；4. book/film review；5. 不够，要看格式和语言功能。",
+          "sourcePage": 46,
+          "sourceIndex": 1277
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 45,
+    "endPage": 46
+  }
+}

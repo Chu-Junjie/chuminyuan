@@ -1,0 +1,595 @@
+{
+  "id": "EN-C2",
+  "code": "C2",
+  "title": "名词题：缺的是哪一类东西？",
+  "subject_id": "english",
+  "chapter_id": "en-cloze",
+  "chapter": "完形填空",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "C2",
+    "名词题：缺的是哪一类东西？",
+    "完形填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "V/N/Adj/Adv",
+    "worried",
+    "help",
+    "relieved",
+    "IF/THEN",
+    "then",
+    "make",
+    "decision",
+    "take",
+    "action",
+    "give",
+    "advice",
+    "fear",
+    "anxiety",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "Her",
+    "kind",
+    "words",
+    "gave",
+    "try",
+    "again",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "C-P",
+    "C-X",
+    "C-R",
+    "C-E",
+    "C-S",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "sense",
+    "problem",
+    "solution",
+    "Ctrl"
+  ],
+  "brain_first": "“先判类别：人、物、事件、结果、感受、品质，再比具体词 义。”",
+  "sort_order": 1042,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 64,
+      "sourceIndex": 1790
+    },
+    {
+      "type": "paragraph",
+      "text": "四个选项多为名词。",
+      "sourcePage": 64,
+      "sourceIndex": 1791
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 64,
+      "sourceIndex": 1792
+    },
+    {
+      "type": "paragraph",
+      "text": "名词题常通过上下文语义场和搭配锁定。",
+      "sourcePage": 64,
+      "sourceIndex": 1793
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先判类别：人、物、事件、结果、感受、品质，再比具体词",
+      "sourcePage": 64,
+      "sourceIndex": 1794
+    },
+    {
+      "type": "paragraph",
+      "text": "义。”",
+      "sourcePage": 64,
+      "sourceIndex": 1795
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 先确定空位“功能类别”能大幅减少选项。",
+      "sourcePage": 65,
+      "sourceIndex": 1796
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 65,
+      "sourceIndex": 1797
+    },
+    {
+      "type": "paragraph",
+      "text": "1 看冠词/形容词/介词判断空位确实要名词。",
+      "sourcePage": 65,
+      "sourceIndex": 1798
+    },
+    {
+      "type": "paragraph",
+      "text": "2 问这个名词在句中表示什么类别。",
+      "sourcePage": 65,
+      "sourceIndex": 1799
+    },
+    {
+      "type": "paragraph",
+      "text": "3 找上下文重复/同义词。",
+      "sourcePage": 65,
+      "sourceIndex": 1800
+    },
+    {
+      "type": "paragraph",
+      "text": "4 检查固定搭配和单复数语义。",
+      "sourcePage": 65,
+      "sourceIndex": 1801
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如",
+      "sourcePage": 65,
+      "sourceIndex": 1802
+    },
+    {
+      "type": "paragraph",
+      "text": "worried→help→relieved；难空先打 ? 继续。",
+      "sourcePage": 65,
+      "sourceIndex": 1803
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 65,
+      "sourceIndex": 1804
+    },
+    {
+      "type": "paragraph",
+      "text": "· make a decision / take action / give advice 等搭配可直接锁定",
+      "sourcePage": 65,
+      "sourceIndex": 1805
+    },
+    {
+      "type": "paragraph",
+      "text": "· 前文出现“fear”后文可能用“anxiety”同义复现",
+      "sourcePage": 65,
+      "sourceIndex": 1806
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 词义、类别、搭配同时成立。",
+      "sourcePage": 65,
+      "sourceIndex": 1807
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 两个名词都合理时，查前后是否有同义复现或更具体的情节指向。",
+      "sourcePage": 65,
+      "sourceIndex": 1808
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 65,
+      "sourceIndex": 1809
+    },
+    {
+      "type": "paragraph",
+      "text": "Her kind words gave me the ___ to try again. 语义需要“勇气/信心”类抽象名词，不是具体物品。",
+      "sourcePage": 65,
+      "sourceIndex": 1810
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 65,
+      "sourceIndex": 1811
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只因为一个词“高级”就选。",
+      "sourcePage": 65,
+      "sourceIndex": 1812
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略冠词与单复数。",
+      "sourcePage": 65,
+      "sourceIndex": 1813
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 65,
+      "sourceIndex": 1814
+    },
+    {
+      "type": "paragraph",
+      "text": "· 类别对吗？",
+      "sourcePage": 65,
+      "sourceIndex": 1815
+    },
+    {
+      "type": "paragraph",
+      "text": "· 搭配对吗？",
+      "sourcePage": 65,
+      "sourceIndex": 1816
+    },
+    {
+      "type": "paragraph",
+      "text": "· 上下文有复现吗？",
+      "sourcePage": 65,
+      "sourceIndex": 1817
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现",
+      "sourcePage": 65,
+      "sourceIndex": 1818
+    },
+    {
+      "type": "paragraph",
+      "text": "｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+      "sourcePage": 65,
+      "sourceIndex": 1819
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 65,
+      "sourceIndex": 1820
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 名词先判“它是什么类别”。",
+      "sourcePage": 65,
+      "sourceIndex": 1821
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 66,
+      "sourceIndex": 1823
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 名词题先判断？",
+      "sourcePage": 66,
+      "sourceIndex": 1824
+    },
+    {
+      "type": "paragraph",
+      "text": "2. “a sense of ___”通常需要？",
+      "sourcePage": 66,
+      "sourceIndex": 1825
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 前文反复提problem，后文solution可能构成？",
+      "sourcePage": 66,
+      "sourceIndex": 1826
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 两个名词都认识但一具体一抽象，怎么选？",
+      "sourcePage": 66,
+      "sourceIndex": 1827
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 名词单复数是否也可能影响选择？",
+      "sourcePage": 66,
+      "sourceIndex": 1828
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 缺人/物/事件/结果/感受/概念哪一类。；2. 名词；3. 语义呼应。；4. 看句子需要的语义类别。；5.",
+      "sourcePage": 66,
+      "sourceIndex": 1829
+    },
+    {
+      "type": "paragraph",
+      "text": "会。",
+      "sourcePage": 66,
+      "sourceIndex": 1830
+    },
+    {
+      "type": "paragraph",
+      "text": "— C2 本题型到这里。下次卡住直接 Ctrl+F 搜“C2”或题型关键词。—",
+      "sourcePage": 66,
+      "sourceIndex": 1831
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-C2-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "四个选项多为名词。",
+          "sourcePage": 64,
+          "sourceIndex": 1791
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "名词题常通过上下文语义场和搭配锁定。",
+          "sourcePage": 64,
+          "sourceIndex": 1793
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先判类别：人、物、事件、结果、感受、品质，再比具体词 义。”",
+          "sourcePage": 64,
+          "sourceIndex": 1794
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "先确定空位“功能类别”能大幅减少选项。",
+          "sourcePage": 65,
+          "sourceIndex": 1796
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 看冠词/形容词/介词判断空位确实要名词。",
+          "sourcePage": 65,
+          "sourceIndex": 1798
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 问这个名词在句中表示什么类别。",
+          "sourcePage": 65,
+          "sourceIndex": 1799
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 找上下文重复/同义词。",
+          "sourcePage": 65,
+          "sourceIndex": 1800
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 检查固定搭配和单复数语义。",
+          "sourcePage": 65,
+          "sourceIndex": 1801
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 在空旁标词性 V/N/Adj/Adv；故事题用箭头记情绪/动作，如 worried→help→relieved；难空先打 ? 继续。",
+          "sourcePage": 65,
+          "sourceIndex": 1802
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· make a decision / take action / give advice 等搭配可直接锁定",
+          "sourcePage": 65,
+          "sourceIndex": 1805
+        },
+        {
+          "type": "paragraph",
+          "text": "· 前文出现“fear”后文可能用“anxiety”同义复现",
+          "sourcePage": 65,
+          "sourceIndex": 1806
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "词义、类别、搭配同时成立。",
+          "sourcePage": 65,
+          "sourceIndex": 1807
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "两个名词都合理时，查前后是否有同义复现或更具体的情节指向。",
+          "sourcePage": 65,
+          "sourceIndex": 1808
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Her kind words gave me the ___ to try again. 语义需要“勇气/信心”类抽象名词，不是具体物品。",
+          "sourcePage": 65,
+          "sourceIndex": 1810
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只因为一个词“高级”就选。",
+          "sourcePage": 65,
+          "sourceIndex": 1812
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略冠词与单复数。",
+          "sourcePage": 65,
+          "sourceIndex": 1813
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 类别对吗？",
+          "sourcePage": 65,
+          "sourceIndex": 1815
+        },
+        {
+          "type": "paragraph",
+          "text": "· 搭配对吗？",
+          "sourcePage": 65,
+          "sourceIndex": 1816
+        },
+        {
+          "type": "paragraph",
+          "text": "· 上下文有复现吗？",
+          "sourcePage": 65,
+          "sourceIndex": 1817
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： C-P 词性错｜C-X 搭配错｜C-R 复现没发现 ｜C-E 情绪线错｜C-S 故事情节逻辑错。",
+          "sourcePage": 65,
+          "sourceIndex": 1818
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 65,
+          "sourceIndex": 1820
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "名词先判“它是什么类别”。",
+          "sourcePage": 65,
+          "sourceIndex": 1821
+        }
+      ]
+    },
+    {
+      "id": "EN-C2-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 名词题先判断？",
+          "sourcePage": 66,
+          "sourceIndex": 1824
+        },
+        {
+          "type": "paragraph",
+          "text": "2. “a sense of ___”通常需要？",
+          "sourcePage": 66,
+          "sourceIndex": 1825
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 前文反复提problem，后文solution可能构成？",
+          "sourcePage": 66,
+          "sourceIndex": 1826
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 两个名词都认识但一具体一抽象，怎么选？",
+          "sourcePage": 66,
+          "sourceIndex": 1827
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 名词单复数是否也可能影响选择？",
+          "sourcePage": 66,
+          "sourceIndex": 1828
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 缺人/物/事件/结果/感受/概念哪一类。；2. 名词；3. 语义呼应。；4. 看句子需要的语义类别。；5. 会。",
+          "sourcePage": 66,
+          "sourceIndex": 1829
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 64,
+    "endPage": 66
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "id": "EN-L10",
+  "code": "L10",
+  "title": "转折、改口与信息更新",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "L10",
+    "转折、改口与信息更新",
+    "听力",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "but",
+    "however",
+    "actually",
+    "instead",
+    "rather",
+    "unfortunately",
+    "fact",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "old",
+    "new",
+    "drive",
+    "sleep",
+    "IF/THEN",
+    "then",
+    "not",
+    "planned",
+    "good",
+    "expensive",
+    "mixed",
+    "positive",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "thought",
+    "lecture",
+    "would",
+    "boring",
+    "turned",
+    "out",
+    "very",
+    "practical",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "L-K",
+    "L-C",
+    "L-P",
+    "L-I",
+    "L-A",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "was",
+    "Ctrl"
+  ],
+  "brain_first": "“转折前先记，转折后重新判断。”",
+  "sort_order": 1013,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 21,
+      "sourceIndex": 584
+    },
+    {
+      "type": "paragraph",
+      "text": "材料出现 but, however, actually, instead, rather,",
+      "sourcePage": 21,
+      "sourceIndex": 585
+    },
+    {
+      "type": "paragraph",
+      "text": "unfortunately, in fact。",
+      "sourcePage": 21,
+      "sourceIndex": 586
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 21,
+      "sourceIndex": 587
+    },
+    {
+      "type": "paragraph",
+      "text": "转折词说明说话人要纠正、限制或改变前面的信",
+      "sourcePage": 21,
+      "sourceIndex": 588
+    },
+    {
+      "type": "paragraph",
+      "text": "息。",
+      "sourcePage": 21,
+      "sourceIndex": 589
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “转折前先记，转折后重新判断。”",
+      "sourcePage": 21,
+      "sourceIndex": 590
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 高考常把转折前内容放进干扰项。",
+      "sourcePage": 21,
+      "sourceIndex": 591
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 21,
+      "sourceIndex": 592
+    },
+    {
+      "type": "paragraph",
+      "text": "1 听到转折词时在草稿上画“→”。",
+      "sourcePage": 21,
+      "sourceIndex": 593
+    },
+    {
+      "type": "paragraph",
+      "text": "2 比较转折前后哪个更接近题干要求。",
+      "sourcePage": 21,
+      "sourceIndex": 594
+    },
+    {
+      "type": "paragraph",
+      "text": "3 如果是“不是A而是B”，直接划掉A。",
+      "sourcePage": 21,
+      "sourceIndex": 595
+    },
+    {
+      "type": "paragraph",
+      "text": "4 若后面只是补充而非否定，保留两部分信息。",
+      "sourcePage": 22,
+      "sourceIndex": 596
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计",
+      "sourcePage": 22,
+      "sourceIndex": 597
+    },
+    {
+      "type": "paragraph",
+      "text": "划写成“drive→sleep”；不要抄完整句。",
+      "sourcePage": 22,
+      "sourceIndex": 598
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 22,
+      "sourceIndex": 599
+    },
+    {
+      "type": "paragraph",
+      "text": "· not A but B → 选B",
+      "sourcePage": 22,
+      "sourceIndex": 600
+    },
+    {
+      "type": "paragraph",
+      "text": "· planned A, but... → 看后面最终计划",
+      "sourcePage": 22,
+      "sourceIndex": 601
+    },
+    {
+      "type": "paragraph",
+      "text": "· good, but expensive → 总评价可能是 mixed，而不是纯 positive",
+      "sourcePage": 22,
+      "sourceIndex": 602
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 转折后的信息已经完整表达最终立场/事实。",
+      "sourcePage": 22,
+      "sourceIndex": 603
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 没听清转折后具体词时，至少知道“前面那个答案需要降级”，再利用选项方",
+      "sourcePage": 22,
+      "sourceIndex": 604
+    },
+    {
+      "type": "paragraph",
+      "text": "向排除。",
+      "sourcePage": 22,
+      "sourceIndex": 605
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 22,
+      "sourceIndex": 606
+    },
+    {
+      "type": "paragraph",
+      "text": "I thought the lecture would be boring, but it turned out to be very practical.",
+      "sourcePage": 22,
+      "sourceIndex": 607
+    },
+    {
+      "type": "paragraph",
+      "text": "最终态度是positive，不能选boring。",
+      "sourcePage": 22,
+      "sourceIndex": 608
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 22,
+      "sourceIndex": 609
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把 but 前内容当最终答案。",
+      "sourcePage": 22,
+      "sourceIndex": 610
+    },
+    {
+      "type": "paragraph",
+      "text": "· 看见 however 就机械认为后面一定是完全相反。",
+      "sourcePage": 22,
+      "sourceIndex": 611
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 22,
+      "sourceIndex": 612
+    },
+    {
+      "type": "paragraph",
+      "text": "· 转折是纠正、限制还是补充？",
+      "sourcePage": 22,
+      "sourceIndex": 613
+    },
+    {
+      "type": "paragraph",
+      "text": "· 最终立场在哪里？",
+      "sourcePage": 22,
+      "sourceIndex": 614
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同",
+      "sourcePage": 22,
+      "sourceIndex": 615
+    },
+    {
+      "type": "paragraph",
+      "text": "义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+      "sourcePage": 22,
+      "sourceIndex": 616
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 22,
+      "sourceIndex": 617
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 转折后重新算一次。",
+      "sourcePage": 22,
+      "sourceIndex": 618
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 22,
+      "sourceIndex": 620
+    },
+    {
+      "type": "paragraph",
+      "text": "1. “I thought it was boring, but it was practical.”最终态度？",
+      "sourcePage": 22,
+      "sourceIndex": 621
+    },
+    {
+      "type": "paragraph",
+      "text": "2. not A but B，应选？",
+      "sourcePage": 22,
+      "sourceIndex": 622
+    },
+    {
+      "type": "paragraph",
+      "text": "3. however 后一定与前面完全相反吗？",
+      "sourcePage": 22,
+      "sourceIndex": 623
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 听到 actually 最该做？",
+      "sourcePage": 22,
+      "sourceIndex": 624
+    },
+    {
+      "type": "paragraph",
+      "text": "5. good but expensive，评价可能是？",
+      "sourcePage": 22,
+      "sourceIndex": 625
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. positive；2. B；3. 不一定，也可能限制/修正。；4. 准备更新前面的信息。；5. mixed，不能只取",
+      "sourcePage": 23,
+      "sourceIndex": 626
+    },
+    {
+      "type": "paragraph",
+      "text": "good。",
+      "sourcePage": 23,
+      "sourceIndex": 627
+    },
+    {
+      "type": "paragraph",
+      "text": "— L10 本题型到这里。下次卡住直接 Ctrl+F 搜“L10”或题型关键词。—",
+      "sourcePage": 23,
+      "sourceIndex": 628
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-L10-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "材料出现 but, however, actually, instead, rather, unfortunately, in fact。",
+          "sourcePage": 21,
+          "sourceIndex": 585
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "转折词说明说话人要纠正、限制或改变前面的信 息。",
+          "sourcePage": 21,
+          "sourceIndex": 588
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“转折前先记，转折后重新判断。”",
+          "sourcePage": 21,
+          "sourceIndex": 590
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "高考常把转折前内容放进干扰项。",
+          "sourcePage": 21,
+          "sourceIndex": 591
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 听到转折词时在草稿上画“→”。",
+          "sourcePage": 21,
+          "sourceIndex": 593
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 比较转折前后哪个更接近题干要求。",
+          "sourcePage": 21,
+          "sourceIndex": 594
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 如果是“不是A而是B”，直接划掉A。",
+          "sourcePage": 21,
+          "sourceIndex": 595
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 若后面只是补充而非否定，保留两部分信息。",
+          "sourcePage": 22,
+          "sourceIndex": 596
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计 划写成“drive→sleep”；不要抄完整句。",
+          "sourcePage": 22,
+          "sourceIndex": 597
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· not A but B → 选B",
+          "sourcePage": 22,
+          "sourceIndex": 600
+        },
+        {
+          "type": "paragraph",
+          "text": "· planned A, but... → 看后面最终计划",
+          "sourcePage": 22,
+          "sourceIndex": 601
+        },
+        {
+          "type": "paragraph",
+          "text": "· good, but expensive → 总评价可能是 mixed，而不是纯 positive",
+          "sourcePage": 22,
+          "sourceIndex": 602
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "转折后的信息已经完整表达最终立场/事实。",
+          "sourcePage": 22,
+          "sourceIndex": 603
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "没听清转折后具体词时，至少知道“前面那个答案需要降级”，再利用选项方 向排除。",
+          "sourcePage": 22,
+          "sourceIndex": 604
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I thought the lecture would be boring, but it turned out to be very practical. 最终态度是positive，不能选boring。",
+          "sourcePage": 22,
+          "sourceIndex": 607
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把 but 前内容当最终答案。",
+          "sourcePage": 22,
+          "sourceIndex": 610
+        },
+        {
+          "type": "paragraph",
+          "text": "· 看见 however 就机械认为后面一定是完全相反。",
+          "sourcePage": 22,
+          "sourceIndex": 611
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 转折是纠正、限制还是补充？",
+          "sourcePage": 22,
+          "sourceIndex": 613
+        },
+        {
+          "type": "paragraph",
+          "text": "· 最终立场在哪里？",
+          "sourcePage": 22,
+          "sourceIndex": 614
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同 义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+          "sourcePage": 22,
+          "sourceIndex": 615
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 22,
+          "sourceIndex": 617
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "转折后重新算一次。",
+          "sourcePage": 22,
+          "sourceIndex": 618
+        }
+      ]
+    },
+    {
+      "id": "EN-L10-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. “I thought it was boring, but it was practical.”最终态度？",
+          "sourcePage": 22,
+          "sourceIndex": 621
+        },
+        {
+          "type": "paragraph",
+          "text": "2. not A but B，应选？",
+          "sourcePage": 22,
+          "sourceIndex": 622
+        },
+        {
+          "type": "paragraph",
+          "text": "3. however 后一定与前面完全相反吗？",
+          "sourcePage": 22,
+          "sourceIndex": 623
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 听到 actually 最该做？",
+          "sourcePage": 22,
+          "sourceIndex": 624
+        },
+        {
+          "type": "paragraph",
+          "text": "5. good but expensive，评价可能是？",
+          "sourcePage": 22,
+          "sourceIndex": 625
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. positive；2. B；3. 不一定，也可能限制/修正。；4. 准备更新前面的信息。；5. mixed，不能只取 good。",
+          "sourcePage": 23,
+          "sourceIndex": 626
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 21,
+    "endPage": 23
+  }
+}

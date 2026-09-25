@@ -1,0 +1,638 @@
+{
+  "id": "EN-L9",
+  "code": "L9",
+  "title": "同义替换",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "L9",
+    "同义替换",
+    "听力",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "inexpensive",
+    "affordable",
+    "decide",
+    "not",
+    "cancel",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "hardly",
+    "rarely",
+    "failed",
+    "longer",
+    "old",
+    "new",
+    "drive",
+    "sleep",
+    "IF/THEN",
+    "then",
+    "cheap",
+    "delay",
+    "put",
+    "off",
+    "postpone",
+    "choose",
+    "against",
+    "unable",
+    "cannot",
+    "manage",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "The",
+    "repair",
+    "won",
+    "cost",
+    "much",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "L-K",
+    "L-C",
+    "L-P",
+    "L-I",
+    "L-A",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "attend",
+    "available",
+    "affordable/cheap",
+    "delay/postpone",
+    "cancel/choose",
+    "anymore",
+    "Ctrl"
+  ],
+  "brain_first": "“不要等选项原词出现；听意思。”",
+  "sort_order": 1012,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 20,
+      "sourceIndex": 537
+    },
+    {
+      "type": "paragraph",
+      "text": "录音与选项意思相同但用词不同，例如",
+      "sourcePage": 20,
+      "sourceIndex": 538
+    },
+    {
+      "type": "paragraph",
+      "text": "inexpensive → affordable; decide not to go →",
+      "sourcePage": 20,
+      "sourceIndex": 539
+    },
+    {
+      "type": "paragraph",
+      "text": "cancel。",
+      "sourcePage": 20,
+      "sourceIndex": 540
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 20,
+      "sourceIndex": 541
+    },
+    {
+      "type": "paragraph",
+      "text": "同义替换是听力和阅读共同的核心能力。",
+      "sourcePage": 20,
+      "sourceIndex": 542
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “不要等选项原词出现；听意思。”",
+      "sourcePage": 20,
+      "sourceIndex": 543
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 命题人若把原句原词直接搬到正确选项，题目会太容易，因此常换表达方式。",
+      "sourcePage": 20,
+      "sourceIndex": 544
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 20,
+      "sourceIndex": 545
+    },
+    {
+      "type": "paragraph",
+      "text": "1 看选项，先用中文/简单英语概括每个选项的核心意思。",
+      "sourcePage": 20,
+      "sourceIndex": 546
+    },
+    {
+      "type": "paragraph",
+      "text": "2 听录音时匹配“意思”，而不是字面。",
+      "sourcePage": 20,
+      "sourceIndex": 547
+    },
+    {
+      "type": "paragraph",
+      "text": "3 特别注意否定换表达：hardly / rarely / failed to / no longer。",
+      "sourcePage": 20,
+      "sourceIndex": 548
+    },
+    {
+      "type": "paragraph",
+      "text": "4 听到近义改写时立即在选项旁打勾。",
+      "sourcePage": 20,
+      "sourceIndex": 549
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计",
+      "sourcePage": 20,
+      "sourceIndex": 550
+    },
+    {
+      "type": "paragraph",
+      "text": "划写成“drive→sleep”；不要抄完整句。",
+      "sourcePage": 20,
+      "sourceIndex": 551
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 20,
+      "sourceIndex": 552
+    },
+    {
+      "type": "paragraph",
+      "text": "· cheap ↔ affordable",
+      "sourcePage": 20,
+      "sourceIndex": 553
+    },
+    {
+      "type": "paragraph",
+      "text": "· delay ↔ put off / postpone",
+      "sourcePage": 20,
+      "sourceIndex": 554
+    },
+    {
+      "type": "paragraph",
+      "text": "· choose not to ↔ decide against",
+      "sourcePage": 20,
+      "sourceIndex": 555
+    },
+    {
+      "type": "paragraph",
+      "text": "· be unable to ↔ cannot manage to",
+      "sourcePage": 20,
+      "sourceIndex": 556
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 某个选项与录音意思一致，即使没有同词。",
+      "sourcePage": 20,
+      "sourceIndex": 557
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 如果三个选项都有熟词，优先比较核心动作和方向，不纠结单个词。",
+      "sourcePage": 20,
+      "sourceIndex": 558
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 20,
+      "sourceIndex": 559
+    },
+    {
+      "type": "paragraph",
+      "text": "The repair won't cost much. 与 The repair is inexpensive. 意思一致。",
+      "sourcePage": 20,
+      "sourceIndex": 560
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 20,
+      "sourceIndex": 561
+    },
+    {
+      "type": "paragraph",
+      "text": "· “没听到选项原词”就排除。",
+      "sourcePage": 20,
+      "sourceIndex": 562
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只做词对词匹配。",
+      "sourcePage": 20,
+      "sourceIndex": 563
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 21,
+      "sourceIndex": 564
+    },
+    {
+      "type": "paragraph",
+      "text": "· 动作相同吗？",
+      "sourcePage": 21,
+      "sourceIndex": 565
+    },
+    {
+      "type": "paragraph",
+      "text": "· 肯定/否定方向相同吗？",
+      "sourcePage": 21,
+      "sourceIndex": 566
+    },
+    {
+      "type": "paragraph",
+      "text": "· 程度有没有被放大？",
+      "sourcePage": 21,
+      "sourceIndex": 567
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同",
+      "sourcePage": 21,
+      "sourceIndex": 568
+    },
+    {
+      "type": "paragraph",
+      "text": "义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+      "sourcePage": 21,
+      "sourceIndex": 569
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 21,
+      "sourceIndex": 570
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 听原意，不等原词。",
+      "sourcePage": 21,
+      "sourceIndex": 571
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 21,
+      "sourceIndex": 573
+    },
+    {
+      "type": "paragraph",
+      "text": "1. inexpensive ↔ ?",
+      "sourcePage": 21,
+      "sourceIndex": 574
+    },
+    {
+      "type": "paragraph",
+      "text": "2. put off ↔ ?",
+      "sourcePage": 21,
+      "sourceIndex": 575
+    },
+    {
+      "type": "paragraph",
+      "text": "3. decide not to attend ↔ ?",
+      "sourcePage": 21,
+      "sourceIndex": 576
+    },
+    {
+      "type": "paragraph",
+      "text": "4. no longer available ↔ ?",
+      "sourcePage": 21,
+      "sourceIndex": 577
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 同义替换时还要检查哪些方向？",
+      "sourcePage": 21,
+      "sourceIndex": 578
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. affordable/cheap；2. delay/postpone；3. cancel/choose not to go；4. not available anymore；",
+      "sourcePage": 21,
+      "sourceIndex": 579
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 肯否、程度、主语/对象。",
+      "sourcePage": 21,
+      "sourceIndex": 580
+    },
+    {
+      "type": "paragraph",
+      "text": "— L9 本题型到这里。下次卡住直接 Ctrl+F 搜“L9”或题型关键词。—",
+      "sourcePage": 21,
+      "sourceIndex": 581
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-L9-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "录音与选项意思相同但用词不同，例如 inexpensive → affordable; decide not to go → cancel。",
+          "sourcePage": 20,
+          "sourceIndex": 538
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "同义替换是听力和阅读共同的核心能力。",
+          "sourcePage": 20,
+          "sourceIndex": 542
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“不要等选项原词出现；听意思。”",
+          "sourcePage": 20,
+          "sourceIndex": 543
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "命题人若把原句原词直接搬到正确选项，题目会太容易，因此常换表达方式。",
+          "sourcePage": 20,
+          "sourceIndex": 544
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 看选项，先用中文/简单英语概括每个选项的核心意思。",
+          "sourcePage": 20,
+          "sourceIndex": 546
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 听录音时匹配“意思”，而不是字面。",
+          "sourcePage": 20,
+          "sourceIndex": 547
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 特别注意否定换表达：hardly / rarely / failed to / no longer。",
+          "sourcePage": 20,
+          "sourceIndex": 548
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 听到近义改写时立即在选项旁打勾。",
+          "sourcePage": 20,
+          "sourceIndex": 549
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计 划写成“drive→sleep”；不要抄完整句。",
+          "sourcePage": 20,
+          "sourceIndex": 550
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· cheap ↔ affordable",
+          "sourcePage": 20,
+          "sourceIndex": 553
+        },
+        {
+          "type": "paragraph",
+          "text": "· delay ↔ put off / postpone",
+          "sourcePage": 20,
+          "sourceIndex": 554
+        },
+        {
+          "type": "paragraph",
+          "text": "· choose not to ↔ decide against",
+          "sourcePage": 20,
+          "sourceIndex": 555
+        },
+        {
+          "type": "paragraph",
+          "text": "· be unable to ↔ cannot manage to",
+          "sourcePage": 20,
+          "sourceIndex": 556
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "某个选项与录音意思一致，即使没有同词。",
+          "sourcePage": 20,
+          "sourceIndex": 557
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果三个选项都有熟词，优先比较核心动作和方向，不纠结单个词。",
+          "sourcePage": 20,
+          "sourceIndex": 558
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The repair won't cost much. 与 The repair is inexpensive. 意思一致。",
+          "sourcePage": 20,
+          "sourceIndex": 560
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· “没听到选项原词”就排除。",
+          "sourcePage": 20,
+          "sourceIndex": 562
+        },
+        {
+          "type": "paragraph",
+          "text": "· 只做词对词匹配。",
+          "sourcePage": 20,
+          "sourceIndex": 563
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 动作相同吗？",
+          "sourcePage": 21,
+          "sourceIndex": 565
+        },
+        {
+          "type": "paragraph",
+          "text": "· 肯定/否定方向相同吗？",
+          "sourcePage": 21,
+          "sourceIndex": 566
+        },
+        {
+          "type": "paragraph",
+          "text": "· 程度有没有被放大？",
+          "sourcePage": 21,
+          "sourceIndex": 567
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同 义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+          "sourcePage": 21,
+          "sourceIndex": 568
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 21,
+          "sourceIndex": 570
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "听原意，不等原词。",
+          "sourcePage": 21,
+          "sourceIndex": 571
+        }
+      ]
+    },
+    {
+      "id": "EN-L9-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. inexpensive ↔ ?",
+          "sourcePage": 21,
+          "sourceIndex": 574
+        },
+        {
+          "type": "paragraph",
+          "text": "2. put off ↔ ?",
+          "sourcePage": 21,
+          "sourceIndex": 575
+        },
+        {
+          "type": "paragraph",
+          "text": "3. decide not to attend ↔ ?",
+          "sourcePage": 21,
+          "sourceIndex": 576
+        },
+        {
+          "type": "paragraph",
+          "text": "4. no longer available ↔ ?",
+          "sourcePage": 21,
+          "sourceIndex": 577
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 同义替换时还要检查哪些方向？",
+          "sourcePage": 21,
+          "sourceIndex": 578
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. affordable/cheap；2. delay/postpone；3. cancel/choose not to go；4. not available anymore； 5. 肯否、程度、主语/对象。",
+          "sourcePage": 21,
+          "sourceIndex": 579
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 20,
+    "endPage": 21
+  }
+}

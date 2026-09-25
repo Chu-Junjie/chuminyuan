@@ -1,0 +1,304 @@
+{
+  "id": "EN-8-2",
+  "code": "8.2",
+  "title": "Tenses 时态",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.2",
+    "Tenses 时态",
+    "语法工具箱",
+    "Tense",
+    "Common",
+    "clues",
+    "Example",
+    "Simple",
+    "present",
+    "usually",
+    "often",
+    "every",
+    "facts",
+    "Water",
+    "boils",
+    "past",
+    "yesterday",
+    "last",
+    "story",
+    "She",
+    "moved",
+    "here",
+    "year",
+    "future",
+    "tomorrow",
+    "next",
+    "will",
+    "going",
+    "meet",
+    "Present",
+    "continuous",
+    "now",
+    "currently",
+    "They",
+    "are",
+    "building",
+    "new",
+    "bridge",
+    "Past",
+    "when",
+    "was",
+    "studying",
+    "called",
+    "perfect",
+    "since",
+    "for",
+    "already",
+    "recently",
+    "has",
+    "lived",
+    "five",
+    "years",
+    "the",
+    "time",
+    "before",
+    "The",
+    "train",
+    "had",
+    "left",
+    "arrived",
+    "for/since",
+    "ongoing",
+    "activity",
+    "been",
+    "working",
+    "all",
+    "morning",
+    "Future",
+    "would",
+    "said",
+    "she",
+    "return",
+    "this",
+    "taking",
+    "exam"
+  ],
+  "brain_first": "按原文查阅 Tenses 时态",
+  "sort_order": 1073,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tense",
+          "脑内判断",
+          "Common clues",
+          "Example"
+        ],
+        [
+          "Simple present 一般现在",
+          "经常/事实/规律/当前稳\n定状态",
+          "usually, often, every...,\nfacts",
+          "Water boils at 100°C."
+        ],
+        [
+          "Simple past 一般过去",
+          "过去某时发生并结束",
+          "yesterday, last..., in\n2024, story past",
+          "She moved here last year."
+        ]
+      ],
+      "text": "Tense | 脑内判断 | Common clues | Example\nSimple present 一般现在 | 经常/事实/规律/当前稳\n定状态 | usually, often, every...,\nfacts | Water boils at 100°C.\nSimple past 一般过去 | 过去某时发生并结束 | yesterday, last..., in\n2024, story past | She moved here last year.",
+      "sourcePage": 106,
+      "sourceIndex": 2842
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Tense",
+          "脑内判断",
+          "Common clues",
+          "Example"
+        ],
+        [
+          "Simple future 一般将来",
+          "从现在看将来",
+          "tomorrow, next..., will,\nbe going to",
+          "We will meet tomorrow."
+        ],
+        [
+          "Present continuous 现在进行",
+          "现在正在/阶段性进行",
+          "now, at present,\ncurrently",
+          "They are building a new\nbridge."
+        ],
+        [
+          "Past continuous 过去进行",
+          "过去某时正在",
+          "at 8 yesterday, when...",
+          "I was studying when he\ncalled."
+        ],
+        [
+          "Present perfect 现在完成",
+          "过去发生但与现在有\n关；或持续到现在",
+          "since, for, already,\nrecently",
+          "She has lived here for five\nyears."
+        ],
+        [
+          "Past perfect 过去完成",
+          "两个过去动作，更早那\n个",
+          "by the time, before +\npast",
+          "The train had left before we\narrived."
+        ],
+        [
+          "Present perfect continuous\n现在完成进行（低频）",
+          "持续到现在且强调过程",
+          "for/since + ongoing\nactivity",
+          "He has been working all\nmorning."
+        ],
+        [
+          "Future in the past 过去将来\n（低频）",
+          "站在过去看将来",
+          "would, was going to",
+          "She said she would return."
+        ],
+        [
+          "Future continuous 将来进行",
+          "未来某个时间正在发\n生；或按安排届时会发\n生",
+          "at this time tomorrow,\nthis time next...",
+          "I will be taking the exam at\nthis time tomorrow."
+        ]
+      ],
+      "text": "Tense | 脑内判断 | Common clues | Example\nSimple future 一般将来 | 从现在看将来 | tomorrow, next..., will,\nbe going to | We will meet tomorrow.\nPresent continuous 现在进行 | 现在正在/阶段性进行 | now, at present,\ncurrently | They are building a new\nbridge.\nPast continuous 过去进行 | 过去某时正在 | at 8 yesterday, when... | I was studying when he\ncalled.\nPresent perfect 现在完成 | 过去发生但与现在有\n关；或持续到现在 | since, for, already,\nrecently | She has lived here for five\nyears.\nPast perfect 过去完成 | 两个过去动作，更早那\n个 | by the time, before +\npast | The train had left before we\narrived.\nPresent perfect continuous\n现在完成进行（低频） | 持续到现在且强调过程 | for/since + ongoing\nactivity | He has been working all\nmorning.\nFuture in the past 过去将来\n（低频） | 站在过去看将来 | would, was going to | She said she would return.\nFuture continuous 将来进行 | 未来某个时间正在发\n生；或按安排届时会发\n生 | at this time tomorrow,\nthis time next... | I will be taking the exam at\nthis time tomorrow.",
+      "sourcePage": 107,
+      "sourceIndex": 2843
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "时态不要只看一个时间词。先确定整段时间背景，再看这个动作与其他动作的先后。"
+        ]
+      ],
+      "text": " | 时态不要只看一个时间词。先确定整段时间背景，再看这个动作与其他动作的先后。",
+      "sourcePage": 107,
+      "sourceIndex": 2844
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-2-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tense",
+              "脑内判断",
+              "Common clues",
+              "Example"
+            ],
+            [
+              "Simple present 一般现在",
+              "经常/事实/规律/当前稳\n定状态",
+              "usually, often, every...,\nfacts",
+              "Water boils at 100°C."
+            ],
+            [
+              "Simple past 一般过去",
+              "过去某时发生并结束",
+              "yesterday, last..., in\n2024, story past",
+              "She moved here last year."
+            ]
+          ],
+          "text": "Tense | 脑内判断 | Common clues | Example\nSimple present 一般现在 | 经常/事实/规律/当前稳\n定状态 | usually, often, every...,\nfacts | Water boils at 100°C.\nSimple past 一般过去 | 过去某时发生并结束 | yesterday, last..., in\n2024, story past | She moved here last year.",
+          "sourcePage": 106,
+          "sourceIndex": 2842
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Tense",
+              "脑内判断",
+              "Common clues",
+              "Example"
+            ],
+            [
+              "Simple future 一般将来",
+              "从现在看将来",
+              "tomorrow, next..., will,\nbe going to",
+              "We will meet tomorrow."
+            ],
+            [
+              "Present continuous 现在进行",
+              "现在正在/阶段性进行",
+              "now, at present,\ncurrently",
+              "They are building a new\nbridge."
+            ],
+            [
+              "Past continuous 过去进行",
+              "过去某时正在",
+              "at 8 yesterday, when...",
+              "I was studying when he\ncalled."
+            ],
+            [
+              "Present perfect 现在完成",
+              "过去发生但与现在有\n关；或持续到现在",
+              "since, for, already,\nrecently",
+              "She has lived here for five\nyears."
+            ],
+            [
+              "Past perfect 过去完成",
+              "两个过去动作，更早那\n个",
+              "by the time, before +\npast",
+              "The train had left before we\narrived."
+            ],
+            [
+              "Present perfect continuous\n现在完成进行（低频）",
+              "持续到现在且强调过程",
+              "for/since + ongoing\nactivity",
+              "He has been working all\nmorning."
+            ],
+            [
+              "Future in the past 过去将来\n（低频）",
+              "站在过去看将来",
+              "would, was going to",
+              "She said she would return."
+            ],
+            [
+              "Future continuous 将来进行",
+              "未来某个时间正在发\n生；或按安排届时会发\n生",
+              "at this time tomorrow,\nthis time next...",
+              "I will be taking the exam at\nthis time tomorrow."
+            ]
+          ],
+          "text": "Tense | 脑内判断 | Common clues | Example\nSimple future 一般将来 | 从现在看将来 | tomorrow, next..., will,\nbe going to | We will meet tomorrow.\nPresent continuous 现在进行 | 现在正在/阶段性进行 | now, at present,\ncurrently | They are building a new\nbridge.\nPast continuous 过去进行 | 过去某时正在 | at 8 yesterday, when... | I was studying when he\ncalled.\nPresent perfect 现在完成 | 过去发生但与现在有\n关；或持续到现在 | since, for, already,\nrecently | She has lived here for five\nyears.\nPast perfect 过去完成 | 两个过去动作，更早那\n个 | by the time, before +\npast | The train had left before we\narrived.\nPresent perfect continuous\n现在完成进行（低频） | 持续到现在且强调过程 | for/since + ongoing\nactivity | He has been working all\nmorning.\nFuture in the past 过去将来\n（低频） | 站在过去看将来 | would, was going to | She said she would return.\nFuture continuous 将来进行 | 未来某个时间正在发\n生；或按安排届时会发\n生 | at this time tomorrow,\nthis time next... | I will be taking the exam at\nthis time tomorrow.",
+          "sourcePage": 107,
+          "sourceIndex": 2843
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "时态不要只看一个时间词。先确定整段时间背景，再看这个动作与其他动作的先后。"
+            ]
+          ],
+          "text": " | 时态不要只看一个时间词。先确定整段时间背景，再看这个动作与其他动作的先后。",
+          "sourcePage": 107,
+          "sourceIndex": 2844
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 106,
+    "endPage": 107
+  }
+}

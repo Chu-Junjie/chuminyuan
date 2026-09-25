@@ -1,0 +1,176 @@
+{
+  "id": "EN-10-1",
+  "code": "10.1",
+  "title": "连接句子：先用安全连接词",
+  "subject_id": "english",
+  "chapter_id": "en-writing",
+  "chapter": "写作工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "10.1",
+    "连接句子：先用安全连接词",
+    "写作工具箱",
+    "Purpose",
+    "Safe",
+    "choices",
+    "Example",
+    "Add",
+    "also",
+    "addition",
+    "besides",
+    "the",
+    "activity",
+    "free",
+    "Reason",
+    "because",
+    "since",
+    "This",
+    "helps",
+    "students",
+    "get",
+    "real",
+    "practice",
+    "Result",
+    "therefore",
+    "result",
+    "The",
+    "road",
+    "was",
+    "closed",
+    "took",
+    "train",
+    "Contrast",
+    "but",
+    "however",
+    "although",
+    "task",
+    "difficult",
+    "finished",
+    "for",
+    "example",
+    "instance",
+    "For",
+    "can",
+    "Sequence",
+    "first",
+    "then",
+    "finally",
+    "First"
+  ],
+  "brain_first": "按原文查阅 连接句子：先用安全连接词",
+  "sort_order": 1102,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Purpose",
+          "Safe choices",
+          "Example"
+        ],
+        [
+          "Add",
+          "also, in addition, besides",
+          "In addition, the activity is free."
+        ],
+        [
+          "Reason",
+          "because, since",
+          "This helps because students get real practice."
+        ],
+        [
+          "Result",
+          "so, therefore, as a result",
+          "The road was closed, so we took the train."
+        ],
+        [
+          "Contrast",
+          "but, however, although",
+          "The task was difficult, but we finished it."
+        ],
+        [
+          "Example",
+          "for example, for instance",
+          "For example, students can..."
+        ],
+        [
+          "Sequence",
+          "first, then, finally",
+          "First..., then..., finally..."
+        ]
+      ],
+      "text": "Purpose | Safe choices | Example\nAdd | also, in addition, besides | In addition, the activity is free.\nReason | because, since | This helps because students get real practice.\nResult | so, therefore, as a result | The road was closed, so we took the train.\nContrast | but, however, although | The task was difficult, but we finished it.\nExample | for example, for instance | For example, students can...\nSequence | first, then, finally | First..., then..., finally...",
+      "sourcePage": 122,
+      "sourceIndex": 2986
+    },
+    {
+      "type": "paragraph",
+      "text": "基础学生优先“短句+清楚连接”，不要一口气写四层从句。",
+      "sourcePage": 122,
+      "sourceIndex": 2987
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-10-1-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Purpose",
+              "Safe choices",
+              "Example"
+            ],
+            [
+              "Add",
+              "also, in addition, besides",
+              "In addition, the activity is free."
+            ],
+            [
+              "Reason",
+              "because, since",
+              "This helps because students get real practice."
+            ],
+            [
+              "Result",
+              "so, therefore, as a result",
+              "The road was closed, so we took the train."
+            ],
+            [
+              "Contrast",
+              "but, however, although",
+              "The task was difficult, but we finished it."
+            ],
+            [
+              "Example",
+              "for example, for instance",
+              "For example, students can..."
+            ],
+            [
+              "Sequence",
+              "first, then, finally",
+              "First..., then..., finally..."
+            ]
+          ],
+          "text": "Purpose | Safe choices | Example\nAdd | also, in addition, besides | In addition, the activity is free.\nReason | because, since | This helps because students get real practice.\nResult | so, therefore, as a result | The road was closed, so we took the train.\nContrast | but, however, although | The task was difficult, but we finished it.\nExample | for example, for instance | For example, students can...\nSequence | first, then, finally | First..., then..., finally...",
+          "sourcePage": 122,
+          "sourceIndex": 2986
+        },
+        {
+          "type": "paragraph",
+          "text": "基础学生优先“短句+清楚连接”，不要一口气写四层从句。",
+          "sourcePage": 122,
+          "sourceIndex": 2987
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 122,
+    "endPage": 122
+  }
+}

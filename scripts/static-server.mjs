@@ -5,6 +5,7 @@ import { extname, join, resolve, sep } from "node:path";
 
 const root = resolve("out");
 const types = {
+  ".pdf": "application/pdf",
   ".css": "text/css; charset=utf-8",
   ".html": "text/html; charset=utf-8",
   ".js": "text/javascript; charset=utf-8",
@@ -16,9 +17,12 @@ const types = {
 
 createServer(async (request, response) => {
   try {
-    const pathname = decodeURIComponent(new URL(request.url, "http://localhost").pathname);
+    const pathname = decodeURIComponent(
+      new URL(request.url, "http://localhost").pathname,
+    );
     let file = resolve(root, pathname.replace(/^\/+/, ""));
-    if (file !== root && !file.startsWith(root + sep)) throw new Error("invalid path");
+    if (file !== root && !file.startsWith(root + sep))
+      throw new Error("invalid path");
     const info = await stat(file);
     if (info.isDirectory()) file = join(file, "index.html");
     const fileInfo = await stat(file);

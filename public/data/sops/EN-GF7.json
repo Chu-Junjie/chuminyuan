@@ -1,0 +1,614 @@
+{
+  "id": "EN-GF7",
+  "code": "GF7",
+  "title": "无提示词：冠词 a / an / the",
+  "subject_id": "english",
+  "chapter_id": "en-grammar-filling",
+  "chapter": "语法填空",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "GF7",
+    "无提示词：冠词 a / an / the",
+    "语法填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Article",
+    "a/an",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "morning",
+    "school",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "hour",
+    "university",
+    "same",
+    "only",
+    "first",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "bought",
+    "book",
+    "yesterday",
+    "about",
+    "space",
+    "travel",
+    "The",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "dog",
+    "Ctrl"
+  ],
+  "brain_first": "“先问这个名词是第一次说的一个，还是双方都知道的那个；还 要看固定结构。”",
+  "sort_order": 1055,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 84,
+      "sourceIndex": 2337
+    },
+    {
+      "type": "paragraph",
+      "text": "空后常是名词短语，题目不给任何提示词。",
+      "sourcePage": 84,
+      "sourceIndex": 2338
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 84,
+      "sourceIndex": 2339
+    },
+    {
+      "type": "paragraph",
+      "text": "Article：a/an 表一个/某个；the 表特指或双方已",
+      "sourcePage": 84,
+      "sourceIndex": 2340
+    },
+    {
+      "type": "paragraph",
+      "text": "知；零冠词用于部分泛指/固定结构。",
+      "sourcePage": 84,
+      "sourceIndex": 2341
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先问这个名词是第一次说的一个，还是双方都知道的那个；还",
+      "sourcePage": 84,
+      "sourceIndex": 2342
+    },
+    {
+      "type": "paragraph",
+      "text": "要看固定结构。”",
+      "sourcePage": 84,
+      "sourceIndex": 2343
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 冠词题常结合语篇前后指代。",
+      "sourcePage": 84,
+      "sourceIndex": 2344
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 85,
+      "sourceIndex": 2345
+    },
+    {
+      "type": "paragraph",
+      "text": "1 确认空后是可数单数名词还是固定短语。",
+      "sourcePage": 85,
+      "sourceIndex": 2346
+    },
+    {
+      "type": "paragraph",
+      "text": "2 第一次提到、非特指可数单数 → a/an。",
+      "sourcePage": 85,
+      "sourceIndex": 2347
+    },
+    {
+      "type": "paragraph",
+      "text": "3 前文已提、唯一、被后置修饰明确限定 → the。",
+      "sourcePage": 85,
+      "sourceIndex": 2348
+    },
+    {
+      "type": "paragraph",
+      "text": "4 检查固定搭配：in the morning, at school 等。",
+      "sourcePage": 85,
+      "sourceIndex": 2349
+    },
+    {
+      "type": "paragraph",
+      "text": "5 a/an 看发音而不是字母。",
+      "sourcePage": 85,
+      "sourceIndex": 2350
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 85,
+      "sourceIndex": 2351
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 85,
+      "sourceIndex": 2352
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 85,
+      "sourceIndex": 2353
+    },
+    {
+      "type": "paragraph",
+      "text": "· an hour / a university",
+      "sourcePage": 85,
+      "sourceIndex": 2354
+    },
+    {
+      "type": "paragraph",
+      "text": "· the same / the only / the first",
+      "sourcePage": 85,
+      "sourceIndex": 2355
+    },
+    {
+      "type": "paragraph",
+      "text": "· go to school 与 go to the school 含义不同",
+      "sourcePage": 85,
+      "sourceIndex": 2356
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 指代关系和固定用法都合理。",
+      "sourcePage": 85,
+      "sourceIndex": 2357
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 如果犹豫the，问：“读者现在是否知道我指哪一个？”",
+      "sourcePage": 85,
+      "sourceIndex": 2358
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 85,
+      "sourceIndex": 2359
+    },
+    {
+      "type": "paragraph",
+      "text": "I bought a book yesterday. ___ book is about space travel. 第二次提到同一本 → The。",
+      "sourcePage": 85,
+      "sourceIndex": 2360
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 85,
+      "sourceIndex": 2361
+    },
+    {
+      "type": "paragraph",
+      "text": "· 看到单数名词就一定a。",
+      "sourcePage": 85,
+      "sourceIndex": 2362
+    },
+    {
+      "type": "paragraph",
+      "text": "· 按首字母而不是发音选a/an。",
+      "sourcePage": 85,
+      "sourceIndex": 2363
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 85,
+      "sourceIndex": 2364
+    },
+    {
+      "type": "paragraph",
+      "text": "· 第一次还是已知？",
+      "sourcePage": 85,
+      "sourceIndex": 2365
+    },
+    {
+      "type": "paragraph",
+      "text": "· 固定结构？",
+      "sourcePage": 85,
+      "sourceIndex": 2366
+    },
+    {
+      "type": "paragraph",
+      "text": "· 发音？",
+      "sourcePage": 85,
+      "sourceIndex": 2367
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 85,
+      "sourceIndex": 2368
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 85,
+      "sourceIndex": 2369
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 85,
+      "sourceIndex": 2370
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 冠词问：一个新的，还是那个已知的。",
+      "sourcePage": 85,
+      "sourceIndex": 2371
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 86,
+      "sourceIndex": 2373
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 第一次提到一只狗：___ dog",
+      "sourcePage": 86,
+      "sourceIndex": 2374
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 再次提到同一只狗：___ dog",
+      "sourcePage": 86,
+      "sourceIndex": 2375
+    },
+    {
+      "type": "paragraph",
+      "text": "3. ___ hour",
+      "sourcePage": 86,
+      "sourceIndex": 2376
+    },
+    {
+      "type": "paragraph",
+      "text": "4. ___ university",
+      "sourcePage": 86,
+      "sourceIndex": 2377
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 冠词a/an看字母还是发音？",
+      "sourcePage": 86,
+      "sourceIndex": 2378
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. a；2. the；3. an；4. a；5. 发音。",
+      "sourcePage": 86,
+      "sourceIndex": 2379
+    },
+    {
+      "type": "paragraph",
+      "text": "— GF7 本题型到这里。下次卡住直接 Ctrl+F 搜“GF7”或题型关键词。—",
+      "sourcePage": 86,
+      "sourceIndex": 2380
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-GF7-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "空后常是名词短语，题目不给任何提示词。",
+          "sourcePage": 84,
+          "sourceIndex": 2338
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Article：a/an 表一个/某个；the 表特指或双方已 知；零冠词用于部分泛指/固定结构。",
+          "sourcePage": 84,
+          "sourceIndex": 2340
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先问这个名词是第一次说的一个，还是双方都知道的那个；还 要看固定结构。”",
+          "sourcePage": 84,
+          "sourceIndex": 2342
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "冠词题常结合语篇前后指代。",
+          "sourcePage": 84,
+          "sourceIndex": 2344
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 确认空后是可数单数名词还是固定短语。",
+          "sourcePage": 85,
+          "sourceIndex": 2346
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 第一次提到、非特指可数单数 → a/an。",
+          "sourcePage": 85,
+          "sourceIndex": 2347
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 前文已提、唯一、被后置修饰明确限定 → the。",
+          "sourcePage": 85,
+          "sourceIndex": 2348
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 检查固定搭配：in the morning, at school 等。",
+          "sourcePage": 85,
+          "sourceIndex": 2349
+        },
+        {
+          "type": "paragraph",
+          "text": "5. a/an 看发音而不是字母。",
+          "sourcePage": 85,
+          "sourceIndex": 2350
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 85,
+          "sourceIndex": 2351
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· an hour / a university",
+          "sourcePage": 85,
+          "sourceIndex": 2354
+        },
+        {
+          "type": "paragraph",
+          "text": "· the same / the only / the first",
+          "sourcePage": 85,
+          "sourceIndex": 2355
+        },
+        {
+          "type": "paragraph",
+          "text": "· go to school 与 go to the school 含义不同",
+          "sourcePage": 85,
+          "sourceIndex": 2356
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "指代关系和固定用法都合理。",
+          "sourcePage": 85,
+          "sourceIndex": 2357
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果犹豫the，问：“读者现在是否知道我指哪一个？”",
+          "sourcePage": 85,
+          "sourceIndex": 2358
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "I bought a book yesterday. ___ book is about space travel. 第二次提到同一本 → The。",
+          "sourcePage": 85,
+          "sourceIndex": 2360
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 看到单数名词就一定a。",
+          "sourcePage": 85,
+          "sourceIndex": 2362
+        },
+        {
+          "type": "paragraph",
+          "text": "· 按首字母而不是发音选a/an。",
+          "sourcePage": 85,
+          "sourceIndex": 2363
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 第一次还是已知？",
+          "sourcePage": 85,
+          "sourceIndex": 2365
+        },
+        {
+          "type": "paragraph",
+          "text": "· 固定结构？",
+          "sourcePage": 85,
+          "sourceIndex": 2366
+        },
+        {
+          "type": "paragraph",
+          "text": "· 发音？",
+          "sourcePage": 85,
+          "sourceIndex": 2367
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 85,
+          "sourceIndex": 2368
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 85,
+          "sourceIndex": 2370
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "冠词问：一个新的，还是那个已知的。",
+          "sourcePage": 85,
+          "sourceIndex": 2371
+        }
+      ]
+    },
+    {
+      "id": "EN-GF7-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 第一次提到一只狗：___ dog",
+          "sourcePage": 86,
+          "sourceIndex": 2374
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 再次提到同一只狗：___ dog",
+          "sourcePage": 86,
+          "sourceIndex": 2375
+        },
+        {
+          "type": "paragraph",
+          "text": "3. ___ hour",
+          "sourcePage": 86,
+          "sourceIndex": 2376
+        },
+        {
+          "type": "paragraph",
+          "text": "4. ___ university",
+          "sourcePage": 86,
+          "sourceIndex": 2377
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 冠词a/an看字母还是发音？",
+          "sourcePage": 86,
+          "sourceIndex": 2378
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. a；2. the；3. an；4. a；5. 发音。",
+          "sourcePage": 86,
+          "sourceIndex": 2379
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 84,
+    "endPage": 86
+  }
+}

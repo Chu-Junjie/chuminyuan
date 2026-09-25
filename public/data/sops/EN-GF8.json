@@ -1,0 +1,625 @@
+{
+  "id": "EN-GF8",
+  "code": "GF8",
+  "title": "无提示词：介词",
+  "subject_id": "english",
+  "chapter_id": "en-grammar-filling",
+  "chapter": "语法填空",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "GF8",
+    "无提示词：介词",
+    "语法填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Preposition",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "depend",
+    "interested",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "contribute",
+    "prevent",
+    "from",
+    "aware",
+    "responsible",
+    "for",
+    "at/on/in",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "They",
+    "traded",
+    "extra",
+    "goods",
+    "what",
+    "they",
+    "needed",
+    "trade",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "reason",
+    "change",
+    "solution",
+    "problem",
+    "Ctrl"
+  ],
+  "brain_first": "“先看是不是固定搭配；不是再看时间、地点、方式、方向关 系。”",
+  "sort_order": 1056,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 86,
+      "sourceIndex": 2383
+    },
+    {
+      "type": "paragraph",
+      "text": "空位常位于名词/代词前，或固定搭配中。",
+      "sourcePage": 86,
+      "sourceIndex": 2384
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 86,
+      "sourceIndex": 2385
+    },
+    {
+      "type": "paragraph",
+      "text": "Preposition 表示词与词之间的关系。",
+      "sourcePage": 86,
+      "sourceIndex": 2386
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先看是不是固定搭配；不是再看时间、地点、方式、方向关",
+      "sourcePage": 86,
+      "sourceIndex": 2387
+    },
+    {
+      "type": "paragraph",
+      "text": "系。”",
+      "sourcePage": 86,
+      "sourceIndex": 2388
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 高考语法填空介词往往来自固定语块或基础意义。",
+      "sourcePage": 86,
+      "sourceIndex": 2389
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 86,
+      "sourceIndex": 2390
+    },
+    {
+      "type": "paragraph",
+      "text": "1 把空和前面动词/形容词连起来看：depend __, interested __。",
+      "sourcePage": 86,
+      "sourceIndex": 2391
+    },
+    {
+      "type": "paragraph",
+      "text": "2 查是否为固定搭配。",
+      "sourcePage": 86,
+      "sourceIndex": 2392
+    },
+    {
+      "type": "paragraph",
+      "text": "3 若不是，判断时间/地点/方向/方式。",
+      "sourcePage": 86,
+      "sourceIndex": 2393
+    },
+    {
+      "type": "paragraph",
+      "text": "4 放回整句检查语义。",
+      "sourcePage": 86,
+      "sourceIndex": 2394
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 86,
+      "sourceIndex": 2395
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 86,
+      "sourceIndex": 2396
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 86,
+      "sourceIndex": 2397
+    },
+    {
+      "type": "paragraph",
+      "text": "· depend on",
+      "sourcePage": 86,
+      "sourceIndex": 2398
+    },
+    {
+      "type": "paragraph",
+      "text": "· contribute to",
+      "sourcePage": 86,
+      "sourceIndex": 2399
+    },
+    {
+      "type": "paragraph",
+      "text": "· prevent...from",
+      "sourcePage": 86,
+      "sourceIndex": 2400
+    },
+    {
+      "type": "paragraph",
+      "text": "· be aware of",
+      "sourcePage": 86,
+      "sourceIndex": 2401
+    },
+    {
+      "type": "paragraph",
+      "text": "· be responsible for",
+      "sourcePage": 86,
+      "sourceIndex": 2402
+    },
+    {
+      "type": "paragraph",
+      "text": "· at/on/in 时间基础用法",
+      "sourcePage": 86,
+      "sourceIndex": 2403
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 搭配或空间/时间关系明确。",
+      "sourcePage": 87,
+      "sourceIndex": 2404
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 不确定时把前后3-4个词当一个语块回忆，而不是孤立猜介词。",
+      "sourcePage": 87,
+      "sourceIndex": 2405
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 87,
+      "sourceIndex": 2406
+    },
+    {
+      "type": "paragraph",
+      "text": "They traded extra goods ___ what they needed. trade A for B → for。",
+      "sourcePage": 87,
+      "sourceIndex": 2407
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 87,
+      "sourceIndex": 2408
+    },
+    {
+      "type": "paragraph",
+      "text": "· 按中文“在/对/为”机械翻译。",
+      "sourcePage": 87,
+      "sourceIndex": 2409
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只背介词一个词。",
+      "sourcePage": 87,
+      "sourceIndex": 2410
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 87,
+      "sourceIndex": 2411
+    },
+    {
+      "type": "paragraph",
+      "text": "· 是否固定搭配？",
+      "sourcePage": 87,
+      "sourceIndex": 2412
+    },
+    {
+      "type": "paragraph",
+      "text": "· 关系意义成立吗？",
+      "sourcePage": 87,
+      "sourceIndex": 2413
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 87,
+      "sourceIndex": 2414
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 87,
+      "sourceIndex": 2415
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 87,
+      "sourceIndex": 2416
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 介词优先查搭配，再看关系。",
+      "sourcePage": 87,
+      "sourceIndex": 2417
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 87,
+      "sourceIndex": 2419
+    },
+    {
+      "type": "paragraph",
+      "text": "1. depend ___",
+      "sourcePage": 87,
+      "sourceIndex": 2420
+    },
+    {
+      "type": "paragraph",
+      "text": "2. be interested ___",
+      "sourcePage": 87,
+      "sourceIndex": 2421
+    },
+    {
+      "type": "paragraph",
+      "text": "3. reason ___ the change",
+      "sourcePage": 87,
+      "sourceIndex": 2422
+    },
+    {
+      "type": "paragraph",
+      "text": "4. solution ___ the problem",
+      "sourcePage": 87,
+      "sourceIndex": 2423
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 介词题不知道时先查？",
+      "sourcePage": 87,
+      "sourceIndex": 2424
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. on；2. in；3. for；4. to；5. 固定搭配+前后名词/动词关系。",
+      "sourcePage": 87,
+      "sourceIndex": 2425
+    },
+    {
+      "type": "paragraph",
+      "text": "— GF8 本题型到这里。下次卡住直接 Ctrl+F 搜“GF8”或题型关键词。—",
+      "sourcePage": 87,
+      "sourceIndex": 2426
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-GF8-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "空位常位于名词/代词前，或固定搭配中。",
+          "sourcePage": 86,
+          "sourceIndex": 2384
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Preposition 表示词与词之间的关系。",
+          "sourcePage": 86,
+          "sourceIndex": 2386
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先看是不是固定搭配；不是再看时间、地点、方式、方向关 系。”",
+          "sourcePage": 86,
+          "sourceIndex": 2387
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "高考语法填空介词往往来自固定语块或基础意义。",
+          "sourcePage": 86,
+          "sourceIndex": 2389
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 把空和前面动词/形容词连起来看：depend __, interested __。",
+          "sourcePage": 86,
+          "sourceIndex": 2391
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 查是否为固定搭配。",
+          "sourcePage": 86,
+          "sourceIndex": 2392
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 若不是，判断时间/地点/方向/方式。",
+          "sourcePage": 86,
+          "sourceIndex": 2393
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 放回整句检查语义。",
+          "sourcePage": 86,
+          "sourceIndex": 2394
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 86,
+          "sourceIndex": 2395
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· depend on",
+          "sourcePage": 86,
+          "sourceIndex": 2398
+        },
+        {
+          "type": "paragraph",
+          "text": "· contribute to",
+          "sourcePage": 86,
+          "sourceIndex": 2399
+        },
+        {
+          "type": "paragraph",
+          "text": "· prevent...from",
+          "sourcePage": 86,
+          "sourceIndex": 2400
+        },
+        {
+          "type": "paragraph",
+          "text": "· be aware of",
+          "sourcePage": 86,
+          "sourceIndex": 2401
+        },
+        {
+          "type": "paragraph",
+          "text": "· be responsible for",
+          "sourcePage": 86,
+          "sourceIndex": 2402
+        },
+        {
+          "type": "paragraph",
+          "text": "· at/on/in 时间基础用法",
+          "sourcePage": 86,
+          "sourceIndex": 2403
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "搭配或空间/时间关系明确。",
+          "sourcePage": 87,
+          "sourceIndex": 2404
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "不确定时把前后3-4个词当一个语块回忆，而不是孤立猜介词。",
+          "sourcePage": 87,
+          "sourceIndex": 2405
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "They traded extra goods ___ what they needed. trade A for B → for。",
+          "sourcePage": 87,
+          "sourceIndex": 2407
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 按中文“在/对/为”机械翻译。",
+          "sourcePage": 87,
+          "sourceIndex": 2409
+        },
+        {
+          "type": "paragraph",
+          "text": "· 只背介词一个词。",
+          "sourcePage": 87,
+          "sourceIndex": 2410
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 是否固定搭配？",
+          "sourcePage": 87,
+          "sourceIndex": 2412
+        },
+        {
+          "type": "paragraph",
+          "text": "· 关系意义成立吗？",
+          "sourcePage": 87,
+          "sourceIndex": 2413
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 87,
+          "sourceIndex": 2414
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 87,
+          "sourceIndex": 2416
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "介词优先查搭配，再看关系。",
+          "sourcePage": 87,
+          "sourceIndex": 2417
+        }
+      ]
+    },
+    {
+      "id": "EN-GF8-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. depend ___",
+          "sourcePage": 87,
+          "sourceIndex": 2420
+        },
+        {
+          "type": "paragraph",
+          "text": "2. be interested ___",
+          "sourcePage": 87,
+          "sourceIndex": 2421
+        },
+        {
+          "type": "paragraph",
+          "text": "3. reason ___ the change",
+          "sourcePage": 87,
+          "sourceIndex": 2422
+        },
+        {
+          "type": "paragraph",
+          "text": "4. solution ___ the problem",
+          "sourcePage": 87,
+          "sourceIndex": 2423
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 介词题不知道时先查？",
+          "sourcePage": 87,
+          "sourceIndex": 2424
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. on；2. in；3. for；4. to；5. 固定搭配+前后名词/动词关系。",
+          "sourcePage": 87,
+          "sourceIndex": 2425
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 86,
+    "endPage": 87
+  }
+}

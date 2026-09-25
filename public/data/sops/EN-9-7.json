@@ -1,0 +1,122 @@
+{
+  "id": "EN-9-7",
+  "code": "9.7",
+  "title": "Theme Vocabulary: People & Self / Society / Nature",
+  "subject_id": "english",
+  "chapter_id": "en-vocabulary",
+  "chapter": "词汇工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "9.7",
+    "Theme Vocabulary: People & Self / Society / Nature",
+    "词汇工具箱",
+    "Theme",
+    "High-utility",
+    "ideas",
+    "People",
+    "Self",
+    "learning",
+    "health",
+    "habits",
+    "goals",
+    "confidence",
+    "responsibility",
+    "growth",
+    "choices",
+    "Society",
+    "community",
+    "volunteering",
+    "culture",
+    "technology",
+    "communication",
+    "education",
+    "public",
+    "services",
+    "Nature",
+    "environment",
+    "wildlife",
+    "climate",
+    "conservation",
+    "resources",
+    "sustainability",
+    "agriculture"
+  ],
+  "brain_first": "按原文查阅 Theme Vocabulary: People & Self / Society / Nature",
+  "sort_order": 1099,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Theme",
+          "High-utility ideas"
+        ],
+        [
+          "People & Self",
+          "learning, health, habits, goals, confidence, responsibility, growth, choices"
+        ],
+        [
+          "People & Society",
+          "community, volunteering, culture, technology, communication, education, public services"
+        ],
+        [
+          "People & Nature",
+          "environment, wildlife, climate, conservation, resources, sustainability, agriculture"
+        ]
+      ],
+      "text": "Theme | High-utility ideas\nPeople & Self | learning, health, habits, goals, confidence, responsibility, growth, choices\nPeople & Society | community, volunteering, culture, technology, communication, education, public services\nPeople & Nature | environment, wildlife, climate, conservation, resources, sustainability, agriculture",
+      "sourcePage": 120,
+      "sourceIndex": 2977
+    },
+    {
+      "type": "paragraph",
+      "text": "主题词不需要背成“高级词表”。目标是阅读认得、写作能用基本准确词表达。",
+      "sourcePage": 120,
+      "sourceIndex": 2978
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-9-7-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Theme",
+              "High-utility ideas"
+            ],
+            [
+              "People & Self",
+              "learning, health, habits, goals, confidence, responsibility, growth, choices"
+            ],
+            [
+              "People & Society",
+              "community, volunteering, culture, technology, communication, education, public services"
+            ],
+            [
+              "People & Nature",
+              "environment, wildlife, climate, conservation, resources, sustainability, agriculture"
+            ]
+          ],
+          "text": "Theme | High-utility ideas\nPeople & Self | learning, health, habits, goals, confidence, responsibility, growth, choices\nPeople & Society | community, volunteering, culture, technology, communication, education, public services\nPeople & Nature | environment, wildlife, climate, conservation, resources, sustainability, agriculture",
+          "sourcePage": 120,
+          "sourceIndex": 2977
+        },
+        {
+          "type": "paragraph",
+          "text": "主题词不需要背成“高级词表”。目标是阅读认得、写作能用基本准确词表达。",
+          "sourcePage": 120,
+          "sourceIndex": 2978
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 120,
+    "endPage": 120
+  }
+}

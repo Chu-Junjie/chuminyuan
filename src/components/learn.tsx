@@ -10,7 +10,7 @@ import {
   ArrowLeft,
 } from "lucide-react";
 import { useData, Loading, PageTitle, SopCard, Empty } from "./ui";
-import { searchSops, frequencyLabels } from "@/lib/catalog";
+import { searchSops, frequencyLabels, sopSubject } from "@/lib/catalog";
 import type { SopSummary, Chapter } from "@/lib/types";
 const rescue = [
   {
@@ -88,8 +88,10 @@ const rescue = [
   },
 ];
 export function Learn({ chapterId }: { chapterId?: string }) {
-  const { data: sops, error } = useData<SopSummary[]>("/data/catalog.json");
-  const { data: chapters } = useData<Chapter[]>("/data/chapters.json");
+  const { data: allSops, error } = useData<SopSummary[]>("/data/catalog.json");
+  const { data: allChapters, error: chapterError } = useData<Chapter[]>(
+    "/data/chapters.json",
+  );
   const [mode, setMode] = useState("map"),
     [query, setQuery] = useState(""),
     [frequency, setFrequency] = useState(0),
@@ -103,7 +105,7 @@ export function Learn({ chapterId }: { chapterId?: string }) {
   }, []);
   useEffect(() => {
     if (mode === "search")
-      fetch("/data/search.json")
+      fetch(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/data/search.json`)
         .then((r) => {
           if (!r.ok) throw Error();
           return r.json();
@@ -117,7 +119,10 @@ export function Learn({ chapterId }: { chapterId?: string }) {
           ),
         );
   }, [mode]);
-  if (!sops || !chapters) return <Loading error={error} />;
+  if (!allSops || !allChapters)
+    return <Loading error={error || chapterError} />;
+  const sops = allSops.filter((s) => sopSubject(s) === "math");
+  const chapters = allChapters.filter((c) => c.subject_id === "math");
   const filtered = searchSops(
     sops.filter(
       (s) =>

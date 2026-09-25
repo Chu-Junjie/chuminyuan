@@ -1,0 +1,342 @@
+{
+  "id": "EN-9-3",
+  "code": "9.3",
+  "title": "Reading Paraphrase Bank 阅读同义替换",
+  "subject_id": "english",
+  "chapter_id": "en-vocabulary",
+  "chapter": "词汇工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "9.3",
+    "Reading Paraphrase Bank 阅读同义替换",
+    "词汇工具箱",
+    "Original",
+    "idea",
+    "Common",
+    "paraphrase",
+    "important",
+    "significant",
+    "matter",
+    "play",
+    "key",
+    "role",
+    "help",
+    "support",
+    "assist",
+    "enable",
+    "make",
+    "easier",
+    "for",
+    "cause",
+    "lead",
+    "result",
+    "bring",
+    "about",
+    "reduce",
+    "cut",
+    "lower",
+    "decrease",
+    "increase",
+    "rise",
+    "grow",
+    "expand",
+    "cheap",
+    "inexpensive",
+    "affordable",
+    "choose",
+    "select",
+    "decide",
+    "opt",
+    "refuse",
+    "turn",
+    "down",
+    "reject",
+    "not",
+    "accept",
+    "delay",
+    "postpone",
+    "put",
+    "off",
+    "use",
+    "employ",
+    "show",
+    "indicate",
+    "reveal",
+    "demonstrate",
+    "change",
+    "alter",
+    "transform",
+    "shift",
+    "advantage",
+    "benefit",
+    "strength",
+    "disadvantage",
+    "drawback",
+    "limitation",
+    "because",
+    "due",
+    "although",
+    "despite",
+    "spite",
+    "structure",
+    "changes",
+    "many",
+    "large",
+    "number",
+    "numerous",
+    "enough",
+    "sufficient",
+    "possible",
+    "likely",
+    "potential",
+    "meaning",
+    "differs",
+    "helpful",
+    "essential",
+    "may",
+    "must",
+    "all"
+  ],
+  "brain_first": "按原文查阅 Reading Paraphrase Bank 阅读同义替换",
+  "sort_order": 1094,
+  "blocks": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Original idea",
+          "Common paraphrase"
+        ],
+        [
+          "important",
+          "significant / important to / matter / play a key role"
+        ],
+        [
+          "help",
+          "support / assist / enable / make it easier for"
+        ],
+        [
+          "cause",
+          "lead to / result in / bring about"
+        ],
+        [
+          "reduce",
+          "cut / lower / decrease"
+        ],
+        [
+          "increase",
+          "rise / grow / expand"
+        ],
+        [
+          "cheap",
+          "inexpensive / affordable"
+        ],
+        [
+          "choose",
+          "select / decide on / opt for"
+        ],
+        [
+          "refuse",
+          "turn down / reject / decide not to accept"
+        ],
+        [
+          "delay",
+          "postpone / put off"
+        ],
+        [
+          "use",
+          "make use of / employ"
+        ],
+        [
+          "show",
+          "indicate / reveal / demonstrate"
+        ]
+      ],
+      "text": "Original idea | Common paraphrase\nimportant | significant / important to / matter / play a key role\nhelp | support / assist / enable / make it easier for\ncause | lead to / result in / bring about\nreduce | cut / lower / decrease\nincrease | rise / grow / expand\ncheap | inexpensive / affordable\nchoose | select / decide on / opt for\nrefuse | turn down / reject / decide not to accept\ndelay | postpone / put off\nuse | make use of / employ\nshow | indicate / reveal / demonstrate",
+      "sourcePage": 117,
+      "sourceIndex": 2953
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Original idea",
+          "Common paraphrase"
+        ],
+        [
+          "change",
+          "alter / transform / shift"
+        ],
+        [
+          "advantage",
+          "benefit / strength"
+        ],
+        [
+          "disadvantage",
+          "drawback / limitation"
+        ],
+        [
+          "because of",
+          "due to / as a result of"
+        ],
+        [
+          "although",
+          "despite / in spite of (structure changes)"
+        ],
+        [
+          "many",
+          "a large number of / numerous"
+        ],
+        [
+          "enough",
+          "sufficient"
+        ],
+        [
+          "possible",
+          "likely / potential (meaning differs by structure)"
+        ]
+      ],
+      "text": "Original idea | Common paraphrase\nchange | alter / transform / shift\nadvantage | benefit / strength\ndisadvantage | drawback / limitation\nbecause of | due to / as a result of\nalthough | despite / in spite of (structure changes)\nmany | a large number of / numerous\nenough | sufficient\npossible | likely / potential (meaning differs by structure)",
+      "sourcePage": 118,
+      "sourceIndex": 2954
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "同义替换检查：近义不等于完全同义。尤其注意程度：helpful ≠ essential；may ≠ must；many ≠\nall。"
+        ]
+      ],
+      "text": " | 同义替换检查：近义不等于完全同义。尤其注意程度：helpful ≠ essential；may ≠ must；many ≠\nall。",
+      "sourcePage": 118,
+      "sourceIndex": 2955
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-9-3-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Original idea",
+              "Common paraphrase"
+            ],
+            [
+              "important",
+              "significant / important to / matter / play a key role"
+            ],
+            [
+              "help",
+              "support / assist / enable / make it easier for"
+            ],
+            [
+              "cause",
+              "lead to / result in / bring about"
+            ],
+            [
+              "reduce",
+              "cut / lower / decrease"
+            ],
+            [
+              "increase",
+              "rise / grow / expand"
+            ],
+            [
+              "cheap",
+              "inexpensive / affordable"
+            ],
+            [
+              "choose",
+              "select / decide on / opt for"
+            ],
+            [
+              "refuse",
+              "turn down / reject / decide not to accept"
+            ],
+            [
+              "delay",
+              "postpone / put off"
+            ],
+            [
+              "use",
+              "make use of / employ"
+            ],
+            [
+              "show",
+              "indicate / reveal / demonstrate"
+            ]
+          ],
+          "text": "Original idea | Common paraphrase\nimportant | significant / important to / matter / play a key role\nhelp | support / assist / enable / make it easier for\ncause | lead to / result in / bring about\nreduce | cut / lower / decrease\nincrease | rise / grow / expand\ncheap | inexpensive / affordable\nchoose | select / decide on / opt for\nrefuse | turn down / reject / decide not to accept\ndelay | postpone / put off\nuse | make use of / employ\nshow | indicate / reveal / demonstrate",
+          "sourcePage": 117,
+          "sourceIndex": 2953
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Original idea",
+              "Common paraphrase"
+            ],
+            [
+              "change",
+              "alter / transform / shift"
+            ],
+            [
+              "advantage",
+              "benefit / strength"
+            ],
+            [
+              "disadvantage",
+              "drawback / limitation"
+            ],
+            [
+              "because of",
+              "due to / as a result of"
+            ],
+            [
+              "although",
+              "despite / in spite of (structure changes)"
+            ],
+            [
+              "many",
+              "a large number of / numerous"
+            ],
+            [
+              "enough",
+              "sufficient"
+            ],
+            [
+              "possible",
+              "likely / potential (meaning differs by structure)"
+            ]
+          ],
+          "text": "Original idea | Common paraphrase\nchange | alter / transform / shift\nadvantage | benefit / strength\ndisadvantage | drawback / limitation\nbecause of | due to / as a result of\nalthough | despite / in spite of (structure changes)\nmany | a large number of / numerous\nenough | sufficient\npossible | likely / potential (meaning differs by structure)",
+          "sourcePage": 118,
+          "sourceIndex": 2954
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "同义替换检查：近义不等于完全同义。尤其注意程度：helpful ≠ essential；may ≠ must；many ≠\nall。"
+            ]
+          ],
+          "text": " | 同义替换检查：近义不等于完全同义。尤其注意程度：helpful ≠ essential；may ≠ must；many ≠\nall。",
+          "sourcePage": 118,
+          "sourceIndex": 2955
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 117,
+    "endPage": 118
+  }
+}

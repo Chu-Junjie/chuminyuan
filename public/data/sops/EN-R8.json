@@ -1,0 +1,623 @@
+{
+  "id": "EN-R8",
+  "code": "R8",
+  "title": "词义、短语义、句子含义猜测",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "R8",
+    "词义、短语义、句子含义猜测",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "What",
+    "does",
+    "the",
+    "underlined",
+    "word/phrase/",
+    "sentence",
+    "mean",
+    "TERM",
+    "term",
+    "really",
+    "means",
+    "Contextual",
+    "meaning",
+    "THINK",
+    "First",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "that",
+    "namely",
+    "for",
+    "example",
+    "but",
+    "unlike",
+    "therefore",
+    "result",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "The",
+    "plan",
+    "was",
+    "shelved",
+    "after",
+    "costs",
+    "doubled",
+    "shelve",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "however",
+    "Ctrl"
+  ],
+  "brain_first": "“先不查字典，看看前后有没有解释、举例、转折或结果。”",
+  "sort_order": 1022,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 35,
+      "sourceIndex": 961
+    },
+    {
+      "type": "paragraph",
+      "text": "What does the underlined word/phrase/",
+      "sourcePage": 35,
+      "sourceIndex": 962
+    },
+    {
+      "type": "paragraph",
+      "text": "sentence mean?",
+      "sourcePage": 35,
+      "sourceIndex": 963
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 35,
+      "sourceIndex": 964
+    },
+    {
+      "type": "paragraph",
+      "text": "Contextual meaning：词在这篇文章里的意思，",
+      "sourcePage": 35,
+      "sourceIndex": 965
+    },
+    {
+      "type": "paragraph",
+      "text": "可能不是你背过的第一义。",
+      "sourcePage": 35,
+      "sourceIndex": 966
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先不查字典，看看前后有没有解释、举例、转折或结果。”",
+      "sourcePage": 35,
+      "sourceIndex": 967
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 阅读考的是语境意义，不是完整词典知识。",
+      "sourcePage": 35,
+      "sourceIndex": 968
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 35,
+      "sourceIndex": 969
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先判断词性/句子功能。",
+      "sourcePage": 35,
+      "sourceIndex": 970
+    },
+    {
+      "type": "paragraph",
+      "text": "2 读前后1-2句，找解释、同义、反义、例子、因果。",
+      "sourcePage": 35,
+      "sourceIndex": 971
+    },
+    {
+      "type": "paragraph",
+      "text": "3 把选项代回原句，检查语法和逻辑。",
+      "sourcePage": 35,
+      "sourceIndex": 972
+    },
+    {
+      "type": "paragraph",
+      "text": "4 选择能让上下文整体顺畅的意思。",
+      "sourcePage": 35,
+      "sourceIndex": 973
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 35,
+      "sourceIndex": 974
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 35,
+      "sourceIndex": 975
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 36,
+      "sourceIndex": 976
+    },
+    {
+      "type": "paragraph",
+      "text": "· that is / namely → 直接解释",
+      "sourcePage": 36,
+      "sourceIndex": 977
+    },
+    {
+      "type": "paragraph",
+      "text": "· for example → 用例子反推概念",
+      "sourcePage": 36,
+      "sourceIndex": 978
+    },
+    {
+      "type": "paragraph",
+      "text": "· but / unlike → 反义线索",
+      "sourcePage": 36,
+      "sourceIndex": 979
+    },
+    {
+      "type": "paragraph",
+      "text": "· therefore / as a result → 因果线索",
+      "sourcePage": 36,
+      "sourceIndex": 980
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 代回后语法和上下文逻辑都通。",
+      "sourcePage": 36,
+      "sourceIndex": 981
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 完全不认识词时，用词性先删一半；再用情感方向/因果方向缩小。",
+      "sourcePage": 36,
+      "sourceIndex": 982
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 36,
+      "sourceIndex": 983
+    },
+    {
+      "type": "paragraph",
+      "text": "句子：The plan was shelved after costs doubled. 即使不知道 shelve 的动词义，从“成本翻倍后”可推",
+      "sourcePage": 36,
+      "sourceIndex": 984
+    },
+    {
+      "type": "paragraph",
+      "text": "为“暂停/搁置”，不是“放在架子上”。",
+      "sourcePage": 36,
+      "sourceIndex": 985
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 36,
+      "sourceIndex": 986
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只用最熟悉的词典义。",
+      "sourcePage": 36,
+      "sourceIndex": 987
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略词性。",
+      "sourcePage": 36,
+      "sourceIndex": 988
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 36,
+      "sourceIndex": 989
+    },
+    {
+      "type": "paragraph",
+      "text": "· 代回句子自然吗？",
+      "sourcePage": 36,
+      "sourceIndex": 990
+    },
+    {
+      "type": "paragraph",
+      "text": "· 与前后逻辑一致吗？",
+      "sourcePage": 36,
+      "sourceIndex": 991
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 36,
+      "sourceIndex": 992
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 36,
+      "sourceIndex": 993
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 36,
+      "sourceIndex": 994
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 猜词看语境，不看第一义。",
+      "sourcePage": 36,
+      "sourceIndex": 995
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 36,
+      "sourceIndex": 997
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 陌生词后跟“that is”说明？",
+      "sourcePage": 36,
+      "sourceIndex": 998
+    },
+    {
+      "type": "paragraph",
+      "text": "2. however 前后常给什么线索？",
+      "sourcePage": 36,
+      "sourceIndex": 999
+    },
+    {
+      "type": "paragraph",
+      "text": "3. for example 有助于？",
+      "sourcePage": 36,
+      "sourceIndex": 1000
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 猜词前先判断什么？",
+      "sourcePage": 36,
+      "sourceIndex": 1001
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 题问句子含义时能只翻一个词吗？",
+      "sourcePage": 36,
+      "sourceIndex": 1002
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 后面可能是解释/同义定义。；2. 对比/反义。；3. 从例子反推抽象词义。；4. 词性和在句中作用。；",
+      "sourcePage": 36,
+      "sourceIndex": 1003
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 不能，看整句与上下文功能。",
+      "sourcePage": 36,
+      "sourceIndex": 1004
+    },
+    {
+      "type": "paragraph",
+      "text": "— R8 本题型到这里。下次卡住直接 Ctrl+F 搜“R8”或题型关键词。—",
+      "sourcePage": 36,
+      "sourceIndex": 1005
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R8-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "What does the underlined word/phrase/ sentence mean?",
+          "sourcePage": 35,
+          "sourceIndex": 962
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Contextual meaning：词在这篇文章里的意思， 可能不是你背过的第一义。",
+          "sourcePage": 35,
+          "sourceIndex": 965
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先不查字典，看看前后有没有解释、举例、转折或结果。”",
+          "sourcePage": 35,
+          "sourceIndex": 967
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "阅读考的是语境意义，不是完整词典知识。",
+          "sourcePage": 35,
+          "sourceIndex": 968
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先判断词性/句子功能。",
+          "sourcePage": 35,
+          "sourceIndex": 970
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 读前后1-2句，找解释、同义、反义、例子、因果。",
+          "sourcePage": 35,
+          "sourceIndex": 971
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 把选项代回原句，检查语法和逻辑。",
+          "sourcePage": 35,
+          "sourceIndex": 972
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 选择能让上下文整体顺畅的意思。",
+          "sourcePage": 35,
+          "sourceIndex": 973
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 35,
+          "sourceIndex": 974
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· that is / namely → 直接解释",
+          "sourcePage": 36,
+          "sourceIndex": 977
+        },
+        {
+          "type": "paragraph",
+          "text": "· for example → 用例子反推概念",
+          "sourcePage": 36,
+          "sourceIndex": 978
+        },
+        {
+          "type": "paragraph",
+          "text": "· but / unlike → 反义线索",
+          "sourcePage": 36,
+          "sourceIndex": 979
+        },
+        {
+          "type": "paragraph",
+          "text": "· therefore / as a result → 因果线索",
+          "sourcePage": 36,
+          "sourceIndex": 980
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "代回后语法和上下文逻辑都通。",
+          "sourcePage": 36,
+          "sourceIndex": 981
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "完全不认识词时，用词性先删一半；再用情感方向/因果方向缩小。",
+          "sourcePage": 36,
+          "sourceIndex": 982
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "句子：The plan was shelved after costs doubled. 即使不知道 shelve 的动词义，从“成本翻倍后”可推 为“暂停/搁置”，不是“放在架子上”。",
+          "sourcePage": 36,
+          "sourceIndex": 984
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只用最熟悉的词典义。",
+          "sourcePage": 36,
+          "sourceIndex": 987
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略词性。",
+          "sourcePage": 36,
+          "sourceIndex": 988
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 代回句子自然吗？",
+          "sourcePage": 36,
+          "sourceIndex": 990
+        },
+        {
+          "type": "paragraph",
+          "text": "· 与前后逻辑一致吗？",
+          "sourcePage": 36,
+          "sourceIndex": 991
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 36,
+          "sourceIndex": 992
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 36,
+          "sourceIndex": 994
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "猜词看语境，不看第一义。",
+          "sourcePage": 36,
+          "sourceIndex": 995
+        }
+      ]
+    },
+    {
+      "id": "EN-R8-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 陌生词后跟“that is”说明？",
+          "sourcePage": 36,
+          "sourceIndex": 998
+        },
+        {
+          "type": "paragraph",
+          "text": "2. however 前后常给什么线索？",
+          "sourcePage": 36,
+          "sourceIndex": 999
+        },
+        {
+          "type": "paragraph",
+          "text": "3. for example 有助于？",
+          "sourcePage": 36,
+          "sourceIndex": 1000
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 猜词前先判断什么？",
+          "sourcePage": 36,
+          "sourceIndex": 1001
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 题问句子含义时能只翻一个词吗？",
+          "sourcePage": 36,
+          "sourceIndex": 1002
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 后面可能是解释/同义定义。；2. 对比/反义。；3. 从例子反推抽象词义。；4. 词性和在句中作用。； 5. 不能，看整句与上下文功能。",
+          "sourcePage": 36,
+          "sourceIndex": 1003
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 35,
+    "endPage": 36
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "EN-INTRO-LISTENING",
+  "code": "INTRO-LISTENING",
+  "title": "听力 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-LISTENING",
+    "听力 · 总览",
+    "听力",
+    "Part",
+    "Listening",
+    "but",
+    "actually",
+    "instead",
+    "SOP"
+  ],
+  "brain_first": "按原文查阅 听力 · 总览",
+  "sort_order": 1002,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part I - Listening 听力",
+      "sourcePage": 5,
+      "sourceIndex": 102
+    },
+    {
+      "type": "paragraph",
+      "text": "听力不是“每句话都听懂”才会做。真正的任务是：在录音继续向前的情况下，抓住题目要求的信息，并识别",
+      "sourcePage": 5,
+      "sourceIndex": 103
+    },
+    {
+      "type": "paragraph",
+      "text": "“第一次说的”和“最后决定的”是否不同。",
+      "sourcePage": 5,
+      "sourceIndex": 104
+    },
+    {
+      "type": "paragraph",
+      "text": "听力总流程：录音前看题 → 判断要听什么类型的信息 → 听到关键词先记 → 遇到 but / actually / instead",
+      "sourcePage": 5,
+      "sourceIndex": 105
+    },
+    {
+      "type": "paragraph",
+      "text": "等改口词立即更新 → 选最终信息。",
+      "sourcePage": 5,
+      "sourceIndex": 106
+    },
+    {
+      "type": "paragraph",
+      "text": "说明：每个听力SOP后的5题是“逻辑/识别微练习”，用于确认方法；真正的声音辨识仍需结合学校录音或真题音频。",
+      "sourcePage": 5,
+      "sourceIndex": 107
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-LISTENING-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part I - Listening 听力 听力不是“每句话都听懂”才会做。真正的任务是：在录音继续向前的情况下，抓住题目要求的信息，并识别 “第一次说的”和“最后决定的”是否不同。",
+          "sourcePage": 5,
+          "sourceIndex": 102
+        },
+        {
+          "type": "paragraph",
+          "text": "听力总流程：录音前看题 → 判断要听什么类型的信息 → 听到关键词先记 → 遇到 but / actually / instead 等改口词立即更新 → 选最终信息。",
+          "sourcePage": 5,
+          "sourceIndex": 105
+        },
+        {
+          "type": "paragraph",
+          "text": "说明：每个听力SOP后的5题是“逻辑/识别微练习”，用于确认方法；真正的声音辨识仍需结合学校录音或真题音频。",
+          "sourcePage": 5,
+          "sourceIndex": 107
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 5,
+    "endPage": 5
+  }
+}

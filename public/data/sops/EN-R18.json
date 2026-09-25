@@ -1,0 +1,625 @@
+{
+  "id": "EN-R18",
+  "code": "R18",
+  "title": "非连续性语篇：图表、日程、地图、规则、菜单/网页信息",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "R18",
+    "非连续性语篇：图表、日程、地图、规则、菜单/网页信息",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "timetable",
+    "chart",
+    "notice",
+    "map",
+    "menu",
+    "rules",
+    "webpage",
+    "cards",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Non-continuous",
+    "practical",
+    "text",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "Date/Time",
+    "Price/Fee",
+    "Age/For/Requirements",
+    "must",
+    "may",
+    "can",
+    "cannot",
+    "only",
+    "except",
+    "before",
+    "after",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "members",
+    "under",
+    "Ctrl"
+  ],
+  "brain_first": "“先看题目要找哪一栏；不要从左上角开始逐字读。”",
+  "sort_order": 1032,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 51,
+      "sourceIndex": 1418
+    },
+    {
+      "type": "paragraph",
+      "text": "材料不是长文章，而是 timetable, chart, notice,",
+      "sourcePage": 51,
+      "sourceIndex": 1419
+    },
+    {
+      "type": "paragraph",
+      "text": "map, menu, rules, webpage cards 等；问题多问",
+      "sourcePage": 51,
+      "sourceIndex": 1420
+    },
+    {
+      "type": "paragraph",
+      "text": "时间、价格、资格、路线、限制和匹配。",
+      "sourcePage": 51,
+      "sourceIndex": 1421
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 51,
+      "sourceIndex": 1422
+    },
+    {
+      "type": "paragraph",
+      "text": "Non-continuous / practical text：信息分散在栏",
+      "sourcePage": 51,
+      "sourceIndex": 1423
+    },
+    {
+      "type": "paragraph",
+      "text": "目、表格、标签和图示中，不需要按文章顺序阅",
+      "sourcePage": 51,
+      "sourceIndex": 1424
+    },
+    {
+      "type": "paragraph",
+      "text": "读。",
+      "sourcePage": 51,
+      "sourceIndex": 1425
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先看题目要找哪一栏；不要从左上角开始逐字读。”",
+      "sourcePage": 51,
+      "sourceIndex": 1426
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 这类题主要考“精准筛选条件”。基础学生如果先圈条件，再交叉核对，通常比读长",
+      "sourcePage": 51,
+      "sourceIndex": 1427
+    },
+    {
+      "type": "paragraph",
+      "text": "文章更容易稳定拿分。",
+      "sourcePage": 51,
+      "sourceIndex": 1428
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 51,
+      "sourceIndex": 1429
+    },
+    {
+      "type": "paragraph",
+      "text": "11. 1 先圈题干中的对象 + 条件：谁、哪天、几点、多少钱、能不能、从哪里到哪里。",
+      "sourcePage": 51,
+      "sourceIndex": 1430
+    },
+    {
+      "type": "paragraph",
+      "text": "12. 2 直接跳到对应栏：日期题看 Date/Time；费用题看 Price/Fee；资格题看 Age/For/Requirements；路线题",
+      "sourcePage": 51,
+      "sourceIndex": 1431
+    },
+    {
+      "type": "paragraph",
+      "text": "看起点、终点、方向。",
+      "sourcePage": 51,
+      "sourceIndex": 1432
+    },
+    {
+      "type": "paragraph",
+      "text": "13. 3 如果答案要同时满足两个以上条件，在草稿上写成“条件A ✓ / 条件B ✓ / 条件C ✓”。",
+      "sourcePage": 51,
+      "sourceIndex": 1433
+    },
+    {
+      "type": "paragraph",
+      "text": "14. 4 规则类特别圈 must, may, can, cannot, only, except, before, after。",
+      "sourcePage": 51,
+      "sourceIndex": 1434
+    },
+    {
+      "type": "paragraph",
+      "text": "15. 5 最终选项逐项核对，任何一个条件不满足就删。",
+      "sourcePage": 51,
+      "sourceIndex": 1435
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 51,
+      "sourceIndex": 1436
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 51,
+      "sourceIndex": 1437
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 51,
+      "sourceIndex": 1438
+    },
+    {
+      "type": "paragraph",
+      "text": "· If 题目问“最早/最便宜/最适合” → 先筛掉不符合硬条件的，再比较。",
+      "sourcePage": 51,
+      "sourceIndex": 1439
+    },
+    {
+      "type": "paragraph",
+      "text": "· If 是地图/路线 → 先固定起点和终点，再看方向/换乘，不要被附近地名吸走。",
+      "sourcePage": 51,
+      "sourceIndex": 1440
+    },
+    {
+      "type": "paragraph",
+      "text": "· If 是网页卡片 → 标题、日期、按钮、脚注、备注都可能是证据。",
+      "sourcePage": 51,
+      "sourceIndex": 1441
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 唯一一个选项满足题干全部条件。",
+      "sourcePage": 51,
+      "sourceIndex": 1442
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 把题干条件拆成小勾选框；不要一次在脑中同时记四五个限制。",
+      "sourcePage": 52,
+      "sourceIndex": 1443
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 52,
+      "sourceIndex": 1444
+    },
+    {
+      "type": "paragraph",
+      "text": "活动表：A活动 15:00、免费、14岁以上；B活动 14:30、$5、全年龄。题目问“13岁学生下午3点后能参加",
+      "sourcePage": 52,
+      "sourceIndex": 1445
+    },
+    {
+      "type": "paragraph",
+      "text": "的免费活动”，A因年龄不符，B因收费不符，所以二者都不能选。关键不是“看见3点”，而是全部条件",
+      "sourcePage": 52,
+      "sourceIndex": 1446
+    },
+    {
+      "type": "paragraph",
+      "text": "同时成立。",
+      "sourcePage": 52,
+      "sourceIndex": 1447
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 52,
+      "sourceIndex": 1448
+    },
+    {
+      "type": "paragraph",
+      "text": "只看一个数字就选；忽略脚注/年龄限制；地图题把“经过某地”当成“终点”；看到原词就忽略其他条件。",
+      "sourcePage": 52,
+      "sourceIndex": 1449
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 52,
+      "sourceIndex": 1450
+    },
+    {
+      "type": "paragraph",
+      "text": "对象对吗？时间对吗？费用/年龄/资格对吗？有没有 only / except / before 等限制？",
+      "sourcePage": 52,
+      "sourceIndex": 1451
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 52,
+      "sourceIndex": 1452
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 52,
+      "sourceIndex": 1453
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 52,
+      "sourceIndex": 1454
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 先找对应栏，再做条件交集；所有条件都打勾才选。",
+      "sourcePage": 52,
+      "sourceIndex": 1455
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 52,
+      "sourceIndex": 1457
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 日程题问“周日15:00后免费”，第一步？",
+      "sourcePage": 52,
+      "sourceIndex": 1458
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 地图题先固定哪两个点？",
+      "sourcePage": 52,
+      "sourceIndex": 1459
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 规则“only members under 18”，19岁会员可以吗？",
+      "sourcePage": 52,
+      "sourceIndex": 1460
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 表格题一个选项时间对但年龄不符，能选吗？",
+      "sourcePage": 52,
+      "sourceIndex": 1461
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 网页脚注信息会不会成为证据？",
+      "sourcePage": 52,
+      "sourceIndex": 1462
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 圈日期+时间+费用三个条件。；2. 起点和终点。；3. 不可以。；4. 不能。；5. 会。",
+      "sourcePage": 52,
+      "sourceIndex": 1463
+    },
+    {
+      "type": "paragraph",
+      "text": "— R18 本题型到这里。下次卡住直接 Ctrl+F 搜“R18”或题型关键词。—",
+      "sourcePage": 52,
+      "sourceIndex": 1464
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R18-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "材料不是长文章，而是 timetable, chart, notice, map, menu, rules, webpage cards 等；问题多问 时间、价格、资格、路线、限制和匹配。",
+          "sourcePage": 51,
+          "sourceIndex": 1419
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Non-continuous / practical text：信息分散在栏 目、表格、标签和图示中，不需要按文章顺序阅 读。",
+          "sourcePage": 51,
+          "sourceIndex": 1423
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先看题目要找哪一栏；不要从左上角开始逐字读。”",
+          "sourcePage": 51,
+          "sourceIndex": 1426
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这类题主要考“精准筛选条件”。基础学生如果先圈条件，再交叉核对，通常比读长 文章更容易稳定拿分。",
+          "sourcePage": 51,
+          "sourceIndex": 1427
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先圈题干中的对象 + 条件：谁、哪天、几点、多少钱、能不能、从哪里到哪里。",
+          "sourcePage": 51,
+          "sourceIndex": 1430
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 直接跳到对应栏：日期题看 Date/Time；费用题看 Price/Fee；资格题看 Age/For/Requirements；路线题 看起点、终点、方向。",
+          "sourcePage": 51,
+          "sourceIndex": 1431
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 如果答案要同时满足两个以上条件，在草稿上写成“条件A ✓ / 条件B ✓ / 条件C ✓”。",
+          "sourcePage": 51,
+          "sourceIndex": 1433
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 规则类特别圈 must, may, can, cannot, only, except, before, after。",
+          "sourcePage": 51,
+          "sourceIndex": 1434
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 最终选项逐项核对，任何一个条件不满足就删。",
+          "sourcePage": 51,
+          "sourceIndex": 1435
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 51,
+          "sourceIndex": 1436
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· If 题目问“最早/最便宜/最适合” → 先筛掉不符合硬条件的，再比较。",
+          "sourcePage": 51,
+          "sourceIndex": 1439
+        },
+        {
+          "type": "paragraph",
+          "text": "· If 是地图/路线 → 先固定起点和终点，再看方向/换乘，不要被附近地名吸走。",
+          "sourcePage": 51,
+          "sourceIndex": 1440
+        },
+        {
+          "type": "paragraph",
+          "text": "· If 是网页卡片 → 标题、日期、按钮、脚注、备注都可能是证据。",
+          "sourcePage": 51,
+          "sourceIndex": 1441
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "唯一一个选项满足题干全部条件。",
+          "sourcePage": 51,
+          "sourceIndex": 1442
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "把题干条件拆成小勾选框；不要一次在脑中同时记四五个限制。",
+          "sourcePage": 52,
+          "sourceIndex": 1443
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "活动表：A活动 15:00、免费、14岁以上；B活动 14:30、$5、全年龄。题目问“13岁学生下午3点后能参加 的免费活动”，A因年龄不符，B因收费不符，所以二者都不能选。关键不是“看见3点”，而是全部条件 同时成立。",
+          "sourcePage": 52,
+          "sourceIndex": 1445
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "只看一个数字就选；忽略脚注/年龄限制；地图题把“经过某地”当成“终点”；看到原词就忽略其他条件。",
+          "sourcePage": 52,
+          "sourceIndex": 1449
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "对象对吗？时间对吗？费用/年龄/资格对吗？有没有 only / except / before 等限制？",
+          "sourcePage": 52,
+          "sourceIndex": 1451
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 52,
+          "sourceIndex": 1452
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 52,
+          "sourceIndex": 1454
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "先找对应栏，再做条件交集；所有条件都打勾才选。",
+          "sourcePage": 52,
+          "sourceIndex": 1455
+        }
+      ]
+    },
+    {
+      "id": "EN-R18-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 日程题问“周日15:00后免费”，第一步？",
+          "sourcePage": 52,
+          "sourceIndex": 1458
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 地图题先固定哪两个点？",
+          "sourcePage": 52,
+          "sourceIndex": 1459
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 规则“only members under 18”，19岁会员可以吗？",
+          "sourcePage": 52,
+          "sourceIndex": 1460
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 表格题一个选项时间对但年龄不符，能选吗？",
+          "sourcePage": 52,
+          "sourceIndex": 1461
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 网页脚注信息会不会成为证据？",
+          "sourcePage": 52,
+          "sourceIndex": 1462
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 圈日期+时间+费用三个条件。；2. 起点和终点。；3. 不可以。；4. 不能。；5. 会。",
+          "sourcePage": 52,
+          "sourceIndex": 1463
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 51,
+    "endPage": 52
+  }
+}

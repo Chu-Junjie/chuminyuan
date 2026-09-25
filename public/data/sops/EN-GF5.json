@@ -1,0 +1,606 @@
+{
+  "id": "EN-GF5",
+  "code": "GF5",
+  "title": "给代词：主格、宾格、物主、反身",
+  "subject_id": "english",
+  "chapter_id": "en-grammar-filling",
+  "chapter": "语法填空",
+  "kind": "sop",
+  "frequency": 4,
+  "keywords": [
+    "GF5",
+    "给代词：主格、宾格、物主、反身",
+    "语法填空",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "they",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Pronoun",
+    "case/form",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "I/he/she/we/they",
+    "me/him/her/us/them",
+    "my/his/their",
+    "mine/his/theirs",
+    "reflexive",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "oneself",
+    "enjoy",
+    "teach",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "The",
+    "students",
+    "prepared",
+    "exhibition",
+    "themselves",
+    "TRAPS",
+    "Common",
+    "traps",
+    "their/theirs",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "friend",
+    "helped",
+    "she",
+    "This",
+    "book",
+    "taught",
+    "English",
+    "her",
+    "mine",
+    "himself",
+    "Ctrl"
+  ],
+  "brain_first": "“看这个空在句子里干什么：做主语、宾语、表示‘谁的’，还 是回指自己。”",
+  "sort_order": 1053,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 81,
+      "sourceIndex": 2249
+    },
+    {
+      "type": "paragraph",
+      "text": "括号给 he, they, we, I 等。",
+      "sourcePage": 81,
+      "sourceIndex": 2250
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 81,
+      "sourceIndex": 2251
+    },
+    {
+      "type": "paragraph",
+      "text": "Pronoun case/form：不同句法位置用不同形式。",
+      "sourcePage": 81,
+      "sourceIndex": 2252
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “看这个空在句子里干什么：做主语、宾语、表示‘谁的’，还",
+      "sourcePage": 81,
+      "sourceIndex": 2253
+    },
+    {
+      "type": "paragraph",
+      "text": "是回指自己。”",
+      "sourcePage": 81,
+      "sourceIndex": 2254
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 代词题靠位置判断，规则稳定。",
+      "sourcePage": 81,
+      "sourceIndex": 2255
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 81,
+      "sourceIndex": 2256
+    },
+    {
+      "type": "paragraph",
+      "text": "1 空在谓语前、做动作的人 → 主格 I/he/she/we/they。",
+      "sourcePage": 81,
+      "sourceIndex": 2257
+    },
+    {
+      "type": "paragraph",
+      "text": "2 动词/介词后做对象 → 宾格 me/him/her/us/them。",
+      "sourcePage": 81,
+      "sourceIndex": 2258
+    },
+    {
+      "type": "paragraph",
+      "text": "3 空后紧跟名词 → 形容词性物主代词 my/his/their。",
+      "sourcePage": 81,
+      "sourceIndex": 2259
+    },
+    {
+      "type": "paragraph",
+      "text": "4 空后无名词但表示“某人的东西” → mine/his/theirs。",
+      "sourcePage": 81,
+      "sourceIndex": 2260
+    },
+    {
+      "type": "paragraph",
+      "text": "5 主语和宾语同一人且强调“自己” → reflexive。",
+      "sourcePage": 82,
+      "sourceIndex": 2261
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 82,
+      "sourceIndex": 2262
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 82,
+      "sourceIndex": 2263
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 82,
+      "sourceIndex": 2264
+    },
+    {
+      "type": "paragraph",
+      "text": "· by oneself = 独自",
+      "sourcePage": 82,
+      "sourceIndex": 2265
+    },
+    {
+      "type": "paragraph",
+      "text": "· enjoy oneself = 玩得开心",
+      "sourcePage": 82,
+      "sourceIndex": 2266
+    },
+    {
+      "type": "paragraph",
+      "text": "· teach oneself = 自学",
+      "sourcePage": 82,
+      "sourceIndex": 2267
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 代词形式与句中位置对应。",
+      "sourcePage": 82,
+      "sourceIndex": 2268
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 先把人名代回句子，再判断“谁做/对谁/谁的”。",
+      "sourcePage": 82,
+      "sourceIndex": 2269
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 82,
+      "sourceIndex": 2270
+    },
+    {
+      "type": "paragraph",
+      "text": "The students prepared the exhibition by ___ (they). 固定结构 by themselves。",
+      "sourcePage": 82,
+      "sourceIndex": 2271
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 82,
+      "sourceIndex": 2272
+    },
+    {
+      "type": "paragraph",
+      "text": "· 介词后仍用主格。",
+      "sourcePage": 82,
+      "sourceIndex": 2273
+    },
+    {
+      "type": "paragraph",
+      "text": "· their/theirs 混用。",
+      "sourcePage": 82,
+      "sourceIndex": 2274
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 82,
+      "sourceIndex": 2275
+    },
+    {
+      "type": "paragraph",
+      "text": "· 空后有名词吗？",
+      "sourcePage": 82,
+      "sourceIndex": 2276
+    },
+    {
+      "type": "paragraph",
+      "text": "· 主客体是否同一人？",
+      "sourcePage": 82,
+      "sourceIndex": 2277
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 82,
+      "sourceIndex": 2278
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 82,
+      "sourceIndex": 2279
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 82,
+      "sourceIndex": 2280
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 代词看位置：谁、对谁、谁的、自己。",
+      "sourcePage": 82,
+      "sourceIndex": 2281
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 82,
+      "sourceIndex": 2283
+    },
+    {
+      "type": "paragraph",
+      "text": "1. ___ is my friend. (he)",
+      "sourcePage": 82,
+      "sourceIndex": 2284
+    },
+    {
+      "type": "paragraph",
+      "text": "2. I helped ___. (she)",
+      "sourcePage": 82,
+      "sourceIndex": 2285
+    },
+    {
+      "type": "paragraph",
+      "text": "3. This is ___ book. (I)",
+      "sourcePage": 82,
+      "sourceIndex": 2286
+    },
+    {
+      "type": "paragraph",
+      "text": "4. The book is ___. (I)",
+      "sourcePage": 82,
+      "sourceIndex": 2287
+    },
+    {
+      "type": "paragraph",
+      "text": "5. He taught ___ English.",
+      "sourcePage": 82,
+      "sourceIndex": 2288
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. He；2. her；3. my；4. mine；5. himself",
+      "sourcePage": 83,
+      "sourceIndex": 2289
+    },
+    {
+      "type": "paragraph",
+      "text": "— GF5 本题型到这里。下次卡住直接 Ctrl+F 搜“GF5”或题型关键词。—",
+      "sourcePage": 83,
+      "sourceIndex": 2290
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-GF5-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "括号给 he, they, we, I 等。",
+          "sourcePage": 81,
+          "sourceIndex": 2250
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Pronoun case/form：不同句法位置用不同形式。",
+          "sourcePage": 81,
+          "sourceIndex": 2252
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“看这个空在句子里干什么：做主语、宾语、表示‘谁的’，还 是回指自己。”",
+          "sourcePage": 81,
+          "sourceIndex": 2253
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "代词题靠位置判断，规则稳定。",
+          "sourcePage": 81,
+          "sourceIndex": 2255
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 空在谓语前、做动作的人 → 主格 I/he/she/we/they。",
+          "sourcePage": 81,
+          "sourceIndex": 2257
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 动词/介词后做对象 → 宾格 me/him/her/us/them。",
+          "sourcePage": 81,
+          "sourceIndex": 2258
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 空后紧跟名词 → 形容词性物主代词 my/his/their。",
+          "sourcePage": 81,
+          "sourceIndex": 2259
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 空后无名词但表示“某人的东西” → mine/his/theirs。",
+          "sourcePage": 81,
+          "sourceIndex": 2260
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 主语和宾语同一人且强调“自己” → reflexive。",
+          "sourcePage": 82,
+          "sourceIndex": 2261
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 82,
+          "sourceIndex": 2262
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· by oneself = 独自",
+          "sourcePage": 82,
+          "sourceIndex": 2265
+        },
+        {
+          "type": "paragraph",
+          "text": "· enjoy oneself = 玩得开心",
+          "sourcePage": 82,
+          "sourceIndex": 2266
+        },
+        {
+          "type": "paragraph",
+          "text": "· teach oneself = 自学",
+          "sourcePage": 82,
+          "sourceIndex": 2267
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "代词形式与句中位置对应。",
+          "sourcePage": 82,
+          "sourceIndex": 2268
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "先把人名代回句子，再判断“谁做/对谁/谁的”。",
+          "sourcePage": 82,
+          "sourceIndex": 2269
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The students prepared the exhibition by ___ (they). 固定结构 by themselves。",
+          "sourcePage": 82,
+          "sourceIndex": 2271
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 介词后仍用主格。",
+          "sourcePage": 82,
+          "sourceIndex": 2273
+        },
+        {
+          "type": "paragraph",
+          "text": "· their/theirs 混用。",
+          "sourcePage": 82,
+          "sourceIndex": 2274
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 空后有名词吗？",
+          "sourcePage": 82,
+          "sourceIndex": 2276
+        },
+        {
+          "type": "paragraph",
+          "text": "· 主客体是否同一人？",
+          "sourcePage": 82,
+          "sourceIndex": 2277
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 82,
+          "sourceIndex": 2278
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 82,
+          "sourceIndex": 2280
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "代词看位置：谁、对谁、谁的、自己。",
+          "sourcePage": 82,
+          "sourceIndex": 2281
+        }
+      ]
+    },
+    {
+      "id": "EN-GF5-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. ___ is my friend. (he)",
+          "sourcePage": 82,
+          "sourceIndex": 2284
+        },
+        {
+          "type": "paragraph",
+          "text": "2. I helped ___. (she)",
+          "sourcePage": 82,
+          "sourceIndex": 2285
+        },
+        {
+          "type": "paragraph",
+          "text": "3. This is ___ book. (I)",
+          "sourcePage": 82,
+          "sourceIndex": 2286
+        },
+        {
+          "type": "paragraph",
+          "text": "4. The book is ___. (I)",
+          "sourcePage": 82,
+          "sourceIndex": 2287
+        },
+        {
+          "type": "paragraph",
+          "text": "5. He taught ___ English.",
+          "sourcePage": 82,
+          "sourceIndex": 2288
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. He；2. her；3. my；4. mine；5. himself",
+          "sourcePage": 83,
+          "sourceIndex": 2289
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 81,
+    "endPage": 83
+  }
+}

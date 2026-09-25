@@ -1,0 +1,638 @@
+{
+  "id": "EN-R5",
+  "code": "R5",
+  "title": "目的题 / Why does the author mention...?",
+  "subject_id": "english",
+  "chapter_id": "en-reading",
+  "chapter": "阅读理解",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "R5",
+    "目的题 / Why does the author mention...?",
+    "阅读理解",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "Why",
+    "does",
+    "the",
+    "author",
+    "mention",
+    "What",
+    "purpose",
+    "paragraph",
+    "TERM",
+    "term",
+    "really",
+    "means",
+    "Purpose",
+    "function",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "NOT",
+    "IF/THEN",
+    "then",
+    "for",
+    "example",
+    "instance",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "Small",
+    "design",
+    "changes",
+    "can",
+    "strongly",
+    "influence",
+    "behavior",
+    "illustrate",
+    "how",
+    "change",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "R-L",
+    "R-P",
+    "R-I",
+    "R-S",
+    "R-N",
+    "NOT/EXCEPT",
+    "R-M",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "experiment",
+    "entertain",
+    "support/illustrate",
+    "claim",
+    "show",
+    "scale/trend",
+    "Ctrl"
+  ],
+  "brain_first": "“不要只解释X是什么，要问：作者拿X来证明/说明前面的什 么？”",
+  "sort_order": 1019,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 30,
+      "sourceIndex": 817
+    },
+    {
+      "type": "paragraph",
+      "text": "Why does the author mention X? / What is the",
+      "sourcePage": 30,
+      "sourceIndex": 818
+    },
+    {
+      "type": "paragraph",
+      "text": "purpose of paragraph 2?",
+      "sourcePage": 30,
+      "sourceIndex": 819
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 30,
+      "sourceIndex": 820
+    },
+    {
+      "type": "paragraph",
+      "text": "Purpose / function：某句话、例子或段落在文章",
+      "sourcePage": 30,
+      "sourceIndex": 821
+    },
+    {
+      "type": "paragraph",
+      "text": "中的作用。",
+      "sourcePage": 30,
+      "sourceIndex": 822
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “不要只解释X是什么，要问：作者拿X来证明/说明前面的什",
+      "sourcePage": 30,
+      "sourceIndex": 823
+    },
+    {
+      "type": "paragraph",
+      "text": "么？”",
+      "sourcePage": 30,
+      "sourceIndex": 824
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 例子不是独立存在，它通常服务于观点、解释、对比或引入。",
+      "sourcePage": 30,
+      "sourceIndex": 825
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 30,
+      "sourceIndex": 826
+    },
+    {
+      "type": "paragraph",
+      "text": "1 先定位被问到的X。",
+      "sourcePage": 30,
+      "sourceIndex": 827
+    },
+    {
+      "type": "paragraph",
+      "text": "2 读X前面1-2句，找作者刚提出的观点。",
+      "sourcePage": 30,
+      "sourceIndex": 828
+    },
+    {
+      "type": "paragraph",
+      "text": "3 再读X后面一句，看作者如何收束。",
+      "sourcePage": 30,
+      "sourceIndex": 829
+    },
+    {
+      "type": "paragraph",
+      "text": "4 把选项改写成“作者提X是为了___”，选能解释上下文结构的。",
+      "sourcePage": 30,
+      "sourceIndex": 830
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写",
+      "sourcePage": 31,
+      "sourceIndex": 831
+    },
+    {
+      "type": "paragraph",
+      "text": "“证据→选项”。",
+      "sourcePage": 31,
+      "sourceIndex": 832
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 31,
+      "sourceIndex": 833
+    },
+    {
+      "type": "paragraph",
+      "text": "· for example / for instance → 多半是举例支持前面概括",
+      "sourcePage": 31,
+      "sourceIndex": 834
+    },
+    {
+      "type": "paragraph",
+      "text": "· 故事开头 → 可能用于引出主题",
+      "sourcePage": 31,
+      "sourceIndex": 835
+    },
+    {
+      "type": "paragraph",
+      "text": "· 数据 → 常用于提供证据/显示规模",
+      "sourcePage": 31,
+      "sourceIndex": 836
+    },
+    {
+      "type": "paragraph",
+      "text": "· 反例 → 用于挑战前面观点",
+      "sourcePage": 31,
+      "sourceIndex": 837
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 你能说清“X服务于哪一个观点/结构功能”。",
+      "sourcePage": 31,
+      "sourceIndex": 838
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 如果选项只是复述X内容，却没解释“为什么作者放它在这里”，通常不是功",
+      "sourcePage": 31,
+      "sourceIndex": 839
+    },
+    {
+      "type": "paragraph",
+      "text": "能答案。",
+      "sourcePage": 31,
+      "sourceIndex": 840
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 31,
+      "sourceIndex": 841
+    },
+    {
+      "type": "paragraph",
+      "text": "前句：Small design changes can strongly influence behavior. 后面举楼梯旁脚印图案让更多人走楼",
+      "sourcePage": 31,
+      "sourceIndex": 842
+    },
+    {
+      "type": "paragraph",
+      "text": "梯。目的：illustrate how design can change behavior。",
+      "sourcePage": 31,
+      "sourceIndex": 843
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 31,
+      "sourceIndex": 844
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把“例子内容”当“例子作用”。",
+      "sourcePage": 31,
+      "sourceIndex": 845
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把作者目的扩大成整篇文章目的。",
+      "sourcePage": 31,
+      "sourceIndex": 846
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 31,
+      "sourceIndex": 847
+    },
+    {
+      "type": "paragraph",
+      "text": "· 这个例子支持哪一句？",
+      "sourcePage": 31,
+      "sourceIndex": 848
+    },
+    {
+      "type": "paragraph",
+      "text": "· 删掉例子后，前后逻辑少了什么？",
+      "sourcePage": 31,
+      "sourceIndex": 849
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推",
+      "sourcePage": 31,
+      "sourceIndex": 850
+    },
+    {
+      "type": "paragraph",
+      "text": "断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+      "sourcePage": 31,
+      "sourceIndex": 851
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 31,
+      "sourceIndex": 852
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 例子作用 = 它在帮作者说明什么。",
+      "sourcePage": 31,
+      "sourceIndex": 853
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 31,
+      "sourceIndex": 855
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Why does the author mention an experiment? 第一问？",
+      "sourcePage": 31,
+      "sourceIndex": 856
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 例子本身有趣，能直接选“to entertain”吗？",
+      "sourcePage": 31,
+      "sourceIndex": 857
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 作者引用数据常用于？",
+      "sourcePage": 31,
+      "sourceIndex": 858
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 目的题定位范围通常？",
+      "sourcePage": 31,
+      "sourceIndex": 859
+    },
+    {
+      "type": "paragraph",
+      "text": "5. “mention X”正确答案通常是X本身内容还是作用？",
+      "sourcePage": 31,
+      "sourceIndex": 860
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 实验在支持前后的哪个观点。；2. 不能，看它服务的论点。；3. support/illustrate a claim, show",
+      "sourcePage": 32,
+      "sourceIndex": 861
+    },
+    {
+      "type": "paragraph",
+      "text": "scale/trend。；4. 例子所在句+前后观点句。；5. 作用。",
+      "sourcePage": 32,
+      "sourceIndex": 862
+    },
+    {
+      "type": "paragraph",
+      "text": "— R5 本题型到这里。下次卡住直接 Ctrl+F 搜“R5”或题型关键词。—",
+      "sourcePage": 32,
+      "sourceIndex": 863
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-R5-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Why does the author mention X? / What is the purpose of paragraph 2?",
+          "sourcePage": 30,
+          "sourceIndex": 818
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Purpose / function：某句话、例子或段落在文章 中的作用。",
+          "sourcePage": 30,
+          "sourceIndex": 821
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“不要只解释X是什么，要问：作者拿X来证明/说明前面的什 么？”",
+          "sourcePage": 30,
+          "sourceIndex": 823
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "例子不是独立存在，它通常服务于观点、解释、对比或引入。",
+          "sourcePage": 30,
+          "sourceIndex": 825
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 先定位被问到的X。",
+          "sourcePage": 30,
+          "sourceIndex": 827
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 读X前面1-2句，找作者刚提出的观点。",
+          "sourcePage": 30,
+          "sourceIndex": 828
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 再读X后面一句，看作者如何收束。",
+          "sourcePage": 30,
+          "sourceIndex": 829
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 把选项改写成“作者提X是为了___”，选能解释上下文结构的。",
+          "sourcePage": 30,
+          "sourceIndex": 830
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 圈题干人物/时间/地点/段落/核心名词/NOT；定位后在段边写题号；必要时写 “证据→选项”。",
+          "sourcePage": 31,
+          "sourceIndex": 831
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· for example / for instance → 多半是举例支持前面概括",
+          "sourcePage": 31,
+          "sourceIndex": 834
+        },
+        {
+          "type": "paragraph",
+          "text": "· 故事开头 → 可能用于引出主题",
+          "sourcePage": 31,
+          "sourceIndex": 835
+        },
+        {
+          "type": "paragraph",
+          "text": "· 数据 → 常用于提供证据/显示规模",
+          "sourcePage": 31,
+          "sourceIndex": 836
+        },
+        {
+          "type": "paragraph",
+          "text": "· 反例 → 用于挑战前面观点",
+          "sourcePage": 31,
+          "sourceIndex": 837
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "你能说清“X服务于哪一个观点/结构功能”。",
+          "sourcePage": 31,
+          "sourceIndex": 838
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "如果选项只是复述X内容，却没解释“为什么作者放它在这里”，通常不是功 能答案。",
+          "sourcePage": 31,
+          "sourceIndex": 839
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "前句：Small design changes can strongly influence behavior. 后面举楼梯旁脚印图案让更多人走楼 梯。目的：illustrate how design can change behavior。",
+          "sourcePage": 31,
+          "sourceIndex": 842
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 把“例子内容”当“例子作用”。",
+          "sourcePage": 31,
+          "sourceIndex": 845
+        },
+        {
+          "type": "paragraph",
+          "text": "· 把作者目的扩大成整篇文章目的。",
+          "sourcePage": 31,
+          "sourceIndex": 846
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 这个例子支持哪一句？",
+          "sourcePage": 31,
+          "sourceIndex": 848
+        },
+        {
+          "type": "paragraph",
+          "text": "· 删掉例子后，前后逻辑少了什么？",
+          "sourcePage": 31,
+          "sourceIndex": 849
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： R-L 定位错｜R-P 同义替换错｜R-I 过度推 断｜R-S 范围/程度偷换｜R-N NOT/EXCEPT漏看｜R-M 主旨范围错。",
+          "sourcePage": 31,
+          "sourceIndex": 850
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 31,
+          "sourceIndex": 852
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "例子作用 = 它在帮作者说明什么。",
+          "sourcePage": 31,
+          "sourceIndex": 853
+        }
+      ]
+    },
+    {
+      "id": "EN-R5-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. Why does the author mention an experiment? 第一问？",
+          "sourcePage": 31,
+          "sourceIndex": 856
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 例子本身有趣，能直接选“to entertain”吗？",
+          "sourcePage": 31,
+          "sourceIndex": 857
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 作者引用数据常用于？",
+          "sourcePage": 31,
+          "sourceIndex": 858
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 目的题定位范围通常？",
+          "sourcePage": 31,
+          "sourceIndex": 859
+        },
+        {
+          "type": "paragraph",
+          "text": "5. “mention X”正确答案通常是X本身内容还是作用？",
+          "sourcePage": 31,
+          "sourceIndex": 860
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 实验在支持前后的哪个观点。；2. 不能，看它服务的论点。；3. support/illustrate a claim, show scale/trend。；4. 例子所在句+前后观点句。；5. 作用。",
+          "sourcePage": 32,
+          "sourceIndex": 861
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 30,
+    "endPage": 32
+  }
+}

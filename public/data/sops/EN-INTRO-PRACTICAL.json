@@ -1,0 +1,71 @@
+{
+  "id": "EN-INTRO-PRACTICAL",
+  "code": "INTRO-PRACTICAL",
+  "title": "应用文写作 · 总览",
+  "subject_id": "english",
+  "chapter_id": "en-practical",
+  "chapter": "应用文写作",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "INTRO-PRACTICAL",
+    "应用文写作 · 总览",
+    "应用文写作",
+    "Part",
+    "Practical",
+    "Writing"
+  ],
+  "brain_first": "按原文查阅 应用文写作 · 总览",
+  "sort_order": 1059,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Part VI - Practical Writing 应用文写作",
+      "sourcePage": 92,
+      "sourceIndex": 2520
+    },
+    {
+      "type": "paragraph",
+      "text": "应用文不是“背一个万能开头”。高分的第一步是把题目要求的信息完整、清楚地交付。对于基础学生，内容",
+      "sourcePage": 92,
+      "sourceIndex": 2521
+    },
+    {
+      "type": "paragraph",
+      "text": "完整和语言正确优先于所谓高级表达。",
+      "sourcePage": 92,
+      "sourceIndex": 2522
+    },
+    {
+      "type": "paragraph",
+      "text": "写作优先级：正确 > 完整 > 清楚 > 自然 > 高级。",
+      "sourcePage": 92,
+      "sourceIndex": 2523
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-INTRO-PRACTICAL-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Part VI - Practical Writing 应用文写作 应用文不是“背一个万能开头”。高分的第一步是把题目要求的信息完整、清楚地交付。对于基础学生，内容 完整和语言正确优先于所谓高级表达。",
+          "sourcePage": 92,
+          "sourceIndex": 2520
+        },
+        {
+          "type": "paragraph",
+          "text": "写作优先级：正确 > 完整 > 清楚 > 自然 > 高级。",
+          "sourcePage": 92,
+          "sourceIndex": 2523
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 92,
+    "endPage": 92
+  }
+}

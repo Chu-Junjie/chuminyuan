@@ -1,0 +1,660 @@
+{
+  "id": "EN-L1",
+  "code": "L1",
+  "title": "数字信息题：时间、价格、数量、日期、距离",
+  "subject_id": "english",
+  "chapter_id": "en-listening",
+  "chapter": "听力",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "L1",
+    "数字信息题：时间、价格、数量、日期、距离",
+    "听力",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "what",
+    "time",
+    "how",
+    "much",
+    "many",
+    "long",
+    "when",
+    "distance",
+    "price",
+    "discount",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "but",
+    "actually",
+    "instead",
+    "only",
+    "another",
+    "each",
+    "old",
+    "new",
+    "drive",
+    "sleep",
+    "IF/THEN",
+    "then",
+    "you",
+    "hear",
+    "originally",
+    "used",
+    "was",
+    "now",
+    "today",
+    "let",
+    "make",
+    "STOP",
+    "Stop",
+    "STUCK",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "example",
+    "The",
+    "ticket",
+    "students",
+    "get",
+    "off",
+    "TRAPS",
+    "Common",
+    "traps",
+    "half",
+    "past",
+    "six",
+    "CHECK",
+    "Final",
+    "check",
+    "L-K",
+    "L-C",
+    "L-P",
+    "L-I",
+    "L-A",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "bag",
+    "Meeting",
+    "moved",
+    "hour",
+    "later",
+    "Two",
+    "tickets",
+    "cost",
+    "Total",
+    "train",
+    "leaves",
+    "and",
+    "arrives",
+    "minutes",
+    "Arrival",
+    "room"
+  ],
+  "brain_first": "“先确定题目要哪一种数字；所有听到的数字先暂存，最后决定 才算。”",
+  "sort_order": 1004,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 7,
+      "sourceIndex": 162
+    },
+    {
+      "type": "paragraph",
+      "text": "题干含 what time, how much, how many, how",
+      "sourcePage": 7,
+      "sourceIndex": 163
+    },
+    {
+      "type": "paragraph",
+      "text": "long, when, distance, price, discount 等；选项",
+      "sourcePage": 7,
+      "sourceIndex": 164
+    },
+    {
+      "type": "paragraph",
+      "text": "常只有数字不同。",
+      "sourcePage": 7,
+      "sourceIndex": 165
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 7,
+      "sourceIndex": 166
+    },
+    {
+      "type": "paragraph",
+      "text": "这类题考的不是高深英语，而是数字识别、简单换",
+      "sourcePage": 7,
+      "sourceIndex": 167
+    },
+    {
+      "type": "paragraph",
+      "text": "算和“信息更新”。",
+      "sourcePage": 7,
+      "sourceIndex": 168
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先确定题目要哪一种数字；所有听到的数字先暂存，最后决定",
+      "sourcePage": 7,
+      "sourceIndex": 169
+    },
+    {
+      "type": "paragraph",
+      "text": "才算。”",
+      "sourcePage": 7,
+      "sourceIndex": 170
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 对话常先给旧数字，再给折扣、改期、总价或最终数量。",
+      "sourcePage": 7,
+      "sourceIndex": 171
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 7,
+      "sourceIndex": 172
+    },
+    {
+      "type": "paragraph",
+      "text": "1 录音前先看三个选项，判断差异是“时间/价格/数量/日期”中的哪一种。",
+      "sourcePage": 7,
+      "sourceIndex": 173
+    },
+    {
+      "type": "paragraph",
+      "text": "2 听到数字时在草稿上只记最短形式，例如 6:00 → 6:30 、 30 → 25 。",
+      "sourcePage": 7,
+      "sourceIndex": 174
+    },
+    {
+      "type": "paragraph",
+      "text": "3 若出现 but, actually, instead, only, another, each，立刻判断是否发生修正或计算。",
+      "sourcePage": 7,
+      "sourceIndex": 175
+    },
+    {
+      "type": "paragraph",
+      "text": "4 题目问总数时，把单价/人数/次数关系算完；题目问最终时间时只保留最后确认值。",
+      "sourcePage": 7,
+      "sourceIndex": 176
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计",
+      "sourcePage": 7,
+      "sourceIndex": 177
+    },
+    {
+      "type": "paragraph",
+      "text": "划写成“drive→sleep”；不要抄完整句。",
+      "sourcePage": 7,
+      "sourceIndex": 178
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 7,
+      "sourceIndex": 179
+    },
+    {
+      "type": "paragraph",
+      "text": "· If you hear originally / used to / was → 可能是旧信息。",
+      "sourcePage": 7,
+      "sourceIndex": 180
+    },
+    {
+      "type": "paragraph",
+      "text": "· If you hear now / today / actually / let's make it... → 后面通常是新信息。",
+      "sourcePage": 7,
+      "sourceIndex": 181
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 题目要求的数字已被最终确认，而且没有后续修正。",
+      "sourcePage": 7,
+      "sourceIndex": 182
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 没听清完整句子时，不要回忆所有英语，只回忆“题目要的数字前后出现了哪",
+      "sourcePage": 7,
+      "sourceIndex": 183
+    },
+    {
+      "type": "paragraph",
+      "text": "些单位和改口词”。",
+      "sourcePage": 7,
+      "sourceIndex": 184
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 7,
+      "sourceIndex": 185
+    },
+    {
+      "type": "paragraph",
+      "text": "The ticket was $30, but students get $5 off today.",
+      "sourcePage": 7,
+      "sourceIndex": 186
+    },
+    {
+      "type": "paragraph",
+      "text": "题目问学生今天付多少。先听到30不能选；$5 off表示减5，因此答案是25。",
+      "sourcePage": 7,
+      "sourceIndex": 187
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 7,
+      "sourceIndex": 188
+    },
+    {
+      "type": "paragraph",
+      "text": "· 听到和选项完全一样的第一个数字就立刻选。",
+      "sourcePage": 7,
+      "sourceIndex": 189
+    },
+    {
+      "type": "paragraph",
+      "text": "· 把 half past six 听成 6:15。",
+      "sourcePage": 7,
+      "sourceIndex": 190
+    },
+    {
+      "type": "paragraph",
+      "text": "· 题目问总价，却只选了单价。",
+      "sourcePage": 8,
+      "sourceIndex": 191
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 8,
+      "sourceIndex": 192
+    },
+    {
+      "type": "paragraph",
+      "text": "· 单位对吗？",
+      "sourcePage": 8,
+      "sourceIndex": 193
+    },
+    {
+      "type": "paragraph",
+      "text": "· 有没有改口？",
+      "sourcePage": 8,
+      "sourceIndex": 194
+    },
+    {
+      "type": "paragraph",
+      "text": "· 问的是“原价”还是“实际支付”？",
+      "sourcePage": 8,
+      "sourceIndex": 195
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同",
+      "sourcePage": 8,
+      "sourceIndex": 196
+    },
+    {
+      "type": "paragraph",
+      "text": "义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+      "sourcePage": 8,
+      "sourceIndex": 197
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 8,
+      "sourceIndex": 198
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 数字都先记，最后决定才算。",
+      "sourcePage": 8,
+      "sourceIndex": 199
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 8,
+      "sourceIndex": 201
+    },
+    {
+      "type": "paragraph",
+      "text": "1. The bag was $48, but today it is $36. 今天多少钱？",
+      "sourcePage": 8,
+      "sourceIndex": 202
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Meeting was at 2:00; it is moved half an hour later. 新时间？",
+      "sourcePage": 8,
+      "sourceIndex": 203
+    },
+    {
+      "type": "paragraph",
+      "text": "3. Two tickets cost $15 each. Total?",
+      "sourcePage": 8,
+      "sourceIndex": 204
+    },
+    {
+      "type": "paragraph",
+      "text": "4. A train leaves at 7:45 and arrives 90 minutes later. Arrival?",
+      "sourcePage": 8,
+      "sourceIndex": 205
+    },
+    {
+      "type": "paragraph",
+      "text": "5. The room is 120 a night for two nights, with $20 off total. Pay?",
+      "sourcePage": 8,
+      "sourceIndex": 206
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. $36；2. 2:30；3. $30；4. 9:15；5. $220",
+      "sourcePage": 8,
+      "sourceIndex": 207
+    },
+    {
+      "type": "paragraph",
+      "text": "— L1 本题型到这里。下次卡住直接 Ctrl+F 搜“L1”或题型关键词。—",
+      "sourcePage": 8,
+      "sourceIndex": 208
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-L1-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "题干含 what time, how much, how many, how long, when, distance, price, discount 等；选项 常只有数字不同。",
+          "sourcePage": 7,
+          "sourceIndex": 163
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "这类题考的不是高深英语，而是数字识别、简单换 算和“信息更新”。",
+          "sourcePage": 7,
+          "sourceIndex": 167
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先确定题目要哪一种数字；所有听到的数字先暂存，最后决定 才算。”",
+          "sourcePage": 7,
+          "sourceIndex": 169
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "对话常先给旧数字，再给折扣、改期、总价或最终数量。",
+          "sourcePage": 7,
+          "sourceIndex": 171
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 录音前先看三个选项，判断差异是“时间/价格/数量/日期”中的哪一种。",
+          "sourcePage": 7,
+          "sourceIndex": 173
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 听到数字时在草稿上只记最短形式，例如 6:00 → 6:30 、 30 → 25 。",
+          "sourcePage": 7,
+          "sourceIndex": 174
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 若出现 but, actually, instead, only, another, each，立刻判断是否发生修正或计算。",
+          "sourcePage": 7,
+          "sourceIndex": 175
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 题目问总数时，把单价/人数/次数关系算完；题目问最终时间时只保留最后确认值。",
+          "sourcePage": 7,
+          "sourceIndex": 176
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 题号旁只记最短符号：关键词 / old→new / + / - / ?。数字写成“30→25”，计 划写成“drive→sleep”；不要抄完整句。",
+          "sourcePage": 7,
+          "sourceIndex": 177
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· If you hear originally / used to / was → 可能是旧信息。",
+          "sourcePage": 7,
+          "sourceIndex": 180
+        },
+        {
+          "type": "paragraph",
+          "text": "· If you hear now / today / actually / let's make it... → 后面通常是新信息。",
+          "sourcePage": 7,
+          "sourceIndex": 181
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "题目要求的数字已被最终确认，而且没有后续修正。",
+          "sourcePage": 7,
+          "sourceIndex": 182
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "没听清完整句子时，不要回忆所有英语，只回忆“题目要的数字前后出现了哪 些单位和改口词”。",
+          "sourcePage": 7,
+          "sourceIndex": 183
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The ticket was $30, but students get $5 off today. 题目问学生今天付多少。先听到30不能选；$5 off表示减5，因此答案是25。",
+          "sourcePage": 7,
+          "sourceIndex": 186
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 听到和选项完全一样的第一个数字就立刻选。",
+          "sourcePage": 7,
+          "sourceIndex": 189
+        },
+        {
+          "type": "paragraph",
+          "text": "· 把 half past six 听成 6:15。",
+          "sourcePage": 7,
+          "sourceIndex": 190
+        },
+        {
+          "type": "paragraph",
+          "text": "· 题目问总价，却只选了单价。",
+          "sourcePage": 8,
+          "sourceIndex": 191
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 单位对吗？",
+          "sourcePage": 8,
+          "sourceIndex": 193
+        },
+        {
+          "type": "paragraph",
+          "text": "· 有没有改口？",
+          "sourcePage": 8,
+          "sourceIndex": 194
+        },
+        {
+          "type": "paragraph",
+          "text": "· 问的是“原价”还是“实际支付”？",
+          "sourcePage": 8,
+          "sourceIndex": 195
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： L-K 关键词漏听｜L-C 改口没更新｜L-P 同 义替换没认出｜L-I 推断过远｜L-A 态度对象/强度错。",
+          "sourcePage": 8,
+          "sourceIndex": 196
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 8,
+          "sourceIndex": 198
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "数字都先记，最后决定才算。",
+          "sourcePage": 8,
+          "sourceIndex": 199
+        }
+      ]
+    },
+    {
+      "id": "EN-L1-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. The bag was $48, but today it is $36. 今天多少钱？",
+          "sourcePage": 8,
+          "sourceIndex": 202
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Meeting was at 2:00; it is moved half an hour later. 新时间？",
+          "sourcePage": 8,
+          "sourceIndex": 203
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Two tickets cost $15 each. Total?",
+          "sourcePage": 8,
+          "sourceIndex": 204
+        },
+        {
+          "type": "paragraph",
+          "text": "4. A train leaves at 7:45 and arrives 90 minutes later. Arrival?",
+          "sourcePage": 8,
+          "sourceIndex": 205
+        },
+        {
+          "type": "paragraph",
+          "text": "5. The room is 120 a night for two nights, with $20 off total. Pay?",
+          "sourcePage": 8,
+          "sourceIndex": 206
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. $36；2. 2:30；3. $30；4. 9:15；5. $220",
+          "sourcePage": 8,
+          "sourceIndex": 207
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 7,
+    "endPage": 8
+  }
+}

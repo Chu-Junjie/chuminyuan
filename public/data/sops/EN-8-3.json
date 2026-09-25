@@ -1,0 +1,209 @@
+{
+  "id": "EN-8-3",
+  "code": "8.3",
+  "title": "Passive Voice 被动语态",
+  "subject_id": "english",
+  "chapter_id": "en-grammar",
+  "chapter": "语法工具箱",
+  "kind": "resource",
+  "frequency": 0,
+  "keywords": [
+    "8.3",
+    "Passive Voice 被动语态",
+    "语法工具箱",
+    "past",
+    "participle",
+    "Time",
+    "Active",
+    "Passive",
+    "Present",
+    "People",
+    "use",
+    "the",
+    "method",
+    "The",
+    "used",
+    "Past",
+    "They",
+    "built",
+    "bridge",
+    "was",
+    "perfect",
+    "have",
+    "completed",
+    "work",
+    "has",
+    "been",
+    "Future",
+    "will",
+    "announce",
+    "result",
+    "announced",
+    "continuous",
+    "are",
+    "repairing",
+    "road",
+    "being",
+    "repaired",
+    "were",
+    "had",
+    "market",
+    "build",
+    "passive"
+  ],
+  "brain_first": "按原文查阅 Passive Voice 被动语态",
+  "sort_order": 1074,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "白话：主语不是“做动作的人”，而是“被动作影响的人/东西”。基本结构：be + past participle，其中 be",
+      "sourcePage": 107,
+      "sourceIndex": 2846
+    },
+    {
+      "type": "paragraph",
+      "text": "负责时态，过去分词表示被动。",
+      "sourcePage": 107,
+      "sourceIndex": 2847
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Time",
+          "Active",
+          "Passive"
+        ],
+        [
+          "Present",
+          "People use the method.",
+          "The method is used."
+        ],
+        [
+          "Past",
+          "They built the bridge.",
+          "The bridge was built."
+        ],
+        [
+          "Present perfect",
+          "They have completed the work.",
+          "The work has been completed."
+        ],
+        [
+          "Future",
+          "They will announce the result.",
+          "The result will be announced."
+        ],
+        [
+          "Present continuous",
+          "They are repairing the road.",
+          "The road is being repaired."
+        ],
+        [
+          "Past continuous",
+          "They were repairing the road.",
+          "The road was being repaired."
+        ],
+        [
+          "Past perfect",
+          "They had completed the work.",
+          "The work had been completed."
+        ]
+      ],
+      "text": "Time | Active | Passive\nPresent | People use the method. | The method is used.\nPast | They built the bridge. | The bridge was built.\nPresent perfect | They have completed the work. | The work has been completed.\nFuture | They will announce the result. | The result will be announced.\nPresent continuous | They are repairing the road. | The road is being repaired.\nPast continuous | They were repairing the road. | The road was being repaired.\nPast perfect | They had completed the work. | The work had been completed.",
+      "sourcePage": 107,
+      "sourceIndex": 2848
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "",
+          "检查法：把主语和动词翻成“主语自己做”还是“主语被做”。例如 market + build → 市场被建 →\npassive。"
+        ]
+      ],
+      "text": " | 检查法：把主语和动词翻成“主语自己做”还是“主语被做”。例如 market + build → 市场被建 →\npassive。",
+      "sourcePage": 108,
+      "sourceIndex": 2849
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-8-3-s0",
+      "title": "原文内容",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "白话：主语不是“做动作的人”，而是“被动作影响的人/东西”。基本结构：be + past participle，其中 be 负责时态，过去分词表示被动。",
+          "sourcePage": 107,
+          "sourceIndex": 2846
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Time",
+              "Active",
+              "Passive"
+            ],
+            [
+              "Present",
+              "People use the method.",
+              "The method is used."
+            ],
+            [
+              "Past",
+              "They built the bridge.",
+              "The bridge was built."
+            ],
+            [
+              "Present perfect",
+              "They have completed the work.",
+              "The work has been completed."
+            ],
+            [
+              "Future",
+              "They will announce the result.",
+              "The result will be announced."
+            ],
+            [
+              "Present continuous",
+              "They are repairing the road.",
+              "The road is being repaired."
+            ],
+            [
+              "Past continuous",
+              "They were repairing the road.",
+              "The road was being repaired."
+            ],
+            [
+              "Past perfect",
+              "They had completed the work.",
+              "The work had been completed."
+            ]
+          ],
+          "text": "Time | Active | Passive\nPresent | People use the method. | The method is used.\nPast | They built the bridge. | The bridge was built.\nPresent perfect | They have completed the work. | The work has been completed.\nFuture | They will announce the result. | The result will be announced.\nPresent continuous | They are repairing the road. | The road is being repaired.\nPast continuous | They were repairing the road. | The road was being repaired.\nPast perfect | They had completed the work. | The work had been completed.",
+          "sourcePage": 107,
+          "sourceIndex": 2848
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "",
+              "检查法：把主语和动词翻成“主语自己做”还是“主语被做”。例如 market + build → 市场被建 →\npassive。"
+            ]
+          ],
+          "text": " | 检查法：把主语和动词翻成“主语自己做”还是“主语被做”。例如 market + build → 市场被建 →\npassive。",
+          "sourcePage": 108,
+          "sourceIndex": 2849
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 107,
+    "endPage": 108
+  }
+}

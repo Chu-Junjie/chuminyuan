@@ -1,0 +1,586 @@
+{
+  "id": "EN-G1",
+  "code": "G1",
+  "title": "段首 / 段中 / 段尾位置判断",
+  "subject_id": "english",
+  "chapter_id": "en-gap",
+  "chapter": "七选五",
+  "kind": "sop",
+  "frequency": 5,
+  "keywords": [
+    "G1",
+    "段首 / 段中 / 段尾位置判断",
+    "七选五",
+    "RECOGNISE",
+    "How",
+    "usually",
+    "looks",
+    "TERM",
+    "What",
+    "the",
+    "term",
+    "really",
+    "means",
+    "Position",
+    "function",
+    "THINK",
+    "First",
+    "sentence",
+    "your",
+    "head",
+    "WHY",
+    "Why",
+    "this",
+    "works",
+    "STEPS",
+    "Follow",
+    "route",
+    "pronoun",
+    "contrast",
+    "cause",
+    "example",
+    "A/B",
+    "IF/THEN",
+    "then",
+    "this/these",
+    "STOP",
+    "Stop",
+    "when",
+    "STUCK",
+    "you",
+    "are",
+    "stuck",
+    "EXAMPLE",
+    "Worked",
+    "Here",
+    "three",
+    "practical",
+    "ways",
+    "TRAPS",
+    "Common",
+    "traps",
+    "CHECK",
+    "Final",
+    "check",
+    "MEMORY",
+    "second",
+    "memory",
+    "SOP",
+    "Ctrl"
+  ],
+  "brain_first": "“先问这个位置需要‘开头、桥梁还是收尾’。”",
+  "sort_order": 1034,
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "RECOGNISE - How it usually looks",
+      "sourcePage": 53,
+      "sourceIndex": 1471
+    },
+    {
+      "type": "paragraph",
+      "text": "空位可能在段首、段中或段尾；不同位置承担的功",
+      "sourcePage": 53,
+      "sourceIndex": 1472
+    },
+    {
+      "type": "paragraph",
+      "text": "能不同。",
+      "sourcePage": 53,
+      "sourceIndex": 1473
+    },
+    {
+      "type": "paragraph",
+      "text": "TERM - What the term really means",
+      "sourcePage": 53,
+      "sourceIndex": 1474
+    },
+    {
+      "type": "paragraph",
+      "text": "Position function：句子位置会限制其功能。",
+      "sourcePage": 53,
+      "sourceIndex": 1475
+    },
+    {
+      "type": "paragraph",
+      "text": "THINK - First sentence in your head: “先问这个位置需要‘开头、桥梁还是收尾’。”",
+      "sourcePage": 53,
+      "sourceIndex": 1476
+    },
+    {
+      "type": "paragraph",
+      "text": "WHY - Why this works: 段首更常总起，段中更常承接，段尾更常总结/结果。",
+      "sourcePage": 53,
+      "sourceIndex": 1477
+    },
+    {
+      "type": "paragraph",
+      "text": "STEPS - Follow this route",
+      "sourcePage": 53,
+      "sourceIndex": 1478
+    },
+    {
+      "type": "paragraph",
+      "text": "1 段首空：先读后面2-3句，概括本段主题。",
+      "sourcePage": 53,
+      "sourceIndex": 1479
+    },
+    {
+      "type": "paragraph",
+      "text": "2 段中空：同时读空前和空后，找两边关系。",
+      "sourcePage": 53,
+      "sourceIndex": 1480
+    },
+    {
+      "type": "paragraph",
+      "text": "3 段尾空：看本段是否需要总结、结果或过渡下一段。",
+      "sourcePage": 53,
+      "sourceIndex": 1481
+    },
+    {
+      "type": "paragraph",
+      "text": "4 把候选句放回去，检查位置功能是否自然。",
+      "sourcePage": 53,
+      "sourceIndex": 1482
+    },
+    {
+      "type": "paragraph",
+      "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个",
+      "sourcePage": 53,
+      "sourceIndex": 1483
+    },
+    {
+      "type": "paragraph",
+      "text": "纠结选项写 A/B 再逐条验指代与逻辑。",
+      "sourcePage": 53,
+      "sourceIndex": 1484
+    },
+    {
+      "type": "paragraph",
+      "text": "IF/THEN - If... then...",
+      "sourcePage": 53,
+      "sourceIndex": 1485
+    },
+    {
+      "type": "paragraph",
+      "text": "· 段首出现 this/these 但前文无指代 → 高风险",
+      "sourcePage": 53,
+      "sourceIndex": 1486
+    },
+    {
+      "type": "paragraph",
+      "text": "· 段尾突然引入全新主题 → 高风险",
+      "sourcePage": 53,
+      "sourceIndex": 1487
+    },
+    {
+      "type": "paragraph",
+      "text": "· 段中能同时接住前后两边 → 强证据",
+      "sourcePage": 53,
+      "sourceIndex": 1488
+    },
+    {
+      "type": "paragraph",
+      "text": "STOP - Stop when: 放回后段落功能完整，没有突然跳话题。",
+      "sourcePage": 53,
+      "sourceIndex": 1489
+    },
+    {
+      "type": "paragraph",
+      "text": "STUCK - If you are stuck: 两个句子都语法通时，比较“哪个更像这个位置应该承担的功能”。",
+      "sourcePage": 53,
+      "sourceIndex": 1490
+    },
+    {
+      "type": "paragraph",
+      "text": "EXAMPLE - Worked example",
+      "sourcePage": 54,
+      "sourceIndex": 1491
+    },
+    {
+      "type": "paragraph",
+      "text": "段首后面连续解释三种学习方法，则空更可能是“Here are three practical ways...”类总起，而不是某个",
+      "sourcePage": 54,
+      "sourceIndex": 1492
+    },
+    {
+      "type": "paragraph",
+      "text": "具体例子。",
+      "sourcePage": 54,
+      "sourceIndex": 1493
+    },
+    {
+      "type": "paragraph",
+      "text": "TRAPS - Common traps",
+      "sourcePage": 54,
+      "sourceIndex": 1494
+    },
+    {
+      "type": "paragraph",
+      "text": "· 只看空前一句。",
+      "sourcePage": 54,
+      "sourceIndex": 1495
+    },
+    {
+      "type": "paragraph",
+      "text": "· 忽略段落位置功能。",
+      "sourcePage": 54,
+      "sourceIndex": 1496
+    },
+    {
+      "type": "paragraph",
+      "text": "CHECK - Final check",
+      "sourcePage": 54,
+      "sourceIndex": 1497
+    },
+    {
+      "type": "paragraph",
+      "text": "· 它像开头/桥梁/结尾吗？",
+      "sourcePage": 54,
+      "sourceIndex": 1498
+    },
+    {
+      "type": "paragraph",
+      "text": "· 放进去后段落主题稳定吗？",
+      "sourcePage": 54,
+      "sourceIndex": 1499
+    },
+    {
+      "type": "paragraph",
+      "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链",
+      "sourcePage": 54,
+      "sourceIndex": 1500
+    },
+    {
+      "type": "paragraph",
+      "text": "｜7-O 位置不合理｜7-R 内容重复。",
+      "sourcePage": 54,
+      "sourceIndex": 1501
+    },
+    {
+      "type": "paragraph",
+      "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+      "sourcePage": 54,
+      "sourceIndex": 1502
+    },
+    {
+      "type": "paragraph",
+      "text": "MEMORY - 30-second memory: 先判位置，再判内容。",
+      "sourcePage": 54,
+      "sourceIndex": 1503
+    },
+    {
+      "type": "paragraph",
+      "text": "可选巩固｜5题（查完SOP后再做）",
+      "sourcePage": 54,
+      "sourceIndex": 1505
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 段首空最先看什么？",
+      "sourcePage": 54,
+      "sourceIndex": 1506
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 段中空最重要范围？",
+      "sourcePage": 54,
+      "sourceIndex": 1507
+    },
+    {
+      "type": "paragraph",
+      "text": "3. 段尾空常承担？",
+      "sourcePage": 54,
+      "sourceIndex": 1508
+    },
+    {
+      "type": "paragraph",
+      "text": "4. 选项像主题句但放段中很突兀，怎么办？",
+      "sourcePage": 54,
+      "sourceIndex": 1509
+    },
+    {
+      "type": "paragraph",
+      "text": "5. 位置判断与语义哪个优先？",
+      "sourcePage": 54,
+      "sourceIndex": 1510
+    },
+    {
+      "type": "paragraph",
+      "text": "答案速查：1. 本段后文主题+上一段衔接。；2. 空前+空后。；3. 总结/结果/收束/过渡。；4. 检查位置功能，可能不",
+      "sourcePage": 54,
+      "sourceIndex": 1511
+    },
+    {
+      "type": "paragraph",
+      "text": "合位。；5. 两者都要成立。",
+      "sourcePage": 54,
+      "sourceIndex": 1512
+    },
+    {
+      "type": "paragraph",
+      "text": "— G1 本题型到这里。下次卡住直接 Ctrl+F 搜“G1”或题型关键词。—",
+      "sourcePage": 54,
+      "sourceIndex": 1513
+    }
+  ],
+  "sections": [
+    {
+      "id": "EN-G1-s0",
+      "title": "如何识别",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "空位可能在段首、段中或段尾；不同位置承担的功 能不同。",
+          "sourcePage": 53,
+          "sourceIndex": 1472
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s1",
+      "title": "术语白话",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Position function：句子位置会限制其功能。",
+          "sourcePage": 53,
+          "sourceIndex": 1475
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s2",
+      "title": "脑内第一反应",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "“先问这个位置需要‘开头、桥梁还是收尾’。”",
+          "sourcePage": 53,
+          "sourceIndex": 1476
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s3",
+      "title": "为什么这样做",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "段首更常总起，段中更常承接，段尾更常总结/结果。",
+          "sourcePage": 53,
+          "sourceIndex": 1477
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s4",
+      "title": "固定SOP步骤",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 段首空：先读后面2-3句，概括本段主题。",
+          "sourcePage": 53,
+          "sourceIndex": 1479
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 段中空：同时读空前和空后，找两边关系。",
+          "sourcePage": 53,
+          "sourceIndex": 1480
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 段尾空：看本段是否需要总结、结果或过渡下一段。",
+          "sourcePage": 53,
+          "sourceIndex": 1481
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 把候选句放回去，检查位置功能是否自然。",
+          "sourcePage": 53,
+          "sourceIndex": 1482
+        },
+        {
+          "type": "paragraph",
+          "text": "✏ 草稿纸上具体写什么： 空格前后各画一条短线；标 pronoun? / contrast? / cause? / example?；两个 纠结选项写 A/B 再逐条验指代与逻辑。",
+          "sourcePage": 53,
+          "sourceIndex": 1483
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s5",
+      "title": "分支判断",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 段首出现 this/these 但前文无指代 → 高风险",
+          "sourcePage": 53,
+          "sourceIndex": 1486
+        },
+        {
+          "type": "paragraph",
+          "text": "· 段尾突然引入全新主题 → 高风险",
+          "sourcePage": 53,
+          "sourceIndex": 1487
+        },
+        {
+          "type": "paragraph",
+          "text": "· 段中能同时接住前后两边 → 强证据",
+          "sourcePage": 53,
+          "sourceIndex": 1488
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s6",
+      "title": "何时停下",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "放回后段落功能完整，没有突然跳话题。",
+          "sourcePage": 53,
+          "sourceIndex": 1489
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s7",
+      "title": "卡住时自救",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "两个句子都语法通时，比较“哪个更像这个位置应该承担的功能”。",
+          "sourcePage": 53,
+          "sourceIndex": 1490
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s8",
+      "title": "典型例题",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "段首后面连续解释三种学习方法，则空更可能是“Here are three practical ways...”类总起，而不是某个 具体例子。",
+          "sourcePage": 54,
+          "sourceIndex": 1492
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s9",
+      "title": "易错提醒",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 只看空前一句。",
+          "sourcePage": 54,
+          "sourceIndex": 1495
+        },
+        {
+          "type": "paragraph",
+          "text": "· 忽略段落位置功能。",
+          "sourcePage": 54,
+          "sourceIndex": 1496
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s10",
+      "title": "最后检查",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "· 它像开头/桥梁/结尾吗？",
+          "sourcePage": 54,
+          "sourceIndex": 1498
+        },
+        {
+          "type": "paragraph",
+          "text": "· 放进去后段落主题稳定吗？",
+          "sourcePage": 54,
+          "sourceIndex": 1499
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s11",
+      "title": "纠错动作",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "🔧 纠错动作： 做完不要只对答案，先给错误归类。错误代码： 7-P 代词指代｜7-L 逻辑关系｜7-T 主题链 ｜7-O 位置不合理｜7-R 内容重复。",
+          "sourcePage": 54,
+          "sourceIndex": 1500
+        },
+        {
+          "type": "paragraph",
+          "text": "同一种错误连续出现2次 → 在对应代码旁画★，下次做题先检查这一项。",
+          "sourcePage": 54,
+          "sourceIndex": 1502
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s12",
+      "title": "30秒速记",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "先判位置，再判内容。",
+          "sourcePage": 54,
+          "sourceIndex": 1503
+        }
+      ]
+    },
+    {
+      "id": "EN-G1-s13",
+      "title": "可选巩固 · 先做再看答案",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "1. 段首空最先看什么？",
+          "sourcePage": 54,
+          "sourceIndex": 1506
+        },
+        {
+          "type": "paragraph",
+          "text": "2. 段中空最重要范围？",
+          "sourcePage": 54,
+          "sourceIndex": 1507
+        },
+        {
+          "type": "paragraph",
+          "text": "3. 段尾空常承担？",
+          "sourcePage": 54,
+          "sourceIndex": 1508
+        },
+        {
+          "type": "paragraph",
+          "text": "4. 选项像主题句但放段中很突兀，怎么办？",
+          "sourcePage": 54,
+          "sourceIndex": 1509
+        },
+        {
+          "type": "paragraph",
+          "text": "5. 位置判断与语义哪个优先？",
+          "sourcePage": 54,
+          "sourceIndex": 1510
+        },
+        {
+          "type": "paragraph",
+          "text": "答案速查：1. 本段后文主题+上一段衔接。；2. 空前+空后。；3. 总结/结果/收束/过渡。；4. 检查位置功能，可能不 合位。；5. 两者都要成立。",
+          "sourcePage": 54,
+          "sourceIndex": 1511
+        }
+      ]
+    }
+  ],
+  "source": {
+    "file": "Jiangsu_Gaokao_English_SOP_Final.pdf",
+    "startPage": 53,
+    "endPage": 54
+  }
+}
